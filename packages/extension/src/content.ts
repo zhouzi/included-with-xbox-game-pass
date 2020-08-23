@@ -1,5 +1,5 @@
 import Fuse from "fuse.js";
-import { APIGame } from "@included-in-xbox-game-pass/types";
+import { APIGame } from "@included-with-xbox-game-pass/types";
 
 (async () => {
   const res = await fetch("http://localhost:1234/games.json");

@@ -1,7 +1,7 @@
 import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
-import { APIGame } from "@included-in-xbox-game-pass/types";
+import { APIGame } from "@included-with-xbox-game-pass/types";
 import currentGames from "../static/games.json";
 
 const screenshotsDir = path.join(__dirname, "screenshots");

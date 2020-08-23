@@ -3,7 +3,10 @@ import { browser } from "webextension-polyfill-ts";
 import { APIGame } from "@included-with-xbox-game-pass/types";
 
 (async () => {
-  const API_ENDPOINT = process.env.API_ENDPOINT || "http://localhost:1234";
+  const API_ENDPOINT =
+    process.env.NODE_ENV === "production"
+      ? "https://gabinaureche.com/included-with-xbox-game-pass"
+      : "http://localhost:1234";
   const {
     lastUpdatedTimestamp,
   }: { lastUpdatedTimestamp: number | null } = (await browser.storage.local.get(

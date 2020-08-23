@@ -2,7 +2,8 @@ import Fuse from "fuse.js";
 import { APIGame } from "@included-with-xbox-game-pass/types";
 
 (async () => {
-  const res = await fetch("http://localhost:1234/games.json");
+  const API_ENDPOINT = process.env.API_ENDPOINT || "http://localhost:1234";
+  const res = await fetch(new URL("/games.json", API_ENDPOINT).href);
   const games: APIGame[] = await res.json();
   const fuse = new Fuse(games, {
     keys: ["name"],

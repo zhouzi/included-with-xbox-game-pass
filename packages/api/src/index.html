@@ -3,10 +3,113 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>included-with-xbox-game-pass</title>
+    <title>Xbox Game Pass / Steam</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/modern-normalize@1.0.0/modern-normalize.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html {
+        font-size: 16px;
+      }
+
+      body {
+        font-family: "Work Sans", sans-serif;
+        font-weight: 300;
+        line-height: 1.6;
+        color: #c4d1dd;
+        background-color: #1a2534;
+      }
+
+      a {
+        color: #5eb1e1;
+        text-decoration: none;
+      }
+
+      a:hover,
+      a:focus {
+        color: #3f8bb7;
+      }
+
+      main,
+      footer {
+        max-width: 30rem;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+
+      main {
+        padding: 1rem;
+      }
+
+      .button {
+        display: inline-block;
+        color: #fff;
+        font-weight: 600;
+        background-color: #098a43;
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+      }
+
+      .button:hover,
+      .button:focus {
+        color: #fff;
+        background-color: #066732;
+      }
+
+      p {
+        margin: 0 0 1rem 0;
+      }
+
+      img {
+        display: block;
+        max-width: 100%;
+        margin: 0 0 1rem 0;
+      }
+
+      footer {
+        font-size: 0.8rem;
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      li {
+        display: inline-block;
+      }
+
+      li:not(:last-child)::after {
+        content: " - ";
+      }
+    </style>
   </head>
   <body>
-    A browser extension that adds the mention "included / not included with Xbox
-    Game Pass" on Steam's store page.
+    <main>
+      <img src="screenshot.png" alt="" />
+      <p>
+        A browser extension that adds the mention "included / not included with
+        Xbox Game Pass" on Steam's store page.
+      </p>
+      <p><a href="#" class="button">Add to Chrome</a></p>
+    </main>
+    <footer>
+      <nav>
+        <ul>
+          <li>
+            <a href="https://github.com/zhouzi/included-with-xbox-game-pass"
+              >GitHub</a
+            >
+          </li>
+          <li>Made by <a href="https://gabinaureche.com">Gabin Aureche</a></li>
+        </ul>
+      </nav>
+    </footer>
   </body>
 </html>

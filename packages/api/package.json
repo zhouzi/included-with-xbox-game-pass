@@ -5,7 +5,7 @@
   "scripts": {
     "fetchGames": "ts-node ./scripts/fetchGames.ts",
     "build": "parcel build ./src/index.html",
-    "start": "parcel ./src/index.html"
+    "start": "parcel ./src/index.html --port 1234"
   },
   "devDependencies": {
     "@included-with-xbox-game-pass/types": "^0.0.0",

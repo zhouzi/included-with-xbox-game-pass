@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "fetchGames": "ts-node ./scripts/fetchGames.ts",
+    "prebuild": "rm -rf dist",
     "build": "parcel build ./src/index.html --public-url /included-with-xbox-game-pass/",
     "start": "parcel ./src/index.html --port 1234"
   },

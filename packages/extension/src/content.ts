@@ -7,13 +7,9 @@ import { APIGame } from "@included-with-xbox-game-pass/types";
     process.env.NODE_ENV === "production"
       ? "https://gabinaureche.com/included-with-xbox-game-pass"
       : "http://localhost:1234";
-  const {
-    lastUpdatedTimestamp,
-  }: { lastUpdatedTimestamp: number | null } = (await browser.storage.local.get(
-    {
-      lastUpdatedTimestamp: null,
-    }
-  )) as { lastUpdatedTimestamp: number | null };
+  const { lastUpdatedTimestamp } = (await browser.storage.local.get({
+    lastUpdatedTimestamp: null,
+  })) as { lastUpdatedTimestamp: number | null };
   const lastUpdated = lastUpdatedTimestamp
     ? new Date(lastUpdatedTimestamp)
     : null;
@@ -30,7 +26,7 @@ import { APIGame } from "@included-with-xbox-game-pass/types";
     });
   }
 
-  const { games }: { games: APIGame[] } = (await browser.storage.local.get({
+  const { games } = (await browser.storage.local.get({
     games: [],
   })) as { games: APIGame[] };
 

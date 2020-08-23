@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "included-in-xbox-game-pass",
+  "version": "0.0.0",
+  "description": "",
+  "content_scripts": [
+    {
+      "matches": ["*://store.steampowered.com/app/*"],
+      "js": ["content.ts"]
+    }
+  ]
+}

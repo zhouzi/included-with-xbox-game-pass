@@ -1,0 +1,16 @@
+{
+  "name": "@included-in-xbox-game-pass/extension",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "parcel build ./src/manifest.json",
+    "start": "parcel ./src/manifest.json"
+  },
+  "devDependencies": {
+    "@included-in-xbox-game-pass/types": "^0.0.0",
+    "fuse.js": "^6.4.1",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-web-extension": "^1.6.1",
+    "typescript": "^4.0.2"
+  }
+}

@@ -9,5 +9,9 @@
       "matches": ["*://store.steampowered.com/app/*"],
       "js": ["content.ts"]
     }
-  ]
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "96": "icon96.png"
+  }
 }

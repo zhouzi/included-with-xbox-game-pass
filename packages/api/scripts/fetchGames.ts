@@ -81,9 +81,23 @@ const selectors = {
       );
       console.log(`See screenshots in ${screenshotsDir} for more details.`);
 
-      await fse.writeJSON(outputPath, games, {
-        spaces: 2,
-      });
+      await fse.writeJSON(
+        outputPath,
+        games.sort((a, b) => {
+          if (a.name > b.name) {
+            return 1;
+          }
+
+          if (b.name > a.name) {
+            return -1;
+          }
+
+          return 0;
+        }),
+        {
+          spaces: 2,
+        }
+      );
     }
   })();
 

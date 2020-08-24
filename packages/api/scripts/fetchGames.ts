@@ -84,11 +84,14 @@ const selectors = {
       await fse.writeJSON(
         outputPath,
         games.sort((a, b) => {
-          if (a.name > b.name) {
+          const aName = a.name.toLowerCase();
+          const bName = b.name.toLowerCase();
+
+          if (aName > bName) {
             return 1;
           }
 
-          if (b.name > a.name) {
+          if (bName > aName) {
             return -1;
           }
 

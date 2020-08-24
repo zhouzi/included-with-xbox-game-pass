@@ -5,8 +5,8 @@ import { APIGame } from "@included-with-xbox-game-pass/types";
 (async () => {
   const API_ENDPOINT =
     process.env.NODE_ENV === "production"
-      ? "https://gabinaureche.com/included-with-xbox-game-pass"
-      : "http://localhost:1234";
+      ? "https://gabinaureche.com/included-with-xbox-game-pass/"
+      : "http://localhost:1234/";
   const { lastUpdatedTimestamp } = (await browser.storage.local.get({
     lastUpdatedTimestamp: null,
   })) as { lastUpdatedTimestamp: number | null };
@@ -18,7 +18,7 @@ import { APIGame } from "@included-with-xbox-game-pass/types";
   const EXPIRATION_DELAY = 86400000;
   const now = Date.now();
   if (lastUpdated == null || now - lastUpdated.getTime() > EXPIRATION_DELAY) {
-    const res = await fetch(new URL("/games.json", API_ENDPOINT).href);
+    const res = await fetch(new URL("./games.json", API_ENDPOINT).href);
 
     await browser.storage.local.set({
       lastUpdatedTimestamp: now,

@@ -45,7 +45,7 @@ const selectors = {
     }
 
     const currentPage = await page.$eval(selectors.currentPage, (element) =>
-      element.getAttribute("data-topage")
+      Number(element.getAttribute("data-topage")!)
     );
     await page.screenshot({
       path: path.join(screenshotsDir, `page-${currentPage}.png`),
@@ -70,16 +70,18 @@ const selectors = {
       await page.click(selectors.next);
       return extractCurrentPage();
     } catch (err) {
+      if (
+        currentPage !== expectations.pages ||
+        games.length !== expectations.games
+      ) {
+        throw new Error(
+          `The script stopped at page ${currentPage}/${expectations.pages}, with a total of ${games.length}/${expectations.games}. See the screenshots in ${screenshotsDir} for more details.`
+        );
+      }
+
       console.log(
-        `The current games.json file contains ${currentGames.length} games and the new one ${games.length}.`
+        `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`
       );
-      console.log(
-        `It was expected to go through ${expectations.pages} and ended on page ${currentPage}.`
-      );
-      console.log(
-        `It was expected to find ${expectations.games} and found ${games.length} in the end.`
-      );
-      console.log(`See screenshots in ${screenshotsDir} for more details.`);
 
       await fse.writeJSON(
         outputPath,

@@ -4,7 +4,7 @@ A browser extension that adds the mention "included / not included with Xbox Gam
 
 ![](screenshot.png)
 
-- [Add to Chrome](#)
+- [Add to Chrome](https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk)
 
 ## Installation
 

@@ -5,7 +5,7 @@
   "scripts": {
     "prebuild": "rm -rf dist",
     "build": "parcel build ./src/manifest.json",
-    "postbuild": "bestzip extension.zip dist/*",
+    "postbuild": "cd dist && bestzip ../extension.zip *",
     "start": "parcel ./src/manifest.json --port 5678"
   },
   "devDependencies": {

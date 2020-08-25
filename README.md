@@ -14,7 +14,7 @@ Here's how you can get a local copy running:
 1. Clone this repository
 2. Install Node.js
 3. Run `npm install`
-4. Run `npx lerna bootstrap`
+4. Run `CI=true npx lerna bootstrap`
 5. Run `npm start`
 
 The code will be compiled automatically when a change is detected.

@@ -2,8 +2,7 @@
 
 A browser extension that adds the mention "included / not included with Xbox Game Pass" on Steam's store page.
 
-![](screenshot.png)
-
+- [Learn more](https://gabinaureche.com/included-with-xbox-game-pass/)
 - [Add to Chrome](https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk)
 
 ## Installation

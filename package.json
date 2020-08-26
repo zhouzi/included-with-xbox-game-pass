@@ -2,9 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "fetchGames": "lerna run fetchGames --stream",
-    "start": "lerna run start --stream",
-    "build": "lerna run build --stream"
+    "start": "lerna run start",
+    "build": "lerna run build"
   },
   "devDependencies": {
     "lerna": "^3.22.1"

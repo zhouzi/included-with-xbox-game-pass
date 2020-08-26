@@ -18,7 +18,7 @@ Here's how you can get a local copy running:
 5. Run `npm start`
 
 The code will be compiled automatically when a change is detected.
-You can load the unpacked extension in `packages/extension/dist`.
+You can load the unpacked extension in `packages/extension/dist` and preview the demo page at http://localhost:1234
 
 See the packages' readme for more details.
 

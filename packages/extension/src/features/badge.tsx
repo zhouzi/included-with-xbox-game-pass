@@ -1,5 +1,7 @@
 import React from "dom-chef";
 import { APIGame } from "@included-with-xbox-game-pass/types";
+import { RouteName } from "../routes";
+import getGame from "../getGame";
 
 function XboxLogo() {
   return (
@@ -17,19 +19,33 @@ function XboxLogo() {
   );
 }
 
-function createBadge(game: APIGame | null) {
+export function containsBadge(element: HTMLElement): boolean {
+  return (
+    element.querySelector("[data-included-with-xbox-game-pass-badge]") != null
+  );
+}
+
+export function createBadge(
+  game: APIGame | null,
+  style: Record<string, string> = {}
+) {
   const baseStyle = {
     display: "inline-flex",
     padding: "6px 10px",
-    margin: "6px 0 8px 0",
     borderRadius: "2px",
   };
 
   if (game) {
     return (
       <a
+        data-included-with-xbox-game-pass-badge="true"
         href={game.url}
-        style={{ ...baseStyle, color: "#fff", backgroundColor: "#098a43" }}
+        style={{
+          ...baseStyle,
+          ...style,
+          color: "#fff",
+          backgroundColor: "#098a43",
+        }}
       >
         <XboxLogo style={{ marginRight: "6px" }} /> Included with Xbox Game Pass
       </a>
@@ -38,8 +54,10 @@ function createBadge(game: APIGame | null) {
 
   return (
     <span
+      data-included-with-xbox-game-pass-badge="true"
       style={{
         ...baseStyle,
+        ...style,
         color: "#8f98a0",
         backgroundColor: "rgba(0, 0, 0, 0.2)",
       }}
@@ -50,7 +68,16 @@ function createBadge(game: APIGame | null) {
   );
 }
 
-export default function badge(game: APIGame | null) {
+export default async function badge(currentRoute: RouteName) {
+  if (currentRoute !== RouteName.storePage) {
+    return;
+  }
+
   const appName = window.document.querySelector(".apphub_AppName")!;
-  appName.parentNode!.insertBefore(createBadge(game), appName.nextSibling);
+  const game = await getGame(appName.textContent!);
+
+  appName.parentNode!.insertBefore(
+    createBadge(game, { margin: "6px 0 8px 0" }),
+    appName.nextSibling
+  );
 }

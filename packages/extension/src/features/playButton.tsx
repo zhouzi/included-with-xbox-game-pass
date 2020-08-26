@@ -1,5 +1,7 @@
 import React from "dom-chef";
 import { APIGame } from "@included-with-xbox-game-pass/types";
+import { RouteName } from "../routes";
+import getGame from "../getGame";
 
 function createPlayButton(game: APIGame) {
   return (
@@ -21,7 +23,14 @@ function createPlayButton(game: APIGame) {
   );
 }
 
-export default function playButton(game: APIGame | null) {
+export default async function playButton(currentRoute: RouteName) {
+  if (currentRoute !== RouteName.storePage) {
+    return;
+  }
+
+  const appName = window.document.querySelector(".apphub_AppName")!;
+  const game = await getGame(appName.textContent!);
+
   if (game == null) {
     return null;
   }

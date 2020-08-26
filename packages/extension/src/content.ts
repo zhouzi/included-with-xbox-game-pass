@@ -1,20 +1,17 @@
-import Fuse from "fuse.js";
-import getGames from "./getGames";
+import routes from "./routes";
 import badge from "./features/badge";
 import playButton from "./features/playButton";
+import wishList from "./features/wishList";
 
 (async () => {
-  const games = await getGames();
-  const fuse = new Fuse(games, {
-    keys: ["name"],
-    includeScore: true,
-    shouldSort: true,
-  });
-  const matches = fuse.search(
-    window.document.querySelector(".apphub_AppName")?.textContent ?? ""
-  );
-  const bestMatch = matches[0]?.score! < 0.4 ? matches[0].item : null;
+  const currentRoute = routes.find((route) => route.match(window.location.href))
+    ?.name;
 
-  badge(bestMatch);
-  playButton(bestMatch);
+  if (currentRoute == null) {
+    return;
+  }
+
+  await badge(currentRoute);
+  await playButton(currentRoute);
+  await wishList(currentRoute);
 })();

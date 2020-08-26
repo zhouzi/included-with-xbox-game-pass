@@ -1,6 +1,7 @@
 import Fuse from "fuse.js";
 import getGames from "./getGames";
 import badge from "./features/badge";
+import playButton from "./features/playButton";
 
 (async () => {
   const games = await getGames();
@@ -15,4 +16,5 @@ import badge from "./features/badge";
   const bestMatch = matches[0]?.score! < 0.4 ? matches[0].item : null;
 
   badge(bestMatch);
+  playButton(bestMatch);
 })();

@@ -1,6 +1,7 @@
 import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
+import alphaSort from "alpha-sort";
 import { APIGame } from "@included-with-xbox-game-pass/types";
 import currentGames from "../static/games.json";
 
@@ -12,6 +13,10 @@ const selectors = {
   game: {
     name: "h3",
     url: "a",
+    availability: {
+      console: `[aria-label="Console"]`,
+      pc: `[aria-label="PC"]`,
+    },
   },
   currentPage: ".paginatenum.f-active",
   next: ".paginatenext:not(.pag-disabled) a",
@@ -57,10 +62,19 @@ const selectors = {
         selectors.games,
         (elements, selectors) =>
           elements.map((element) => ({
+            id: element.getAttribute("data-bigid")!,
             name: element.querySelector(selectors.game.name)!.textContent!,
             url: (element.querySelector(
               selectors.game.url
             ) as HTMLAnchorElement).href,
+            availability: {
+              console: Boolean(
+                element.querySelector(selectors.game.availability.console)
+              ),
+              pc: Boolean(
+                element.querySelector(selectors.game.availability.pc)
+              ),
+            },
           })),
         selectors
       ))
@@ -79,30 +93,22 @@ const selectors = {
         );
       }
 
+      const PCGames = games
+        .filter((game) => game.availability.pc)
+        .sort((a, b) => {
+          const nameSort = alphaSort.caseInsensitiveAscending(a.name, b.name);
+          return nameSort === 0
+            ? alphaSort.caseInsensitiveAscending(a.id, b.id)
+            : nameSort;
+        });
+
       console.log(
-        `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`
+        `The script ended with a total of ${PCGames.length} (previously: ${currentGames.length}).`
       );
 
-      await fse.writeJSON(
-        outputPath,
-        games.sort((a, b) => {
-          const aName = a.name.toLowerCase();
-          const bName = b.name.toLowerCase();
-
-          if (aName > bName) {
-            return 1;
-          }
-
-          if (bName > aName) {
-            return -1;
-          }
-
-          return 0;
-        }),
-        {
-          spaces: 2,
-        }
-      );
+      await fse.writeJSON(outputPath, PCGames, {
+        spaces: 2,
+      });
     }
   })();
 

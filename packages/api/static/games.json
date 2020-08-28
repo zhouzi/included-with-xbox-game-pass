@@ -27,6 +27,15 @@
     }
   },
   {
+    "id": "9N1HF804QXN4",
+    "name": "Age of Empires III: Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/age-of-empires-iii-definitive-edition/9N1HF804QXN4",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
     "id": "9MZ2B3W86SCK",
     "name": "Age of Wonders: Planetfall",
     "url": "https://www.microsoft.com/en-us/store/p/age-of-wonders-planetfall/9MZ2B3W86SCK",
@@ -372,6 +381,15 @@
     "id": "C0XBNVR137DZ",
     "name": "Don't Starve: Giant Edition",
     "url": "https://www.microsoft.com/en-us/store/p/dont-starve-giant-edition/C0XBNVR137DZ",
+    "availability": {
+      "console": true,
+      "pc": true
+    }
+  },
+  {
+    "id": "9NJPT63K27W8",
+    "name": "Double Kick Heroes",
+    "url": "https://www.microsoft.com/en-us/store/p/double-kick-heroes/9NJPT63K27W8",
     "availability": {
       "console": true,
       "pc": true
@@ -840,6 +858,15 @@
     "id": "9NVVJ8TBD7KP",
     "name": "HyperDot",
     "url": "https://www.microsoft.com/en-us/store/p/hyperdot/9NVVJ8TBD7KP",
+    "availability": {
+      "console": true,
+      "pc": true
+    }
+  },
+  {
+    "id": "9PM3NVB3PXG0",
+    "name": "Hypnospace Outlaw",
+    "url": "https://www.microsoft.com/en-us/store/p/hypnospace-outlaw/9PM3NVB3PXG0",
     "availability": {
       "console": true,
       "pc": true
@@ -1427,6 +1454,15 @@
     "url": "https://www.microsoft.com/en-us/store/p/tacoma/9P4WKZXWP1QW",
     "availability": {
       "console": true,
+      "pc": true
+    }
+  },
+  {
+    "id": "9NBL0XKVCN5L",
+    "name": "Tell Me Why",
+    "url": "https://www.microsoft.com/en-us/store/p/tell-me-why/9NBL0XKVCN5L",
+    "availability": {
+      "console": false,
       "pc": true
     }
   },

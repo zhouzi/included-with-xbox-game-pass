@@ -9,7 +9,9 @@ export default async function getGame(name: string): Promise<APIGame | null> {
     includeScore: true,
     shouldSort: true,
   });
-  const matches = fuse.search(name).filter((match) => match.score! < 0.4);
+  const matches = fuse
+    .search(name)
+    .filter((match) => match.item.availability.pc && match.score! < 0.4);
 
   return matches[0]?.item;
 }

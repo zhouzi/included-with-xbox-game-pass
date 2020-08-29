@@ -1,11 +1,47 @@
 [
   {
+    "id": "BQ2NNLQPS8RS",
+    "name": "A Plague Tale: Innocence",
+    "url": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence/BQ2NNLQPS8RS",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9ND0CG3LM22K",
     "name": "A Plague Tale: Innocence - Windows 10",
     "url": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C3XCXTFS6FFQ",
+    "name": "Absolver",
+    "url": "https://www.microsoft.com/en-us/store/p/absolver/C3XCXTFS6FFQ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BRVM8RNWLXH1",
+    "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+    "url": "https://www.xbox.com/en-us/games/ace-combat-7-skies-unknown",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9PC5VBPLHWNV",
+    "name": "Afterparty",
+    "url": "https://www.microsoft.com/en-us/store/p/afterparty/9PC5VBPLHWNV",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -45,6 +81,15 @@
     }
   },
   {
+    "id": "BPTKRR85P0JW",
+    "name": "Age of Wonders: Planetfall",
+    "url": "https://www.microsoft.com/en-us/store/p/age-of-wonders-planetfall/BPTKRR85P0JW",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NKV44QF1R68",
     "name": "Alan Wake",
     "url": "https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68",
@@ -54,12 +99,30 @@
     }
   },
   {
+    "id": "C493V31WXV80",
+    "name": "Alan Wake",
+    "url": "https://www.microsoft.com/en-us/store/p/alan-wake/C493V31WXV80",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NSRJ872SGH7",
     "name": "Alien: Isolation",
     "url": "https://www.microsoft.com/en-us/store/p/alien-isolation/9NSRJ872SGH7",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C1H9V6SLK2K5",
+    "name": "Alien: Isolation",
+    "url": "https://www.microsoft.com/en-us/store/p/alien-isolation/C1H9V6SLK2K5",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -90,6 +153,15 @@
     }
   },
   {
+    "id": "BNBLC4ZGFNKB",
+    "name": "ARK: Survival Evolved",
+    "url": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved/BNBLC4ZGFNKB",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NFT0CMC62DX",
     "name": "Astrologaster",
     "url": "https://www.microsoft.com/en-us/store/p/astrologaster/9NFT0CMC62DX",
@@ -117,12 +189,66 @@
     }
   },
   {
+    "id": "BR47R4J78FH8",
+    "name": "Bad North: Jotunn Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/bad-north-jotunn-edition/BR47R4J78FH8",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BVR64CDJ01FJ",
+    "name": "Banjo Kazooie: N n B",
+    "url": "https://www.microsoft.com/en-us/store/p/banjo-kazooie-n-n-b/BVR64CDJ01FJ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BSJG7TTSWVJ2",
+    "name": "Banjo-Kazooie",
+    "url": "https://www.microsoft.com/en-us/store/p/banjo-kazooie/BSJG7TTSWVJ2",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BX27S00SKW1V",
+    "name": "Banjo-Tooie",
+    "url": "https://www.microsoft.com/en-us/store/p/banjo-tooie/BX27S00SKW1V",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BSLX1RNXR6H7",
+    "name": "Batman™: Arkham Knight",
+    "url": "https://www.microsoft.com/en-us/store/p/batman-arkham-knight/BSLX1RNXR6H7",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NT8XR7D5L00",
     "name": "Battle Chasers: Nightwar",
     "url": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/9NT8XR7D5L00",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BNVPW9NHWNM5",
+    "name": "Battle Chasers: Nightwar",
+    "url": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/BNVPW9NHWNM5",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -180,12 +306,30 @@
     }
   },
   {
+    "id": "9P9K78101LCW",
+    "name": "Bloodstained: Ritual of the Night",
+    "url": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9P9K78101LCW",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PDXF172R7VJ",
     "name": "Bridge Constructor Portal",
     "url": "https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/9PDXF172R7VJ",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BNRX1DN6GXM6",
+    "name": "Bridge Constructor Portal",
+    "url": "https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/BNRX1DN6GXM6",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -207,6 +351,15 @@
     }
   },
   {
+    "id": "9NPKKNBJ258V",
+    "name": "Carrion",
+    "url": "https://www.microsoft.com/en-us/store/p/carrion/9NPKKNBJ258V",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P675WH90SB4",
     "name": "Children of Morta",
     "url": "https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4",
@@ -225,12 +378,39 @@
     }
   },
   {
+    "id": "C4GH8N6ZXG5L",
+    "name": "Cities: Skylines - Xbox One Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/cities-skylines---xbox-one-edition/C4GH8N6ZXG5L",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BX4J85JZNGXQ",
+    "name": "ClusterTruck",
+    "url": "https://www.microsoft.com/en-us/store/p/clustertruck/BX4J85JZNGXQ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N8WVMD7J5GQ",
     "name": "Clustertruck",
     "url": "https://www.microsoft.com/en-us/store/p/clustertruck/9N8WVMD7J5GQ",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BZ92FB6PWXFJ",
+    "name": "Costume Quest 2",
+    "url": "https://www.microsoft.com/en-us/store/p/costume-quest-2/BZ92FB6PWXFJ",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -249,6 +429,15 @@
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "9N04RQQ64524",
+    "name": "CrossCode",
+    "url": "https://www.microsoft.com/en-us/store/p/crosscode/9N04RQQ64524",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -288,12 +477,48 @@
     }
   },
   {
+    "id": "BRZ9553VPPBD",
+    "name": "Darksiders Genesis",
+    "url": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/BRZ9553VPPBD",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PLPXGK1GDQ1",
     "name": "Darksiders III",
     "url": "https://www.microsoft.com/en-us/store/p/darksiders-iii/9PLPXGK1GDQ1",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BSVZCMGZV52L",
+    "name": "Darksiders III",
+    "url": "https://www.xbox.com/en-us/games/darksiders-III",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BSR9NLHVF1KL",
+    "name": "DayZ",
+    "url": "https://www.microsoft.com/en-us/store/p/dayz/BSR9NLHVF1KL",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C092FLK91X41",
+    "name": "de Blob",
+    "url": "https://www.microsoft.com/en-us/store/p/de-blob/C092FLK91X41",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -306,6 +531,15 @@
     }
   },
   {
+    "id": "C0N22P73QZ60",
+    "name": "Dead by Daylight: Special Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-special-edition/C0N22P73QZ60",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NKVX66J0ZSK",
     "name": "Dead Cells",
     "url": "https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK",
@@ -315,12 +549,48 @@
     }
   },
   {
+    "id": "BQSCNS1T8PHQ",
+    "name": "Dead Cells",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-cells/BQSCNS1T8PHQ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BS7F51G3DP8R",
+    "name": "Dead Island Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-island-definitive-edition/BS7F51G3DP8R",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BS32QFXVPWBC",
+    "name": "Death Squared",
+    "url": "https://www.microsoft.com/en-us/store/p/death-squared/BS32QFXVPWBC",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MV537XVLVXR",
     "name": "Death's Gambit",
     "url": "https://www.microsoft.com/en-us/store/p/deaths-gambit/9MV537XVLVXR",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9NVVSHQ771WG",
+    "name": "Deliver Us The Moon",
+    "url": "https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9NVVSHQ771WG",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -351,6 +621,24 @@
     }
   },
   {
+    "id": "C2MBDNDS3H5W",
+    "name": "DiRT 4",
+    "url": "https://www.microsoft.com/en-us/store/p/dirt-4/C2MBDNDS3H5W",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BRPGP6H8P26F",
+    "name": "DiRT Rally 2.0",
+    "url": "https://www.microsoft.com/en-us/store/p/dirt-rally-20/BRPGP6H8P26F",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MT31ZWMPJCK",
     "name": "DiRT Rally 2.0 (Windows)",
     "url": "https://www.microsoft.com/en-us/store/p/dirt-rally-20-windows/9MT31ZWMPJCK",
@@ -369,6 +657,15 @@
     }
   },
   {
+    "id": "BSZM480TSWGP",
+    "name": "Dishonored 2",
+    "url": "https://www.microsoft.com/en-us/store/p/dishonored-2/BSZM480TSWGP",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N6Z8DQXSQWH",
     "name": "Disneyland Adventures",
     "url": "https://www.microsoft.com/en-us/store/p/disneyland-adventures/9N6Z8DQXSQWH",
@@ -384,6 +681,15 @@
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "C2592KJZ0Q1X",
+    "name": "Double Dragon Neon",
+    "url": "https://www.microsoft.com/en-us/store/p/double-dragon-neon/C2592KJZ0Q1X",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -414,12 +720,39 @@
     }
   },
   {
+    "id": "9PGNGGWBX1NR",
+    "name": "Drake Hollow",
+    "url": "https://www.microsoft.com/en-us/store/p/drake-hollow/9PGNGGWBX1NR",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BT56B4R21179",
+    "name": "Dungeon of the Endless",
+    "url": "https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/BT56B4R21179",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N46K0X6TBZK",
     "name": "Dungeon of the Endless™",
     "url": "https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/9N46K0X6TBZK",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BP4KK0NCLCHQ",
+    "name": "eFootball PES 2020 STANDARD EDITION",
+    "url": "https://www.microsoft.com/en-us/store/p/efootball-pes-2020-standard-edition/BP4KK0NCLCHQ",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -459,12 +792,48 @@
     }
   },
   {
+    "id": "BP4H9HD3FSWB",
+    "name": "F1® 2019",
+    "url": "https://www.microsoft.com/en-us/store/p/f1-2019/BP4H9HD3FSWB",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NL9VGSH00LL",
     "name": "F1® 2019 PC",
     "url": "https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C2Q32JM0BPZL",
+    "name": "Fable Anniversary",
+    "url": "https://www.microsoft.com/en-us/store/p/fable-anniversary/C2Q32JM0BPZL",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C2WKJJ9F5936",
+    "name": "Fable II",
+    "url": "https://www.microsoft.com/en-us/store/p/fable-ii/C2WKJJ9F5936",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BR46KM4D5B9L",
+    "name": "Fable III",
+    "url": "https://www.microsoft.com/en-us/store/p/fable-iii/BR46KM4D5B9L",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -477,6 +846,15 @@
     }
   },
   {
+    "id": "BS6WJ2L56B10",
+    "name": "Fallout 76",
+    "url": "https://www.microsoft.com/en-us/store/p/fallout-76/BS6WJ2L56B10",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NKGNMNK3K3Z",
     "name": "Fallout 76 (PC)",
     "url": "https://www.microsoft.com/en-us/store/p/fallout-76-pc/9NKGNMNK3K3Z",
@@ -486,12 +864,39 @@
     }
   },
   {
+    "id": "BX3JNK07Z6QK",
+    "name": "Fallout: New Vegas",
+    "url": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas/BX3JNK07Z6QK",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C45KV8Q992HV",
+    "name": "Farming Simulator 17",
+    "url": "https://www.microsoft.com/en-us/store/p/farming-simulator-17/C45KV8Q992HV",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N2NCBXW44HV",
     "name": "Farming Simulator 17 - Windows 10",
     "url": "https://www.microsoft.com/en-us/store/p/farming-simulator-17---windows-10/9N2NCBXW44HV",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BTP7VK91B2Z3",
+    "name": "Felix The Reaper",
+    "url": "https://www.microsoft.com/en-us/store/p/felix-the-reaper/BTP7VK91B2Z3",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -513,12 +918,30 @@
     }
   },
   {
+    "id": "BWKXQC5BL5R1",
+    "name": "FINAL FANTASY VII",
+    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii/BWKXQC5BL5R1",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PN0W216SKZB",
     "name": "FINAL FANTASY VII WINDOWS EDITION",
     "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BNMRPFLB3PQW",
+    "name": "FINAL FANTASY XV ROYAL EDITION",
+    "url": "https://www.xbox.com/en-us/games/final-fantasy-xv",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -540,6 +963,15 @@
     }
   },
   {
+    "id": "BPR4TX9NRWRW",
+    "name": "Fishing Sim World®: Pro Tour",
+    "url": "https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/BPR4TX9NRWRW",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N0K062BZJVK",
     "name": "Football Manager 2020",
     "url": "https://www.microsoft.com/en-us/store/p/football-manager-2020/9N0K062BZJVK",
@@ -555,6 +987,24 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BP2BW45WZ45Z",
+    "name": "For The King",
+    "url": "https://www.microsoft.com/en-us/store/p/for-the-king/BP2BW45WZ45Z",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9MV2S7Q5PHSW",
+    "name": "Forager",
+    "url": "https://www.microsoft.com/en-us/store/p/forager/9MV2S7Q5PHSW",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -576,12 +1026,30 @@
     }
   },
   {
+    "id": "BXX0NHDR1FNZ",
+    "name": "Fractured Minds",
+    "url": "https://www.microsoft.com/en-us/store/p/fractured-minds/BXX0NHDR1FNZ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NS0KH25D76X",
     "name": "Frostpunk",
     "url": "https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9NP539LHJD8S",
+    "name": "Frostpunk: Console Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/frostpunk-console-edition/9NP539LHJD8S",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -594,12 +1062,30 @@
     }
   },
   {
+    "id": "C2P985H1H42H",
+    "name": "Fuzion Frenzy®",
+    "url": "https://www.microsoft.com/en-us/store/p/fuzion-frenzy/C2P985H1H42H",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PBJQ90CT236",
     "name": "Gato Roboto",
     "url": "https://www.microsoft.com/en-us/store/p/gato-roboto/9PBJQ90CT236",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9PF6XX9BSHF0",
+    "name": "Gato Roboto",
+    "url": "https://www.microsoft.com/en-us/store/p/gato-roboto/9PF6XX9BSHF0",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -621,12 +1107,57 @@
     }
   },
   {
+    "id": "BPN08ZDRPSFK",
+    "name": "Gears of War",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-of-war/BPN08ZDRPSFK",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C1SDBNRFXT1D",
+    "name": "Gears of War 2",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-of-war-2/C1SDBNRFXT1D",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BPKDQSSFQ9WV",
+    "name": "Gears of War 3",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-of-war-3/BPKDQSSFQ9WV",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NBLGGH4PBBM",
     "name": "Gears of War 4",
     "url": "https://www.xbox.com/en-us/games/gears-of-war-4",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "BSHMMGRP84N4",
+    "name": "Gears of War: Judgment",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-of-war-judgment/BSHMMGRP84N4",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BQT21VXFS52F",
+    "name": "Gears of War: Ultimate Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition/BQT21VXFS52F",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -648,6 +1179,24 @@
     }
   },
   {
+    "id": "C48XJRK40VC4",
+    "name": "Giana Sisters: Twisted Dreams - Director's Cut",
+    "url": "https://www.microsoft.com/en-us/store/p/giana-sisters-twisted-dreams---directors-cut/C48XJRK40VC4",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BV0NM309K1TL",
+    "name": "Goat Simulator",
+    "url": "https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MXWKHJ3VZZH",
     "name": "Goat Simulator Windows 10",
     "url": "https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH",
@@ -663,6 +1212,24 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9N14G09PWG74",
+    "name": "Golf With Your Friends",
+    "url": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9N14G09PWG74",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BRJ4KRC08BTQ",
+    "name": "GoNNER - BLüEBERRY EDiTION",
+    "url": "https://www.microsoft.com/en-us/store/p/gonner---bleberry-edition/BRJ4KRC08BTQ",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -720,6 +1287,15 @@
     }
   },
   {
+    "id": "BRRC2BP0G9P0",
+    "name": "Halo 5: Guardians",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-5-guardians/BRRC2BP0G9P0",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NBLGGH5WMKM",
     "name": "Halo Wars 2",
     "url": "https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM",
@@ -735,6 +1311,24 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C42KCJCLX6MX",
+    "name": "Halo Wars 2: Standard Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/C42KCJCLX6MX",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BPRPQSKXTD1L",
+    "name": "Halo Wars: Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition/BPRPQSKXTD1L",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -774,12 +1368,30 @@
     }
   },
   {
+    "id": "BV0K9LMLQ9W5",
+    "name": "Halo: Spartan Assault",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/BV0K9LMLQ9W5",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9WZDNCRFJBFJ",
     "name": "Halo: Spartan Strike",
     "url": "https://www.microsoft.com/en-us/store/p/halo-spartan-strike/9WZDNCRFJBFJ",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9MT8PTGVHX2P",
+    "name": "Halo: The Master Chief Collection",
+    "url": "https://www.xbox.com/en-us/games/halo",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -819,6 +1431,15 @@
     }
   },
   {
+    "id": "C4Z7QM8FSXM2",
+    "name": "Hellblade: Senua's Sacrifice",
+    "url": "https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/C4Z7QM8FSXM2",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NDDH3R9DF40",
     "name": "Hello Neighbor",
     "url": "https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40",
@@ -828,12 +1449,30 @@
     }
   },
   {
+    "id": "C0G1L18DT97K",
+    "name": "Hello Neighbor",
+    "url": "https://www.microsoft.com/en-us/store/p/hello-neighbor/C0G1L18DT97K",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PKM22F7C9K5",
     "name": "Hollow Knight",
     "url": "https://www.microsoft.com/en-us/store/p/hollow-knight/9PKM22F7C9K5",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9MW9469V91LM",
+    "name": "Hollow Knight: Voidheart Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/hollow-knight-voidheart-edition/9MW9469V91LM",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -852,6 +1491,15 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BSMZH25V6V46",
+    "name": "Human Fall Flat",
+    "url": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -882,6 +1530,15 @@
     }
   },
   {
+    "id": "9NBFQMP69N1S",
+    "name": "Indivisible",
+    "url": "https://www.microsoft.com/en-us/store/p/indivisible/9NBFQMP69N1S",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NHGM9CS3XLF",
     "name": "Infinifactory",
     "url": "https://www.microsoft.com/en-us/store/p/infinifactory/9NHGM9CS3XLF",
@@ -900,12 +1557,111 @@
     }
   },
   {
+    "id": "BRRVN5198461",
+    "name": "Jetpac Refuelled",
+    "url": "https://www.microsoft.com/en-us/store/p/jetpac-refuelled/BRRVN5198461",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BZ3CVPFPDSHK",
+    "name": "Journey to the Savage Planet",
+    "url": "https://www.microsoft.com/en-us/store/p/journey-to-the-savage-planet/BZ3CVPFPDSHK",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C1ZWH2BZ9TSF",
+    "name": "Joy Ride Turbo",
+    "url": "https://www.microsoft.com/en-us/store/p/joy-ride-turbo/C1ZWH2BZ9TSF",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BQKTZHL91458",
+    "name": "JUMP FORCE",
+    "url": "https://www.xbox.com/en-us/games/jump-force",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BV83SM3191S5",
+    "name": "Kameo",
+    "url": "https://www.microsoft.com/en-us/store/p/kameo/BV83SM3191S5",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NBLGGH51BMC",
     "name": "Killer Instinct: Definitive Edition",
     "url": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/9NBLGGH51BMC",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BVQ3FL3201P8",
+    "name": "Killer Instinct: Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/BVQ3FL3201P8",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9NHDF1Q6HGMH",
+    "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+    "url": "https://www.microsoft.com/en-us/store/p/kingdom-hearts---hd-1525-remix--/9NHDF1Q6HGMH",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9NB80T1XC43B",
+    "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    "url": "https://www.microsoft.com/en-us/store/p/kingdom-hearts-hd-28-final-chapter-prologue/9NB80T1XC43B",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C08MW8XHQN9G",
+    "name": "KINGDOM HEARTS Ⅲ",
+    "url": "https://www.xbox.com/en-us/games/kingdom-hearts-iii",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BXDSG249D6Q2",
+    "name": "Kona",
+    "url": "https://www.microsoft.com/en-us/store/p/kona/BXDSG249D6Q2",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C27JSQ4XKP9X",
+    "name": "LEGO Star Wars III",
+    "url": "https://www.microsoft.com/en-us/store/p/lego-star-wars-iii/C27JSQ4XKP9X",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -945,12 +1701,39 @@
     }
   },
   {
+    "id": "BV5N90RDT0SH",
+    "name": "Mass Effect",
+    "url": "https://www.microsoft.com/en-us/store/p/mass-effect/BV5N90RDT0SH",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C0SFCF4PBRSZ",
+    "name": "Max: The Curse of Brotherhood",
+    "url": "https://www.microsoft.com/en-us/store/p/max-the-curse-of-brotherhood/C0SFCF4PBRSZ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PB86W3JK8Z5",
     "name": "MechWarrior 5: Mercenaries",
     "url": "https://www.microsoft.com/en-us/store/p/mechwarrior-5-mercenaries/9PB86W3JK8Z5",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BWX1KN6K55Q1",
+    "name": "METAL GEAR SOLID HD EDITION: 2 & 3",
+    "url": "https://www.microsoft.com/en-us/store/p/metal-gear-solid-hd-edition-2--3/BWX1KN6K55Q1",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -963,12 +1746,30 @@
     }
   },
   {
+    "id": "BPPTRQZRJ341",
+    "name": "Metro 2033 Redux",
+    "url": "https://www.microsoft.com/en-us/store/p/metro-2033-redux/BPPTRQZRJ341",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NM5W1TDNQZ3",
     "name": "Metro: Last Light Redux",
     "url": "https://www.microsoft.com/en-us/store/p/metro-last-light-redux/9NM5W1TDNQZ3",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C03J6WR23XQ9",
+    "name": "Metro: Last Light Redux",
+    "url": "https://www.microsoft.com/en-us/store/p/metro-last-light-redux/C03J6WR23XQ9",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -990,12 +1791,39 @@
     }
   },
   {
+    "id": "9NBLGGH537BL",
+    "name": "Minecraft",
+    "url": "https://www.xbox.com/en-us/games/minecraft-xbox-one-edition",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9N8NJ74FZTG9",
+    "name": "Minecraft Dungeons",
+    "url": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons/9N8NJ74FZTG9",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P8MK4NC0LJB",
     "name": "Minecraft Dungeons - Windows 10",
     "url": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C120V2WGRMCH",
+    "name": "MINIT",
+    "url": "https://www.microsoft.com/en-us/store/p/minit/C120V2WGRMCH",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1026,12 +1854,39 @@
     }
   },
   {
+    "id": "BPKQZ245CQ2H",
+    "name": "Momodora: Reverie Under the Moonlight",
+    "url": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/BPKQZ245CQ2H",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BNG91PT95LQN",
+    "name": "MONSTER HUNTER: WORLD™",
+    "url": "https://www.xbox.com/en-us/games/monster-hunter-world",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P8XJRLCLH2P",
     "name": "Moonlighter",
     "url": "https://www.microsoft.com/en-us/store/p/moonlighter/9P8XJRLCLH2P",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "C01Z9J8S9BJP",
+    "name": "Mortal Kombat X",
+    "url": "https://www.microsoft.com/en-us/store/p/mortal-kombat-x/C01Z9J8S9BJP",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1044,6 +1899,15 @@
     }
   },
   {
+    "id": "BQXN1S3V3FN9",
+    "name": "Mount & Blade: Warband",
+    "url": "https://www.microsoft.com/en-us/store/p/mount--blade-warband/BQXN1S3V3FN9",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N9H593X8SVP",
     "name": "Moving Out",
     "url": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
@@ -1053,12 +1917,30 @@
     }
   },
   {
+    "id": "9NXPBSMHPLTV",
+    "name": "Moving Out",
+    "url": "https://www.microsoft.com/en-us/store/p/moving-out/9NXPBSMHPLTV",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N58J0GM9MRP",
     "name": "MudRunner",
     "url": "https://www.microsoft.com/en-us/store/p/mudrunner/9N58J0GM9MRP",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BTSQF5T410C6",
+    "name": "MudRunner",
+    "url": "https://www.microsoft.com/en-us/store/p/mudrunner/BTSQF5T410C6",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1080,6 +1962,15 @@
     }
   },
   {
+    "id": "9P16M6LF0QFH",
+    "name": "My Friend Pedro",
+    "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NMH293554QQ",
     "name": "My Friend Pedro Win10",
     "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
@@ -1095,6 +1986,42 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BX1FZX1X4132",
+    "name": "My Time At Portia",
+    "url": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/BX1FZX1X4132",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BRX56LQJMZ4G",
+    "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "url": "https://www.microsoft.com/en-us/store/p/naruto-to-boruto-shinobi-striker/BRX56LQJMZ4G",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9P9KN2G4M2W0",
+    "name": "NBA 2K20",
+    "url": "https://www.xbox.com/en-us/games/nba-2k20",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9NC781DK18GN",
+    "name": "Neon Abyss",
+    "url": "https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1116,12 +2043,39 @@
     }
   },
   {
+    "id": "BPPZVT8BZ15N",
+    "name": "NieR:Automata™ BECOME AS GODS Edition",
+    "url": "https://www.xbox.com/en-us/games/nier-automata",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N5KSQG0R9TB",
     "name": "Night Call",
     "url": "https://www.microsoft.com/en-us/store/p/night-call/9N5KSQG0R9TB",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9NZKR4V4QGD4",
+    "name": "Night Call",
+    "url": "https://www.microsoft.com/en-us/store/p/night-call/9NZKR4V4QGD4",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BSCSRTX27ZH3",
+    "name": "NINJA GAIDEN II",
+    "url": "https://www.microsoft.com/en-us/store/p/ninja-gaiden-ii/BSCSRTX27ZH3",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1161,6 +2115,15 @@
     }
   },
   {
+    "id": "BW85KQB8Q31M",
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/BW85KQB8Q31M",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N8CD0XZKLP4",
     "name": "Ori and the Will of the Wisps",
     "url": "https://www.xbox.com/en-us/games/ori-will-of-the-wisps",
@@ -1179,12 +2142,30 @@
     }
   },
   {
+    "id": "C596FKDKMQN7",
+    "name": "Outer Wilds",
+    "url": "https://www.microsoft.com/en-us/store/p/outer-wilds/C596FKDKMQN7",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PGB72NFG5JN",
     "name": "Overcooked! 2",
     "url": "https://www.microsoft.com/en-us/store/p/overcooked-2/9PGB72NFG5JN",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BVJLKDG2TX8H",
+    "name": "Overcooked! 2",
+    "url": "https://www.microsoft.com/en-us/store/p/overcooked-2/BVJLKDG2TX8H",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1197,12 +2178,30 @@
     }
   },
   {
+    "id": "BSK1GN27RB8R",
+    "name": "Oxenfree",
+    "url": "https://www.microsoft.com/en-us/store/p/oxenfree/BSK1GN27RB8R",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P8Q4W21QQZ2",
     "name": "Pandemic: The Board Game",
     "url": "https://www.microsoft.com/en-us/store/p/pandemic-the-board-game/9P8Q4W21QQZ2",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "C3LNP2Q4422J",
+    "name": "Panzer Dragoon Orta",
+    "url": "https://www.microsoft.com/en-us/store/p/panzer-dragoon-orta/C3LNP2Q4422J",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1215,12 +2214,48 @@
     }
   },
   {
+    "id": "C2Z9D406G0KQ",
+    "name": "PAYDAY 2: CRIMEWAVE EDITION",
+    "url": "https://www.microsoft.com/en-us/store/p/payday-2-crimewave-edition/C2Z9D406G0KQ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BQ70VB4MM1XM",
+    "name": "Perfect Dark",
+    "url": "https://www.microsoft.com/en-us/store/p/perfect-dark/BQ70VB4MM1XM",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BZF7N4FQWHNR",
+    "name": "Perfect Dark Zero",
+    "url": "https://www.microsoft.com/en-us/store/p/perfect-dark-zero/BZF7N4FQWHNR",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P1P5Q3BNM7J",
     "name": "Phoenix Point",
     "url": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9N8WRDC25K6J",
+    "name": "Pikuniku",
+    "url": "https://www.microsoft.com/en-us/store/p/pikuniku/9N8WRDC25K6J",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1233,12 +2268,30 @@
     }
   },
   {
+    "id": "BS34VNW7H61F",
+    "name": "Pillars of Eternity: Complete Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-complete-edition/BS34VNW7H61F",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P5LZC1KB48V",
     "name": "Pillars of Eternity: Hero Edition",
     "url": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-hero-edition/9P5LZC1KB48V",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C0MN5DN8KR3F",
+    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "url": "https://www.xbox.com/en-us/games/playerunknowns-battlegrounds",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1260,12 +2313,39 @@
     }
   },
   {
+    "id": "BPNDKQN84N6L",
+    "name": "Quantum Break",
+    "url": "https://www.microsoft.com/en-us/store/p/quantum-break/BPNDKQN84N6L",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C2DCJ95ZXBMS",
+    "name": "RAGE 2",
+    "url": "https://www.xbox.com/en-us/games/rage-2",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P2J7WHV0K4N",
     "name": "RAGE 2 (PC)",
     "url": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C22T53SQ7FLM",
+    "name": "Rare Replay",
+    "url": "https://www.microsoft.com/en-us/store/p/rare-replay/C22T53SQ7FLM",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1278,12 +2358,39 @@
     }
   },
   {
+    "id": "BPSWGQBW7R3G",
+    "name": "Red Dead Redemption 2",
+    "url": "https://www.xbox.com/en-us/games/red-dead-redemption-2",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NB2WLSJ2QK3",
     "name": "Reigns: Game of Thrones",
     "url": "https://www.microsoft.com/en-us/store/p/reigns-game-of-thrones/9NB2WLSJ2QK3",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9PBHXGWZTS2N",
+    "name": "Remnant: From the Ashes",
+    "url": "https://www.microsoft.com/en-us/store/p/remnant-from-the-ashes/9PBHXGWZTS2N",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BR3152PVJV5J",
+    "name": "Rise & Shine",
+    "url": "https://www.microsoft.com/en-us/store/p/rise--shine/BR3152PVJV5J",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1296,12 +2403,30 @@
     }
   },
   {
+    "id": "C125W9BG2K0V",
+    "name": "Rocket League®",
+    "url": "https://www.microsoft.com/en-us/store/p/rocket-league/C125W9BG2K0V",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P3PL76N0KWZ",
     "name": "Rush: A DisneyPixar Adventure",
     "url": "https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "C10QTNC7JWNJ",
+    "name": "Ryse: Son of Rome",
+    "url": "https://www.microsoft.com/en-us/store/p/ryse-son-of-rome/C10QTNC7JWNJ",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1323,6 +2448,15 @@
     }
   },
   {
+    "id": "BQ4M1XWXFKHB",
+    "name": "ScreamRide",
+    "url": "https://www.microsoft.com/en-us/store/p/screamride/BQ4M1XWXFKHB",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P2N57MC619K",
     "name": "Sea of Thieves",
     "url": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
@@ -1341,6 +2475,15 @@
     }
   },
   {
+    "id": "9P7GBPGT90L3",
+    "name": "Secret Neighbor",
+    "url": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P6SFBR1TCWQ",
     "name": "Shadow Warrior 2",
     "url": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ",
@@ -1350,12 +2493,48 @@
     }
   },
   {
+    "id": "BP79KKVGDDH1",
+    "name": "Shadow Warrior 2",
+    "url": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/BP79KKVGDDH1",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MZQR8317S3B",
     "name": "Slay The Spire",
     "url": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9P6W46XMDJM5",
+    "name": "Slay The Spire",
+    "url": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9P6W46XMDJM5",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BZ5VLVX84STW",
+    "name": "Sniper Elite 4",
+    "url": "https://www.microsoft.com/en-us/store/p/sniper-elite-4/BZ5VLVX84STW",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C3V22FQD8N84",
+    "name": "SOULCALIBUR VI",
+    "url": "https://www.xbox.com/en-us/games/soulcalibur-vi",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1377,6 +2556,15 @@
     }
   },
   {
+    "id": "C5JGRR1LFVW8",
+    "name": "State of Decay: Year-One",
+    "url": "https://www.microsoft.com/en-us/store/p/state-of-decay-year-one/C5JGRR1LFVW8",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PL8ST9QV6RP",
     "name": "State of Mind PC",
     "url": "https://www.microsoft.com/en-us/store/p/state-of-mind-pc/9PL8ST9QV6RP",
@@ -1392,6 +2580,15 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BWL72GR7Z7GK",
+    "name": "Stellaris: Console Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/stellaris-console-edition/BWL72GR7Z7GK",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1413,6 +2610,15 @@
     }
   },
   {
+    "id": "9MZVTHHJKD3G",
+    "name": "Streets of Rogue",
+    "url": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9MZVTHHJKD3G",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "BX3S1Q5DVHRD",
     "name": "Subnautica",
     "url": "https://www.microsoft.com/en-us/store/p/subnautica/BX3S1Q5DVHRD",
@@ -1428,6 +2634,15 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BRZHFR5XBLQS",
+    "name": "Sunset Overdrive",
+    "url": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/BRZHFR5XBLQS",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1449,12 +2664,39 @@
     }
   },
   {
+    "id": "BXC7CS90NX6S",
+    "name": "Surviving Mars",
+    "url": "https://www.microsoft.com/en-us/store/p/surviving-mars/BXC7CS90NX6S",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BWH56DK175P1",
+    "name": "SWORD ART ONLINE: FATAL BULLET",
+    "url": "https://www.microsoft.com/en-us/store/p/sword-art-online-fatal-bullet/BWH56DK175P1",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P4WKZXWP1QW",
     "name": "Tacoma",
     "url": "https://www.microsoft.com/en-us/store/p/tacoma/9P4WKZXWP1QW",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "BRJGPRMBV1NT",
+    "name": "Tekken 7",
+    "url": "https://www.microsoft.com/en-us/store/p/tekken-7/BRJGPRMBV1NT",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1473,6 +2715,15 @@
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "BTNPS60N3114",
+    "name": "Terraria",
+    "url": "https://www.microsoft.com/en-us/store/p/terraria/BTNPS60N3114",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1503,6 +2754,42 @@
     }
   },
   {
+    "id": "BZZ0Q9ZMM7GX",
+    "name": "The Dark Pictures Anthology: Man Of Medan",
+    "url": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/BZZ0Q9ZMM7GX",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BPWXCL17ZZJG",
+    "name": "The Elder Scrolls Online: Tamriel Unlimited",
+    "url": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-online-tamriel-unlimited/BPWXCL17ZZJG",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BRKX5CRMRTC2",
+    "name": "The Elder Scrolls® Online",
+    "url": "https://www.xbox.com/en-us/games/elder-scrolls-online",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BS8XGCLL3VQZ",
+    "name": "The Escapists 2",
+    "url": "https://www.microsoft.com/en-us/store/p/the-escapists-2/BS8XGCLL3VQZ",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9P4Z4TW66LPV",
     "name": "The Gardens Between",
     "url": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
@@ -1512,12 +2799,30 @@
     }
   },
   {
+    "id": "BS30XKD3WZHR",
+    "name": "The Jackbox Party Pack 3",
+    "url": "https://www.microsoft.com/en-us/store/p/the-jackbox-party-pack-3/BS30XKD3WZHR",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NFKN56ZBMR0",
     "name": "The Long Dark",
     "url": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C41ZDFQ82M1G",
+    "name": "The Long Dark",
+    "url": "https://www.microsoft.com/en-us/store/p/the-long-dark/C41ZDFQ82M1G",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1539,6 +2844,15 @@
     }
   },
   {
+    "id": "9P5C81K094KW",
+    "name": "The Messenger",
+    "url": "https://www.microsoft.com/en-us/store/p/the-messenger/9P5C81K094KW",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MWD2Z8L1FBQ",
     "name": "The Outer Worlds",
     "url": "https://www.microsoft.com/en-us/store/p/the-outer-worlds/9MWD2Z8L1FBQ",
@@ -1548,12 +2862,30 @@
     }
   },
   {
+    "id": "BVTKN6CQ8W5F",
+    "name": "The Outer Worlds",
+    "url": "https://www.xbox.com/en-us/games/the-outer-worlds",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PFHBH19RL3C",
     "name": "The Red Strings Club",
     "url": "https://www.microsoft.com/en-us/store/p/the-red-strings-club/9PFHBH19RL3C",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BSWTLFKMV96K",
+    "name": "The Surge 2",
+    "url": "https://www.microsoft.com/en-us/store/p/the-surge-2/BSWTLFKMV96K",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1575,6 +2907,15 @@
     }
   },
   {
+    "id": "C1TJ5KT8LT9J",
+    "name": "The Talos Principle",
+    "url": "https://www.microsoft.com/en-us/store/p/the-talos-principle/C1TJ5KT8LT9J",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N9W1JK1X5QJ",
     "name": "The Touryst",
     "url": "https://www.microsoft.com/en-us/store/p/the-touryst/9N9W1JK1X5QJ",
@@ -1590,6 +2931,96 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BS2MMFVLKXRK",
+    "name": "The Turing Test",
+    "url": "https://www.microsoft.com/en-us/store/p/the-turing-test/BS2MMFVLKXRK",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BQR7QS0F8SJ3",
+    "name": "The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5)",
+    "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-a-new-frontier---the-complete-season-episodes-1-5/BQR7QS0F8SJ3",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C512KLS2GPD3",
+    "name": "The Walking Dead: Michonne - Ep. 2, Give No Shelter",
+    "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-michonne---ep-2-give-no-shelter/C512KLS2GPD3",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BT7L901WBLXD",
+    "name": "The Walking Dead: Michonne - Ep. 3, What We Deserve",
+    "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-michonne---ep-3-what-we-deserve/BT7L901WBLXD",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C2XNJC9WK15X",
+    "name": "The Walking Dead: Michonne - The Complete Season",
+    "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-michonne---the-complete-season/C2XNJC9WK15X",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C2DQXX0CB42F",
+    "name": "The Walking Dead: Season Two",
+    "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-season-two/C2DQXX0CB42F",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BW6B077FCH11",
+    "name": "The Walking Dead: The Complete First Season",
+    "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-the-complete-first-season/BW6B077FCH11",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BR765873CQJD",
+    "name": "The Witcher 3: Wild Hunt",
+    "url": "https://www.microsoft.com/en-us/store/p/the-witcher-3-wild-hunt/BR765873CQJD",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BXBJQ1932138",
+    "name": "theHunter: Call of the Wild",
+    "url": "https://www.microsoft.com/en-us/store/p/thehunter-call-of-the-wild/BXBJQ1932138",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C09LFD39HKLW",
+    "name": "Thronebreaker: The Witcher Tales",
+    "url": "https://www.xbox.com/en-us/games/thronebreaker-the-witcher-tales",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1629,6 +3060,15 @@
     }
   },
   {
+    "id": "9NZG72SH3H4W",
+    "name": "Totally Reliable Delivery Service",
+    "url": "https://www.microsoft.com/en-us/store/p/totally-reliable-delivery-service/9NZG72SH3H4W",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NBM23T6G6RN",
     "name": "Tracks - The Train Set Game",
     "url": "https://www.microsoft.com/en-us/store/p/tracks---the-train-set-game/9NBM23T6G6RN",
@@ -1638,12 +3078,30 @@
     }
   },
   {
+    "id": "9PCTJNL0GDS9",
+    "name": "Tracks - The Train Set Game",
+    "url": "https://www.microsoft.com/en-us/store/p/tracks---the-train-set-game/9PCTJNL0GDS9",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NSFGM8J6MBJ",
     "name": "Trailmakers",
     "url": "https://www.microsoft.com/en-us/store/p/trailmakers/9NSFGM8J6MBJ",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "9P32WWJ0PJJK",
+    "name": "Train Sim World® 2020",
+    "url": "https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9P32WWJ0PJJK",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1665,12 +3123,30 @@
     }
   },
   {
+    "id": "9PKM0HK8HKFL",
+    "name": "Two Point Hospital™",
+    "url": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9PKM0HK8HKFL",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9N52CQMFH3BB",
     "name": "UnderMine",
     "url": "https://www.microsoft.com/en-us/store/p/undermine/9N52CQMFH3BB",
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "9MVTCTDTHH23",
+    "name": "Untitled Goose Game",
+    "url": "https://www.microsoft.com/en-us/store/p/untitled-goose-game/9MVTCTDTHH23",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1683,12 +3159,48 @@
     }
   },
   {
+    "id": "BSXSL6WBJ0V7",
+    "name": "Viva Piñata",
+    "url": "https://www.microsoft.com/en-us/store/p/viva-piata/BSXSL6WBJ0V7",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BS1NPTPJGD4G",
+    "name": "Viva Piñata: TIP",
+    "url": "https://www.microsoft.com/en-us/store/p/viva-piata-tip/BS1NPTPJGD4G",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9N584LPFG1GM",
+    "name": "Void Bastards",
+    "url": "https://www.microsoft.com/en-us/store/p/void-bastards/9N584LPFG1GM",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PJ1CGLKQSWS",
     "name": "Void Bastards",
     "url": "https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9ND3Z0QH0NKB",
+    "name": "Wandersong",
+    "url": "https://www.microsoft.com/en-us/store/p/wandersong/9ND3Z0QH0NKB",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1728,6 +3240,15 @@
     }
   },
   {
+    "id": "BQ9T0JF0D3L4",
+    "name": "Wasteland 3 (Xbox One)",
+    "url": "https://www.microsoft.com/en-us/store/p/wasteland-3-xbox-one/BQ9T0JF0D3L4",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NGH1FK0RJGL",
     "name": "Wasteland Remastered",
     "url": "https://www.microsoft.com/en-us/store/p/wasteland-remastered/9NGH1FK0RJGL",
@@ -1746,6 +3267,24 @@
     }
   },
   {
+    "id": "BPR2TBS2KMQJ",
+    "name": "We Happy Few",
+    "url": "https://www.xbox.com/en-us/games/we-happy-few",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9NTZCWK6P6GL",
+    "name": "West of Dead",
+    "url": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NTZCWK6P6GL",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NV0540N4JRN",
     "name": "West of Dead",
     "url": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NV0540N4JRN",
@@ -1755,12 +3294,48 @@
     }
   },
   {
+    "id": "BVVWBV3QB1D7",
+    "name": "Westerado: Double Barreled",
+    "url": "https://www.microsoft.com/en-us/store/p/westerado-double-barreled/BVVWBV3QB1D7",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "BSLGLG8P9T01",
+    "name": "What Remains of Edith Finch",
+    "url": "https://www.microsoft.com/en-us/store/p/what-remains-of-edith-finch/BSLGLG8P9T01",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MZH0GG41HL9",
     "name": "Wizard of Legend",
     "url": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/9MZH0GG41HL9",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C40HL7DFHWCX",
+    "name": "Wizard of Legend",
+    "url": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/C40HL7DFHWCX",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "C421ZX7RCG0W",
+    "name": "Wolfenstein: Youngblood",
+    "url": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood/C421ZX7RCG0W",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1782,12 +3357,30 @@
     }
   },
   {
+    "id": "BWQ5FC9WDJ6H",
+    "name": "World War Z",
+    "url": "https://www.microsoft.com/en-us/store/p/world-war-z/BWQ5FC9WDJ6H",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NVRZZJ4NG99",
     "name": "Worms W.M.D",
     "url": "https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "C4BZ7X545J1T",
+    "name": "Worms W.M.D",
+    "url": "https://www.microsoft.com/en-us/store/p/worms-wmd/C4BZ7X545J1T",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1800,12 +3393,39 @@
     }
   },
   {
+    "id": "9NPP17LHJ3MK",
+    "name": "Yakuza 0",
+    "url": "https://www.microsoft.com/en-us/store/p/yakuza-0/9NPP17LHJ3MK",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PD0BJRBLRJM",
     "name": "Yakuza 0 for Windows 10",
     "url": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "9NBJ51BD0LTH",
+    "name": "Yakuza Kiwami",
+    "url": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami/9NBJ51BD0LTH",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9PBJL0NLFMK9",
+    "name": "Yakuza Kiwami 2",
+    "url": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2/9PBJL0NLFMK9",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {
@@ -1824,6 +3444,15 @@
     "availability": {
       "console": false,
       "pc": true
+    }
+  },
+  {
+    "id": "BZK6TK63SVMP",
+    "name": "Yooka-Laylee",
+    "url": "https://www.microsoft.com/en-us/store/p/yooka-laylee/BZK6TK63SVMP",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {

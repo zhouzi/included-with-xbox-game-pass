@@ -7,14 +7,28 @@ const API_HOST =
     : "http://localhost:1234/";
 const API_ENDPOINT = new URL("./games.json", API_HOST).href;
 
+// The response's API is cached so the cache might fall out of date at some point.
+// By copying APIGame, we are making sure Typescript will throw an error if we were
+// to use something that is available in the API but not in the cache.
+// When that happens, the idea is to update both CachedAPIGame and shouldRevalidate
+interface CachedAPIGame {
+  id: string;
+  name: string;
+  url: string;
+  availability: {
+    console: boolean;
+    pc: boolean;
+  };
+}
+
 export default storageCache.function<
-  APIGame[],
-  () => Promise<APIGame[]>,
+  CachedAPIGame[],
+  () => Promise<CachedAPIGame[]>,
   never
 >(
   async () => {
     const res = await fetch(API_ENDPOINT);
-    const json = await res.json();
+    const json: APIGame[] = await res.json();
 
     return json;
   },
@@ -23,5 +37,7 @@ export default storageCache.function<
       days: 1,
     },
     cacheKey: () => "games",
+    shouldRevalidate: (games) =>
+      games.some((game) => game.id == null || game.availability == null),
   }
 );

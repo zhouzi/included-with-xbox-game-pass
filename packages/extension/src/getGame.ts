@@ -11,7 +11,13 @@ export default async function getGame(name: string): Promise<APIGame | null> {
   });
   const matches = fuse
     .search(name)
-    .filter((match) => match.item.availability.pc && match.score! < 0.4);
+    .filter(
+      (match) =>
+        // APIGame.availability was introduced recently,
+        // it might be missing from some users' cache
+        match.item.availability?.pc !== false
+    )
+    .filter((match) => match.score! < 0.4);
 
   return matches[0]?.item;
 }

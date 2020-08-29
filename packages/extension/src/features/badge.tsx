@@ -31,6 +31,7 @@ export function createBadge(
 ) {
   const baseStyle = {
     display: "inline-flex",
+    alignItems: "center",
     padding: "6px 10px",
     borderRadius: "2px",
   };

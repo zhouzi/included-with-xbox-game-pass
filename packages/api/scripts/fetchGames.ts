@@ -93,20 +93,18 @@ const selectors = {
         );
       }
 
-      const PCGames = games
-        .filter((game) => game.availability.pc)
-        .sort((a, b) => {
-          const nameSort = alphaSort.caseInsensitiveAscending(a.name, b.name);
-          return nameSort === 0
-            ? alphaSort.caseInsensitiveAscending(a.id, b.id)
-            : nameSort;
-        });
+      games.sort((a, b) => {
+        const nameSort = alphaSort.caseInsensitiveAscending(a.name, b.name);
+        return nameSort === 0
+          ? alphaSort.caseInsensitiveAscending(a.id, b.id)
+          : nameSort;
+      });
 
       console.log(
-        `The script ended with a total of ${PCGames.length} (previously: ${currentGames.length}).`
+        `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`
       );
 
-      await fse.writeJSON(outputPath, PCGames, {
+      await fse.writeJSON(outputPath, games, {
         spaces: 2,
       });
     }

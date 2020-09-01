@@ -423,15 +423,6 @@
     }
   },
   {
-    "id": "9P3SWZZJ1M4B",
-    "name": "Creature in the Well",
-    "url": "https://www.microsoft.com/en-us/store/p/creature-in-the-well/9P3SWZZJ1M4B",
-    "availability": {
-      "console": true,
-      "pc": true
-    }
-  },
-  {
     "id": "9N04RQQ64524",
     "name": "CrossCode",
     "url": "https://www.microsoft.com/en-us/store/p/crosscode/9N04RQQ64524",
@@ -1179,15 +1170,6 @@
     }
   },
   {
-    "id": "C48XJRK40VC4",
-    "name": "Giana Sisters: Twisted Dreams - Director's Cut",
-    "url": "https://www.microsoft.com/en-us/store/p/giana-sisters-twisted-dreams---directors-cut/C48XJRK40VC4",
-    "availability": {
-      "console": true,
-      "pc": false
-    }
-  },
-  {
     "id": "BV0NM309K1TL",
     "name": "Goat Simulator",
     "url": "https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL",
@@ -1728,15 +1710,6 @@
     }
   },
   {
-    "id": "BWX1KN6K55Q1",
-    "name": "METAL GEAR SOLID HD EDITION: 2 & 3",
-    "url": "https://www.microsoft.com/en-us/store/p/metal-gear-solid-hd-edition-2--3/BWX1KN6K55Q1",
-    "availability": {
-      "console": true,
-      "pc": false
-    }
-  },
-  {
     "id": "9NQ387M27TMV",
     "name": "Metro 2033 Redux",
     "url": "https://www.microsoft.com/en-us/store/p/metro-2033-redux/9NQ387M27TMV",
@@ -1761,15 +1734,6 @@
     "availability": {
       "console": false,
       "pc": true
-    }
-  },
-  {
-    "id": "C03J6WR23XQ9",
-    "name": "Metro: Last Light Redux",
-    "url": "https://www.microsoft.com/en-us/store/p/metro-last-light-redux/C03J6WR23XQ9",
-    "availability": {
-      "console": true,
-      "pc": false
     }
   },
   {
@@ -2796,15 +2760,6 @@
     "availability": {
       "console": true,
       "pc": true
-    }
-  },
-  {
-    "id": "BS30XKD3WZHR",
-    "name": "The Jackbox Party Pack 3",
-    "url": "https://www.microsoft.com/en-us/store/p/the-jackbox-party-pack-3/BS30XKD3WZHR",
-    "availability": {
-      "console": true,
-      "pc": false
     }
   },
   {

@@ -3,7 +3,7 @@ import { APIGame } from "@included-with-xbox-game-pass/types";
 import { RouteName } from "../routes";
 import getGame from "../getGame";
 
-function XboxLogo() {
+export function XboxLogo() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

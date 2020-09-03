@@ -1971,15 +1971,6 @@
     }
   },
   {
-    "id": "9P9KN2G4M2W0",
-    "name": "NBA 2K20",
-    "url": "https://www.xbox.com/en-us/games/nba-2k20",
-    "availability": {
-      "console": true,
-      "pc": false
-    }
-  },
-  {
     "id": "9NC781DK18GN",
     "name": "Neon Abyss",
     "url": "https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN",
@@ -2343,6 +2334,24 @@
     "id": "9PBHXGWZTS2N",
     "name": "Remnant: From the Ashes",
     "url": "https://www.microsoft.com/en-us/store/p/remnant-from-the-ashes/9PBHXGWZTS2N",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
+    "id": "9NBLGGH4SPK6",
+    "name": "RESIDENT EVIL 7 biohazard",
+    "url": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
+    "id": "BVFDTJ1XF6CS",
+    "name": "RESIDENT EVIL 7 biohazard",
+    "url": "https://www.xbox.com/en-us/games/resident-evil",
     "availability": {
       "console": true,
       "pc": false
@@ -2763,6 +2772,15 @@
     }
   },
   {
+    "id": "C5150FZWS1K2",
+    "name": "The Jackbox Party Pack 4",
+    "url": "https://www.microsoft.com/en-us/store/p/the-jackbox-party-pack-4/C5150FZWS1K2",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NFKN56ZBMR0",
     "name": "The Long Dark",
     "url": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
@@ -3021,6 +3039,15 @@
     "availability": {
       "console": true,
       "pc": false
+    }
+  },
+  {
+    "id": "9NBLGJQQBHH4",
+    "name": "Touhou Luna Nights",
+    "url": "https://www.microsoft.com/en-us/store/p/touhou-luna-nights/9NBLGJQQBHH4",
+    "availability": {
+      "console": true,
+      "pc": true
     }
   },
   {
@@ -3306,6 +3333,15 @@
     "id": "9N1FDTTSS49Z",
     "name": "WORLD OF HORROR (Game Preview)",
     "url": "https://www.microsoft.com/en-us/store/p/world-of-horror-game-preview/9N1FDTTSS49Z",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
+    "id": "9N015DFDMVK6",
+    "name": "World War Z",
+    "url": "https://www.microsoft.com/en-us/store/p/world-war-z/9N015DFDMVK6",
     "availability": {
       "console": false,
       "pc": true

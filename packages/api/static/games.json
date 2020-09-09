@@ -2313,15 +2313,6 @@
     }
   },
   {
-    "id": "BPSWGQBW7R3G",
-    "name": "Red Dead Redemption 2",
-    "url": "https://www.xbox.com/en-us/games/red-dead-redemption-2",
-    "availability": {
-      "console": true,
-      "pc": false
-    }
-  },
-  {
     "id": "9NB2WLSJ2QK3",
     "name": "Reigns: Game of Thrones",
     "url": "https://www.microsoft.com/en-us/store/p/reigns-game-of-thrones/9NB2WLSJ2QK3",
@@ -2521,8 +2512,8 @@
   },
   {
     "id": "9PK5S1QKV10D",
-    "name": "Star Renegades WIN10",
-    "url": "https://www.microsoft.com/en-us/store/p/star-renegades-win10/9PK5S1QKV10D",
+    "name": "Star Renegades",
+    "url": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
     "availability": {
       "console": false,
       "pc": true
@@ -2685,6 +2676,15 @@
     "id": "9NBL0XKVCN5L",
     "name": "Tell Me Why",
     "url": "https://www.microsoft.com/en-us/store/p/tell-me-why/9NBL0XKVCN5L",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
+    "id": "9NNHGS96Z5VL",
+    "name": "Tell Me Why: Chapter 2",
+    "url": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapter-2/9NNHGS96Z5VL",
     "availability": {
       "console": false,
       "pc": true

@@ -279,6 +279,15 @@
     }
   },
   {
+    "id": "BTPDCJXNFSZL",
+    "name": "Black Desert",
+    "url": "https://www.microsoft.com/en-us/store/p/black-desert/BTPDCJXNFSZL",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9NG7LG421V0Q",
     "name": "Blair Witch",
     "url": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
@@ -1467,6 +1476,15 @@
     }
   },
   {
+    "id": "C11HCJPQFHH7",
+    "name": "Hotshot Racing",
+    "url": "https://www.microsoft.com/en-us/store/p/hotshot-racing/C11HCJPQFHH7",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9MT4HS1CP72W",
     "name": "Human Fall Flat",
     "url": "https://www.microsoft.com/en-us/store/p/human-fall-flat/9MT4HS1CP72W",
@@ -2565,6 +2583,15 @@
     }
   },
   {
+    "id": "9NCT0QGGX6XD",
+    "name": "Stranger Things 3: The Game",
+    "url": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9NCT0QGGX6XD",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "9PMDDQ228FQD",
     "name": "Stranger Things 3: The Game",
     "url": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9PMDDQ228FQD",
@@ -2733,6 +2760,24 @@
     "availability": {
       "console": true,
       "pc": true
+    }
+  },
+  {
+    "id": "9NPWSCWJGHL1",
+    "name": "The Dark Crystal: Age of Resistance Tactics",
+    "url": "https://www.microsoft.com/en-us/store/p/the-dark-crystal-age-of-resistance-tactics/9NPWSCWJGHL1",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
+    "id": "9NZWXT6VMGG8",
+    "name": "The Dark Crystal: Age of Resistance Tactics",
+    "url": "https://www.microsoft.com/en-us/store/p/the-dark-crystal-age-of-resistance-tactics/9NZWXT6VMGG8",
+    "availability": {
+      "console": true,
+      "pc": false
     }
   },
   {

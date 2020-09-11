@@ -13,6 +13,7 @@ const selectors = {
   game: {
     name: "h3",
     url: "a",
+    image: "img",
     availability: {
       console: `[aria-label="Console"]`,
       pc: `[aria-label="PC"]`,
@@ -67,6 +68,9 @@ const selectors = {
             url: (element.querySelector(
               selectors.game.url
             ) as HTMLAnchorElement).href,
+            image: element
+              .querySelector(selectors.game.image)!
+              .getAttribute("src")!,
             availability: {
               console: Boolean(
                 element.querySelector(selectors.game.availability.console)

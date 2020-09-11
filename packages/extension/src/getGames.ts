@@ -15,6 +15,7 @@ interface CachedAPIGame {
   id: string;
   name: string;
   url: string;
+  image: string;
   availability: {
     console: boolean;
     pc: boolean;
@@ -37,7 +38,6 @@ export default storageCache.function<
       days: 1,
     },
     cacheKey: () => "games",
-    shouldRevalidate: (games) =>
-      games.some((game) => game.id == null || game.availability == null),
+    shouldRevalidate: (games) => games.some((game) => game.image == null),
   }
 );

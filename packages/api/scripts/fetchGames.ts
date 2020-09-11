@@ -2,11 +2,11 @@ import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
-import { APIGame } from "@included-with-xbox-game-pass/types";
+import { APIGame, Patch } from "@included-with-xbox-game-pass/types";
 import currentGames from "../static/games.json";
 
 const screenshotsDir = path.join(__dirname, "screenshots");
-const outputPath = path.join(__dirname, "..", "static", "games.json");
+const staticDir = path.join(__dirname, "..", "static");
 const xboxGamePassURL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 const selectors = {
   games: `.gameList [itemtype="http://schema.org/Product"]`,
@@ -108,7 +108,22 @@ const selectors = {
         `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`
       );
 
-      await fse.writeJSON(outputPath, games, {
+      const patch = createPatch(currentGames, games);
+      if (Object.keys(patch).length > 0) {
+        await fse.writeJSON(
+          path.join(
+            staticDir,
+            "patch",
+            `${new Date().toLocaleDateString("en-US").replace(/\//g, "-")}.json`
+          ),
+          patch,
+          {
+            spaces: 2,
+          }
+        );
+      }
+
+      await fse.writeJSON(path.join(staticDir, "games.json"), games, {
         spaces: 2,
       });
     }
@@ -116,3 +131,57 @@ const selectors = {
 
   browser.close();
 })();
+
+function createPatch(before: APIGame[], after: APIGame[]): Patch {
+  const beforeMap = before.reduce<Record<string, APIGame>>(
+    (acc, game) =>
+      Object.assign(acc, {
+        [game.id]: game,
+      }),
+    {}
+  );
+  const afterMap = after.reduce<Record<string, APIGame>>(
+    (acc, game) =>
+      Object.assign(acc, {
+        [game.id]: game,
+      }),
+    {}
+  );
+  const gameIDs = before
+    .concat(after)
+    .map((game) => game.id)
+    .filter((gameID, index, gameIDs) => gameIDs.indexOf(gameID) === index);
+
+  return gameIDs.reduce<Patch>((acc, gameID) => {
+    const beforeGame = beforeMap[gameID];
+    const afterGame = afterMap[gameID];
+
+    if (beforeGame && afterGame == null) {
+      acc[gameID] = {
+        before: beforeGame,
+        after: null,
+      };
+    } else if (beforeGame == null && afterGame) {
+      acc[gameID] = {
+        before: null,
+        after: afterGame,
+      };
+    } else if (hasAvailabilityChanges(beforeGame, afterGame)) {
+      acc[gameID] = {
+        before: beforeGame,
+        after: afterGame,
+      };
+    }
+
+    return acc;
+  }, {});
+}
+
+function hasAvailabilityChanges(before: APIGame, after: APIGame): boolean {
+  const platforms = Object.keys(before.availability) as Array<
+    keyof APIGame["availability"]
+  >;
+  return platforms.some(
+    (platform) => before.availability[platform] !== after.availability[platform]
+  );
+}

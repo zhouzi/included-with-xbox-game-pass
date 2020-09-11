@@ -8,3 +8,10 @@ export interface APIGame {
     pc: boolean;
   };
 }
+
+export interface Patch {
+  [gameID: string]: {
+    before: APIGame | null;
+    after: APIGame | null;
+  };
+}

@@ -648,6 +648,15 @@
     }
   },
   {
+    "id": "9PFJDSL1CC7G",
+    "name": "Disgaea 4 Complete+",
+    "url": "https://www.microsoft.com/en-us/store/p/disgaea-4-complete/9PFJDSL1CC7G",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
     "id": "9MW4RJDRSF78",
     "name": "Dishonored 2",
     "url": "https://www.microsoft.com/en-us/store/p/dishonored-2/9MW4RJDRSF78",
@@ -2712,6 +2721,15 @@
     "id": "9NNHGS96Z5VL",
     "name": "Tell Me Why: Chapter 2",
     "url": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapter-2/9NNHGS96Z5VL",
+    "availability": {
+      "console": false,
+      "pc": true
+    }
+  },
+  {
+    "id": "9NS08D6CBHRR",
+    "name": "Tell Me Why: Chapter 3",
+    "url": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapter-3/9NS08D6CBHRR",
     "availability": {
       "console": false,
       "pc": true

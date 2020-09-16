@@ -1360,26 +1360,6 @@
     }
   },
   {
-    "id": "BRJ4KRC08BTQ",
-    "name": "GoNNER - BLüEBERRY EDiTION",
-    "url": "https://www.microsoft.com/en-us/store/p/gonner---bleberry-edition/BRJ4KRC08BTQ",
-    "image": "//store-images.s-microsoft.com/image/apps.45775.14120610440951706.79361d33-7a18-4554-8a50-66b60d3712e6.b4126af5-7873-4453-8e1b-03be5da385e9",
-    "availability": {
-      "console": true,
-      "pc": false
-    }
-  },
-  {
-    "id": "9PBM5VSZDW5C",
-    "name": "GoNNER WIN10",
-    "url": "https://www.microsoft.com/en-us/store/p/gonner-win10/9PBM5VSZDW5C",
-    "image": "//store-images.s-microsoft.com/image/apps.45775.14120610440951706.79361d33-7a18-4554-8a50-66b60d3712e6.b4126af5-7873-4453-8e1b-03be5da385e9",
-    "availability": {
-      "console": false,
-      "pc": true
-    }
-  },
-  {
     "id": "9NHHP2H0ZP98",
     "name": "Gris",
     "url": "https://www.microsoft.com/en-us/store/p/gris/9NHHP2H0ZP98",
@@ -1764,16 +1744,6 @@
     "name": "Joy Ride Turbo",
     "url": "https://www.microsoft.com/en-us/store/p/joy-ride-turbo/C1ZWH2BZ9TSF",
     "image": "//store-images.s-microsoft.com/image/apps.46148.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.81763cd8-510b-439f-8393-ef687850226c",
-    "availability": {
-      "console": true,
-      "pc": false
-    }
-  },
-  {
-    "id": "BQKTZHL91458",
-    "name": "JUMP FORCE",
-    "url": "https://www.xbox.com/en-us/games/jump-force",
-    "image": "//store-images.s-microsoft.com/image/apps.53655.69204298776461265.f26b50dc-40f9-4a0a-98ff-e3e8953a3e77.8c510619-c52b-4c98-836b-94e5791d3928",
     "availability": {
       "console": true,
       "pc": false
@@ -2663,7 +2633,7 @@
     "id": "C125W9BG2K0V",
     "name": "Rocket League®",
     "url": "https://www.microsoft.com/en-us/store/p/rocket-league/C125W9BG2K0V",
-    "image": "//store-images.s-microsoft.com/image/apps.51159.65187692735347017.707008f4-f86e-4949-adf4-2daaf4b5d19d.d8df1ec7-7eb8-400f-ba7a-a2f61a5bd9de",
+    "image": "//store-images.s-microsoft.com/image/apps.28128.65187692735347017.b8d6ab2d-bc5c-4ed7-8998-411b2cb86ee9.6a453a0a-ef3e-4065-849c-b4d995c82d52",
     "availability": {
       "console": true,
       "pc": false
@@ -3014,26 +2984,6 @@
     "name": "Tell Me Why",
     "url": "https://www.microsoft.com/en-us/store/p/tell-me-why/9NBL0XKVCN5L",
     "image": "//store-images.s-microsoft.com/image/apps.46999.13511199099758791.098aa6c3-9214-4084-b60f-a9cde9820ccc.a4b5e54f-b8b4-44fb-9984-c4e859ed9814",
-    "availability": {
-      "console": false,
-      "pc": true
-    }
-  },
-  {
-    "id": "9NNHGS96Z5VL",
-    "name": "Tell Me Why: Chapter 2",
-    "url": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapter-2/9NNHGS96Z5VL",
-    "image": "//store-images.s-microsoft.com/image/apps.34995.13742643644765165.66fdc217-8976-4ec8-8c14-35be80234ba5.8c890612-8859-4466-a72e-97e0eb87479c",
-    "availability": {
-      "console": false,
-      "pc": true
-    }
-  },
-  {
-    "id": "9NS08D6CBHRR",
-    "name": "Tell Me Why: Chapter 3",
-    "url": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapter-3/9NS08D6CBHRR",
-    "image": "//store-images.s-microsoft.com/image/apps.2576.14373113887320130.f3f86973-1718-45a3-a8e1-43316bb79e46.32057d47-c214-4159-9541-6547e61f7bb3",
     "availability": {
       "console": false,
       "pc": true

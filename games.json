@@ -1330,6 +1330,16 @@
     }
   },
   {
+    "id": "9PFN8J3V7G54",
+    "name": "Gears Tactics - Xbox",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-tactics---xbox/9PFN8J3V7G54",
+    "image": "//store-images.s-microsoft.com/image/apps.42707.14197394300445757.0822f2ad-efbb-4ffc-a7f0-b5c2fabd7292.62bad0d9-bf55-4533-88ad-773e3a8d2d24",
+    "availability": {
+      "console": true,
+      "pc": false
+    }
+  },
+  {
     "id": "BV0NM309K1TL",
     "name": "Goat Simulator",
     "url": "https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL",
@@ -2987,16 +2997,6 @@
     "availability": {
       "console": true,
       "pc": false
-    }
-  },
-  {
-    "id": "9NBL0XKVCN5L",
-    "name": "Tell Me Why",
-    "url": "https://www.microsoft.com/en-us/store/p/tell-me-why/9NBL0XKVCN5L",
-    "image": "//store-images.s-microsoft.com/image/apps.46999.13511199099758791.098aa6c3-9214-4084-b60f-a9cde9820ccc.a4b5e54f-b8b4-44fb-9984-c4e859ed9814",
-    "availability": {
-      "console": false,
-      "pc": true
     }
   },
   {

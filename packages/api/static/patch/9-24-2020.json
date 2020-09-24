@@ -1,0 +1,54 @@
+{
+  "9P8HN2T2SZGB": {
+    "before": null,
+    "after": {
+      "id": "9P8HN2T2SZGB",
+      "name": "Kathy Rain",
+      "url": "https://www.microsoft.com/en-us/store/p/kathy-rain/9P8HN2T2SZGB",
+      "image": "//store-images.s-microsoft.com/image/apps.6040.14087730717392389.9a12fa8c-c13e-4e62-a35e-8a2066fb38b8.b61ad0d4-5a0f-4a31-9c31-2d74ca18717a",
+      "availability": {
+        "console": false,
+        "pc": true
+      }
+    }
+  },
+  "C501VQFW8FQG": {
+    "before": null,
+    "after": {
+      "id": "C501VQFW8FQG",
+      "name": "Night in the Woods",
+      "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods/C501VQFW8FQG",
+      "image": "//store-images.s-microsoft.com/image/apps.34394.67507673447846593.6652438a-e13f-460b-afd9-a160c1f79ade.96769618-2073-4cf4-bee6-f02122a3d5f9",
+      "availability": {
+        "console": true,
+        "pc": false
+      }
+    }
+  },
+  "9MV13BTTCKLL": {
+    "before": null,
+    "after": {
+      "id": "9MV13BTTCKLL",
+      "name": "Night in the Woods Win10",
+      "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
+      "image": "//store-images.s-microsoft.com/image/apps.27228.13797792345674221.588f882c-6432-4b79-b1d2-b4962d6094ac.b7af6c1d-37a7-4b34-bf96-dbb60c1a2d18",
+      "availability": {
+        "console": false,
+        "pc": true
+      }
+    }
+  },
+  "BXZWT67JBZJH": {
+    "before": null,
+    "after": {
+      "id": "BXZWT67JBZJH",
+      "name": "Warhammer: Vermintide 2",
+      "url": "https://www.microsoft.com/en-us/store/p/warhammer-vermintide-2/BXZWT67JBZJH",
+      "image": "//store-images.s-microsoft.com/image/apps.41784.63950392980135892.2a65d13a-abfb-4b37-bbe3-ccc769a3b70f.36a8a33a-a555-4ed6-90f1-04e1271d59cc",
+      "availability": {
+        "console": true,
+        "pc": false
+      }
+    }
+  }
+}

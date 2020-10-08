@@ -1,0 +1,54 @@
+{
+  "C5DZFZ6NC5SQ": {
+    "before": null,
+    "after": {
+      "id": "C5DZFZ6NC5SQ",
+      "name": "Brütal Legend",
+      "url": "https://www.microsoft.com/en-us/store/p/brtal-legend/C5DZFZ6NC5SQ",
+      "image": "//store-images.s-microsoft.com/image/apps.38734.67187313298816901.62c70448-0dd4-4a12-b42b-cdc666dbd510.b26ebd86-1363-4037-a471-e7f2a972d353",
+      "availability": {
+        "console": true,
+        "pc": false
+      }
+    }
+  },
+  "9N3NK5WW05HT": {
+    "before": null,
+    "after": {
+      "id": "9N3NK5WW05HT",
+      "name": "Forza Motorsport 7 Standard Edition",
+      "url": "https://www.xbox.com/en-us/games/forza-7",
+      "image": "//store-images.s-microsoft.com/image/apps.34712.13999052238919448.1152921504737892825.fcae215f-f714-4956-bed0-a193628df749",
+      "availability": {
+        "console": true,
+        "pc": true
+      }
+    }
+  },
+  "9N2X1J99S4M9": {
+    "before": null,
+    "after": {
+      "id": "9N2X1J99S4M9",
+      "name": "Ikenfell",
+      "url": "https://www.microsoft.com/en-us/store/p/ikenfell/9N2X1J99S4M9",
+      "image": "//store-images.s-microsoft.com/image/apps.29421.14081265461049079.c0add195-d80e-44c7-92ce-4213a637de98.764b5371-3432-4d2a-92fb-6ab955edbe22",
+      "availability": {
+        "console": false,
+        "pc": true
+      }
+    }
+  },
+  "9P91S5ZL1P4D": {
+    "before": null,
+    "after": {
+      "id": "9P91S5ZL1P4D",
+      "name": "Ikenfell",
+      "url": "https://www.microsoft.com/en-us/store/p/ikenfell/9P91S5ZL1P4D",
+      "image": "//store-images.s-microsoft.com/image/apps.29421.14081265461049079.c0add195-d80e-44c7-92ce-4213a637de98.764b5371-3432-4d2a-92fb-6ab955edbe22",
+      "availability": {
+        "console": true,
+        "pc": false
+      }
+    }
+  }
+}

@@ -24,6 +24,7 @@ const selectors = {
   totalGames: ".resultsText",
   pages: ".paginatenum",
 };
+const addedAt = new Date().toISOString();
 
 (async () => {
   await fse.emptyDir(screenshotsDir);
@@ -81,6 +82,7 @@ const selectors = {
                 ),
               },
               releaseDate: element.getAttribute("data-releasedate")!,
+              addedAt: addedAt,
             })
           ),
         selectors

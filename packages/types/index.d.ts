@@ -8,4 +8,5 @@ export interface APIGame {
     pc: boolean;
   };
   releaseDate: string;
+  addedAt: string;
 }

@@ -20,6 +20,8 @@ interface CachedAPIGame {
     console: boolean;
     pc: boolean;
   };
+  releaseDate: string;
+  addedAt: string;
 }
 
 export default storageCache.function<
@@ -38,6 +40,6 @@ export default storageCache.function<
       days: 1,
     },
     cacheKey: () => "games",
-    shouldRevalidate: (games) => games.some((game) => game.image == null),
+    shouldRevalidate: (games) => games.some((game) => game.addedAt == null),
   }
 );

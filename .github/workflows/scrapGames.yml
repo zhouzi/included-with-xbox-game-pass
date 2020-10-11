@@ -10,13 +10,13 @@ jobs:
       - uses: actions/setup-node@v1
       - run: npm ci
       - run: npx lerna bootstrap
-      - run: npm run fetchGames --prefix ./packages/api
+      - run: npm run scrapGames --prefix ./packages/api
       - uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: Run scripts/fetchGames
+          commit-message: Run scripts/scrapGames
           branch: update-games
           title: "Update games"
           body: |
-            This PR was automatically created after running the `fetchGames` scripts.
+            This PR was automatically created after running the `scrapGames` scripts.
             Merging it will trigger a deployment of the API with the updated list of games.
           reviewers: zhouzi

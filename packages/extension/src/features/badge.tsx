@@ -25,47 +25,23 @@ export function containsBadge(element: HTMLElement): boolean {
   );
 }
 
-export function createBadge(
-  game: APIGame | null,
-  style: Record<string, string> = {}
-) {
-  const baseStyle = {
-    display: "inline-flex",
-    alignItems: "center",
-    padding: "6px 10px",
-    borderRadius: "2px",
-  };
-
-  if (game) {
-    return (
-      <a
-        data-included-with-xbox-game-pass-badge="true"
-        href={game.url}
-        style={{
-          ...baseStyle,
-          ...style,
-          color: "#fff",
-          backgroundColor: "#098a43",
-        }}
-      >
-        <XboxLogo style={{ marginRight: "6px" }} /> Included with Xbox Game Pass
-      </a>
-    );
-  }
-
+export function createBadge(game: APIGame, style: Record<string, string> = {}) {
   return (
-    <span
+    <a
       data-included-with-xbox-game-pass-badge="true"
+      href={game.url}
       style={{
-        ...baseStyle,
+        display: "inline-flex",
+        alignItems: "center",
+        padding: "6px 10px",
+        borderRadius: "2px",
+        color: "#fff",
+        backgroundColor: "#098a43",
         ...style,
-        color: "#8f98a0",
-        backgroundColor: "rgba(0, 0, 0, 0.2)",
       }}
     >
-      <XboxLogo style={{ marginRight: "6px" }} /> Not included with Xbox Game
-      Pass
-    </span>
+      <XboxLogo style={{ marginRight: "6px" }} /> Included with Xbox Game Pass
+    </a>
   );
 }
 
@@ -77,8 +53,10 @@ export default async function badge(currentRoute: RouteName) {
   const appName = window.document.querySelector(".apphub_AppName")!;
   const game = await getGame(appName.textContent!);
 
-  appName.parentNode!.insertBefore(
-    createBadge(game, { margin: "6px 0 8px 0" }),
-    appName.nextSibling
-  );
+  if (game) {
+    appName.parentNode!.insertBefore(
+      createBadge(game, { margin: "6px 0 8px 0" }),
+      appName.nextSibling
+    );
+  }
 }

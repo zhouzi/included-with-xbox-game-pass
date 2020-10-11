@@ -27,11 +27,13 @@ export default async function wishList(currentRoute: RouteName) {
       const title = addedGame.querySelector(".title")!;
       const game = await getGame(title.textContent!.trim());
 
-      addedGame.querySelector(".platform_icons")!.prepend(
-        createBadge(game, {
-          marginRight: "6px",
-        })
-      );
+      if (game) {
+        addedGame.querySelector(".platform_icons")!.prepend(
+          createBadge(game, {
+            marginRight: "6px",
+          })
+        );
+      }
     }
   });
   observer.observe(parent, {

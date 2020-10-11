@@ -7,7 +7,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-05-14T00:00:00.0000000Z"
   },
   {
     "id": "9ND0CG3LM22K",
@@ -17,7 +18,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-01-23T00:00:00.0000000Z"
   },
   {
     "id": "C3XCXTFS6FFQ",
@@ -27,7 +29,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-01-07T00:00:00.0000000Z"
   },
   {
     "id": "BRVM8RNWLXH1",
@@ -37,7 +40,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-01-18T00:00:00.0000000Z"
   },
   {
     "id": "9PC5VBPLHWNV",
@@ -47,7 +51,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-29T04:00:00.0000000Z"
   },
   {
     "id": "9NJWTJSVGVLJ",
@@ -57,7 +62,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-19T15:00:00.0000000Z"
   },
   {
     "id": "9NJDD0JGPP2Q",
@@ -67,7 +73,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-14T16:00:00.0000000Z"
   },
   {
     "id": "9N1HF804QXN4",
@@ -77,7 +84,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-10-15T13:00:00.0000000Z"
   },
   {
     "id": "9MZ2B3W86SCK",
@@ -87,7 +95,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-11T15:00:00.0000000Z"
   },
   {
     "id": "BPTKRR85P0JW",
@@ -97,7 +106,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-08-06T00:00:00.0000000Z"
   },
   {
     "id": "9NKV44QF1R68",
@@ -107,7 +117,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-05-21T01:00:00.0000000Z"
   },
   {
     "id": "C493V31WXV80",
@@ -117,7 +128,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-05-18T00:00:00.0000000Z"
   },
   {
     "id": "9NSRJ872SGH7",
@@ -127,7 +139,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-09T04:00:00.0000000Z"
   },
   {
     "id": "C1H9V6SLK2K5",
@@ -137,7 +150,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-10-07T00:00:00.0000000Z"
   },
   {
     "id": "9MVJGBNNFPPS",
@@ -147,7 +161,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-01-18T00:00:00.0000000Z"
   },
   {
     "id": "9NR6DZ9F76P8",
@@ -157,7 +172,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-22T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH52XC6",
@@ -167,7 +183,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-12-19T16:00:00.0000000Z"
   },
   {
     "id": "BNBLC4ZGFNKB",
@@ -177,7 +194,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-08-29T00:00:00.0000000Z"
   },
   {
     "id": "9NFT0CMC62DX",
@@ -187,7 +205,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-26T09:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH43KZB",
@@ -197,7 +216,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-02-06T00:00:00.0000000Z"
   },
   {
     "id": "BVR64CDJ01FJ",
@@ -207,7 +227,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-08-03T00:00:00.0000000Z"
   },
   {
     "id": "BSJG7TTSWVJ2",
@@ -217,7 +238,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-01-11T00:00:00.0000000Z"
   },
   {
     "id": "BX27S00SKW1V",
@@ -227,7 +249,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-06-23T00:00:00.0000000Z"
   },
   {
     "id": "BSLX1RNXR6H7",
@@ -237,7 +260,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-06-23T00:00:00.0000000Z"
   },
   {
     "id": "9NT8XR7D5L00",
@@ -247,7 +271,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "BNVPW9NHWNM5",
@@ -257,7 +282,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-10-03T00:00:00.0000000Z"
   },
   {
     "id": "9NGWKW55M85P",
@@ -267,7 +293,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-11T00:00:00.0000000Z"
   },
   {
     "id": "9NQVDQS2BC10",
@@ -277,7 +304,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-11T00:00:00.0000000Z"
   },
   {
     "id": "9N7GCF5SGCXC",
@@ -287,7 +315,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-20T00:00:00.0000000Z"
   },
   {
     "id": "BTPDCJXNFSZL",
@@ -297,7 +326,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-03-04T00:00:00.0000000Z"
   },
   {
     "id": "9NG7LG421V0Q",
@@ -307,7 +337,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-30T16:00:00.0000000Z"
   },
   {
     "id": "9NX6XGVJ0J3D",
@@ -317,7 +348,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-24T07:00:00.0000000Z"
   },
   {
     "id": "9MWB2BFF0SPD",
@@ -327,7 +359,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-09-19T13:00:00.0000000Z"
   },
   {
     "id": "9P9K78101LCW",
@@ -337,7 +370,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-06-18T04:00:00.0000000Z"
   },
   {
     "id": "9PDXF172R7VJ",
@@ -347,7 +381,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-10-18T00:00:00.0000000Z"
   },
   {
     "id": "BNRX1DN6GXM6",
@@ -357,7 +392,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-02-28T00:00:00.0000000Z"
   },
   {
     "id": "9P03ZQMBMV65",
@@ -367,7 +403,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "C5DZFZ6NC5SQ",
@@ -377,7 +414,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-12-15T00:00:00.0000000Z"
   },
   {
     "id": "9MSMJH3C6TKR",
@@ -387,7 +425,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-23T00:00:00.0000000Z"
   },
   {
     "id": "9NPKKNBJ258V",
@@ -397,7 +436,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-07-23T00:00:00.0000000Z"
   },
   {
     "id": "9P675WH90SB4",
@@ -407,7 +447,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-15T14:00:00.0000000Z"
   },
   {
     "id": "9NWVC7XP3PFD",
@@ -417,7 +458,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-05-19T00:00:00.0000000Z"
   },
   {
     "id": "C4GH8N6ZXG5L",
@@ -427,7 +469,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-04-21T00:00:00.0000000Z"
   },
   {
     "id": "BX4J85JZNGXQ",
@@ -437,7 +480,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-10-28T00:00:00.0000000Z"
   },
   {
     "id": "9N8WVMD7J5GQ",
@@ -447,7 +491,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9NX9WH5F0RZD",
@@ -457,7 +502,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-17T00:00:00.0000000Z"
   },
   {
     "id": "BZ92FB6PWXFJ",
@@ -467,7 +513,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-10-29T00:00:00.0000000Z"
   },
   {
     "id": "9NXR6469DM2P",
@@ -477,7 +524,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-02-15T05:00:00.0000000Z"
   },
   {
     "id": "9N04RQQ64524",
@@ -487,7 +535,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-07-11T00:00:00.0000000Z"
   },
   {
     "id": "9NFDPQ0KZ6RN",
@@ -497,7 +546,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9PD1Z95CNTW4",
@@ -507,7 +557,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-20T00:00:00.0000000Z"
   },
   {
     "id": "9N7GG222GTTH",
@@ -517,7 +568,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-01T16:00:00.0000000Z"
   },
   {
     "id": "9NJ5X04M30HN",
@@ -527,7 +579,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-06T18:36:39.0209213Z"
   },
   {
     "id": "BRZ9553VPPBD",
@@ -537,7 +590,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-02-14T17:00:00.0000000Z"
   },
   {
     "id": "9PLPXGK1GDQ1",
@@ -547,7 +601,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-21T17:00:00.0000000Z"
   },
   {
     "id": "BSVZCMGZV52L",
@@ -557,7 +612,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-11-27T00:00:00.0000000Z"
   },
   {
     "id": "BSR9NLHVF1KL",
@@ -567,7 +623,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-03-27T00:00:00.0000000Z"
   },
   {
     "id": "C092FLK91X41",
@@ -577,7 +634,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-11-14T00:00:00.0000000Z"
   },
   {
     "id": "9NMS4SFNBGBH",
@@ -587,7 +645,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-31T14:00:00.0000000Z"
   },
   {
     "id": "C0N22P73QZ60",
@@ -597,7 +656,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-06-20T00:00:00.0000000Z"
   },
   {
     "id": "9NKVX66J0ZSK",
@@ -607,7 +667,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-09-05T00:00:00.0000000Z"
   },
   {
     "id": "BQSCNS1T8PHQ",
@@ -617,7 +678,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-08-07T00:00:00.0000000Z"
   },
   {
     "id": "BS7F51G3DP8R",
@@ -627,7 +689,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-05-31T00:00:00.0000000Z"
   },
   {
     "id": "BS32QFXVPWBC",
@@ -637,7 +700,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-03-14T00:00:00.0000000Z"
   },
   {
     "id": "9MV537XVLVXR",
@@ -647,7 +711,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-13T00:00:00.0000000Z"
   },
   {
     "id": "9NVVSHQ771WG",
@@ -657,7 +722,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-04-24T04:00:00.0000000Z"
   },
   {
     "id": "9PF6BS5DGNLX",
@@ -667,7 +733,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-24T04:00:00.0000000Z"
   },
   {
     "id": "9N5344N0TFR7",
@@ -677,7 +744,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-06T00:00:00.0000000Z"
   },
   {
     "id": "C37XBX7DCBZ0",
@@ -687,7 +755,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-05-07T00:00:00.0000000Z"
   },
   {
     "id": "BPQ955FQFPH6",
@@ -697,7 +766,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-01T17:00:00.0000000Z"
   },
   {
     "id": "BQ56JMH9S69F",
@@ -707,7 +777,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-09-04T00:00:00.0000000Z"
   },
   {
     "id": "9N87K5NCSTQZ",
@@ -717,7 +788,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-01T15:00:00.0000000Z"
   },
   {
     "id": "C2MBDNDS3H5W",
@@ -727,7 +799,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-06-06T00:00:00.0000000Z"
   },
   {
     "id": "9PFJDSL1CC7G",
@@ -737,7 +810,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-10T17:00:00.0000000Z"
   },
   {
     "id": "9MW4RJDRSF78",
@@ -747,7 +821,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-03T00:00:00.0000000Z"
   },
   {
     "id": "BSZM480TSWGP",
@@ -757,7 +832,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-11-11T00:00:00.0000000Z"
   },
   {
     "id": "9N6Z8DQXSQWH",
@@ -767,7 +843,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-31T00:00:00.0000000Z"
   },
   {
     "id": "C0XBNVR137DZ",
@@ -777,7 +854,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2015-08-26T00:00:00.0000000Z"
   },
   {
     "id": "9P5S26314HWQ",
@@ -787,7 +865,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-03-20T04:00:00.0000000Z"
   },
   {
     "id": "C2592KJZ0Q1X",
@@ -797,7 +876,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2012-09-12T00:00:00.0000000Z"
   },
   {
     "id": "9NJPT63K27W8",
@@ -807,7 +887,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-28T00:00:00.0000000Z"
   },
   {
     "id": "9P641Z19NT2S",
@@ -817,7 +898,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-01T00:00:00.0000000Z"
   },
   {
     "id": "9PBDC0XZ8TXK",
@@ -827,7 +909,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-12-04T00:00:00.0000000Z"
   },
   {
     "id": "9PGNGGWBX1NR",
@@ -837,7 +920,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-28T18:00:00.0000000Z"
   },
   {
     "id": "BT56B4R21179",
@@ -847,7 +931,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-03-16T00:00:00.0000000Z"
   },
   {
     "id": "9N46K0X6TBZK",
@@ -857,7 +942,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-11T00:00:00.0000000Z"
   },
   {
     "id": "BP4KK0NCLCHQ",
@@ -867,7 +953,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-09-10T04:00:00.0000000Z"
   },
   {
     "id": "9NP09BFQNHCJ",
@@ -877,7 +964,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-05-12T04:00:00.0000000Z"
   },
   {
     "id": "9NV3Q7WVN2RB",
@@ -887,7 +975,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-09T00:00:00.0000000Z"
   },
   {
     "id": "9NB65S6LFZRT",
@@ -897,7 +986,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-04-05T04:00:00.0000000Z"
   },
   {
     "id": "9PHQJWGLTZM8",
@@ -907,7 +997,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-04T14:00:00.0000000Z"
   },
   {
     "id": "BP4H9HD3FSWB",
@@ -917,7 +1008,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-08-20T04:00:00.0000000Z"
   },
   {
     "id": "9NL9VGSH00LL",
@@ -927,7 +1019,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-30T00:00:00.0000000Z"
   },
   {
     "id": "C2Q32JM0BPZL",
@@ -937,7 +1030,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-01-29T00:00:00.0000000Z"
   },
   {
     "id": "C2WKJJ9F5936",
@@ -947,7 +1041,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-04-06T00:00:00.0000000Z"
   },
   {
     "id": "BR46KM4D5B9L",
@@ -957,7 +1052,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-10-25T00:00:00.0000000Z"
   },
   {
     "id": "9N1XLJGDC163",
@@ -967,7 +1063,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-05T00:00:00.0000000Z"
   },
   {
     "id": "BS6WJ2L56B10",
@@ -977,7 +1074,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-11-14T00:00:00.0000000Z"
   },
   {
     "id": "9NKGNMNK3K3Z",
@@ -987,7 +1085,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-09T14:00:00.0000000Z"
   },
   {
     "id": "BX3JNK07Z6QK",
@@ -997,7 +1096,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-10-19T00:00:00.0000000Z"
   },
   {
     "id": "C45KV8Q992HV",
@@ -1007,7 +1107,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-10-25T00:00:00.0000000Z"
   },
   {
     "id": "9N2NCBXW44HV",
@@ -1017,7 +1118,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-04T05:00:00.0000000Z"
   },
   {
     "id": "BTP7VK91B2Z3",
@@ -1027,7 +1129,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-17T04:00:00.0000000Z"
   },
   {
     "id": "9MVNB889L3HN",
@@ -1037,7 +1140,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-17T04:00:00.0000000Z"
   },
   {
     "id": "9NPGTNQFC8B5",
@@ -1047,7 +1151,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-02-13T23:00:00.0000000Z"
   },
   {
     "id": "BWKXQC5BL5R1",
@@ -1057,7 +1162,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-03-26T00:00:00.0000000Z"
   },
   {
     "id": "9PN0W216SKZB",
@@ -1067,7 +1173,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-13T00:00:00.0000000Z"
   },
   {
     "id": "BNMRPFLB3PQW",
@@ -1077,7 +1184,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-03-06T00:00:00.0000000Z"
   },
   {
     "id": "9NR0N2LZ6TC5",
@@ -1087,7 +1195,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-03-06T17:00:00.0000000Z"
   },
   {
     "id": "9NM7LC8MJXKS",
@@ -1097,7 +1206,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-01-30T14:00:00.0000000Z"
   },
   {
     "id": "BPR4TX9NRWRW",
@@ -1107,7 +1217,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-09-18T00:00:00.0000000Z"
   },
   {
     "id": "9N0K062BZJVK",
@@ -1117,7 +1228,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-09T04:00:00.0000000Z"
   },
   {
     "id": "9NS1CD1V4BKW",
@@ -1127,7 +1239,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-06T00:00:00.0000000Z"
   },
   {
     "id": "BP2BW45WZ45Z",
@@ -1137,7 +1250,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-05-10T00:00:00.0000000Z"
   },
   {
     "id": "9MV2S7Q5PHSW",
@@ -1147,7 +1261,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-07-16T00:00:00.0000000Z"
   },
   {
     "id": "9P5SFDNW6V13",
@@ -1157,7 +1272,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-16T00:00:00.0000000Z"
   },
   {
     "id": "9PNJXVCVWD4K",
@@ -1167,7 +1283,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-10-02T04:00:00.0000000Z"
   },
   {
     "id": "9N3NK5WW05HT",
@@ -1177,7 +1294,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-03T04:00:00.0000000Z"
   },
   {
     "id": "BXX0NHDR1FNZ",
@@ -1187,7 +1305,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-11-14T05:00:00.0000000Z"
   },
   {
     "id": "9NS0KH25D76X",
@@ -1197,7 +1316,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-04-24T14:00:00.0000000Z"
   },
   {
     "id": "9NP539LHJD8S",
@@ -1207,7 +1327,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-11T14:00:00.0000000Z"
   },
   {
     "id": "9NWNTZQW4G8G",
@@ -1217,7 +1338,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-01-09T00:00:00.0000000Z"
   },
   {
     "id": "C2P985H1H42H",
@@ -1227,7 +1349,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2001-09-23T00:00:00.0000000Z"
   },
   {
     "id": "9PBJQ90CT236",
@@ -1237,7 +1360,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-21T00:00:00.0000000Z"
   },
   {
     "id": "9PF6XX9BSHF0",
@@ -1247,7 +1371,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-04-21T00:00:00.0000000Z"
   },
   {
     "id": "C2KDNLT2H7DM",
@@ -1257,7 +1382,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-09-10T01:00:00.0000000Z"
   },
   {
     "id": "9P9CKRGR40KK",
@@ -1267,7 +1393,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-09-10T01:00:00.0000000Z"
   },
   {
     "id": "BPN08ZDRPSFK",
@@ -1277,7 +1404,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-12-29T00:00:00.0000000Z"
   },
   {
     "id": "C1SDBNRFXT1D",
@@ -1287,7 +1415,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-10-12T00:00:00.0000000Z"
   },
   {
     "id": "BPKDQSSFQ9WV",
@@ -1297,7 +1426,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2012-03-27T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH4PBBM",
@@ -1307,7 +1437,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-10-11T04:00:00.0000000Z"
   },
   {
     "id": "BSHMMGRP84N4",
@@ -1317,7 +1448,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2013-06-18T00:00:00.0000000Z"
   },
   {
     "id": "BQT21VXFS52F",
@@ -1327,7 +1459,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-08-25T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH3SHM5",
@@ -1337,7 +1470,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-02-01T03:28:34.1909663Z"
   },
   {
     "id": "9PNJ8VXWQ8HN",
@@ -1347,7 +1481,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-28T15:00:00.0000000Z"
   },
   {
     "id": "9PFN8J3V7G54",
@@ -1357,7 +1492,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-11-09T16:00:00.0000000Z"
   },
   {
     "id": "BV0NM309K1TL",
@@ -1367,7 +1503,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-04-17T00:00:00.0000000Z"
   },
   {
     "id": "9MXWKHJ3VZZH",
@@ -1377,7 +1514,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-10-25T00:00:00.0000000Z"
   },
   {
     "id": "9MVK5W0HMRP7",
@@ -1387,7 +1525,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-23T00:00:00.0000000Z"
   },
   {
     "id": "9N14G09PWG74",
@@ -1397,7 +1536,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-05-19T04:00:00.0000000Z"
   },
   {
     "id": "9NHHP2H0ZP98",
@@ -1407,7 +1547,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-01-23T00:00:00.0000000Z"
   },
   {
     "id": "9PJTHRNVH62H",
@@ -1417,7 +1558,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2799-12-31T17:00:00.0000000Z"
   },
   {
     "id": "9NVK1W7L093S",
@@ -1427,7 +1569,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-01-18T17:00:00.0000000Z"
   },
   {
     "id": "9P5739G419LD",
@@ -1437,7 +1580,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-05-13T03:00:00.0000000Z"
   },
   {
     "id": "9PGL2Z1H9M4R",
@@ -1447,7 +1591,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-14T17:00:00.0000000Z"
   },
   {
     "id": "9P6VZCRGXFMX",
@@ -1457,7 +1602,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-22T03:00:00.0000000Z"
   },
   {
     "id": "BRRC2BP0G9P0",
@@ -1467,7 +1613,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-10-27T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH5WMKM",
@@ -1477,7 +1624,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-11-30T19:55:27.2612117Z"
   },
   {
     "id": "9NBLGGH515BD",
@@ -1487,7 +1635,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-02-21T05:00:00.0000000Z"
   },
   {
     "id": "C42KCJCLX6MX",
@@ -1497,7 +1646,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-02-21T00:00:00.0000000Z"
   },
   {
     "id": "BPRPQSKXTD1L",
@@ -1507,7 +1657,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-12-20T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH5WLR0",
@@ -1517,7 +1668,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-04-20T17:00:00.0000000Z"
   },
   {
     "id": "9NWQMVSB63N4",
@@ -1527,7 +1679,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-03T18:00:00.0000000Z"
   },
   {
     "id": "9N9WZT3PJ27W",
@@ -1537,7 +1690,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-03T18:00:00.0000000Z"
   },
   {
     "id": "9WZDNCRFHWFH",
@@ -1547,7 +1701,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2013-07-08T23:33:39.7691754Z"
   },
   {
     "id": "BV0K9LMLQ9W5",
@@ -1557,7 +1712,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2013-12-23T00:00:00.0000000Z"
   },
   {
     "id": "9WZDNCRFJBFJ",
@@ -1567,7 +1723,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2014-11-25T22:00:00.0000000Z"
   },
   {
     "id": "9MT8PTGVHX2P",
@@ -1577,7 +1734,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-11-14T21:00:00.0000000Z"
   },
   {
     "id": "9NTM9HXNLSZX",
@@ -1587,7 +1745,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-03T18:00:00.0000000Z"
   },
   {
     "id": "9NCPXWLM4152",
@@ -1597,7 +1756,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9NF6WPNS1S73",
@@ -1607,7 +1767,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-13T15:00:00.0000000Z"
   },
   {
     "id": "9NCLP4LV5K7Z",
@@ -1617,7 +1778,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-04-11T04:00:00.0000000Z"
   },
   {
     "id": "C4Z7QM8FSXM2",
@@ -1627,7 +1789,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-04-11T00:00:00.0000000Z"
   },
   {
     "id": "9NDDH3R9DF40",
@@ -1637,7 +1800,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-12-08T15:00:00.0000000Z"
   },
   {
     "id": "C0G1L18DT97K",
@@ -1647,7 +1811,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-12-08T00:00:00.0000000Z"
   },
   {
     "id": "9PKM22F7C9K5",
@@ -1657,7 +1822,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9MW9469V91LM",
@@ -1667,7 +1833,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-09-25T17:00:00.0000000Z"
   },
   {
     "id": "9PPCS86WS28Z",
@@ -1677,7 +1844,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "C11HCJPQFHH7",
@@ -1687,7 +1855,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-09-10T04:00:00.0000000Z"
   },
   {
     "id": "9MT4HS1CP72W",
@@ -1697,7 +1866,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-12T17:00:00.0000000Z"
   },
   {
     "id": "BSMZH25V6V46",
@@ -1707,7 +1877,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-05-12T00:00:00.0000000Z"
   },
   {
     "id": "9NVVJ8TBD7KP",
@@ -1717,7 +1888,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-01-31T05:00:00.0000000Z"
   },
   {
     "id": "9PM3NVB3PXG0",
@@ -1727,7 +1899,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-27T15:00:00.0000000Z"
   },
   {
     "id": "9N2X1J99S4M9",
@@ -1737,7 +1910,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-10-08T00:00:00.0000000Z"
   },
   {
     "id": "9P91S5ZL1P4D",
@@ -1747,7 +1921,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-10-08T00:00:00.0000000Z"
   },
   {
     "id": "9N3KCLT53VDZ",
@@ -1757,7 +1932,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-26T00:00:00.0000000Z"
   },
   {
     "id": "9NBFQMP69N1S",
@@ -1767,7 +1943,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-08T04:00:00.0000000Z"
   },
   {
     "id": "9NHGM9CS3XLF",
@@ -1777,7 +1954,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-19T00:00:00.0000000Z"
   },
   {
     "id": "9PFW68JLS81F",
@@ -1787,7 +1965,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-06T00:00:00.0000000Z"
   },
   {
     "id": "BRRVN5198461",
@@ -1797,7 +1976,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2006-10-24T00:00:00.0000000Z"
   },
   {
     "id": "BZ3CVPFPDSHK",
@@ -1807,7 +1987,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-01-28T16:00:00.0000000Z"
   },
   {
     "id": "C1ZWH2BZ9TSF",
@@ -1817,7 +1998,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2012-05-23T00:00:00.0000000Z"
   },
   {
     "id": "BV83SM3191S5",
@@ -1827,7 +2009,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-08-11T00:00:00.0000000Z"
   },
   {
     "id": "9P8HN2T2SZGB",
@@ -1837,7 +2020,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-24T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH51BMC",
@@ -1847,7 +2031,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-12-09T18:00:00.0000000Z"
   },
   {
     "id": "BVQ3FL3201P8",
@@ -1857,7 +2042,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-09-20T00:00:00.0000000Z"
   },
   {
     "id": "9NHDF1Q6HGMH",
@@ -1867,7 +2053,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-02-18T05:00:00.0000000Z"
   },
   {
     "id": "9NB80T1XC43B",
@@ -1877,7 +2064,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-02-18T05:00:00.0000000Z"
   },
   {
     "id": "C08MW8XHQN9G",
@@ -1887,7 +2075,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-01-29T00:00:00.0000000Z"
   },
   {
     "id": "BXDSG249D6Q2",
@@ -1897,7 +2086,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-03-17T00:00:00.0000000Z"
   },
   {
     "id": "C27JSQ4XKP9X",
@@ -1907,7 +2097,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2011-03-22T00:00:00.0000000Z"
   },
   {
     "id": "9PJZBB8FWK8H",
@@ -1917,7 +2108,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-30T12:00:00.0000000Z"
   },
   {
     "id": "9MV6MCVLT8GR",
@@ -1927,7 +2119,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-23T15:00:00.0000000Z"
   },
   {
     "id": "9N83GKZLC8BK",
@@ -1937,7 +2130,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-16T00:00:00.0000000Z"
   },
   {
     "id": "9PGSCB1X2P7G",
@@ -1947,7 +2141,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-09-19T16:00:00.0000000Z"
   },
   {
     "id": "BV5N90RDT0SH",
@@ -1957,7 +2152,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-08-06T00:00:00.0000000Z"
   },
   {
     "id": "C0SFCF4PBRSZ",
@@ -1967,7 +2163,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2013-12-20T00:00:00.0000000Z"
   },
   {
     "id": "9PB86W3JK8Z5",
@@ -1977,7 +2174,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-05-07T00:00:00.0000000Z"
   },
   {
     "id": "9NQ387M27TMV",
@@ -1987,7 +2185,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-07T00:00:00.0000000Z"
   },
   {
     "id": "BPPTRQZRJ341",
@@ -1997,7 +2196,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-08-26T00:00:00.0000000Z"
   },
   {
     "id": "9NM5W1TDNQZ3",
@@ -2007,7 +2207,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-12T00:00:00.0000000Z"
   },
   {
     "id": "9NXN8GF8N9HT",
@@ -2017,7 +2218,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-18T00:00:00.0000000Z"
   },
   {
     "id": "9PDV8FKWP3B4",
@@ -2027,7 +2229,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-10T04:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH537BL",
@@ -2037,7 +2240,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-09-20T15:00:00.0000000Z"
   },
   {
     "id": "9N8NJ74FZTG9",
@@ -2047,7 +2251,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-05-26T08:00:00.0000000Z"
   },
   {
     "id": "9P8MK4NC0LJB",
@@ -2057,7 +2262,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-05-26T08:00:00.0000000Z"
   },
   {
     "id": "C120V2WGRMCH",
@@ -2067,7 +2273,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-04-03T00:00:00.0000000Z"
   },
   {
     "id": "9PJR1F15JBX0",
@@ -2077,7 +2284,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-24T00:00:00.0000000Z"
   },
   {
     "id": "9P8K66J3CQ9S",
@@ -2087,7 +2295,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-10T00:00:00.0000000Z"
   },
   {
     "id": "9NZL00LF4V58",
@@ -2097,7 +2306,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-19T05:44:31.2659222Z"
   },
   {
     "id": "BPKQZ245CQ2H",
@@ -2107,7 +2317,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-03-17T00:00:00.0000000Z"
   },
   {
     "id": "BNG91PT95LQN",
@@ -2117,7 +2328,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-01-26T00:00:00.0000000Z"
   },
   {
     "id": "9P8XJRLCLH2P",
@@ -2127,7 +2339,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-05-29T13:00:00.0000000Z"
   },
   {
     "id": "C01Z9J8S9BJP",
@@ -2137,7 +2350,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-04-14T00:00:00.0000000Z"
   },
   {
     "id": "9NVFHBKDLPM4",
@@ -2147,7 +2361,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-05T00:00:00.0000000Z"
   },
   {
     "id": "BQXN1S3V3FN9",
@@ -2157,7 +2372,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-09-16T00:00:00.0000000Z"
   },
   {
     "id": "9N9H593X8SVP",
@@ -2167,7 +2383,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-28T04:00:00.0000000Z"
   },
   {
     "id": "9NXPBSMHPLTV",
@@ -2177,7 +2394,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-04-28T04:00:00.0000000Z"
   },
   {
     "id": "9N58J0GM9MRP",
@@ -2187,7 +2405,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "BTSQF5T410C6",
@@ -2197,7 +2416,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-10-31T00:00:00.0000000Z"
   },
   {
     "id": "9N80L1CTZ86W",
@@ -2207,7 +2427,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-19T07:00:00.0000000Z"
   },
   {
     "id": "9NMP9B9KMKLF",
@@ -2217,7 +2438,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-12-04T12:00:00.0000000Z"
   },
   {
     "id": "9P16M6LF0QFH",
@@ -2227,7 +2449,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-12-05T00:00:00.0000000Z"
   },
   {
     "id": "9NMH293554QQ",
@@ -2237,7 +2460,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-05T00:00:00.0000000Z"
   },
   {
     "id": "9NBLSN1JP7TH",
@@ -2247,7 +2471,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-07-04T00:00:00.0000000Z"
   },
   {
     "id": "BX1FZX1X4132",
@@ -2257,7 +2482,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-04-16T00:00:00.0000000Z"
   },
   {
     "id": "BRX56LQJMZ4G",
@@ -2267,7 +2493,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-08-31T00:00:00.0000000Z"
   },
   {
     "id": "9NC781DK18GN",
@@ -2277,7 +2504,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-07-14T00:00:00.0000000Z"
   },
   {
     "id": "9PLWSGHFQ4PS",
@@ -2287,7 +2515,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-14T00:00:00.0000000Z"
   },
   {
     "id": "9MZN3SMXN824",
@@ -2297,7 +2526,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-21T07:00:00.0000000Z"
   },
   {
     "id": "BPPZVT8BZ15N",
@@ -2307,7 +2537,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-06-26T00:00:00.0000000Z"
   },
   {
     "id": "9N5KSQG0R9TB",
@@ -2317,7 +2548,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-07-17T21:00:00.0000000Z"
   },
   {
     "id": "9NZKR4V4QGD4",
@@ -2327,7 +2559,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-06-24T00:00:00.0000000Z"
   },
   {
     "id": "C501VQFW8FQG",
@@ -2337,7 +2570,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-12-13T00:00:00.0000000Z"
   },
   {
     "id": "9MV13BTTCKLL",
@@ -2347,7 +2581,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-24T00:00:00.0000000Z"
   },
   {
     "id": "BSCSRTX27ZH3",
@@ -2357,7 +2592,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-07-29T00:00:00.0000000Z"
   },
   {
     "id": "BQVQTL3PCH05",
@@ -2367,7 +2603,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-07-24T00:00:00.0000000Z"
   },
   {
     "id": "9P01NRSZCVR6",
@@ -2377,7 +2614,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-29T00:00:00.0000000Z"
   },
   {
     "id": "9PBLH1322GX0",
@@ -2387,7 +2625,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-25T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH1Z6FB",
@@ -2397,7 +2636,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-03-30T01:33:48.7163504Z"
   },
   {
     "id": "BW85KQB8Q31M",
@@ -2407,7 +2647,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-03-11T00:00:00.0000000Z"
   },
   {
     "id": "9N8CD0XZKLP4",
@@ -2417,7 +2658,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-11T04:00:00.0000000Z"
   },
   {
     "id": "9NNW9V8DVPG6",
@@ -2427,7 +2669,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-25T04:26:27.1725397Z"
   },
   {
     "id": "C596FKDKMQN7",
@@ -2437,7 +2680,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-05-29T12:00:00.0000000Z"
   },
   {
     "id": "9PGB72NFG5JN",
@@ -2447,7 +2691,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-02T00:00:00.0000000Z"
   },
   {
     "id": "BVJLKDG2TX8H",
@@ -2457,7 +2702,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-08-07T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH6CTZ5",
@@ -2467,7 +2713,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-12T18:04:30.3240048Z"
   },
   {
     "id": "BSK1GN27RB8R",
@@ -2477,7 +2724,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-01-15T00:00:00.0000000Z"
   },
   {
     "id": "9P8Q4W21QQZ2",
@@ -2487,7 +2735,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-01T16:00:00.0000000Z"
   },
   {
     "id": "9PHS5Q7KQMJM",
@@ -2497,7 +2746,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-12T00:00:00.0000000Z"
   },
   {
     "id": "C2Z9D406G0KQ",
@@ -2507,7 +2757,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-06-16T00:00:00.0000000Z"
   },
   {
     "id": "BQ70VB4MM1XM",
@@ -2517,7 +2768,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-03-17T00:00:00.0000000Z"
   },
   {
     "id": "BZF7N4FQWHNR",
@@ -2527,7 +2779,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-08-11T00:00:00.0000000Z"
   },
   {
     "id": "9P1P5Q3BNM7J",
@@ -2537,7 +2790,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-19T00:00:00.0000000Z"
   },
   {
     "id": "9N8WRDC25K6J",
@@ -2547,7 +2801,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-03-12T00:00:00.0000000Z"
   },
   {
     "id": "9N8QNKN5ZKTH",
@@ -2557,7 +2812,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-12T00:00:00.0000000Z"
   },
   {
     "id": "BS34VNW7H61F",
@@ -2567,7 +2823,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-08-29T00:00:00.0000000Z"
   },
   {
     "id": "9P5LZC1KB48V",
@@ -2577,7 +2834,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-19T18:00:00.0000000Z"
   },
   {
     "id": "C0MN5DN8KR3F",
@@ -2587,7 +2845,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-09-04T00:00:00.0000000Z"
   },
   {
     "id": "9MWBPSQ5PKQR",
@@ -2597,7 +2856,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-05-21T00:00:00.0000000Z"
   },
   {
     "id": "9P5VMG8D4P4B",
@@ -2607,7 +2867,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-03-26T00:00:00.0000000Z"
   },
   {
     "id": "BPNDKQN84N6L",
@@ -2617,7 +2878,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-04-05T00:00:00.0000000Z"
   },
   {
     "id": "C2DCJ95ZXBMS",
@@ -2627,7 +2889,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-05-14T00:00:00.0000000Z"
   },
   {
     "id": "9P2J7WHV0K4N",
@@ -2637,7 +2900,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-14T21:00:00.0000000Z"
   },
   {
     "id": "C22T53SQ7FLM",
@@ -2647,7 +2911,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-08-04T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH1Z6FQ",
@@ -2657,7 +2922,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-09-13T04:00:00.0000000Z"
   },
   {
     "id": "9NB2WLSJ2QK3",
@@ -2667,7 +2933,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-20T00:00:00.0000000Z"
   },
   {
     "id": "9PBHXGWZTS2N",
@@ -2677,7 +2944,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-08-20T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH4SPK6",
@@ -2687,7 +2955,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-01-24T05:00:00.0000000Z"
   },
   {
     "id": "BVFDTJ1XF6CS",
@@ -2697,7 +2966,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-01-24T00:00:00.0000000Z"
   },
   {
     "id": "BR3152PVJV5J",
@@ -2707,7 +2977,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-01-13T00:00:00.0000000Z"
   },
   {
     "id": "9NS84HCWZD8B",
@@ -2717,7 +2988,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-09-14T17:00:00.0000000Z"
   },
   {
     "id": "9P3PL76N0KWZ",
@@ -2727,7 +2999,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-31T04:00:00.0000000Z"
   },
   {
     "id": "C10QTNC7JWNJ",
@@ -2737,7 +3010,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2013-11-22T00:00:00.0000000Z"
   },
   {
     "id": "9NFVLZQDZHKW",
@@ -2747,7 +3021,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-17T00:00:00.0000000Z"
   },
   {
     "id": "9NXPV1T3WS34",
@@ -2757,7 +3032,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2799-12-31T17:00:00.0000000Z"
   },
   {
     "id": "BQ4M1XWXFKHB",
@@ -2767,7 +3043,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-03-03T00:00:00.0000000Z"
   },
   {
     "id": "9P2N57MC619K",
@@ -2777,7 +3054,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-03-20T04:00:00.0000000Z"
   },
   {
     "id": "9NXQ4PX4TZJZ",
@@ -2787,7 +3065,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-17T09:00:00.0000000Z"
   },
   {
     "id": "9P7GBPGT90L3",
@@ -2797,7 +3076,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-23T23:00:00.0000000Z"
   },
   {
     "id": "9P6SFBR1TCWQ",
@@ -2807,7 +3087,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-09-19T00:00:00.0000000Z"
   },
   {
     "id": "BP79KKVGDDH1",
@@ -2817,7 +3098,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-05-19T00:00:00.0000000Z"
   },
   {
     "id": "9MZQR8317S3B",
@@ -2827,7 +3109,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9P6W46XMDJM5",
@@ -2837,7 +3120,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-08-14T00:00:00.0000000Z"
   },
   {
     "id": "BZ5VLVX84STW",
@@ -2847,7 +3131,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-02-14T00:00:00.0000000Z"
   },
   {
     "id": "C3V22FQD8N84",
@@ -2857,7 +3142,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-10-19T00:00:00.0000000Z"
   },
   {
     "id": "9NG5L58FD3X5",
@@ -2867,7 +3153,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-18T17:00:00.0000000Z"
   },
   {
     "id": "9PK5S1QKV10D",
@@ -2877,7 +3164,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-08T00:00:00.0000000Z"
   },
   {
     "id": "9NT4X7P8B9NB",
@@ -2887,7 +3175,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-05-22T04:00:00.0000000Z"
   },
   {
     "id": "C5JGRR1LFVW8",
@@ -2897,7 +3186,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-04-28T00:00:00.0000000Z"
   },
   {
     "id": "9PL8ST9QV6RP",
@@ -2907,7 +3197,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T00:00:00.0000000Z"
   },
   {
     "id": "9NXQPGMR917R",
@@ -2917,7 +3208,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-09T15:00:00.0000000Z"
   },
   {
     "id": "BWL72GR7Z7GK",
@@ -2927,7 +3219,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-02-26T00:00:00.0000000Z"
   },
   {
     "id": "9NCT0QGGX6XD",
@@ -2937,7 +3230,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-07-04T17:00:00.0000000Z"
   },
   {
     "id": "9PMDDQ228FQD",
@@ -2947,7 +3241,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-09T00:00:00.0000000Z"
   },
   {
     "id": "9N7H54KNCB9N",
@@ -2957,7 +3252,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-30T14:00:00.0000000Z"
   },
   {
     "id": "9MZVTHHJKD3G",
@@ -2967,7 +3263,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-07-12T00:00:00.0000000Z"
   },
   {
     "id": "BX3S1Q5DVHRD",
@@ -2977,7 +3274,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-12-04T00:00:00.0000000Z"
   },
   {
     "id": "9NNLBL0T2Z43",
@@ -2987,7 +3285,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-11-16T17:00:00.0000000Z"
   },
   {
     "id": "BRZHFR5XBLQS",
@@ -2997,7 +3296,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-10-28T00:00:00.0000000Z"
   },
   {
     "id": "9PLMGFWCFZ9G",
@@ -3007,7 +3307,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-11-07T05:00:00.0000000Z"
   },
   {
     "id": "9MXB71Q4VWGJ",
@@ -3017,7 +3318,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-03-15T00:00:00.0000000Z"
   },
   {
     "id": "BXC7CS90NX6S",
@@ -3027,7 +3329,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-03-15T00:00:00.0000000Z"
   },
   {
     "id": "BWH56DK175P1",
@@ -3037,7 +3340,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-02-23T00:00:00.0000000Z"
   },
   {
     "id": "9P4WKZXWP1QW",
@@ -3047,7 +3351,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-08-02T00:00:00.0000000Z"
   },
   {
     "id": "BRJGPRMBV1NT",
@@ -3057,7 +3362,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-06-02T00:00:00.0000000Z"
   },
   {
     "id": "9NF83PRZK6K3",
@@ -3067,7 +3373,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-27T16:00:00.0000000Z"
   },
   {
     "id": "BTNPS60N3114",
@@ -3077,7 +3384,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-11-14T00:00:00.0000000Z"
   },
   {
     "id": "9PN3VDFTB5HZ",
@@ -3087,7 +3395,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-18T03:00:00.0000000Z"
   },
   {
     "id": "C2B4T86TXLRS",
@@ -3097,7 +3406,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-27T15:00:00.0000000Z"
   },
   {
     "id": "9MVN4ND41DD3",
@@ -3107,7 +3417,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-13T13:00:00.0000000Z"
   },
   {
     "id": "9NPWSCWJGHL1",
@@ -3117,7 +3428,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-10T00:00:00.0000000Z"
   },
   {
     "id": "9NZWXT6VMGG8",
@@ -3127,7 +3439,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-02-04T05:00:00.0000000Z"
   },
   {
     "id": "BZZ0Q9ZMM7GX",
@@ -3137,7 +3450,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-08-30T04:00:00.0000000Z"
   },
   {
     "id": "BNZ8CXHJNLSH",
@@ -3147,7 +3461,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-06-06T00:00:00.0000000Z"
   },
   {
     "id": "BRKX5CRMRTC2",
@@ -3157,7 +3472,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-06-06T00:00:00.0000000Z"
   },
   {
     "id": "BS8XGCLL3VQZ",
@@ -3167,7 +3483,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-08-22T00:00:00.0000000Z"
   },
   {
     "id": "9P4Z4TW66LPV",
@@ -3177,7 +3494,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-11-29T05:00:00.0000000Z"
   },
   {
     "id": "C5150FZWS1K2",
@@ -3187,7 +3505,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-10-20T00:00:00.0000000Z"
   },
   {
     "id": "9NFKN56ZBMR0",
@@ -3197,7 +3516,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-11-02T09:00:00.0000000Z"
   },
   {
     "id": "C41ZDFQ82M1G",
@@ -3207,7 +3527,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-08-01T00:00:00.0000000Z"
   },
   {
     "id": "9NCP1745JF7B",
@@ -3217,7 +3538,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-05T07:00:00.0000000Z"
   },
   {
     "id": "9NNFBW3NGV9K",
@@ -3227,7 +3549,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9P5C81K094KW",
@@ -3237,7 +3560,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-06-25T00:00:00.0000000Z"
   },
   {
     "id": "9MWD2Z8L1FBQ",
@@ -3247,7 +3571,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-25T00:00:00.0000000Z"
   },
   {
     "id": "BVTKN6CQ8W5F",
@@ -3257,7 +3582,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-10-25T00:00:00.0000000Z"
   },
   {
     "id": "9PFHBH19RL3C",
@@ -3267,7 +3593,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-21T00:00:00.0000000Z"
   },
   {
     "id": "BSWTLFKMV96K",
@@ -3277,7 +3604,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-09-24T00:00:00.0000000Z"
   },
   {
     "id": "9NLDM4DGX41G",
@@ -3287,7 +3615,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-19T00:00:00.0000000Z"
   },
   {
     "id": "9N02KMVCRSRM",
@@ -3297,7 +3626,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-14T00:00:00.0000000Z"
   },
   {
     "id": "C1TJ5KT8LT9J",
@@ -3307,7 +3637,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-08-31T00:00:00.0000000Z"
   },
   {
     "id": "9N9W1JK1X5QJ",
@@ -3317,7 +3648,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-30T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH4VVTL",
@@ -3327,7 +3659,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2016-11-23T09:45:35.4481037Z"
   },
   {
     "id": "BS2MMFVLKXRK",
@@ -3337,7 +3670,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-08-30T00:00:00.0000000Z"
   },
   {
     "id": "BQR7QS0F8SJ3",
@@ -3347,7 +3681,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-12-20T00:00:00.0000000Z"
   },
   {
     "id": "C512KLS2GPD3",
@@ -3357,7 +3692,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-03-29T00:00:00.0000000Z"
   },
   {
     "id": "BT7L901WBLXD",
@@ -3367,7 +3703,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-04-26T00:00:00.0000000Z"
   },
   {
     "id": "C2XNJC9WK15X",
@@ -3377,7 +3714,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-02-23T00:00:00.0000000Z"
   },
   {
     "id": "C2DQXX0CB42F",
@@ -3387,7 +3725,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-10-21T00:00:00.0000000Z"
   },
   {
     "id": "BW6B077FCH11",
@@ -3397,7 +3736,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2014-10-14T00:00:00.0000000Z"
   },
   {
     "id": "BR765873CQJD",
@@ -3407,7 +3747,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2015-05-19T00:00:00.0000000Z"
   },
   {
     "id": "BXBJQ1932138",
@@ -3417,7 +3758,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-10-02T00:00:00.0000000Z"
   },
   {
     "id": "C09LFD39HKLW",
@@ -3427,7 +3769,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-12-04T00:00:00.0000000Z"
   },
   {
     "id": "9PHV10KXLJZT",
@@ -3437,7 +3780,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-19T00:00:00.0000000Z"
   },
   {
     "id": "9PJZXCCK7VLW",
@@ -3447,7 +3791,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-12-10T08:00:00.0000000Z"
   },
   {
     "id": "9NC0071DJ6XC",
@@ -3457,7 +3802,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-27T00:00:00.0000000Z"
   },
   {
     "id": "9PC4RWP34M2D",
@@ -3467,7 +3813,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2799-12-31T00:00:00.0000000Z"
   },
   {
     "id": "9NZG72SH3H4W",
@@ -3477,7 +3824,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-04-01T00:00:00.0000000Z"
   },
   {
     "id": "9NBLGJQQBHH4",
@@ -3487,7 +3835,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-03T00:00:00.0000000Z"
   },
   {
     "id": "9NBM23T6G6RN",
@@ -3497,7 +3846,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-11-14T17:00:00.0000000Z"
   },
   {
     "id": "9PCTJNL0GDS9",
@@ -3507,7 +3857,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-11-14T17:00:00.0000000Z"
   },
   {
     "id": "9NSFGM8J6MBJ",
@@ -3517,7 +3868,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-09-18T16:00:00.0000000Z"
   },
   {
     "id": "9P32WWJ0PJJK",
@@ -3527,7 +3879,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-08-15T15:00:00.0000000Z"
   },
   {
     "id": "9PMT49X8ZGM2",
@@ -3537,7 +3890,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-03-05T14:00:00.0000000Z"
   },
   {
     "id": "9N08S5VPC4SX",
@@ -3547,7 +3901,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-25T05:00:00.0000000Z"
   },
   {
     "id": "9PKM0HK8HKFL",
@@ -3557,7 +3912,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-02-25T05:00:00.0000000Z"
   },
   {
     "id": "9N52CQMFH3BB",
@@ -3567,7 +3923,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-06T11:00:00.0000000Z"
   },
   {
     "id": "9MVTCTDTHH23",
@@ -3577,7 +3934,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-12-17T05:00:00.0000000Z"
   },
   {
     "id": "9N171CGFVT1L",
@@ -3587,7 +3945,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-08-28T04:00:00.0000000Z"
   },
   {
     "id": "BSXSL6WBJ0V7",
@@ -3597,7 +3956,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2010-06-01T00:00:00.0000000Z"
   },
   {
     "id": "BS1NPTPJGD4G",
@@ -3607,7 +3967,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2009-08-11T00:00:00.0000000Z"
   },
   {
     "id": "9N584LPFG1GM",
@@ -3617,7 +3978,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-05-29T04:00:00.0000000Z"
   },
   {
     "id": "9PJ1CGLKQSWS",
@@ -3627,7 +3989,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9ND3Z0QH0NKB",
@@ -3637,7 +4000,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-12-06T00:00:00.0000000Z"
   },
   {
     "id": "9NJX558FNW9S",
@@ -3647,7 +4011,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "9NRPTTJ94PCK",
@@ -3657,7 +4022,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-02-01T00:00:00.0000000Z"
   },
   {
     "id": "BXZWT67JBZJH",
@@ -3667,7 +4033,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-07-11T00:00:00.0000000Z"
   },
   {
     "id": "C521HDXRTS7F",
@@ -3677,7 +4044,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2015-10-13T00:00:00.0000000Z"
   },
   {
     "id": "9NLT5XR52ZS7",
@@ -3687,7 +4055,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-08-28T00:00:00.0000000Z"
   },
   {
     "id": "BQ9T0JF0D3L4",
@@ -3697,7 +4066,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-08-28T00:00:00.0000000Z"
   },
   {
     "id": "9NGH1FK0RJGL",
@@ -3707,7 +4077,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-25T21:00:00.0000000Z"
   },
   {
     "id": "9NBLGGH5342P",
@@ -3717,7 +4088,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2018-08-10T18:00:00.0000000Z"
   },
   {
     "id": "BPR2TBS2KMQJ",
@@ -3727,7 +4099,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-08-10T00:00:00.0000000Z"
   },
   {
     "id": "9NTZCWK6P6GL",
@@ -3737,7 +4110,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-06-18T09:00:00.0000000Z"
   },
   {
     "id": "9NV0540N4JRN",
@@ -3747,7 +4121,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-06-18T09:00:00.0000000Z"
   },
   {
     "id": "BSLGLG8P9T01",
@@ -3757,7 +4132,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2017-07-19T00:00:00.0000000Z"
   },
   {
     "id": "9MZH0GG41HL9",
@@ -3767,7 +4143,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-06-09T07:00:00.0000000Z"
   },
   {
     "id": "C40HL7DFHWCX",
@@ -3777,7 +4154,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2018-05-15T00:00:00.0000000Z"
   },
   {
     "id": "C421ZX7RCG0W",
@@ -3787,7 +4165,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-07-26T00:00:00.0000000Z"
   },
   {
     "id": "9PHFTS44F99K",
@@ -3797,7 +4176,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-06T00:00:00.0000000Z"
   },
   {
     "id": "9N1FDTTSS49Z",
@@ -3807,7 +4187,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2799-12-31T08:00:00.0000000Z"
   },
   {
     "id": "9N015DFDMVK6",
@@ -3817,7 +4198,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-09-03T00:00:00.0000000Z"
   },
   {
     "id": "BWQ5FC9WDJ6H",
@@ -3827,7 +4209,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2019-04-16T00:00:00.0000000Z"
   },
   {
     "id": "9NVRZZJ4NG99",
@@ -3837,7 +4220,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-07-25T00:00:00.0000000Z"
   },
   {
     "id": "C4BZ7X545J1T",
@@ -3847,7 +4231,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2016-08-23T00:00:00.0000000Z"
   },
   {
     "id": "9PNBGZTL0Z1S",
@@ -3857,7 +4242,8 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2019-10-30T00:00:00.0000000Z"
   },
   {
     "id": "9NPP17LHJ3MK",
@@ -3867,7 +4253,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-02-26T00:00:00.0000000Z"
   },
   {
     "id": "9PD0BJRBLRJM",
@@ -3877,7 +4264,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-02-26T00:00:00.0000000Z"
   },
   {
     "id": "9NBJ51BD0LTH",
@@ -3887,7 +4275,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-04-22T00:00:00.0000000Z"
   },
   {
     "id": "9PBJL0NLFMK9",
@@ -3897,7 +4286,8 @@
     "availability": {
       "console": true,
       "pc": false
-    }
+    },
+    "releaseDate": "2020-07-29T00:00:00.0000000Z"
   },
   {
     "id": "9MZNFNN3XJ3F",
@@ -3907,7 +4297,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-07-29T00:00:00.0000000Z"
   },
   {
     "id": "9P40SC5DQ9K0",
@@ -3917,7 +4308,8 @@
     "availability": {
       "console": false,
       "pc": true
-    }
+    },
+    "releaseDate": "2020-04-22T00:00:00.0000000Z"
   },
   {
     "id": "9PJ06TZX4NMH",
@@ -3927,6 +4319,7 @@
     "availability": {
       "console": true,
       "pc": true
-    }
+    },
+    "releaseDate": "2017-10-31T04:00:00.0000000Z"
   }
 ]

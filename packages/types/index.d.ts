@@ -7,11 +7,5 @@ export interface APIGame {
     console: boolean;
     pc: boolean;
   };
-}
-
-export interface Patch {
-  [gameID: string]: {
-    before: APIGame | null;
-    after: APIGame | null;
-  };
+  releaseDate: string;
 }

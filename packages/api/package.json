@@ -5,12 +5,14 @@
   "scripts": {
     "typecheck": "tsc --noEmit",
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scripts/scrapGames.ts",
+    "sendNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./scripts/sendNewsletter.ts",
     "prebuild": "rm -rf dist",
     "build": "parcel build ./src/index.html --public-url https://gabinaureche.com/included-with-xbox-game-pass/",
     "start": "parcel ./src/index.html --port 1234"
   },
   "devDependencies": {
     "@included-with-xbox-game-pass/types": "^0.0.0",
+    "@sendgrid/mail": "^7.2.6",
     "@types/fs-extra": "^9.0.1",
     "@types/puppeteer": "^3.0.1",
     "alpha-sort": "^3.1.0",

@@ -109,6 +109,18 @@ const addedAt = new Date().toISOString();
           ? alphaSort.caseInsensitiveAscending(a.id, b.id)
           : nameSort;
       });
+      games.forEach((game) => {
+        const currentGame = currentGames.find(
+          (otherGame) => otherGame.id === game.id
+        );
+
+        if (currentGame == null) {
+          return;
+        }
+
+        // do not update the addedAt date if the game was already included
+        game.addedAt = currentGame.addedAt;
+      });
 
       console.log(
         `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`

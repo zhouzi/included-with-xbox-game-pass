@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "scrapGames": "ts-node ./scripts/scrapGames.ts",
+    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scripts/scrapGames.ts",
     "prebuild": "rm -rf dist",
     "build": "parcel build ./src/index.html --public-url https://gabinaureche.com/included-with-xbox-game-pass/",
     "start": "parcel ./src/index.html --port 1234"

@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "prebuild": "tsc --noEmit && rm -rf dist",
+    "typecheck": "tsc --noEmit",
+    "prebuild": "npm run typecheck && rm -rf dist",
     "build": "parcel build ./src/manifest.json",
     "postbuild": "cd dist && bestzip ../extension.zip *",
     "start": "parcel ./src/manifest.json --port 5678"

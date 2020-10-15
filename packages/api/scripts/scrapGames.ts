@@ -62,7 +62,7 @@ const addedAt = new Date().toISOString();
     games.push(
       ...(await page.$$eval(
         selectors.games,
-        (elements, selectors) =>
+        (elements, selectors, addedAt) =>
           elements.map(
             (element): APIGame => ({
               id: element.getAttribute("data-bigid")!,
@@ -85,7 +85,8 @@ const addedAt = new Date().toISOString();
               addedAt: addedAt,
             })
           ),
-        selectors
+        selectors,
+        addedAt
       ))
     );
 

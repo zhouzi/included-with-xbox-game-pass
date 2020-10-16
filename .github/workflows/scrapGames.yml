@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "0 14 * * *"
 jobs:
-  updateGames:
+  scrapGames:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

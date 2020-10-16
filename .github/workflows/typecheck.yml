@@ -1,7 +1,7 @@
 name: Typecheck
 on: [push]
 jobs:
-  deploy:
+  typecheck:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

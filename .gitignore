@@ -140,3 +140,6 @@ dist
 .vscode-test
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,node
+
+scripts/screenshots/
+extension.zip

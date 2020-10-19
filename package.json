@@ -4,8 +4,9 @@
     "tsc": "tsc --noEmit",
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./packages/scripts/scrapGames.ts",
     "sendNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./packages/scripts/sendNewsletter.ts",
-    "build:extension": "parcel build ./packages/extension/manifest.json -d ./dist/extension",
-    "postbuild:extension": "cd dist/extension && bestzip ../../extension.zip *",
+    "prebuild:extension": "rm -rf ./dist",
+    "build:extension": "parcel build ./packages/extension/manifest.json -d ./dist",
+    "postbuild:extension": "cd ./dist && bestzip ../../extension.zip *",
     "start": "serve ./packages/gh-pages"
   },
   "dependencies": {

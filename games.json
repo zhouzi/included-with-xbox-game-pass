@@ -1224,30 +1224,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "BTP7VK91B2Z3",
-    "name": "Felix The Reaper",
-    "url": "https://www.microsoft.com/en-us/store/p/felix-the-reaper/BTP7VK91B2Z3",
-    "image": "//store-images.s-microsoft.com/image/apps.33345.70461954067655478.ae7aa067-5dfd-4265-ae7f-0fe94410756d.5218848d-1f4f-4691-bab8-94772d211ac7",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-10-17T04:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9MVNB889L3HN",
-    "name": "Felix The Reaper PC",
-    "url": "https://www.microsoft.com/en-us/store/p/felix-the-reaper-pc/9MVNB889L3HN",
-    "image": "//store-images.s-microsoft.com/image/apps.33345.70461954067655478.ae7aa067-5dfd-4265-ae7f-0fe94410756d.5218848d-1f4f-4691-bab8-94772d211ac7",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-10-17T04:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NPGTNQFC8B5",
     "name": "FINAL FANTASY IX",
     "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-ix/9NPGTNQFC8B5",
@@ -2412,30 +2388,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NQ387M27TMV",
-    "name": "Metro 2033 Redux",
-    "url": "https://www.microsoft.com/en-us/store/p/metro-2033-redux/9NQ387M27TMV",
-    "image": "//store-images.s-microsoft.com/image/apps.60273.13781561070841959.2a25a66a-3f42-4b00-998c-a5fa602b68a5.20067fc3-8989-4cb9-afa1-e8a1d61bbee9",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-11-07T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BPPTRQZRJ341",
-    "name": "Metro 2033 Redux",
-    "url": "https://www.microsoft.com/en-us/store/p/metro-2033-redux/BPPTRQZRJ341",
-    "image": "//store-images.s-microsoft.com/image/apps.60273.68664808838028850.61879de5-57f5-44ac-8a94-ce9bb4234646.90723e3b-6017-4606-827c-c2e2ed705780",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2014-08-26T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NM5W1TDNQZ3",
     "name": "Metro: Last Light Redux",
     "url": "https://www.microsoft.com/en-us/store/p/metro-last-light-redux/9NM5W1TDNQZ3",
@@ -2505,30 +2457,6 @@
       "pc": true
     },
     "releaseDate": "2020-05-26T08:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "C120V2WGRMCH",
-    "name": "MINIT",
-    "url": "https://www.microsoft.com/en-us/store/p/minit/C120V2WGRMCH",
-    "image": "//store-images.s-microsoft.com/image/apps.8985.65190999656036746.f4e820aa-14de-4f69-8066-1b53e233c464.1e177f22-e7d5-483f-83be-1477368ffd15",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2018-04-03T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PJR1F15JBX0",
-    "name": "Minit",
-    "url": "https://www.microsoft.com/en-us/store/p/minit/9PJR1F15JBX0",
-    "image": "//store-images.s-microsoft.com/image/apps.3226.14276960639323271.40111153-a8c6-429f-9b22-99e97c100095.92886573-ec17-4019-a481-35fd7157b9db",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-10-24T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3324,18 +3252,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NFVLZQDZHKW",
-    "name": "Saints Row IV: Re-Elected",
-    "url": "https://www.microsoft.com/en-us/store/p/saints-row-iv-re-elected/9NFVLZQDZHKW",
-    "image": "//store-images.s-microsoft.com/image/apps.21630.13587449356674250.dbe3be2d-2ddf-4e19-a0c4-5e4b162cf14a.06ed60d0-b226-4593-ac75-c3fe59d674e3",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-10-17T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "BQ4M1XWXFKHB",
     "name": "ScreamRide",
     "url": "https://www.microsoft.com/en-us/store/p/screamride/BQ4M1XWXFKHB",
@@ -3351,7 +3267,7 @@
     "id": "9P2N57MC619K",
     "name": "Sea of Thieves",
     "url": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
-    "image": "//store-images.s-microsoft.com/image/apps.16347.14554784103656548.6c0bfca6-ceff-4368-9bde-2fe50f344136.007dce43-6492-46f2-bb2b-2b28df98fc3c",
+    "image": "//store-images.s-microsoft.com/image/apps.47028.14554784103656548.537c9e62-0a78-4e1c-bd03-9f208a8eee2d.9aab379e-f240-4957-a9d0-c815c4bb81ec",
     "availability": {
       "console": true,
       "pc": true
@@ -3501,18 +3417,6 @@
       "pc": false
     },
     "releaseDate": "2015-04-28T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PL8ST9QV6RP",
-    "name": "State of Mind PC",
-    "url": "https://www.microsoft.com/en-us/store/p/state-of-mind-pc/9PL8ST9QV6RP",
-    "image": "//store-images.s-microsoft.com/image/apps.41973.14317291809847272.5d198fd5-b855-4cd2-8998-cb508889b4b7.dd7eeea2-39aa-464d-a3ed-cd74e5e14574",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-06-09T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {

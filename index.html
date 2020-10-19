@@ -1,1 +1,242 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>included-with-xbox-game-pass</title><meta name="title" property="og:title" content="included-with-xbox-game-pass"><meta name="description" property="og:description" content="A browser extension that adds the mention &quot;included / not included with Xbox Game Pass&quot; on Steam&apos;s store page."><meta property="og:image" content="https://gabinaureche.com/included-with-xbox-game-pass/storepage.d3d972d9.png"><link rel="stylesheet" href="https://unpkg.com/modern-normalize@1.0.0/modern-normalize.css"><link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;600&display=swap" rel="stylesheet"><style>html{font-size:16px}body{font-family:Work Sans,sans-serif;font-weight:300;line-height:1.6;color:#c4d1dd;background-color:#1a2534}.button,.link{background:transparent;border:none;font:inherit;padding:0;cursor:pointer;text-decoration:none}.link{color:#5eb1e1}.link:focus,.link:hover{color:#3f8bb7}footer,main{max-width:40rem;margin:0 auto;padding:1rem}main{padding:6rem 1rem}.button{display:inline-block;color:#fff;font-weight:600;background-color:#098a43;padding:.5rem 1rem;border-radius:4px}.button:focus,.button:hover{color:#fff;background-color:#066732}article,p{margin:0 0 2rem}h2{font-size:1.6rem;font-weight:300;margin:0 0 1rem}strong{color:#fff;font-weight:600}blockquote{margin:0;border-left:4px solid #324156;padding-left:1rem}small{color:#98a8b7;font-size:.8rem}section{margin:0 0 4rem}.screenshots{list-style:none;padding:0;display:flex}.screenshots li{width:160px;height:100px;overflow:hidden;margin-right:.5rem;border:2px solid}.screenshots a{position:relative;display:block}.screenshots a:before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.4);transition:background-color .3s ease-out}.screenshots a:hover:before{background-color:transparent}img{max-width:100%}</style></head><body> <main> <section> <article> <h2> <strong>Spiritfarer</strong> is out on <strong>Steam</strong>, but did you know that it was included with <strong>Xbox Game Pass</strong>? </h2> <blockquote> <p>Me neither.</p> </blockquote> </article> <article> <h2> And how many games sit in your <strong>Steam wishlist</strong>, although they are included with <strong>Xbox Game Pass</strong>? </h2> <blockquote> <p>More than I personally expected.</p> </blockquote> </article> </section> <section> <p> So I built a browser extension that lets you know what is <strong>included with Xbox Game Pass</strong>, right from the <strong>Steam store</strong>. </p> <ul class="screenshots"> <li> <a href="https://gabinaureche.com/included-with-xbox-game-pass/storepage.d3d972d9.png"> <img src="https://gabinaureche.com/included-with-xbox-game-pass/storepage.d3d972d9.png" alt="Screenshot of the Steam store page with the extension installed"> </a> </li> <li> <a href="https://gabinaureche.com/included-with-xbox-game-pass/wishlist.85de3f5c.png"> <img src="https://gabinaureche.com/included-with-xbox-game-pass/wishlist.85de3f5c.png" alt="Screenshot of the Steam wishlist with the extension installed"> </a> </li> </ul> </section> <section> <p> <a data-browser="chrome" href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk" class="button"> Add to Chrome </a> <a data-browser="firefox" href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/" class="button"> Add to Firefox </a> <small> <a href="https://github.com/zhouzi/included-with-xbox-game-pass" class="link">GitHub</a> - Made by <a href="https://gabinaureche.com" class="link">Gabin Aureche</a> </small> </p> </section> </main> <script>var e=window.document.querySelector('[data-browser="firefox"]'),o=window.document.querySelector('[data-browser="chrome"]'),r=window.navigator.userAgent.toLowerCase();r.includes("firefox")?o.style.display="none":r.includes("chrome")&&(e.style.display="none");</script> </body></html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>included-with-xbox-game-pass</title>
+    <meta
+      name="title"
+      property="og:title"
+      content="included-with-xbox-game-pass"
+    />
+    <meta
+      name="description"
+      property="og:description"
+      content='A browser extension that adds the mention "included / not included with Xbox Game Pass" on Steam&apos;s store page.'
+    />
+    <meta property="og:image" content="storepage.png" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/modern-normalize@1.0.0/modern-normalize.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html {
+        font-size: 16px;
+      }
+
+      body {
+        font-family: "Work Sans", sans-serif;
+        font-weight: 300;
+        line-height: 1.6;
+        color: #c4d1dd;
+        background-color: #1a2534;
+      }
+
+      .link,
+      .button {
+        background: transparent;
+        border: none;
+        font: inherit;
+        padding: 0;
+        cursor: pointer;
+        text-decoration: none;
+      }
+
+      .link {
+        color: #5eb1e1;
+      }
+
+      .link:hover,
+      .link:focus {
+        color: #3f8bb7;
+      }
+
+      main,
+      footer {
+        max-width: 40rem;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+
+      main {
+        padding: 6rem 1rem;
+      }
+
+      .button {
+        display: inline-block;
+        color: #fff;
+        font-weight: 600;
+        background-color: #098a43;
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+      }
+
+      .button:hover,
+      .button:focus {
+        color: #fff;
+        background-color: #066732;
+      }
+
+      article,
+      p {
+        margin: 0 0 2rem 0;
+      }
+
+      h2 {
+        font-size: 1.6rem;
+        font-weight: 300;
+        margin: 0 0 1rem 0;
+      }
+      strong {
+        color: #fff;
+        font-weight: 600;
+      }
+
+      blockquote {
+        margin: 0;
+        border-left: 4px solid #324156;
+        padding-left: 1rem;
+      }
+
+      small {
+        color: #98a8b7;
+        font-size: 0.8rem;
+      }
+
+      section {
+        margin: 0 0 4rem 0;
+      }
+
+      .screenshots {
+        list-style: none;
+        padding: 0;
+        display: flex;
+      }
+      .screenshots li {
+        width: 160px;
+        height: 100px;
+        overflow: hidden;
+        margin-right: 0.5rem;
+        border: 2px solid;
+      }
+      .screenshots a {
+        position: relative;
+        display: block;
+      }
+      .screenshots a::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.4);
+        transition: background-color 300ms ease-out;
+      }
+      .screenshots a:hover::before {
+        background-color: rgba(0, 0, 0, 0);
+      }
+
+      img {
+        max-width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section>
+        <article>
+          <h2>
+            <strong>Spiritfarer</strong> is out on <strong>Steam</strong>, but
+            did you know that it was included with
+            <strong>Xbox Game Pass</strong>?
+          </h2>
+          <blockquote>
+            <p>Me neither.</p>
+          </blockquote>
+        </article>
+        <article>
+          <h2>
+            And how many games sit in your <strong>Steam wishlist</strong>,
+            although they are included with <strong>Xbox Game Pass</strong>?
+          </h2>
+          <blockquote>
+            <p>More than I personally expected.</p>
+          </blockquote>
+        </article>
+      </section>
+      <section>
+        <p>
+          So I built a browser extension that lets you know what is
+          <strong>included with Xbox Game Pass</strong>, right from the
+          <strong>Steam store</strong>.
+        </p>
+        <ul class="screenshots">
+          <li>
+            <a href="storepage.png">
+              <img
+                src="storepage.png"
+                alt="Screenshot of the Steam store page with the extension installed"
+              />
+            </a>
+          </li>
+          <li>
+            <a href="wishlist.png">
+              <img
+                src="wishlist.png"
+                alt="Screenshot of the Steam wishlist with the extension installed"
+              />
+            </a>
+          </li>
+        </ul>
+      </section>
+      <section>
+        <p>
+          <a
+            data-browser="chrome"
+            href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
+            class="button"
+          >
+            Add to Chrome
+          </a>
+          <a
+            data-browser="firefox"
+            href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
+            class="button"
+          >
+            Add to Firefox
+          </a>
+          <small>
+            <a
+              href="https://github.com/zhouzi/included-with-xbox-game-pass"
+              class="link"
+              >GitHub</a
+            >
+            - Made by
+            <a href="https://gabinaureche.com" class="link">Gabin Aureche</a>
+          </small>
+        </p>
+      </section>
+    </main>
+    <script>
+      var firefoxButton = window.document.querySelector(
+        '[data-browser="firefox"]'
+      );
+      var chromeButton = window.document.querySelector(
+        '[data-browser="chrome"]'
+      );
+
+      var userAgent = window.navigator.userAgent.toLowerCase();
+
+      if (userAgent.includes("firefox")) {
+        chromeButton.style.display = "none";
+      } else if (userAgent.includes("chrome")) {
+        firefoxButton.style.display = "none";
+      }
+    </script>
+  </body>
+</html>

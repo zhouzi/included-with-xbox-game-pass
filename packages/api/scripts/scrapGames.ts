@@ -2,11 +2,11 @@ import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
-import { APIGame } from "../packages/types";
-import currentGames from "../packages/gh-pages/games.json";
+import { APIGame } from "@included-with-xbox-game-pass/types";
+import currentGames from "../static/games.json";
 
 const screenshotsDir = path.join(__dirname, "screenshots");
-const outputDir = path.join(__dirname, "..", "packages", "gh-pages");
+const staticDir = path.join(__dirname, "..", "static");
 const xboxGamePassURL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 const selectors = {
   games: `.gameList [itemtype="http://schema.org/Product"]`,
@@ -126,7 +126,7 @@ const addedAt = new Date().toISOString();
         `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`
       );
 
-      await fse.writeJSON(path.join(outputDir, "games.json"), games, {
+      await fse.writeJSON(path.join(staticDir, "games.json"), games, {
         spaces: 2,
       });
     }

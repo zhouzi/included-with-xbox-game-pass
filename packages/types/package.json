@@ -1,0 +1,7 @@
+{
+  "name": "@included-with-xbox-game-pass/types",
+  "version": "0.0.0",
+  "private": true,
+  "main": "",
+  "types": "index.d.ts"
+}

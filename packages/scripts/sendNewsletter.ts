@@ -1,5 +1,5 @@
 import sendgrid from "@sendgrid/mail";
-import games from "../static/games.json";
+import games from "../gh-pages/games.json";
 
 sendgrid.setApiKey(process.env.SENDGRID_API_KEY!);
 

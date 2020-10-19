@@ -2,11 +2,11 @@ import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
-import { APIGame } from "@included-with-xbox-game-pass/types";
-import currentGames from "../static/games.json";
+import { APIGame } from "../types";
+import currentGames from "../gh-pages/games.json";
 
 const screenshotsDir = path.join(__dirname, "screenshots");
-const staticDir = path.join(__dirname, "..", "static");
+const staticDir = path.join(__dirname, "..", "gh-pages");
 const xboxGamePassURL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 const selectors = {
   games: `.gameList [itemtype="http://schema.org/Product"]`,

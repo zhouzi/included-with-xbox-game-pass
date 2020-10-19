@@ -1,5 +1,5 @@
 import storageCache from "webext-storage-cache";
-import { APIGame } from "@included-with-xbox-game-pass/types";
+import { APIGame } from "../types";
 
 const API_HOST =
   process.env.NODE_ENV === "production"

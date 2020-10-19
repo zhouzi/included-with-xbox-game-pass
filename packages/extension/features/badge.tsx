@@ -1,5 +1,4 @@
 import React from "dom-chef";
-import { APIGame } from "@included-with-xbox-game-pass/types";
 import { RouteName } from "../routes";
 import getGame from "../getGame";
 

@@ -2,6 +2,7 @@ import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
+import { APIGame } from "../types";
 import currentGames from "../gh-pages/games.json";
 
 const screenshotsDir = path.join(__dirname, "screenshots");

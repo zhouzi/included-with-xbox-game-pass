@@ -1,4 +1,5 @@
 import Fuse from "fuse.js";
+import { APIGame } from "../types";
 import getGames from "./getGames";
 
 export default async function getGame(name: string): Promise<APIGame | null> {

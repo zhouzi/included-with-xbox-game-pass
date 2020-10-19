@@ -1,4 +1,5 @@
 import React from "dom-chef";
+import { APIGame } from "../../types";
 import { RouteName } from "../routes";
 import getGame from "../getGame";
 import { XboxLogo } from "./badge";

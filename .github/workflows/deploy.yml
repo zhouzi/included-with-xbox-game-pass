@@ -10,8 +10,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
       - run: npm ci
-      - run: npm run build --prefix ./packages/api
+      - run: npm run build --prefix ./packages/gh-pages
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./packages/api/dist
+          publish_dir: ./packages/gh-pages/dist

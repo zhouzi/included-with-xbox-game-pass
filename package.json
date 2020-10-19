@@ -5,7 +5,8 @@
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./packages/scripts/scrapGames.ts",
     "sendNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./packages/scripts/sendNewsletter.ts",
     "build:extension": "parcel build ./packages/extension/manifest.json -d ./dist/extension",
-    "postbuild:extension": "cd dist/extension && bestzip ../../extension.zip *"
+    "postbuild:extension": "cd dist/extension && bestzip ../../extension.zip *",
+    "start": "serve ./packages/gh-pages"
   },
   "dependencies": {
     "@sendgrid/mail": "^7.3.0",
@@ -21,6 +22,7 @@
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-web-extension": "^1.6.1",
     "puppeteer": "^5.3.1",
+    "serve": "^11.3.2",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.3",
     "webext-storage-cache": "^4.1.1",

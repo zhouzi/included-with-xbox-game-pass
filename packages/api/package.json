@@ -1,6 +1,4 @@
 {
-  "name": "@included-with-xbox-game-pass/api",
-  "version": "0.0.0",
   "private": true,
   "scripts": {
     "typecheck": "tsc --noEmit",
@@ -11,7 +9,7 @@
     "start": "parcel ./src/index.html --port 1234"
   },
   "devDependencies": {
-    "@included-with-xbox-game-pass/types": "^0.0.0",
+    "@included-with-xbox-game-pass/types": "file:../types",
     "@sendgrid/mail": "^7.2.6",
     "@types/fs-extra": "^9.0.1",
     "@types/puppeteer": "^3.0.1",

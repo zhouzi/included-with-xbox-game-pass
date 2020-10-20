@@ -3,10 +3,10 @@ import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
 import { APIGame } from "../types";
-import currentGames from "../gh-pages/games.json";
+import currentGames from "../xgp.community/api/v1/games.json";
 
 const screenshotsDir = path.join(__dirname, "screenshots");
-const staticDir = path.join(__dirname, "..", "gh-pages");
+const outputDir = path.join(__dirname, "..", "xgp.community", "api", "v1");
 const xboxGamePassURL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 const selectors = {
   games: `.gameList [itemtype="http://schema.org/Product"]`,
@@ -126,9 +126,13 @@ const addedAt = new Date().toISOString();
         `The script ended with a total of ${games.length} (previously: ${currentGames.length}).`
       );
 
-      await fse.writeJSON(path.join(staticDir, "games.json"), games, {
+      await fse.writeJSON(path.join(outputDir, "games.json"), games, {
         spaces: 2,
       });
+      await fse.copyFile(
+        path.join(outputDir, "games.json"),
+        path.join("..", "gh-pages")
+      );
     }
   })();
 

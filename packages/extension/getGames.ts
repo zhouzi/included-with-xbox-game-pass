@@ -3,8 +3,8 @@ import { APIGame } from "../types";
 
 const API_HOST =
   process.env.NODE_ENV === "production"
-    ? "https://gabinaureche.com/included-with-xbox-game-pass/"
-    : "http://localhost:1234/";
+    ? "https://xgp.community/api/v1/"
+    : "http://localhost:1234/api/v1/";
 const API_ENDPOINT = new URL("./games.json", API_HOST).href;
 
 // The response's API is cached so the cache might fall out of date at some point.

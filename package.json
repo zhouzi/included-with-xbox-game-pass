@@ -7,9 +7,9 @@
     "prebuild:extension": "rm -rf ./dist",
     "build:extension": "parcel build ./packages/extension/manifest.json -d ./dist",
     "postbuild:extension": "cd ./dist && bestzip ../../extension.zip *",
-    "start:gh-pages": "serve ./packages/gh-pages -p 1234",
+    "start:xgp.community": "serve ./packages/xgp.community -p 1234",
     "start:extension": "parcel ./packages/extension/manifest.json -p 5678",
-    "start": "concurrently 'npm run start:gh-pages' 'npm run start:extension'"
+    "start": "concurrently 'npm run start:xgp.community' 'npm run start:extension'"
   },
   "dependencies": {
     "@sendgrid/mail": "^7.3.0",

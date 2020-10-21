@@ -3252,6 +3252,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NXPV1T3WS34",
+    "name": "ScourgeBringer",
+    "url": "https://www.microsoft.com/en-us/store/p/scourgebringer/9NXPV1T3WS34",
+    "image": "//store-images.s-microsoft.com/image/apps.55783.14495687703001809.a3742cfb-805c-42a3-a8f2-2e8b9755d47f.03966600-af0c-4e91-94ce-ac5945957f11",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-21T17:00:00.0000000Z",
+    "addedAt": "2020-10-21T14:20:13.785Z"
+  },
+  {
     "id": "BQ4M1XWXFKHB",
     "name": "ScreamRide",
     "url": "https://www.microsoft.com/en-us/store/p/screamride/BQ4M1XWXFKHB",

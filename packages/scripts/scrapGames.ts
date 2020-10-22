@@ -131,7 +131,7 @@ const addedAt = new Date().toISOString();
       });
       await fse.copyFile(
         path.join(outputDir, "games.json"),
-        path.join("..", "gh-pages")
+        path.join(__dirname, "..", "gh-pages", "games.json")
       );
     }
   })();

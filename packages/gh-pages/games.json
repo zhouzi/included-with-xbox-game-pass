@@ -576,6 +576,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NTT51922L20",
+    "name": "Cricket 19",
+    "url": "https://www.microsoft.com/en-us/store/p/cricket-19/9NTT51922L20",
+    "image": "//store-images.s-microsoft.com/image/apps.42716.14411869769901395.d2b64567-a344-4830-9799-e8f095962356.e04d3c50-2574-4fa8-a0df-16f1f349d7ec",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-05-28T04:00:00.0000000Z",
+    "addedAt": "2020-10-22T14:19:36.679Z"
+  },
+  {
     "id": "9N04RQQ64524",
     "name": "CrossCode",
     "url": "https://www.microsoft.com/en-us/store/p/crosscode/9N04RQQ64524",
@@ -1654,6 +1666,30 @@
     },
     "releaseDate": "2020-05-19T04:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NRZHK9QN558",
+    "name": "GONNER2",
+    "url": "https://www.microsoft.com/en-us/store/p/gonner2/9NRZHK9QN558",
+    "image": "//store-images.s-microsoft.com/image/apps.24980.14373853701406965.3950f607-624d-4a2c-a2ce-e4875c8a18a1.f3a8517d-0671-41c2-a9b4-1b681cbff836",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-10-22T00:00:00.0000000Z",
+    "addedAt": "2020-10-22T14:19:36.679Z"
+  },
+  {
+    "id": "9P44W70MC99Z",
+    "name": "GONNER2 WIN10",
+    "url": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
+    "image": "//store-images.s-microsoft.com/image/apps.24980.14373853701406965.3950f607-624d-4a2c-a2ce-e4875c8a18a1.f3a8517d-0671-41c2-a9b4-1b681cbff836",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-10-22T00:00:00.0000000Z",
+    "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
     "id": "9NHHP2H0ZP98",
@@ -3252,6 +3288,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NXPV1T3WS34",
+    "name": "ScourgeBringer",
+    "url": "https://www.microsoft.com/en-us/store/p/scourgebringer/9NXPV1T3WS34",
+    "image": "//store-images.s-microsoft.com/image/apps.55783.14495687703001809.a3742cfb-805c-42a3-a8f2-2e8b9755d47f.03966600-af0c-4e91-94ce-ac5945957f11",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-21T17:00:00.0000000Z",
+    "addedAt": "2020-10-21T14:20:13.785Z"
+  },
+  {
     "id": "BQ4M1XWXFKHB",
     "name": "ScreamRide",
     "url": "https://www.microsoft.com/en-us/store/p/screamride/BQ4M1XWXFKHB",
@@ -3538,6 +3586,18 @@
     },
     "releaseDate": "2017-11-07T05:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9PN6MTJX8LZD",
+    "name": "Supraland",
+    "url": "https://www.microsoft.com/en-us/store/p/supraland/9PN6MTJX8LZD",
+    "image": "//store-images.s-microsoft.com/image/apps.22794.14354148193968541.017a6808-d170-40f2-a4c6-5b8716a41d7c.1a5cfbba-4be8-4c36-8d5f-a9251ffce51e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-10-22T00:00:00.0000000Z",
+    "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
     "id": "9MXB71Q4VWGJ",
@@ -4102,6 +4162,18 @@
     },
     "releaseDate": "2019-12-10T08:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9P30K2NXWH82",
+    "name": "Tom Clancy's Rainbow Six® Siege Deluxe Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/tom-clancys-rainbow-six-siege-deluxe-edition/9P30K2NXWH82",
+    "image": "//store-images.s-microsoft.com/image/apps.26029.14552088507516913.0c90b9e5-5056-4560-90bf-48d40832d2ec.e99c008d-aea6-4c7b-a9c8-199beda6b7a4",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-02-18T14:00:00.0000000Z",
+    "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
     "id": "9NC0071DJ6XC",

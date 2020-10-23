@@ -37,6 +37,7 @@
       :root {
         --color-primary: #44f089;
         --color-primary-dark: #24cc67;
+        --color-background-dark: #050f1a;
         --color-background-main-over: #bac5ce;
         --color-background-main-over-emphasis: #fff;
         --color-background-main: #0f1923;
@@ -78,7 +79,7 @@
       .Paragraph,
       .List,
       .ListInline {
-        margin: 0 0 0.5rem 0;
+        margin: 0 0 1rem 0;
       }
 
       .List {
@@ -142,7 +143,7 @@
       }
       .InputGroupItem:first-child {
         flex: 1;
-        padding-right: 0.5rem;
+        padding-right: 1rem;
       }
 
       .Button {
@@ -175,14 +176,14 @@
         flex-wrap: wrap;
       }
       .ListInlineItem {
-        margin-right: 0.5rem;
+        margin-right: 1rem;
       }
       .ListInlineItem:last-child {
         margin-right: 0;
       }
 
       .Block {
-        margin-bottom: 3rem;
+        margin-bottom: 4rem;
       }
 
       .Image {
@@ -190,6 +191,7 @@
         width: calc(100% + 6rem);
         height: auto;
         margin: 0 -3rem 1rem -3rem;
+        background-color: var(--color-background-dark);
       }
     </style>
   </head>
@@ -204,11 +206,7 @@
     <main class="Container Main">
       <section id="extension">
         <article class="Block">
-          <img
-            src="https://via.placeholder.com/600x250/050F1A/050F1A"
-            alt=""
-            class="Image"
-          />
+          <img src="images/storepage.png" alt="" class="Image" />
           <h2 class="Heading2">
             Install the browser extension to add support for the Xbox Game Pass
             to Steam
@@ -237,11 +235,7 @@
         </article>
 
         <article class="Block">
-          <img
-            src="https://via.placeholder.com/600x250/050F1A/050F1A"
-            alt=""
-            class="Image"
-          />
+          <img src="images/wishlist.png" alt="" class="Image" />
           <h2 class="Heading2">Review your wishlist</h2>
           <p class="Paragraph">
             The browser extension also add a “included with Xbox Game Pass”

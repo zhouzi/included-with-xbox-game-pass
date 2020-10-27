@@ -58,7 +58,6 @@
 
       .Header {
         padding-top: 1rem;
-        padding-bottom: 1rem;
       }
 
       .Logo {
@@ -66,6 +65,7 @@
         margin: 0;
         font-style: italic;
         font-weight: 800;
+        line-height: 1.2;
       }
       .LogoDot {
         color: var(--color-background-lighter);
@@ -84,9 +84,12 @@
       .ListInline {
         margin: 0 0 1rem 0;
       }
-
-      .List {
-        padding: 0 0 0 1rem;
+      .Heading2:last-child,
+      .Heading3:last-child,
+      .Paragraph:last-child,
+      .List:last-child,
+      .ListInline:last-child {
+        margin-bottom: 0;
       }
 
       .Heading2,
@@ -105,6 +108,20 @@
         padding: 1.5rem;
         border-radius: 6px;
         background-color: var(--color-background-light);
+      }
+      .NewsletterContent {
+        margin-bottom: 1rem;
+      }
+      .NewsletterAction {
+      }
+      @media (min-width: 46rem) {
+        .Newsletter {
+          display: flex;
+        }
+        .NewsletterContent {
+          padding-right: 1rem;
+          margin-bottom: 0;
+        }
       }
 
       .Footer {
@@ -139,14 +156,6 @@
       }
       .Input::placeholder {
         color: var(--color-background-main-over);
-      }
-
-      .InputGroup {
-        display: flex;
-      }
-      .InputGroupItem:first-child {
-        flex: 1;
-        padding-right: 1rem;
       }
 
       .Button {
@@ -191,147 +200,135 @@
 
       .Image {
         display: block;
-        width: calc(100% + 6rem);
+        width: 100%;
         height: auto;
-        margin: 0 -3rem 1rem -3rem;
+        margin: 0 0 1rem 0;
         background-color: var(--color-background-dark);
+      }
+      @media (min-width: 46rem) {
+        .Image {
+          width: calc(100% + 6rem);
+          margin-left: -3rem;
+          margin-right: -3rem;
+        }
       }
     </style>
   </head>
   <body>
-    <header class="Container Header">
+    <header class="Container Block Header">
       <h1 class="Logo">
         <span class="LogoXGP">xgp</span>
         <span class="LogoDot">.</span>
         <span class="LogoCommunity">community</span>
       </h1>
+      <p class="Paragraph">
+        Browser extension bringing the Xbox Game Pass to Steam.
+      </p>
+      <ul class="ListInline">
+        <li class="ListInlineItem">
+          <a
+            href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
+            class="Button ButtonPrimary"
+          >
+            Add to Chrome
+          </a>
+        </li>
+        <li class="ListInlineItem">
+          <a
+            href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
+            class="Button ButtonPrimary"
+          >
+            Add to Firefox
+          </a>
+        </li>
+      </ul>
     </header>
     <main class="Container Main">
       <section id="extension">
         <article class="Block">
           <img src="images/storepage.png" alt="" class="Image" />
-          <h2 class="Heading2">
-            Install the browser extension to add support for the Xbox Game Pass
-            to Steam
-          </h2>
+          <h2 class="Heading2">Do not buy a game you already have access to</h2>
           <p class="Paragraph">
-            This browser extension lets you know if the game you’re looking at
-            is included with Xbox Game Pass so you don’t buy what you already
-            own.
+            There is no way you're mistakenly buying a game again with the
+            "Included with Xbox Game Pass" block appearing above the purchase
+            options.
           </p>
-          <ul class="ListInline">
-            <li class="ListInlineItem">
-              <a
-                href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
-                class="Button ButtonPrimary"
-                >Add to Chrome</a
-              >
-            </li>
-            <li class="ListInlineItem">
-              <a
-                href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
-                class="Button ButtonPrimary"
-                >Add to Firefox</a
-              >
-            </li>
-          </ul>
         </article>
 
         <article class="Block">
           <img src="images/wishlist.png" alt="" class="Image" />
           <h2 class="Heading2">Review your wishlist</h2>
           <p class="Paragraph">
-            The browser extension also add a “included with Xbox Game Pass”
-            badge in your wishlist. It’s an easy way to know if you’re waiting
-            on games you could already be playing.
+            You might be waiting on a sale while you can already be playing
+            games from your wishlist. With this extension you can tell at first
+            glance.
           </p>
-          <ul class="ListInline">
-            <li class="ListInlineItem">
-              <a
-                href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
-                class="Button ButtonPrimary"
-                >Add to Chrome</a
-              >
-            </li>
-            <li class="ListInlineItem">
-              <a
-                href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
-                class="Button ButtonPrimary"
-                >Add to Firefox</a
-              >
-            </li>
-          </ul>
         </article>
       </section>
+      <section class="Block">
+        <ul class="ListInline">
+          <li class="ListInlineItem">
+            <a
+              href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
+              class="Button ButtonPrimary"
+            >
+              Add to Chrome
+            </a>
+          </li>
+          <li class="ListInlineItem">
+            <a
+              href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
+              class="Button ButtonPrimary"
+            >
+              Add to Firefox
+            </a>
+          </li>
+        </ul>
+      </section>
       <section id="newsletter" class="Block Newsletter">
-        <h3 class="Heading3">Don’t miss out on the new and upcoming games</h3>
-        <p class="Paragraph">
-          Subscribe to the newsletter to receive a weekly summary of games that
-          have been added to Xbox Game Pass as well as games being released
-          soon.
-        </p>
-        <form>
-          <div class="InputGroup">
-            <div class="InputGroupItem">
-              <input type="email" placeholder="your@email.com" class="Input" />
-            </div>
-            <div class="InputGroupItem">
-              <button type="submit" class="Button ButtonSecondary">
-                Subscribe
-              </button>
-            </div>
-          </div>
-        </form>
+        <div class="NewsletterContent">
+          <h3 class="Heading3">Weekly digest in your inbox</h3>
+          <p class="Paragraph">
+            Subscribe to the weekly newsletter to stay updated on new and
+            upcoming games.
+          </p>
+        </div>
+        <div class="NewsletterAction">
+          <a
+            href="https://cdn.forms-content.sg-form.com/3189fb2d-0bfe-11eb-8a8d-dac42690277d"
+            class="Button ButtonSecondary"
+            >Subscribe</a
+          >
+        </div>
       </section>
     </main>
     <footer class="Container Block Footer">
       <p class="Paragraph">
-        Sorry for the marketing-ish speech! This really is just a funny side
-        project made by
-        <a href="https://gabinaureche.com" class="Link">Gabin</a>. It turned out
-        to be pretty useful to me so I thought I’d share it.
-      </p>
-      <p class="Paragraph">
-        It’s
+        xgp.community is an
         <a
           href="https://github.com/zhouzi/included-with-xbox-game-pass"
           class="Link"
-          >open source</a
         >
-        so feel free to contribute and share your ideas. You can also shoot me
-        an email:
+          open source</a
+        >
+        side project by
+        <a href="https://gabinaureche.com" class="Link">Gabin</a>. Do not
+        hesitate to get in touch by sending me at email at
         <a href="mailto:gabin@xgp.community" class="Link">gabin@xgp.community</a
         >.
       </p>
       <p class="Paragraph">
-        If you want to stay updated on all things Xbox Game Pass, here are a few
-        useful links:
+        Also, the best way to be part of the community is by joining the Xbox
+        Game Pass subreddit:
+        <a href="https://reddit.com/r/xboxgamepass" class="Link"
+          >/r/xboxgamepass</a
+        >. Regarding the latest news, Microsoft usually posts them on
+        <a href="https://twitter.com/xboxgamepass" class="Link">Twitter</a>
+        and/or on their
+        <a href="https://news.xbox.com/en-us/xbox-game-pass/" class="Link"
+          >blog</a
+        >.
       </p>
-      <ul class="List">
-        <li class="ListItem">
-          <a href="https://reddit.com/r/xboxgamepass" class="Link"
-            >Reddit community</a
-          >
-        </li>
-        <li class="ListItem">
-          <a href="https://twitter.com/xboxgamepass" class="Link">
-            Official Xbox Game Pass Twitter account
-          </a>
-        </li>
-        <li class="ListItem">
-          <a
-            href="https://www.xbox.com/en-US/xbox-game-pass/games"
-            class="Link"
-          >
-            Official Xbox Game Pass games list
-          </a>
-        </li>
-        <li class="ListItem">
-          <a href="https://news.xbox.com/en-us/xbox-game-pass/" class="Link">
-            Official Xbox Game Pass blog
-          </a>
-        </li>
-      </ul>
     </footer>
   </body>
 </html>

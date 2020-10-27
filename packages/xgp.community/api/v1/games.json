@@ -480,6 +480,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NJ2XXPJVDRD",
+    "name": "Carto",
+    "url": "https://www.microsoft.com/en-us/store/p/carto/9NJ2XXPJVDRD",
+    "image": "//store-images.s-microsoft.com/image/apps.24809.13618730929685273.f357318e-62a9-42cd-9f85-6dbecd80dd13.c77280bd-cfc2-44ae-812d-5be03a61e8ce",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-10-27T00:00:00.0000000Z",
+    "addedAt": "2020-10-27T14:20:06.737Z"
+  },
+  {
     "id": "9P675WH90SB4",
     "name": "Children of Morta",
     "url": "https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4",
@@ -3339,7 +3351,7 @@
     "id": "9P7GBPGT90L3",
     "name": "Secret Neighbor",
     "url": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
-    "image": "//store-images.s-microsoft.com/image/apps.48532.14605254180386304.843c17b3-dc76-4d90-b085-3171543de82c.4b131b56-e79b-48f9-acd2-4041d62d2be8",
+    "image": "//store-images.s-microsoft.com/image/apps.21400.14605254180386304.35eb8b6a-3db7-4fc4-a1ef-8fce19410457.8407a38c-7ae5-4499-9984-9711b1267cbf",
     "availability": {
       "console": true,
       "pc": false

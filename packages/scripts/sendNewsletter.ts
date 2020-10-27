@@ -1,56 +1,63 @@
-import sendgrid from "@sendgrid/mail";
+import path from "path";
+import fse from "fs-extra";
 import games from "../xgp.community/api/v1/games.json";
-
-sendgrid.setApiKey(process.env.SENDGRID_API_KEY!);
-
-const aWeekAgo = new Date();
-aWeekAgo.setDate(aWeekAgo.getDate() - 7);
-
-const newGames = games.filter(
-  (game) => new Date(game.addedAt).getTime() > aWeekAgo.getTime()
-);
-
-const now = Date.now();
-const unreleasedGames = games.filter(
-  (game) => new Date(game.releaseDate).getTime() > now
-);
-
-const inTwoWeeks = new Date();
-inTwoWeeks.setDate(inTwoWeeks.getDate() + 14);
-
-const gamesReleasedSoon = unreleasedGames.filter(
-  (game) => new Date(game.releaseDate).getTime() < inTwoWeeks.getTime()
-);
+import { APIGame } from "../types";
+import { getMicrosoftAnnouncements } from "./getMicrosoftAnnouncements";
 
 (async () => {
-  if (newGames.length <= 0 && gamesReleasedSoon.length <= 0) {
-    return;
-  }
+  const lastAggregatedAtPath = path.join(__dirname, ".lastAggregatedAt");
+  const lastAggregatedAt = new Date(
+    await fse.readFile(lastAggregatedAtPath, "utf8")
+  );
 
-  const subject = `XGP: ${[
-    newGames.length > 0 ? `${newGames.length} games added` : null,
-    gamesReleasedSoon.length > 0
-      ? `${gamesReleasedSoon.length} games coming out`
-      : null,
-  ]
-    .filter(Boolean)
-    .join(", ")}`;
-  const text = `${[
-    newGames.length > 0
-      ? `${newGames.map((game) => game.name).join(", ")} were added this week.`
-      : null,
-    gamesReleasedSoon.length > 0
-      ? `${gamesReleasedSoon.length} games are coming soon.`
-      : null,
-  ]
-    .filter(Boolean)
-    .join("\n")}`;
+  const aggregatedAt = new Date();
 
-  await sendgrid.send({
-    to: "hello@gabinaureche.com",
-    from: "hello@gabinaureche.com",
-    subject,
-    text,
-    html: text,
+  const recentGames = games.filter(
+    (game) =>
+      new Date(game.addedAt).getTime() > new Date(lastAggregatedAt).getTime()
+  );
+
+  const inTwoWeeks = new Date();
+  inTwoWeeks.setDate(inTwoWeeks.getDate() + 14);
+
+  const releasedSoonGames = games.filter((game) => {
+    const addedAt = new Date(game.addedAt);
+    return (
+      addedAt.getTime() > aggregatedAt.getTime() &&
+      addedAt.getTime() < inTwoWeeks.getTime()
+    );
   });
+
+  const microsoftAnnouncements = await getMicrosoftAnnouncements(
+    lastAggregatedAt
+  );
+
+  console.log(
+    JSON.stringify(
+      {
+        recentGames: recentGames.map(formatGameToParams),
+        releasedSoonGames: releasedSoonGames.map(formatGameToParams),
+        microsoftAnnouncements,
+      },
+      null,
+      2
+    )
+  );
+
+  await fse.writeFile(lastAggregatedAtPath, aggregatedAt.toISOString());
 })();
+
+function formatGameToParams(
+  game: APIGame
+): { url: string; name: string; availability: string } {
+  return {
+    url: game.url,
+    name: game.name,
+    availability: [
+      game.availability.pc && "PC",
+      game.availability.console && "Console",
+    ]
+      .filter(Boolean)
+      .join(", "),
+  };
+}

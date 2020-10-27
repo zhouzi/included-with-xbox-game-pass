@@ -12,7 +12,6 @@
     "start": "concurrently 'npm run start:xgp.community' 'npm run start:extension'"
   },
   "dependencies": {
-    "@sendgrid/mail": "^7.3.0",
     "@types/fs-extra": "^9.0.2",
     "@types/node": "^14.11.10",
     "@types/puppeteer": "^3.0.2",

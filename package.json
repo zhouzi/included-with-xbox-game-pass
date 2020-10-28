@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "tsc": "tsc --noEmit",
-    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./packages/scripts/scrapGames.ts",
+    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./packages/tasks/games/scrapGames.ts",
     "sendNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./packages/tasks/newsletter/bin.ts",
     "prebuild:extension": "rm -rf ./dist",
     "build:extension": "parcel build ./packages/extension/manifest.json -d ./dist",

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>included-with-xbox-game-pass</title>
+    <title>xgp.community</title>
     <meta
       name="title"
       property="og:title"
@@ -12,7 +12,7 @@
     <meta
       name="description"
       property="og:description"
-      content='A browser extension that adds the mention "included / not included with Xbox Game Pass" on Steam&apos;s store page.'
+      content="Add support for the Xbox Game Pass to Steam's store."
     />
     <meta property="og:image" content="storepage.png" />
     <link
@@ -20,8 +20,8 @@
       href="https://unpkg.com/modern-normalize@1.0.0/modern-normalize.css"
     />
     <link
-      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;600&display=swap"
       rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,600;1,800&display=swap"
     />
     <style>
       html {
@@ -32,211 +32,303 @@
         font-family: "Work Sans", sans-serif;
         font-weight: 300;
         line-height: 1.6;
-        color: #c4d1dd;
-        background-color: #1a2534;
       }
 
-      .link,
-      .button {
-        background: transparent;
-        border: none;
-        font: inherit;
-        padding: 0;
-        cursor: pointer;
-        text-decoration: none;
+      :root {
+        --color-primary: #44f089;
+        --color-primary-dark: #24cc67;
+        --color-background-dark: #050f1a;
+        --color-background-main-over: #bac5ce;
+        --color-background-main-over-emphasis: #fff;
+        --color-background-main: #0f1923;
+        --color-background-light: #182735;
+        --color-background-lighter: #314253;
       }
 
-      .link {
-        color: #5eb1e1;
+      body {
+        color: var(--color-background-main-over);
+        background-color: var(--color-background-main);
       }
 
-      .link:hover,
-      .link:focus {
-        color: #3f8bb7;
-      }
-
-      main,
-      footer {
+      .Container {
         max-width: 40rem;
         margin: 0 auto;
-        padding: 1rem;
+        padding: 0 1rem;
       }
 
-      main {
-        padding: 6rem 1rem;
+      .Header {
+        padding-top: 1rem;
       }
 
-      .button {
-        display: inline-block;
-        color: #fff;
-        font-weight: 600;
-        background-color: #098a43;
-        padding: 0.5rem 1rem;
-        border-radius: 4px;
+      .Logo {
+        display: flex;
+        margin: 0;
+        font-style: italic;
+        font-weight: 800;
+        line-height: 1.2;
+      }
+      .LogoDot {
+        color: var(--color-background-lighter);
+      }
+      .LogoXGP {
+        color: var(--color-primary);
+      }
+      .LogoCommunity {
+        color: var(--color-background-main-over-emphasis);
       }
 
-      .button:hover,
-      .button:focus {
-        color: #fff;
-        background-color: #066732;
-      }
-
-      article,
-      p {
-        margin: 0 0 2rem 0;
-      }
-
-      h2 {
-        font-size: 1.6rem;
-        font-weight: 300;
+      .Heading2,
+      .Heading3,
+      .Paragraph,
+      .List,
+      .ListInline {
         margin: 0 0 1rem 0;
       }
-      strong {
-        color: #fff;
-        font-weight: 600;
+      .Heading2:last-child,
+      .Heading3:last-child,
+      .Paragraph:last-child,
+      .List:last-child,
+      .ListInline:last-child {
+        margin-bottom: 0;
       }
 
-      blockquote {
-        margin: 0;
-        border-left: 4px solid #324156;
-        padding-left: 1rem;
+      .Heading2,
+      .Heading3 {
+        line-height: 1.2;
+        color: var(--color-background-main-over-emphasis);
+      }
+      .Heading2 {
+        font-size: 1.4rem;
+      }
+      .Heading3 {
+        font-size: 1.2rem;
       }
 
-      small {
-        color: #98a8b7;
+      .Newsletter {
+        padding: 1.5rem;
+        border-radius: 6px;
+        background-color: var(--color-background-light);
+      }
+      .NewsletterContent {
+        margin-bottom: 1rem;
+      }
+      .NewsletterAction {
+      }
+      @media (min-width: 46rem) {
+        .Newsletter {
+          display: flex;
+        }
+        .NewsletterContent {
+          padding-right: 1rem;
+          margin-bottom: 0;
+        }
+      }
+
+      .Footer {
         font-size: 0.8rem;
       }
 
-      section {
-        margin: 0 0 4rem 0;
+      .Link {
+        color: var(--color-background-main-over-emphasis);
+        font-weight: 600;
+        text-decoration: underline;
+      }
+      .Link:focus,
+      .Link:hover {
+        color: var(--color-primary);
       }
 
-      .screenshots {
+      .Input,
+      .Button {
+        font: inherit;
+        color: inherit;
+        padding: 0.6rem 1rem;
+        background: transparent;
+        border: 0;
+        border-radius: 2px;
+      }
+
+      .Input {
+        display: block;
+        width: 100%;
+        color: var(--color-background-main-over-emphasis);
+        background-color: var(--color-background-lighter);
+      }
+      .Input::placeholder {
+        color: var(--color-background-main-over);
+      }
+
+      .Button {
+        font-weight: 600;
+        text-decoration: none;
+        cursor: pointer;
+        display: inline-block;
+      }
+      .ButtonPrimary {
+        color: var(--color-background-main);
+        background-color: var(--color-primary);
+      }
+      .ButtonPrimary:focus,
+      .ButtonPrimary:hover {
+        background-color: var(--color-primary-dark);
+      }
+      .ButtonSecondary {
+        color: var(--color-background-main);
+        background-color: var(--color-background-main-over-emphasis);
+      }
+      .ButtonSecondary:focus,
+      .ButtonSecondary:hover {
+        background-color: var(--color-background-main-over);
+      }
+
+      .ListInline {
         list-style: none;
         padding: 0;
         display: flex;
+        flex-wrap: wrap;
       }
-      .screenshots li {
-        width: 160px;
-        height: 100px;
-        overflow: hidden;
-        margin-right: 0.5rem;
-        border: 2px solid;
+      .ListInlineItem {
+        margin-right: 1rem;
       }
-      .screenshots a {
-        position: relative;
-        display: block;
-      }
-      .screenshots a::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: rgba(0, 0, 0, 0.4);
-        transition: background-color 300ms ease-out;
-      }
-      .screenshots a:hover::before {
-        background-color: rgba(0, 0, 0, 0);
+      .ListInlineItem:last-child {
+        margin-right: 0;
       }
 
-      img {
-        max-width: 100%;
+      .Block {
+        margin-bottom: 4rem;
+      }
+
+      .Image {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 0 0 1rem 0;
+        background-color: var(--color-background-dark);
+      }
+      @media (min-width: 46rem) {
+        .Image {
+          width: calc(100% + 6rem);
+          margin-left: -3rem;
+          margin-right: -3rem;
+        }
       }
     </style>
   </head>
   <body>
-    <main>
-      <section>
-        <article>
-          <h2>
-            <strong>Spiritfarer</strong> is out on <strong>Steam</strong>, but
-            did you know that it was included with
-            <strong>Xbox Game Pass</strong>?
-          </h2>
-          <blockquote>
-            <p>Me neither.</p>
-          </blockquote>
+    <header class="Container Block Header">
+      <h1 class="Logo">
+        <span class="LogoXGP">xgp</span>
+        <span class="LogoDot">.</span>
+        <span class="LogoCommunity">community</span>
+      </h1>
+      <p class="Paragraph">
+        Browser extension bringing the Xbox Game Pass to Steam.
+      </p>
+      <ul class="ListInline">
+        <li class="ListInlineItem">
+          <a
+            href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
+            class="Button ButtonPrimary"
+          >
+            Add to Chrome
+          </a>
+        </li>
+        <li class="ListInlineItem">
+          <a
+            href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
+            class="Button ButtonPrimary"
+          >
+            Add to Firefox
+          </a>
+        </li>
+      </ul>
+    </header>
+    <main class="Container Main">
+      <section id="extension">
+        <article class="Block">
+          <img src="images/storepage.png" alt="" class="Image" />
+          <h2 class="Heading2">Do not buy a game you already have access to</h2>
+          <p class="Paragraph">
+            There is no way you're mistakenly buying a game again with the
+            "Included with Xbox Game Pass" block appearing above the purchase
+            options.
+          </p>
         </article>
-        <article>
-          <h2>
-            And how many games sit in your <strong>Steam wishlist</strong>,
-            although they are included with <strong>Xbox Game Pass</strong>?
-          </h2>
-          <blockquote>
-            <p>More than I personally expected.</p>
-          </blockquote>
+
+        <article class="Block">
+          <img src="images/wishlist.png" alt="" class="Image" />
+          <h2 class="Heading2">Review your wishlist</h2>
+          <p class="Paragraph">
+            You might be waiting on a sale while you can already be playing
+            games from your wishlist. With this extension you can tell at first
+            glance.
+          </p>
         </article>
       </section>
-      <section>
-        <p>
-          So I built a browser extension that lets you know what is
-          <strong>included with Xbox Game Pass</strong>, right from the
-          <strong>Steam store</strong>.
-        </p>
-        <ul class="screenshots">
-          <li>
-            <a href="storepage.png">
-              <img
-                src="storepage.png"
-                alt="Screenshot of the Steam store page with the extension installed"
-              />
+      <section class="Block">
+        <ul class="ListInline">
+          <li class="ListInlineItem">
+            <a
+              href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
+              class="Button ButtonPrimary"
+            >
+              Add to Chrome
             </a>
           </li>
-          <li>
-            <a href="wishlist.png">
-              <img
-                src="wishlist.png"
-                alt="Screenshot of the Steam wishlist with the extension installed"
-              />
+          <li class="ListInlineItem">
+            <a
+              href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
+              class="Button ButtonPrimary"
+            >
+              Add to Firefox
             </a>
           </li>
         </ul>
       </section>
-      <section>
-        <p>
+      <section id="newsletter" class="Block Newsletter">
+        <div class="NewsletterContent">
+          <h3 class="Heading3">Weekly digest in your inbox</h3>
+          <p class="Paragraph">
+            Subscribe to the weekly newsletter to stay updated on new and
+            upcoming games.
+          </p>
+        </div>
+        <div class="NewsletterAction">
           <a
-            data-browser="chrome"
-            href="https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk"
-            class="button"
+            href="https://de93a9ef.sibforms.com/serve/MUIEANlN866pLXN8kcim9KKMHty8jYmnSazB4v66hfzxvglWPGywDMW-4BHfiGdARFGgu4DI43uWInJkCWYtYXe-Y6DZnsblnnw5f9ah65wH1r2g9-HYqd_iNbY8TXjVS5eRM7uiC7VRAunj2_wnDaLZTKHE7tANJjUtGbivbYSxgQAToEAw8elGjlPCCGTkXLzZpBwpYeU8RgAW"
+            class="Button ButtonSecondary"
+            >Subscribe</a
           >
-            Add to Chrome
-          </a>
-          <a
-            data-browser="firefox"
-            href="https://addons.mozilla.org/addon/included-with-xbox-game-pass/"
-            class="button"
-          >
-            Add to Firefox
-          </a>
-          <small>
-            <a
-              href="https://github.com/zhouzi/included-with-xbox-game-pass"
-              class="link"
-              >GitHub</a
-            >
-            - Made by
-            <a href="https://gabinaureche.com" class="link">Gabin Aureche</a>
-          </small>
-        </p>
+        </div>
       </section>
     </main>
-    <script>
-      var firefoxButton = window.document.querySelector(
-        '[data-browser="firefox"]'
-      );
-      var chromeButton = window.document.querySelector(
-        '[data-browser="chrome"]'
-      );
-
-      var userAgent = window.navigator.userAgent.toLowerCase();
-
-      if (userAgent.includes("firefox")) {
-        chromeButton.style.display = "none";
-      } else if (userAgent.includes("chrome")) {
-        firefoxButton.style.display = "none";
-      }
-    </script>
+    <footer class="Container Block Footer">
+      <p class="Paragraph">
+        xgp.community is an
+        <a
+          href="https://github.com/zhouzi/included-with-xbox-game-pass"
+          class="Link"
+        >
+          open source</a
+        >
+        side project by
+        <a href="https://gabinaureche.com" class="Link">Gabin</a>. Do not
+        hesitate to get in touch by sending me at email at
+        <a href="mailto:gabin@xgp.community" class="Link">gabin@xgp.community</a
+        >.
+      </p>
+      <p class="Paragraph">
+        Also, the best way to be part of the community is by joining the Xbox
+        Game Pass subreddit:
+        <a href="https://reddit.com/r/xboxgamepass" class="Link"
+          >/r/xboxgamepass</a
+        >. Regarding the latest news, Microsoft usually posts them on
+        <a href="https://twitter.com/xboxgamepass" class="Link">Twitter</a>
+        and/or on their
+        <a href="https://news.xbox.com/en-us/xbox-game-pass/" class="Link"
+          >blog</a
+        >.
+      </p>
+    </footer>
   </body>
 </html>

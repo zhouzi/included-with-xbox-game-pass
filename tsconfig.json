@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "target": "ES5",
+    "moduleResolution": "Node",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "strict": true,

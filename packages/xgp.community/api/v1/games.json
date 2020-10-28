@@ -351,7 +351,7 @@
     "id": "BTPDCJXNFSZL",
     "name": "Black Desert",
     "url": "https://www.microsoft.com/en-us/store/p/black-desert/BTPDCJXNFSZL",
-    "image": "//store-images.s-microsoft.com/image/apps.41137.70463400880857175.d2d44adb-d5f7-4893-af4b-06686618547c.b0965faf-bafe-44ed-bd80-ad6564749534",
+    "image": "//store-images.s-microsoft.com/image/apps.52777.70463400880857175.fd8a8679-a063-4c10-8649-d61835844f60.7fe88b36-7c0e-46e2-8cb1-5db6283d5be8",
     "availability": {
       "console": true,
       "pc": false
@@ -490,6 +490,18 @@
     },
     "releaseDate": "2020-10-27T00:00:00.0000000Z",
     "addedAt": "2020-10-27T14:20:06.737Z"
+  },
+  {
+    "id": "9PFS8Q01C2C4",
+    "name": "Carto",
+    "url": "https://www.microsoft.com/en-us/store/p/carto/9PFS8Q01C2C4",
+    "image": "//store-images.s-microsoft.com/image/apps.24809.14194525155876201.c3eadd92-bdae-469e-b58d-13a0560da911.3bd35a7b-824a-4e2e-93ea-6424979bf0fa",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-10-27T00:00:00.0000000Z",
+    "addedAt": "2020-10-28T14:20:59.875Z"
   },
   {
     "id": "9P675WH90SB4",

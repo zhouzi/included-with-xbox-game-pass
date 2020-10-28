@@ -1,6 +1,9 @@
 import puppeteer from "puppeteer";
+import { MicrosoftAnnouncementItem } from "./types";
 
-export async function getMicrosoftAnnouncements(since: Date) {
+export async function getMicrosoftAnnouncements(
+  since: Date
+): Promise<MicrosoftAnnouncementItem[]> {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   const microsoftAnnoucements = [];
@@ -10,7 +13,7 @@ export async function getMicrosoftAnnouncements(since: Date) {
   microsoftAnnoucements.push(
     ...(await page.$$eval(".media.feed", (elements) =>
       elements.map((element) => ({
-        url: element.querySelector(".feed__title a")!.getAttribute("href"),
+        url: element.querySelector(".feed__title a")!.getAttribute("href")!,
         title: element.querySelector(".feed__title")!.textContent!.trim(),
         publishedAt: element
           .querySelector(".feed__date time")!
@@ -21,8 +24,13 @@ export async function getMicrosoftAnnouncements(since: Date) {
 
   browser.close();
 
-  return microsoftAnnoucements.filter(
-    (announcement) =>
-      new Date(announcement.publishedAt).getTime() >= since.getTime()
-  );
+  return microsoftAnnoucements
+    .filter(
+      (announcement) =>
+        new Date(announcement.publishedAt).getTime() >= since.getTime()
+    )
+    .map((announcement) => ({
+      url: announcement.url,
+      title: announcement.title,
+    }));
 }

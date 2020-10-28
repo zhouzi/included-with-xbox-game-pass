@@ -1,7 +1,7 @@
 name: Send newsletter
 on:
   schedule:
-    - cron: "0 9 * * FRI"
+    - cron: "0 9 * * THU"
 jobs:
   sendNewsletter:
     runs-on: ubuntu-latest
@@ -11,4 +11,5 @@ jobs:
       - run: npm ci
       - run: npm run sendNewsletter
         env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          SENDINBLUE_API_KEY: ${{ secrets.SENDINBLUE_API_KEY }}
+          SENDINBLUE_LIST_ID: ${{ secrets.SENDINBLUE_LIST_ID }}

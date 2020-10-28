@@ -13,3 +13,6 @@ jobs:
         env:
           SENDINBLUE_API_KEY: ${{ secrets.SENDINBLUE_API_KEY }}
           SENDINBLUE_LIST_ID: ${{ secrets.SENDINBLUE_LIST_ID }}
+      - uses: EndBug/add-and-commit@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

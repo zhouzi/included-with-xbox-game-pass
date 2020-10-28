@@ -351,7 +351,7 @@
     "id": "BTPDCJXNFSZL",
     "name": "Black Desert",
     "url": "https://www.microsoft.com/en-us/store/p/black-desert/BTPDCJXNFSZL",
-    "image": "//store-images.s-microsoft.com/image/apps.41137.70463400880857175.d2d44adb-d5f7-4893-af4b-06686618547c.b0965faf-bafe-44ed-bd80-ad6564749534",
+    "image": "//store-images.s-microsoft.com/image/apps.52777.70463400880857175.fd8a8679-a063-4c10-8649-d61835844f60.7fe88b36-7c0e-46e2-8cb1-5db6283d5be8",
     "availability": {
       "console": true,
       "pc": false
@@ -478,6 +478,30 @@
     },
     "releaseDate": "2020-07-23T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NJ2XXPJVDRD",
+    "name": "Carto",
+    "url": "https://www.microsoft.com/en-us/store/p/carto/9NJ2XXPJVDRD",
+    "image": "//store-images.s-microsoft.com/image/apps.24809.13618730929685273.f357318e-62a9-42cd-9f85-6dbecd80dd13.c77280bd-cfc2-44ae-812d-5be03a61e8ce",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-10-27T00:00:00.0000000Z",
+    "addedAt": "2020-10-27T14:20:06.737Z"
+  },
+  {
+    "id": "9PFS8Q01C2C4",
+    "name": "Carto",
+    "url": "https://www.microsoft.com/en-us/store/p/carto/9PFS8Q01C2C4",
+    "image": "//store-images.s-microsoft.com/image/apps.24809.14194525155876201.c3eadd92-bdae-469e-b58d-13a0560da911.3bd35a7b-824a-4e2e-93ea-6424979bf0fa",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-10-27T00:00:00.0000000Z",
+    "addedAt": "2020-10-28T14:20:59.875Z"
   },
   {
     "id": "9P675WH90SB4",
@@ -3339,7 +3363,7 @@
     "id": "9P7GBPGT90L3",
     "name": "Secret Neighbor",
     "url": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
-    "image": "//store-images.s-microsoft.com/image/apps.48532.14605254180386304.843c17b3-dc76-4d90-b085-3171543de82c.4b131b56-e79b-48f9-acd2-4041d62d2be8",
+    "image": "//store-images.s-microsoft.com/image/apps.21400.14605254180386304.35eb8b6a-3db7-4fc4-a1ef-8fce19410457.8407a38c-7ae5-4499-9984-9711b1267cbf",
     "availability": {
       "console": true,
       "pc": false

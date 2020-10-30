@@ -1344,6 +1344,66 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9N5253J559LR",
+    "name": "Five Nights at Freddy's",
+    "url": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys/9N5253J559LR",
+    "image": "//store-images.s-microsoft.com/image/apps.14120.13976193533566168.c56d73e5-020f-4be5-860c-ae506c27e2ca.c96def99-b8ab-457a-bcb1-20784fa313be",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
+  },
+  {
+    "id": "9NBR2ZSD99FX",
+    "name": "Five Nights at Freddy's 2",
+    "url": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-2/9NBR2ZSD99FX",
+    "image": "//store-images.s-microsoft.com/image/apps.18293.13578174030071833.ced2a7cf-09b3-4d12-8621-229829d1aa41.eb904133-f4a5-44f7-8298-20d85e074878",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
+  },
+  {
+    "id": "9P6N7LQ4HZFD",
+    "name": "Five Nights at Freddy's 3",
+    "url": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-3/9P6N7LQ4HZFD",
+    "image": "//store-images.s-microsoft.com/image/apps.9314.14616361015974249.17f2bef7-0d22-48bd-83ff-7079f5817a9e.0d900252-73bc-45f1-a86d-2a4d30334cc6",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
+  },
+  {
+    "id": "9PLDLMPLR7JV",
+    "name": "Five Nights at Freddy's 4",
+    "url": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-4/9PLDLMPLR7JV",
+    "image": "//store-images.s-microsoft.com/image/apps.10349.14319236246610425.66fb0c70-79cc-471f-8a96-e56f4d317469.431d8327-3078-4585-8e25-f5009c9c4b84",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
+  },
+  {
+    "id": "9PJ2DSSXZR0P",
+    "name": "Five Nights at Freddy's: Original Series",
+    "url": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-original-series/9PJ2DSSXZR0P",
+    "image": "//store-images.s-microsoft.com/image/apps.31634.14220428816844078.75ad8874-64ac-4c0b-b31f-92eb1bbb86b3.82603e34-f662-4174-836f-971e8b61e450",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T00:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
+  },
+  {
     "id": "9N0K062BZJVK",
     "name": "Football Manager 2020",
     "url": "https://www.microsoft.com/en-us/store/p/football-manager-2020/9N0K062BZJVK",
@@ -3123,7 +3183,7 @@
     "id": "C0MN5DN8KR3F",
     "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
     "url": "https://www.xbox.com/en-us/games/playerunknowns-battlegrounds",
-    "image": "//store-images.s-microsoft.com/image/apps.36641.64374245401097180.5cc03fa2-9f94-460b-b079-739f692f3cd5.5985ed80-5b2a-4631-9636-06fbfbddd118",
+    "image": "//store-images.s-microsoft.com/image/apps.29376.64374245401097180.b6c99925-d2d7-4ee9-9062-21b0c3e71df9.79330515-1b54-4b93-a095-8d388adb669d",
     "availability": {
       "console": true,
       "pc": false
@@ -3341,7 +3401,7 @@
     "url": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
     "image": "//store-images.s-microsoft.com/image/apps.47028.14554784103656548.537c9e62-0a78-4e1c-bd03-9f208a8eee2d.9aab379e-f240-4957-a9d0-c815c4bb81ec",
     "availability": {
-      "console": true,
+      "console": false,
       "pc": true
     },
     "releaseDate": "2018-03-20T04:00:00.0000000Z",
@@ -4342,6 +4402,30 @@
     },
     "releaseDate": "2020-08-06T11:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NBC54MT6KHX",
+    "name": "Unruly Heroes",
+    "url": "https://www.microsoft.com/en-us/store/p/unruly-heroes/9NBC54MT6KHX",
+    "image": "//store-images.s-microsoft.com/image/apps.6150.13515904831205445.8490b1a3-e8e3-4b47-80c7-0e50894cbab5.b953f53e-6db2-446b-98e9-def4ace61e44",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-01-23T14:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
+  },
+  {
+    "id": "9P3SS6K8ZQ57",
+    "name": "Unruly Heroes Windows 10",
+    "url": "https://www.microsoft.com/en-us/store/p/unruly-heroes-windows-10/9P3SS6K8ZQ57",
+    "image": "//store-images.s-microsoft.com/image/apps.6150.14531718481393930.3b7811c4-9ab2-4f4f-95dd-79336bf7ccbf.36bc4c00-08e0-47f5-a44b-e187e4990991",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2019-01-23T14:00:00.0000000Z",
+    "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
     "id": "9MVTCTDTHH23",

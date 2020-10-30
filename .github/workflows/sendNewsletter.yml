@@ -1,7 +1,7 @@
 name: Send newsletter
 on:
   schedule:
-    - cron: "0 9 * * THU"
+    - cron: "0 11 * * THU"
 jobs:
   sendNewsletter:
     runs-on: ubuntu-latest

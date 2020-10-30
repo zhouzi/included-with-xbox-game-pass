@@ -708,6 +708,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NKK6CX54183",
+    "name": "Day of the Tentacle Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/day-of-the-tentacle-remastered/9NKK6CX54183",
+    "image": "//store-images.s-microsoft.com/image/apps.45089.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.9f593142-562b-48e6-9ab5-20ea48887200",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "addedAt": "2020-10-30T09:10:58.465Z"
+  },
+  {
     "id": "BSR9NLHVF1KL",
     "name": "DayZ",
     "url": "https://www.microsoft.com/en-us/store/p/dayz/BSR9NLHVF1KL",
@@ -1536,6 +1548,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9P3ZRGNQVC7D",
+    "name": "Full Throttle Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/full-throttle-remastered/9P3ZRGNQVC7D",
+    "image": "//store-images.s-microsoft.com/image/apps.39265.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0e1db341-dc19-4da2-8a23-cc7a3476ee6b",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "addedAt": "2020-10-30T09:10:58.465Z"
+  },
+  {
     "id": "C2P985H1H42H",
     "name": "Fuzion Frenzy®",
     "url": "https://www.microsoft.com/en-us/store/p/fuzion-frenzy/C2P985H1H42H",
@@ -1774,6 +1798,18 @@
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
     "addedAt": "2020-10-22T14:19:36.679Z"
+  },
+  {
+    "id": "9PC288TN7R8K",
+    "name": "Grim Fandango Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/grim-fandango-remastered/9PC288TN7R8K",
+    "image": "//store-images.s-microsoft.com/image/apps.34679.14111995464148770.3579d82c-235a-4089-9783-e7a375fa5964.f96382d8-b498-4f7b-aedb-21a6378746cd",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "addedAt": "2020-10-30T09:10:58.465Z"
   },
   {
     "id": "9NHHP2H0ZP98",

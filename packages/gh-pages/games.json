@@ -1032,18 +1032,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9PBDC0XZ8TXK",
-    "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK",
-    "image": "//store-images.s-microsoft.com/image/apps.40136.14125332336761514.8bb2a8ee-0291-4012-97d8-2e92be70a6ac.fbc31ecb-0fbe-45a2-94cd-d6c5eccaea8c",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2020-12-04T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9PGNGGWBX1NR",
     "name": "Drake Hollow",
     "url": "https://www.microsoft.com/en-us/store/p/drake-hollow/9PGNGGWBX1NR",
@@ -1713,18 +1701,6 @@
       "pc": true
     },
     "releaseDate": "2020-04-28T15:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PFN8J3V7G54",
-    "name": "Gears Tactics - Xbox",
-    "url": "https://www.microsoft.com/en-us/store/p/gears-tactics---xbox/9PFN8J3V7G54",
-    "image": "//store-images.s-microsoft.com/image/apps.42707.14197394300445757.0822f2ad-efbb-4ffc-a7f0-b5c2fabd7292.62bad0d9-bf55-4533-88ad-773e3a8d2d24",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2020-11-09T16:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3793,7 +3769,7 @@
   },
   {
     "id": "BRJGPRMBV1NT",
-    "name": "Tekken 7",
+    "name": "TEKKEN 7",
     "url": "https://www.microsoft.com/en-us/store/p/tekken-7/BRJGPRMBV1NT",
     "image": "//store-images.s-microsoft.com/image/apps.9561.69766501749678274.825421a3-6e90-4af8-a717-6375f4b1f802.ce79e4cd-489f-48ea-b7da-b546860070ed",
     "availability": {

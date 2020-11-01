@@ -1,7 +1,7 @@
-name: Typecheck
+name: Check Typescript
 on: [push]
 jobs:
-  typecheck:
+  checkTypescript:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

@@ -1,4 +1,4 @@
-name: Scrap games from Xbox Game Pass
+name: Scrap data from various sources
 on:
   schedule:
     - cron: "0 9 * * *"
@@ -10,6 +10,6 @@ jobs:
       - uses: actions/setup-node@v1
       - run: npm ci
       - run: npm run scrapGames
-      - uses: EndBug/add-and-commit@v5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: npm run scrapNews
+      - run: npm run generateRSS
+      - uses: peter-evans/create-pull-request@v3

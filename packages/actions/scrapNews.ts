@@ -68,9 +68,13 @@ const SINCE = new Date(currentNews[0].publishedAt);
       return extractCurrentPage();
     }
 
-    await fse.writeJSON(path.join(OUTPUT_DIR, "news.json"), news, {
-      spaces: 2,
-    });
+    await fse.writeJSON(
+      path.join(OUTPUT_DIR, "news.json"),
+      news.concat(currentNews),
+      {
+        spaces: 2,
+      }
+    );
   })();
 
   browser.close();

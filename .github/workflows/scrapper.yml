@@ -13,3 +13,4 @@ jobs:
       - run: npm run scrapNews
       - run: npm run generateRSS
       - uses: peter-evans/create-pull-request@v3
+        reviewers: zhouzi

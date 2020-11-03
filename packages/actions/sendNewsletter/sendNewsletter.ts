@@ -7,9 +7,9 @@ import {
 import { format } from "date-fns";
 import handlebars from "handlebars";
 import mjml from "mjml";
-import puppeteer from "puppeteer";
 
 import games from "../../xgp.community/api/v1/games.json";
+import news from "../../xgp.community/api/v1/news.json";
 import { APIGame } from "../../types";
 
 const LAST_AGGREGATED_AT_PATH = path.join(__dirname, ".lastAggregatedAt");
@@ -85,43 +85,6 @@ interface TemplateParams {
   microsoftAnnouncements: MicrosoftAnnouncementItem[];
 }
 
-/*
- * Scrap Microsoft's blog to retrieve the recent announcements.
- */
-async function getMicrosoftAnnouncements(
-  since: Date
-): Promise<MicrosoftAnnouncementItem[]> {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  const microsoftAnnoucements = [];
-
-  await page.goto("https://news.xbox.com/en-US/xbox-game-pass/");
-
-  microsoftAnnoucements.push(
-    ...(await page.$$eval(".media.feed", (elements) =>
-      elements.map((element) => ({
-        url: element.querySelector(".feed__title a")!.getAttribute("href")!,
-        title: element.querySelector(".feed__title")!.textContent!.trim(),
-        publishedAt: element
-          .querySelector(".feed__date time")!
-          .getAttribute("datetime")!,
-      }))
-    ))
-  );
-
-  browser.close();
-
-  return microsoftAnnoucements
-    .filter(
-      (announcement) =>
-        new Date(announcement.publishedAt).getTime() >= since.getTime()
-    )
-    .map((announcement) => ({
-      url: announcement.url,
-      title: announcement.title,
-    }));
-}
-
 async function getTemplateParams({
   since,
   now,
@@ -144,12 +107,12 @@ async function getTemplateParams({
     );
   });
 
-  const microsoftAnnouncements = await getMicrosoftAnnouncements(since);
-
   return {
     recentGames: recentGames.map(formatGame),
     releasedSoonGames: releasedSoonGames.map(formatGame),
-    microsoftAnnouncements,
+    microsoftAnnouncements: news.filter(
+      (newsItem) => new Date(newsItem.publishedAt).getTime() >= since.getTime()
+    ),
   };
 }
 

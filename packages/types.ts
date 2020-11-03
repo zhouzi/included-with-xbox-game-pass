@@ -10,3 +10,9 @@ export interface APIGame {
   releaseDate: string;
   addedAt: string;
 }
+
+export interface APINews {
+  title: string;
+  publishedAt: string;
+  url: string;
+}

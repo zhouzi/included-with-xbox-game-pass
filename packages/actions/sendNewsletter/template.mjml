@@ -17,7 +17,7 @@
           <p>{{recentGames.length}} games were added this past week:</p>
           <ul>
             {{#each recentGames}}
-            <li><a href="{{this.url}}">{{this.name}} ({{this.availability}})</a></li>
+            <li><a href="{{this.url}}">{{this.name}}</a></li>
             {{/each}}
           </ul>
           {{/if}}
@@ -26,7 +26,7 @@
           <p>{{releasedSoonGames.length}} games are being released soon:</p>
           <ul>
             {{#each releasedSoonGames}}
-            <li><a href="{{this.url}}">{{this.name}} ({{this.availability}})</a></li>
+            <li><a href="{{this.url}}">{{this.name}}</a></li>
             {{/each}}
           </ul>
           {{/if}}

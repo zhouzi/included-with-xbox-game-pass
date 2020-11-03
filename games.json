@@ -48,18 +48,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9PC5VBPLHWNV",
-    "name": "Afterparty",
-    "url": "https://www.microsoft.com/en-us/store/p/afterparty/9PC5VBPLHWNV",
-    "image": "//store-images.s-microsoft.com/image/apps.48559.14175534148140289.70be3761-a4cd-4671-9bfd-01e5925c40c6.c643c014-c719-477b-a188-44366d9b689c",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-10-29T04:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NJWTJSVGVLJ",
     "name": "Age of Empires Definitive Edition",
     "url": "https://www.microsoft.com/en-us/store/p/age-of-empires-definitive-edition/9NJWTJSVGVLJ",
@@ -708,6 +696,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NKK6CX54183",
+    "name": "Day of the Tentacle Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/day-of-the-tentacle-remastered/9NKK6CX54183",
+    "image": "//store-images.s-microsoft.com/image/apps.45089.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.9f593142-562b-48e6-9ab5-20ea48887200",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "addedAt": "2020-10-30T09:10:58.465Z"
+  },
+  {
     "id": "BSR9NLHVF1KL",
     "name": "DayZ",
     "url": "https://www.microsoft.com/en-us/store/p/dayz/BSR9NLHVF1KL",
@@ -1017,18 +1017,6 @@
       "pc": true
     },
     "releaseDate": "2019-08-01T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PBDC0XZ8TXK",
-    "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK",
-    "image": "//store-images.s-microsoft.com/image/apps.40136.14125332336761514.8bb2a8ee-0291-4012-97d8-2e92be70a6ac.fbc31ecb-0fbe-45a2-94cd-d6c5eccaea8c",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2020-12-04T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1536,6 +1524,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9P3ZRGNQVC7D",
+    "name": "Full Throttle Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/full-throttle-remastered/9P3ZRGNQVC7D",
+    "image": "//store-images.s-microsoft.com/image/apps.39265.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.0e1db341-dc19-4da2-8a23-cc7a3476ee6b",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "addedAt": "2020-10-30T09:10:58.465Z"
+  },
+  {
     "id": "C2P985H1H42H",
     "name": "Fuzion Frenzy®",
     "url": "https://www.microsoft.com/en-us/store/p/fuzion-frenzy/C2P985H1H42H",
@@ -1692,18 +1692,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9PFN8J3V7G54",
-    "name": "Gears Tactics - Xbox",
-    "url": "https://www.microsoft.com/en-us/store/p/gears-tactics---xbox/9PFN8J3V7G54",
-    "image": "//store-images.s-microsoft.com/image/apps.42707.14197394300445757.0822f2ad-efbb-4ffc-a7f0-b5c2fabd7292.62bad0d9-bf55-4533-88ad-773e3a8d2d24",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2020-11-09T16:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "BV0NM309K1TL",
     "name": "Goat Simulator",
     "url": "https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL",
@@ -1774,6 +1762,18 @@
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
     "addedAt": "2020-10-22T14:19:36.679Z"
+  },
+  {
+    "id": "9PC288TN7R8K",
+    "name": "Grim Fandango Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/grim-fandango-remastered/9PC288TN7R8K",
+    "image": "//store-images.s-microsoft.com/image/apps.34679.14111995464148770.3579d82c-235a-4089-9783-e7a375fa5964.f96382d8-b498-4f7b-aedb-21a6378746cd",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "addedAt": "2020-10-30T09:10:58.465Z"
   },
   {
     "id": "9NHHP2H0ZP98",
@@ -2409,18 +2409,6 @@
       "pc": false
     },
     "releaseDate": "2017-03-17T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "C27JSQ4XKP9X",
-    "name": "LEGO Star Wars III",
-    "url": "https://www.microsoft.com/en-us/store/p/lego-star-wars-iii/C27JSQ4XKP9X",
-    "image": "//store-images.s-microsoft.com/image/apps.1980.65336223521854929.1beffc00-2dec-412c-8387-fcc1cd1a5709.8b0eb197-7e59-4d9a-b53b-2701c2268fd6",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2011-03-22T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3324,18 +3312,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "BR3152PVJV5J",
-    "name": "Rise & Shine",
-    "url": "https://www.microsoft.com/en-us/store/p/rise--shine/BR3152PVJV5J",
-    "image": "//store-images.s-microsoft.com/image/apps.40124.68905376569244905.ccfc527c-beb4-4e32-be6c-a04cc78b9ecc.0d48591a-aa6d-481f-8518-99b9aee3a1ba",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2017-01-13T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NS84HCWZD8B",
     "name": "Rise of Nations: Extended Edition",
     "url": "https://www.microsoft.com/en-us/store/p/rise-of-nations-extended-edition/9NS84HCWZD8B",
@@ -3720,18 +3696,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9P4WKZXWP1QW",
-    "name": "Tacoma",
-    "url": "https://www.microsoft.com/en-us/store/p/tacoma/9P4WKZXWP1QW",
-    "image": "//store-images.s-microsoft.com/image/apps.21771.14580847963455900.d70853bf-514f-4436-aef4-3e9e17cffe30.d3d2b14b-78df-42c2-9239-9039082fa9ed",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2017-08-02T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9N5QWL08HRTR",
     "name": "Tales of Vesperia™: Definitive Edition",
     "url": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
@@ -3757,7 +3721,7 @@
   },
   {
     "id": "BRJGPRMBV1NT",
-    "name": "Tekken 7",
+    "name": "TEKKEN 7",
     "url": "https://www.microsoft.com/en-us/store/p/tekken-7/BRJGPRMBV1NT",
     "image": "//store-images.s-microsoft.com/image/apps.9561.69766501749678274.825421a3-6e90-4af8-a717-6375f4b1f802.ce79e4cd-489f-48ea-b7da-b546860070ed",
     "availability": {
@@ -3948,18 +3912,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NCP1745JF7B",
-    "name": "The Lord of the Rings: Adventure Card Game - Definitive Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/the-lord-of-the-rings-adventure-card-game---definitive-edition/9NCP1745JF7B",
-    "image": "//store-images.s-microsoft.com/image/apps.33642.13559807211300679.807448b8-520f-461e-b4f9-87b8bd844940.a9f0fa97-8033-4305-ab5d-debab3a6342e",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2019-11-05T07:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NNFBW3NGV9K",
     "name": "The Messenger",
     "url": "https://www.microsoft.com/en-us/store/p/the-messenger/9NNFBW3NGV9K",
@@ -4005,18 +3957,6 @@
       "pc": false
     },
     "releaseDate": "2019-10-25T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PFHBH19RL3C",
-    "name": "The Red Strings Club",
-    "url": "https://www.microsoft.com/en-us/store/p/the-red-strings-club/9PFHBH19RL3C",
-    "image": "//store-images.s-microsoft.com/image/apps.42865.14205029797786306.a209ea1d-93f0-4eee-a498-7589e401da30.c61058d9-6f3a-4578-9242-0ec05c24e8f1",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-11-21T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {

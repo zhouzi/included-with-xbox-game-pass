@@ -11,7 +11,8 @@
     "postbuild:extension": "cd ./dist && bestzip ../../extension.zip *",
     "start:xgp.community": "serve ./packages/xgp.community -p 1234",
     "start:extension": "parcel ./packages/extension/manifest.json -p 5678",
-    "start": "concurrently 'npm run start:xgp.community' 'npm run start:extension'"
+    "start": "concurrently 'npm run start:xgp.community' 'npm run start:extension'",
+    "start:newsletter": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/sendNewsletter/preview.ts"
   },
   "dependencies": {
     "@types/fs-extra": "^9.0.2",

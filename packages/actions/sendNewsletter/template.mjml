@@ -1,61 +1,94 @@
 <mjml>
   <mj-head>
     <mj-style inline="inline">
-      p, ul { margin: 14px 0 0 0; } p + ul { margin-top: 0; }
+      html,
+      body {
+        background-color: #0F1923;
+      }
+
+      p {
+        font-size: 14px;
+        line-height: 1.4;
+        color: #BAC5CE;
+        margin: 0;
+      }
+
+      a {
+        color: #44F089;
+      }
+
+      .SectionTitle {
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight:
+          bold;
+        letter-spacing: 0.6px;
+        color: #fff;
+      }
+
+      h2 {
+        color: #fff;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0;
+        line-height: 1.2;
+      }
     </mj-style>
   </mj-head>
   <mj-body>
-    <mj-section>
+    <mj-section padding="20px 0 30px 0">
       <mj-column>
-        <mj-text font-size="16px" line-height="24px" font-family="sans-serif">
-          <p>
-            Hey mates,<br />
-            Welcome to this new issue of the Xbox Game Pass digest.
-          </p>
-
-          {{#if recentGames}}
-          <p>{{recentGames.length}} games were added this past week:</p>
-          <ul>
-            {{#each recentGames}}
-            <li><a href="{{this.url}}">{{this.name}}</a></li>
-            {{/each}}
-          </ul>
-          {{/if}}
-
-          {{#if releasedSoonGames}}
-          <p>{{releasedSoonGames.length}} games are being released soon:</p>
-          <ul>
-            {{#each releasedSoonGames}}
-            <li><a href="{{this.url}}">{{this.name}}</a></li>
-            {{/each}}
-          </ul>
-          {{/if}}
-
-          {{#if microsoftAnnouncements}}
-          <p>
-            Microsoft also made a few announcements regarding the Xbox Game
-            Pass:
-          </p>
-          <ul>
-            {{#each microsoftAnnouncements}}
-            <li>
-              <a href="{{this.url}}">{{this.title}}</a>
-            </li>
-            {{/each}}
-          </ul>
-          {{/if}}
-
-          <p>
-            I hope this newsletter brought some gems to your attention,
-            <br />Gabin.
-          </p>
+        <mj-image src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
+        <mj-text padding="6px 0 0 0">
+          <p>New games added to the Xbox Game Pass and announcements.</p>
         </mj-text>
+      </mj-column>
+    </mj-section>
 
-        <mj-text font-size="14px" line-height="21px" font-family="sans-serif">
-          This newsletter is part of
-          <a href="https://xgp.community">xgp.community</a>, a side project by
-          <a href="https://gabinaureche.com">Gabin</a>. Do not hesitate to reply
-          to this email if you have any feedback to share 😊
+    {{#if games}}
+      <mj-section padding="0 0 30px 0">
+        <mj-column width="100%">
+          <mj-text padding="0 0 10px 0">
+            <p class="SectionTitle">New games</p>
+          </mj-text>
+        </mj-column>
+        {{#each games}}
+          <mj-column width="50%" padding="0 0 10px 0">
+            <mj-text padding="0">
+              <h2><a href="{{this.url}}">{{this.name}}</a></h2>
+              <p>Available on: {{this.availability}}</p>
+            </mj-text>
+          </mj-column>
+        {{/each}}
+        {{#if gamesCountIsOdd}}
+          <mj-column width="50%" padding="0 0 10px 0"></mj-column>
+        {{/if}}
+      </mj-section>
+    {{/if}}
+
+    {{#if news}}
+      <mj-section padding="0 0 30px 0">
+        <mj-column>
+          <mj-text padding="0 0 10px 0">
+            <p class="SectionTitle">Announcements</p>
+          </mj-text>
+          {{#each news}}
+            <mj-text padding="0 0 10px 0">
+              <h2><a href="{{this.url}}">{{this.title}}</a></h2>
+            </mj-text>
+          {{/each}}
+        </mj-column>
+      </mj-section>
+    {{/if}}
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text padding="0">
+          <p>
+            This newsletter is part of <a href="https://xgp.community">xgp.community</a>, a side
+            project by <a href="https://gabinaureche.com">Gabin</a>. Do not hesitate to reply to this
+            email if you have any feedback to share.
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>

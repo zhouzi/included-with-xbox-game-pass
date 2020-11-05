@@ -6,6 +6,7 @@ import { APIGame } from "../types";
 import currentGames from "../xgp.community/api/v1/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api", "v1");
+const SCREENSHOTS_DIR = path.join(__dirname, "screenshots");
 const DEPRECATED_OUTPUT_DIR = path.join(__dirname, "..", "gh-pages");
 const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 const SELECTORS = {
@@ -36,6 +37,7 @@ const SELECTORS = {
   };
 
   await page.goto(XBOX_GAME_PASS_URL);
+  await fse.emptyDir(SCREENSHOTS_DIR);
 
   await (async function extractCurrentPage(): Promise<void> {
     await page.waitForSelector(SELECTORS.games);
@@ -52,6 +54,10 @@ const SELECTORS = {
     const currentPage = await page.$eval(SELECTORS.currentPage, (element) =>
       Number(element.getAttribute("data-topage")!)
     );
+    await page.screenshot({
+      path: path.join(SCREENSHOTS_DIR, `page-${currentPage}.png`),
+      fullPage: true,
+    });
 
     games.push(
       ...(await page.$$eval(

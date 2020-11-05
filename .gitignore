@@ -142,4 +142,4 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/macos,node
 
 extension.zip
-packages/tasks/games/screenshots/
+packages/actions/screenshots/

@@ -492,6 +492,18 @@
     "addedAt": "2020-10-28T14:20:59.875Z"
   },
   {
+    "id": "BWMQL2RPWBHB",
+    "name": "Celeste",
+    "url": "https://www.microsoft.com/en-us/store/p/celeste/BWMQL2RPWBHB",
+    "image": "//store-images.s-microsoft.com/image/apps.21257.71633162879241707.7cf18b3b-9fa5-486f-9a68-067f06d50bf1.8f7909cf-d9a5-44aa-9901-2635255ab2ee",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2018-01-26T00:00:00.0000000Z",
+    "addedAt": "2020-11-05T09:20:53.821Z"
+  },
+  {
     "id": "9P675WH90SB4",
     "name": "Children of Morta",
     "url": "https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4",
@@ -550,6 +562,18 @@
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9N2H2GRB4D0K",
+    "name": "Comanche (Game Preview)",
+    "url": "https://www.microsoft.com/en-us/store/p/comanche-game-preview/9N2H2GRB4D0K",
+    "image": "//store-images.s-microsoft.com/image/apps.51285.13952002819855366.3bcb959b-d75e-4c1b-ac5c-82f8201b6ac9.1f24a3bd-a44a-4956-8655-ed4cb80c8535",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2799-01-01T00:00:00.0000000Z",
+    "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
     "id": "9NX9WH5F0RZD",
@@ -816,6 +840,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NHFVWX1V7QJ",
+    "name": "Deep Rock Galactic",
+    "url": "https://www.xbox.com/en-us/games/deep-rock-galactic",
+    "image": "//store-images.s-microsoft.com/image/apps.36513.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.55a54e68-1cc5-42b3-8925-75aed52f7e40",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-05-13T08:00:00.0000000Z",
+    "addedAt": "2020-11-05T09:20:53.821Z"
+  },
+  {
     "id": "9NVVSHQ771WG",
     "name": "Deliver Us The Moon",
     "url": "https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9NVVSHQ771WG",
@@ -1054,6 +1090,18 @@
     },
     "releaseDate": "2020-06-11T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9PLCR0FR564K",
+    "name": "Eastshade",
+    "url": "https://www.microsoft.com/en-us/store/p/eastshade/9PLCR0FR564K",
+    "image": "//store-images.s-microsoft.com/image/apps.16587.14319795905285934.e0483a2e-7ffd-4af8-9779-3a48be285697.ba310598-82a0-4b2c-bfa9-b69472b8a370",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2019-10-21T12:00:00.0000000Z",
+    "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
     "id": "BP4KK0NCLCHQ",
@@ -2400,6 +2448,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9P64KV1HQK07",
+    "name": "Knights and Bikes",
+    "url": "https://www.microsoft.com/en-us/store/p/knights-and-bikes/9P64KV1HQK07",
+    "image": "//store-images.s-microsoft.com/image/apps.64172.14631376149189004.de7c846f-fe64-4f51-81bc-3f1402a429e5.9b2fe8ea-4c5a-4ca0-a8a2-44cb9784b1e6",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-11-05T00:00:00.0000000Z",
+    "addedAt": "2020-11-05T09:20:53.821Z"
+  },
+  {
     "id": "BXDSG249D6Q2",
     "name": "Kona",
     "url": "https://www.microsoft.com/en-us/store/p/kona/BXDSG249D6Q2",
@@ -3375,9 +3435,9 @@
     "id": "9P2N57MC619K",
     "name": "Sea of Thieves",
     "url": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
-    "image": "//store-images.s-microsoft.com/image/apps.47028.14554784103656548.537c9e62-0a78-4e1c-bd03-9f208a8eee2d.9aab379e-f240-4957-a9d0-c815c4bb81ec",
+    "image": "//store-images.s-microsoft.com/image/apps.16347.14554784103656548.6c0bfca6-ceff-4368-9bde-2fe50f344136.007dce43-6492-46f2-bb2b-2b28df98fc3c",
     "availability": {
-      "console": false,
+      "console": true,
       "pc": true
     },
     "releaseDate": "2018-03-20T04:00:00.0000000Z",
@@ -3825,18 +3885,6 @@
       "pc": false
     },
     "releaseDate": "2019-08-30T04:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BNZ8CXHJNLSH",
-    "name": "The Elder Scrolls Online: Morrowind Upgrade",
-    "url": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-online-morrowind-upgrade/BNZ8CXHJNLSH",
-    "image": "//store-images.s-microsoft.com/image/apps.20307.67631572046043456.66981b82-7b72-4da0-aa24-5cbe2294f0c0.cb2df039-a168-455b-a591-8ca8f0305234",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2017-06-06T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {

@@ -32,7 +32,7 @@ const LAST_AGGREGATED_AT_PATH = path.join(__dirname, ".lastAggregatedAt");
         new Date(newsItem.publishedAt).getTime() >= lastAggregatedAt.getTime()
     ),
   });
-  if (isEmptyTemplateParams(templateParams)) {
+  if (!isEmptyTemplateParams(templateParams)) {
     // Only send email if there are actual news to share
     const html = await generateHTML(templateParams);
 

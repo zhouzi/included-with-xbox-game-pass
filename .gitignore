@@ -141,8 +141,9 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,node
 
-extension.zip
-packages/actions/screenshots/
+packages/extension/extension.zip
+packages/xgp.community/out_publish/
+packages/xgp.community/out_functions/
 
 # Local Netlify folder
 .netlify

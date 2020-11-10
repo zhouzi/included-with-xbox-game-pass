@@ -1,2 +1,5 @@
 [build]
-publish = "packages/xgp.community"
+base = "packages/xgp.community"
+command = "npm run build"
+functions = "out_functions"
+publish = "out_publish"

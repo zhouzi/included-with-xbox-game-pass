@@ -1,0 +1,25 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+:root {
+  --color-primary: #44f089;
+  --color-primary-dark: #24cc67;
+  --color-background-dark: #050f1a;
+  --color-background-main-over: #bac5ce;
+  --color-background-main-over-emphasis: #fff;
+  --color-background-main: #0f1923;
+  --color-background-light: #182735;
+  --color-background-lighter: #314253;
+}
+
+body {
+  color: var(--color-background-main-over);
+  background-color: var(--color-background-main);
+}

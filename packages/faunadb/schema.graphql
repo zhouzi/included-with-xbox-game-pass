@@ -1,0 +1,28 @@
+scalar Time
+
+type Query {
+  allGames: [Game!]! @index(name: "all_games")
+  allPosts: [Post!]! @index(name: "all_posts")
+}
+
+type Game @collection(name: "games") {
+  id: ID! @unique(index: "unique_game_id")
+  name: String!
+  url: String!
+  image: String!
+  availability: GameAvailability!
+  releaseDate: Time!
+  addedAt: Time!
+  removedAt: Time
+}
+
+type GameAvailability @embedded {
+  pc: Boolean!
+  console: Boolean!
+}
+
+type Post @collection(name: "posts") {
+  url: String!
+  title: String!
+  publishedAt: Time!
+}

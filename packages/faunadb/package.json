@@ -1,0 +1,15 @@
+{
+  "name": "@xgp/faunadb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "graphql-codegen --config codegen.yml --watch",
+    "build": "graphql-codegen --config codegen.yml"
+  },
+  "types": "schema.d.ts",
+  "dependencies": {
+    "@graphql-codegen/cli": "^1.19.1",
+    "@graphql-codegen/typescript": "1.17.11",
+    "graphql": "^15.4.0"
+  }
+}

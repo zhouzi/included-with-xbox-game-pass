@@ -1,0 +1,19 @@
+{
+  "name": "@xgp/extension",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "prebuild": "rm -rf ./dist",
+    "build": "parcel build ./src/manifest.json -d ./dist",
+    "postbuild": "cd ./dist && bestzip ../extension.zip *"
+  },
+  "dependencies": {
+    "@xgp/faunadb": "0.1.0",
+    "bestzip": "^2.1.7",
+    "dom-chef": "^4.2.2",
+    "fuse.js": "^6.4.3",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-web-extension": "^1.6.1",
+    "webext-storage-cache": "^4.1.1"
+  }
+}

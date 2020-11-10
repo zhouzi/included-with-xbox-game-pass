@@ -24,6 +24,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BWVBNCMF22ZK",
+    "name": "A Way Out",
+    "url": "https://www.microsoft.com/en-us/store/p/a-way-out/BWVBNCMF22ZK",
+    "image": "//store-images.s-microsoft.com/image/apps.57565.71718434425658872.697ca9fd-3b48-4708-b6bf-b97acc67c244.88890908-dcdf-4b03-8e73-4a10af21f949",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-03-23T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "C3XCXTFS6FFQ",
     "name": "Absolver",
     "url": "https://www.microsoft.com/en-us/store/p/absolver/C3XCXTFS6FFQ",
@@ -132,6 +144,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BSNZHRCKC13J",
+    "name": "Alice: Madness Returns",
+    "url": "https://www.microsoft.com/en-us/store/p/alice-madness-returns/BSNZHRCKC13J",
+    "image": "//store-images.s-microsoft.com/image/apps.8749.69866126975118433.0c8a5df6-972a-47b6-b4f0-58fcd7df8087.dfdac4ef-2796-4aa5-b35a-68cd8165bea5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-06-14T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9NSRJ872SGH7",
     "name": "Alien: Isolation",
     "url": "https://www.microsoft.com/en-us/store/p/alien-isolation/9NSRJ872SGH7",
@@ -168,6 +192,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BP9JQBJM0FNW",
+    "name": "Anthem™",
+    "url": "https://www.xbox.com/en-us/games/anthem",
+    "image": "//store-images.s-microsoft.com/image/apps.57681.68414427103463856.1f5379b8-b0df-4559-8bfc-233157d35637.5e82d382-3ee0-4c61-b10d-b244c8f284af",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-02-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9NR6DZ9F76P8",
     "name": "Ape Out",
     "url": "https://www.microsoft.com/en-us/store/p/ape-out/9NR6DZ9F76P8",
@@ -202,6 +238,18 @@
     },
     "releaseDate": "2017-08-29T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C1LM235H6FZ1",
+    "name": "Army of Two™",
+    "url": "https://www.microsoft.com/en-us/store/p/army-of-two/C1LM235H6FZ1",
+    "image": "//store-images.s-microsoft.com/image/apps.21194.64930031463159708.b90cc927-ab67-44df-b1bd-cff328823c5a.3432eb1e-0141-4d0c-b0c1-325e071a911a",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2009-12-30T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NFT0CMC62DX",
@@ -300,6 +348,102 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "C1QQ7GM9HLKG",
+    "name": "Battlefield 1943™",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-1943/C1QQ7GM9HLKG",
+    "image": "//store-images.s-microsoft.com/image/apps.50762.64989950958903531.7db6581c-61bc-4dfd-a6e7-623f39bf6c95.abe090c1-77de-467e-9b80-7596bf45ef9d",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-06-14T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BRN6BHDHB58J",
+    "name": "Battlefield 3™",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-3/BRN6BHDHB58J",
+    "image": "//store-images.s-microsoft.com/image/apps.64861.69271430660548627.c90235de-725c-43d6-b777-19f7f75295cc.d39dba01-0270-4979-9e55-0b094c6c17b5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-11-01T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BP15SF17LH13",
+    "name": "Battlefield 4",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-4/BP15SF17LH13",
+    "image": "//store-images.s-microsoft.com/image/apps.1392.67660042887481018.7de2bfcd-48ef-4a6c-bba4-e65d208d67ec.d712d519-5ad0-4aac-9271-ad4424fd3702",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C0JN2J76L7C9",
+    "name": "Battlefield Bad Company 2",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-bad-company-2/C0JN2J76L7C9",
+    "image": "//store-images.s-microsoft.com/image/apps.63659.64292618700215736.4ae11de4-092f-47e5-98b6-e9ce30b1cd41.82b4e410-5d29-411f-9a22-44bfe3739f90",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-03-02T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BQ81KKJMM7ZD",
+    "name": "Battlefield: Bad Company",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-bad-company/BQ81KKJMM7ZD",
+    "image": "//store-images.s-microsoft.com/image/apps.26818.68975274938212993.7e43a6cc-16d3-4143-97aa-f66007f2c496.d05350c2-f7c5-4999-a6c6-23e039ed46e0",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-02-18T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BWTTW53M5B98",
+    "name": "Battlefield™ 1",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-1/BWTTW53M5B98",
+    "image": "//store-images.s-microsoft.com/image/apps.8968.71723728477894721.ccae3323-9805-41d3-ae50-dc82948a7d7f.c0fce5d3-1195-4540-a9e9-68908c5e766e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-10-21T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BZKZFMQG2K2K",
+    "name": "Battlefield™ Hardline",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-hardline/BZKZFMQG2K2K",
+    "image": "//store-images.s-microsoft.com/image/apps.54948.63735777037085446.8fe8dc26-04d3-4d1f-9c78-cbcd6784657d.eda99f52-e778-4fe8-9355-2007a3985e1e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2015-03-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BZ2N7TQ0XCF2",
+    "name": "Battlefield™ V",
+    "url": "https://www.microsoft.com/en-us/store/p/battlefield-v/BZ2N7TQ0XCF2",
+    "image": "//store-images.s-microsoft.com/image/apps.15924.64032621253256243.9745cf01-8239-4973-8193-31de18936f03.5e2269fb-2db9-49d1-b725-b355332c023c",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-11-20T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9NGWKW55M85P",
     "name": "Battlefleet Gothic: Armada 2 - Windows 10",
     "url": "https://www.microsoft.com/en-us/store/p/battlefleet-gothic-armada-2---windows-10/9NGWKW55M85P",
@@ -336,6 +480,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BTXM0C9C3B1S",
+    "name": "Bejeweled 2",
+    "url": "https://www.microsoft.com/en-us/store/p/bejeweled-2/BTXM0C9C3B1S",
+    "image": "//store-images.s-microsoft.com/image/apps.58233.70598382198456945.98dc0f96-e263-4c13-88a2-34a4d4905937.3c9b25df-9c46-41dc-ba04-4a5533fe2679",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2005-11-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BR7QJW8V9L2S",
+    "name": "Bejeweled 3",
+    "url": "https://www.microsoft.com/en-us/store/p/bejeweled-3/BR7QJW8V9L2S",
+    "image": "//store-images.s-microsoft.com/image/apps.46232.69586937988078931.d39c4bc9-0654-4448-b8d1-8bea7f1d67b8.e734bf6f-750f-4f80-9037-ec09c303724e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-10-19T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "BTPDCJXNFSZL",
     "name": "Black Desert",
     "url": "https://www.microsoft.com/en-us/store/p/black-desert/BTPDCJXNFSZL",
@@ -346,6 +514,18 @@
     },
     "releaseDate": "2019-03-04T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BTCS0LP052HL",
+    "name": "BLACK™",
+    "url": "https://www.microsoft.com/en-us/store/p/black/BTCS0LP052HL",
+    "image": "//store-images.s-microsoft.com/image/apps.5928.70793574977529715.aaba2fdf-8d2c-448d-839d-dc168291069b.5321b735-09e8-4fe2-ac05-f881d9159951",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2008-04-07T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NG7LG421V0Q",
@@ -442,6 +622,18 @@
     },
     "releaseDate": "2009-12-15T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BQMQ3K1BLV1T",
+    "name": "Burnout™ Paradise Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/burnout-paradise-remastered/BQMQ3K1BLV1T",
+    "image": "//store-images.s-microsoft.com/image/apps.39285.69242235395687976.60c3c0b9-9cce-4803-b1e8-f6861422bd64.509863ff-baac-4dbc-96bf-4688cfde5d1c",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-03-16T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9MSMJH3C6TKR",
@@ -672,6 +864,54 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BNN7BPDZ6GQB",
+    "name": "Crysis",
+    "url": "https://www.microsoft.com/en-us/store/p/crysis/BNN7BPDZ6GQB",
+    "image": "//store-images.s-microsoft.com/image/apps.19066.68016281092455761.8c631f2d-2803-4c39-b29c-715c90617345.e7a300d0-d00f-43ea-a73d-a493cca4ff24",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-10-04T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BQBTGDT4P54J",
+    "name": "Crysis 2",
+    "url": "https://www.microsoft.com/en-us/store/p/crysis-2/BQBTGDT4P54J",
+    "image": "//store-images.s-microsoft.com/image/apps.63337.69065092223175795.fdcc1404-e33b-4bfd-8db8-c2f81c469354.afb801b5-a960-42c2-8ca2-001f0e9a8d95",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-03-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BNKKJL1VRR5P",
+    "name": "Crysis® 3",
+    "url": "https://www.microsoft.com/en-us/store/p/crysis-3/BNKKJL1VRR5P",
+    "image": "//store-images.s-microsoft.com/image/apps.7839.68002394896064296.6f4dcac0-75a7-433c-801c-5087b895d814.6bdeee1a-250a-4c56-8cef-809fdd056302",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2013-02-19T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C0X6N5963CTW",
+    "name": "Dante's Inferno™",
+    "url": "https://www.microsoft.com/en-us/store/p/dantes-inferno/C0X6N5963CTW",
+    "image": "//store-images.s-microsoft.com/image/apps.2805.65125427675965946.9a11f22d-d015-4e5d-8fe2-d22c387be19c.55436672-743e-4c6f-b104-ddca23969d53",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-04-27T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9NJ5X04M30HN",
     "name": "Darksiders Genesis",
     "url": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/9NJ5X04M30HN",
@@ -814,6 +1054,54 @@
     },
     "releaseDate": "2016-05-31T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BRJLJ6RPLQTJ",
+    "name": "Dead Space™",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-space/BRJLJ6RPLQTJ",
+    "image": "//store-images.s-microsoft.com/image/apps.47254.69768431406041041.e1386476-b377-413b-9457-1f5559dbb168.1729d161-6022-4368-b67d-128946d0ca78",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-08-03T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C2PB7STLJGS0",
+    "name": "Dead Space™ 2",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-space-2/C2PB7STLJGS0",
+    "image": "//store-images.s-microsoft.com/image/apps.36133.65552910726292335.3086e865-b330-4e23-8a9d-f940d5cff913.36f7d5c4-1a20-4382-a3ee-2ad302bd7db5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-01-25T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BP73LMGB1DFD",
+    "name": "Dead Space™ 3",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-space-3/BP73LMGB1DFD",
+    "image": "//store-images.s-microsoft.com/image/apps.15519.67829326247190973.f408c3de-64e7-4778-a833-d62cbf7f0fd1.273d77f4-1c69-4de2-9fec-43915602817e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2013-02-06T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C4GQQJJSZSZJ",
+    "name": "Dead Space™ Ignition",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-space-ignition/C4GQQJJSZSZJ",
+    "image": "//store-images.s-microsoft.com/image/apps.6724.66616941329633673.ed23a5d1-2731-4da6-a036-6dcecee38b30.5ee6ef5a-9557-4e38-94ba-e2c5ecdf2ca5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-10-13T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "BS32QFXVPWBC",
@@ -1056,6 +1344,42 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BS9SX4Q6XJRF",
+    "name": "Dragon Age: Origins",
+    "url": "https://www.microsoft.com/en-us/store/p/dragon-age-origins/BS9SX4Q6XJRF",
+    "image": "//store-images.s-microsoft.com/image/apps.56784.70226594498231256.17116041-5bab-4f35-9bd5-63b5de669a3f.6c91eae6-ea29-44be-89e4-df2dac63a6b5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-08-10T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C4G76555T4QN",
+    "name": "Dragon Age™ 2",
+    "url": "https://www.microsoft.com/en-us/store/p/dragon-age-2/C4G76555T4QN",
+    "image": "//store-images.s-microsoft.com/image/apps.29295.66622812769222919.f72813e2-a2c0-4178-94a9-276818a15412.ae0771d4-33c9-49df-9337-d368270e584c",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-03-08T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C47GZZBMR5WG",
+    "name": "Dragon Age™: Inquisition",
+    "url": "https://www.microsoft.com/en-us/store/p/dragon-age-inquisition/C47GZZBMR5WG",
+    "image": "//store-images.s-microsoft.com/image/apps.59172.66474211586744867.e24f67e1-7195-4bf7-9758-84e7723c0673.f1ac78b0-3728-4d7f-8ccd-11a5398dbdfa",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-11-18T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9PGNGGWBX1NR",
     "name": "Drake Hollow",
     "url": "https://www.microsoft.com/en-us/store/p/drake-hollow/9PGNGGWBX1NR",
@@ -1090,6 +1414,114 @@
     },
     "releaseDate": "2020-06-11T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C4LL0TDQRFLS",
+    "name": "EA SPORTS™ FIFA 16",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-fifa-16/C4LL0TDQRFLS",
+    "image": "//store-images.s-microsoft.com/image/apps.21039.66682150028232887.6585cfbe-df21-46f9-9652-28031ab1a64d.5cdf8171-5d00-4bb9-b96a-2b3af799aabc",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2015-09-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BTVFFDDZ0TL4",
+    "name": "EA SPORTS™ FIFA 17",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-fifa-17/BTVFFDDZ0TL4",
+    "image": "//store-images.s-microsoft.com/image/apps.47248.70571305831533235.28202246-3c59-42b5-9b55-a87c4dec7066.cbea826a-7477-40d1-adee-515320647e46",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-09-27T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BV433V4B23LM",
+    "name": "EA SPORTS™ FIFA 20",
+    "url": "https://www.xbox.com/en-us/games/fifa-20",
+    "image": "//store-images.s-microsoft.com/image/apps.16928.71269400152242860.3b3f5f62-74f4-4319-a3fc-85bec90c08d8.8f799fb9-c0de-49c9-9045-2d19472f8533",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-09-27T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C2BTFXNW3TTT",
+    "name": "EA SPORTS™ NHL® 18",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-nhl-18/C2BTFXNW3TTT",
+    "image": "//store-images.s-microsoft.com/image/apps.64015.65337579303130468.175d411f-fc67-43af-8f06-604de8de180e.231f3370-59ff-42a0-a6b3-766e18447cea",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-09-15T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C1C16ZZZ79VD",
+    "name": "EA SPORTS™ NHL® 19",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-nhl-19/C1C16ZZZ79VD",
+    "image": "//store-images.s-microsoft.com/image/apps.156.64798281879073043.8d046c05-2968-4394-b85e-b27268656500.639ab033-c0b1-4f16-b64d-cf6d77e3725d",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-09-14T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C4PFWZ29P1T1",
+    "name": "EA SPORTS™ Rory McIlroy PGA TOUR®",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-rory-mcilroy-pga-tour/C4PFWZ29P1T1",
+    "image": "//store-images.s-microsoft.com/image/apps.42705.67329475825645372.7b68b132-250e-4704-a8a7-c18cca273b07.ae6f4b0e-554d-40fc-981a-dd8b1d3858e4",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2015-07-14T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BXLW311NX101",
+    "name": "EA SPORTS™ UFC®",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-ufc/BXLW311NX101",
+    "image": "//store-images.s-microsoft.com/image/apps.1795.63178139801958626.aab0cb5f-a9f5-4f7c-9e82-085bc9c75499.842ac7b9-4b14-45cc-9097-a6df3ba49420",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-06-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BPMMFJDVP9NF",
+    "name": "EA SPORTS™ UFC® 2",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-ufc-2/BPMMFJDVP9NF",
+    "image": "//store-images.s-microsoft.com/image/apps.39112.68638308807191270.bd12222f-895f-4170-a89f-60597cb9dfd8.30aef6cc-c9b2-4728-a0f6-fcae4e18a3b5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-03-15T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C5DZH514BX37",
+    "name": "EA SPORTS™ UFC® 3",
+    "url": "https://www.microsoft.com/en-us/store/p/ea-sports-ufc-3/C5DZH514BX37",
+    "image": "//store-images.s-microsoft.com/image/apps.52912.67187354709168902.a3bedf41-e05c-46af-b28a-9001abece0fc.1a9b6265-15b9-4437-8521-8f033e3ffd86",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-02-02T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9PLCR0FR564K",
@@ -1294,6 +1726,90 @@
     },
     "releaseDate": "2019-12-04T05:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BZW2R4STVDNK",
+    "name": "Fe",
+    "url": "https://www.microsoft.com/en-us/store/p/fe/BZW2R4STVDNK",
+    "image": "//store-images.s-microsoft.com/image/apps.39456.64467054462611390.5ec3df50-cb94-49e1-8de0-6751bede49a6.e3d15163-98ac-492f-9996-fdc9e5d02133",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-02-16T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BRBRQCVTJG2D",
+    "name": "Feeding Frenzy",
+    "url": "https://www.microsoft.com/en-us/store/p/feeding-frenzy/BRBRQCVTJG2D",
+    "image": "//store-images.s-microsoft.com/image/apps.38090.69601674446930807.80bd09f6-7c0d-48cf-95be-ccf7f5530237.522df1af-f5b0-425c-8d9e-4c073f329dc0",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2006-03-10T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BQ192SFB694X",
+    "name": "Feeding Frenzy 2",
+    "url": "https://www.microsoft.com/en-us/store/p/feeding-frenzy-2/BQ192SFB694X",
+    "image": "//store-images.s-microsoft.com/image/apps.17857.68263670985474927.708f0eb3-9de2-4e05-8f6c-aab00619bb14.f7676005-b2fc-41d3-8aa8-ff28f354d6dc",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2008-09-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BXSVW5X9S0G3",
+    "name": "FIFA 15",
+    "url": "https://www.microsoft.com/en-us/store/p/fifa-15/BXSVW5X9S0G3",
+    "image": "//store-images.s-microsoft.com/image/apps.34224.63270965257959120.d2717196-83ff-4969-87bf-add2cac6fce3.21213471-2159-42c5-bae2-53ba7db9e4ec",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-09-23T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BWPKGQV97N7N",
+    "name": "FIFA 18",
+    "url": "https://www.microsoft.com/en-us/store/p/fifa-18/BWPKGQV97N7N",
+    "image": "//store-images.s-microsoft.com/image/apps.65231.71667517887028521.bff857ed-6bfa-4c2d-9e04-b7932213cb58.21aadb94-5e72-45ba-885e-3bbb787aa02e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-10-10T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C3C71TV51SQC",
+    "name": "FIFA 19",
+    "url": "https://www.xbox.com/en-us/games/fifa-19",
+    "image": "//store-images.s-microsoft.com/image/apps.25379.65935680416820512.0393700b-aebb-4624-867c-c87117df6829.1e7600b9-ff15-4819-828f-f7fd136f1160",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-09-28T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BQG162F04T2L",
+    "name": "FIGHT NIGHT CHAMPION",
+    "url": "https://www.microsoft.com/en-us/store/p/fight-night-champion/BQG162F04T2L",
+    "image": "//store-images.s-microsoft.com/image/apps.36495.69068534869269909.2e5bd713-07e4-4ab3-ab98-5c3b344e3c50.7fc40118-7e50-42c3-babd-cbb2ec401a15",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-04-26T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NPGTNQFC8B5",
@@ -1728,16 +2244,16 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9PNJ8VXWQ8HN",
-    "name": "Gears Tactics - Windows 10",
-    "url": "https://www.microsoft.com/en-us/store/p/gears-tactics---windows-10/9PNJ8VXWQ8HN",
-    "image": "//store-images.s-microsoft.com/image/apps.42707.14343428826475409.171005ed-38d6-40e9-9ed0-69a6b154ea9d.1ef1fa63-f495-4483-9ae6-b456d58149d8",
+    "id": "9NN3HCKW5TPC",
+    "name": "Gears Tactics",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-tactics/9NN3HCKW5TPC",
+    "image": "//store-images.s-microsoft.com/image/apps.42707.13750744755532010.7748d323-597f-440a-94e4-9c030198efa6.6d597598-01ee-40de-b29f-0af453183462",
     "availability": {
-      "console": false,
+      "console": true,
       "pc": true
     },
-    "releaseDate": "2020-04-28T15:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
+    "releaseDate": "2020-11-09T16:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "BV0NM309K1TL",
@@ -2086,6 +2602,18 @@
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BZ910SG8ML8X",
+    "name": "Heavy Weapon",
+    "url": "https://www.microsoft.com/en-us/store/p/heavy-weapon/BZ910SG8ML8X",
+    "image": "//store-images.s-microsoft.com/image/apps.395.64123032034140827.c6168420-6a8f-4a04-b63b-69f7e2a6f5d8.8e16477c-538b-4b1c-914a-bbca892ea709",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2007-01-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NCLP4LV5K7Z",
@@ -2508,6 +3036,90 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BNFCRCSB95FT",
+    "name": "Madden NFL 15",
+    "url": "https://www.microsoft.com/en-us/store/p/madden-nfl-15/BNFCRCSB95FT",
+    "image": "//store-images.s-microsoft.com/image/apps.21087.67874117791580972.f61f8959-04c2-435b-b48e-c542d4290fb2.29ffc176-deee-4c94-b9db-abd164866557",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-08-26T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BXRMHT4MV6G3",
+    "name": "Madden NFL 16",
+    "url": "https://www.microsoft.com/en-us/store/p/madden-nfl-16/BXRMHT4MV6G3",
+    "image": "//store-images.s-microsoft.com/image/apps.6185.63229793561102392.82a53f71-30be-4d5b-9844-26b83937b0ad.21769fbd-c5ff-4915-8e06-d269ce2fad88",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2015-08-25T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C2KV821GS8X5",
+    "name": "Madden NFL 17",
+    "url": "https://www.microsoft.com/en-us/store/p/madden-nfl-17/C2KV821GS8X5",
+    "image": "//store-images.s-microsoft.com/image/apps.49793.65484800287653002.e58b8c02-8690-4171-ad25-444642d95b19.8d35a6a3-ab01-422b-8c5c-39babebf91f3",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-08-23T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BS36XT3Z5ZKL",
+    "name": "Madden NFL 18",
+    "url": "https://www.microsoft.com/en-us/store/p/madden-nfl-18/BS36XT3Z5ZKL",
+    "image": "//store-images.s-microsoft.com/image/apps.56168.69507354136225387.98b1bbfb-a21e-45dc-962b-9d4b05ac732f.15840859-b2bc-4c83-9ca5-ac19dbe4791c",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-08-25T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BVF5ZGD9NM52",
+    "name": "Madden NFL 19",
+    "url": "https://www.xbox.com/en-us/games/madden-19",
+    "image": "//store-images.s-microsoft.com/image/apps.16059.71437585899144883.87ff7914-b511-4bf1-9954-d2d853608790.4e642ec6-e374-40f6-bf99-b88bda26329e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-08-10T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BZ289TV4QVCK",
+    "name": "Madden NFL 20",
+    "url": "https://www.xbox.com/en-us/games/madden-20",
+    "image": "//store-images.s-microsoft.com/image/apps.1199.63970390157963956.1fb71877-3559-43b0-bd23-7874763beea0.0032d45f-2346-40a7-b9ae-3643cd2cce08",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-08-02T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C3CF8LR1RFKH",
+    "name": "Madden NFL 25",
+    "url": "https://www.microsoft.com/en-us/store/p/madden-nfl-25/C3CF8LR1RFKH",
+    "image": "//store-images.s-microsoft.com/image/apps.16018.66002033364259166.0454145f-1403-4ef5-b606-ea9871b5642a.ad1d0b7a-4da5-4be2-a794-78385a7b0236",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9PGSCB1X2P7G",
     "name": "MARVEL VS. CAPCOM: INFINITE",
     "url": "https://www.microsoft.com/en-us/store/p/marvel-vs-capcom-infinite/9PGSCB1X2P7G",
@@ -2532,6 +3144,42 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "C0Z1N477W100",
+    "name": "Mass Effect 2",
+    "url": "https://www.microsoft.com/en-us/store/p/mass-effect-2/C0Z1N477W100",
+    "image": "//store-images.s-microsoft.com/image/apps.33075.65104284338300891.dcd8a095-2ff3-4393-acfc-5bd52cf20770.748fb136-3a00-4006-90e0-91db959b4f4b",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-01-26T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C040H652PD98",
+    "name": "Mass Effect™ 3",
+    "url": "https://www.microsoft.com/en-us/store/p/mass-effect-3/C040H652PD98",
+    "image": "//store-images.s-microsoft.com/image/apps.26376.64611995315525881.f32f0f5b-8833-4bf4-afa8-9e589d13319f.6b4b9429-4f86-4b19-9f4b-d8d2639c0b2d",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2012-03-06T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BZPR04V49BMH",
+    "name": "Mass Effect™: Andromeda",
+    "url": "https://www.microsoft.com/en-us/store/p/mass-effect-andromeda/BZPR04V49BMH",
+    "image": "//store-images.s-microsoft.com/image/apps.9069.63802047386749134.ad5f99e3-d1a2-49a5-bbb8-b299dc4073ec.63c17e4c-b730-4540-9924-5f107b764c7b",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-03-21T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "C0SFCF4PBRSZ",
     "name": "Max: The Curse of Brotherhood",
     "url": "https://www.microsoft.com/en-us/store/p/max-the-curse-of-brotherhood/C0SFCF4PBRSZ",
@@ -2554,6 +3202,18 @@
     },
     "releaseDate": "2020-05-07T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C43H00X6KZRJ",
+    "name": "Medal of Honor Airborne",
+    "url": "https://www.microsoft.com/en-us/store/p/medal-of-honor-airborne/C43H00X6KZRJ",
+    "image": "//store-images.s-microsoft.com/image/apps.54745.66974914511950569.ff702c97-4a02-4354-b453-9db00dc580cb.75e1e6ec-5699-49a1-b466-bb4d41f03fc9",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-05-26T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NM5W1TDNQZ3",
@@ -2626,6 +3286,30 @@
     },
     "releaseDate": "2020-05-26T08:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BP96WRTVD7C1",
+    "name": "Mirror's Edge™",
+    "url": "https://www.microsoft.com/en-us/store/p/mirrors-edge/BP96WRTVD7C1",
+    "image": "//store-images.s-microsoft.com/image/apps.59519.68416368999479584.89b36c57-6423-4e10-945f-b73fe790db76.0cd3d272-7242-474c-9211-4ba305ccc052",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-06-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C48LBRJJCP2L",
+    "name": "Mirror's Edge™ Catalyst",
+    "url": "https://www.microsoft.com/en-us/store/p/mirrors-edge-catalyst/C48LBRJJCP2L",
+    "image": "//store-images.s-microsoft.com/image/apps.55613.66522486697599341.54595999-7800-48a6-8255-bf581c71e0dd.076c4cea-fe6d-488e-94a2-3b33fa4f2eb3",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-06-07T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9P8K66J3CQ9S",
@@ -2856,6 +3540,78 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "C242DV9JQD3W",
+    "name": "NBA LIVE 18: The One Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/nba-live-18-the-one-edition/C242DV9JQD3W",
+    "image": "//store-images.s-microsoft.com/image/apps.40792.65822291322698290.de4d0045-b651-486b-923e-0150f5d7e43c.35c75b67-64d9-4c00-bcaa-1a6a4e268a62",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-09-15T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BVX4Z50ZBH5Q",
+    "name": "NBA LIVE 19",
+    "url": "https://www.microsoft.com/en-us/store/p/nba-live-19/BVX4Z50ZBH5Q",
+    "image": "//store-images.s-microsoft.com/image/apps.32453.71143245537553871.23126cde-33bb-48f3-bee9-3b0e427e88ff.e972b75a-d379-4297-9830-3164cb6ba863",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-09-07T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C3VM0TMWNZ5M",
+    "name": "Need for Speed Rivals",
+    "url": "https://www.microsoft.com/en-us/store/p/need-for-speed-rivals/C3VM0TMWNZ5M",
+    "image": "//store-images.s-microsoft.com/image/apps.36284.66828645796021226.1045dac2-bde6-4884-b5fc-6bc534a2d954.901627e5-46d3-4be3-a95a-c1765a3ecfe7",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BXWJNW4170RM",
+    "name": "Need for Speed™",
+    "url": "https://www.microsoft.com/en-us/store/p/need-for-speed/BXWJNW4170RM",
+    "image": "//store-images.s-microsoft.com/image/apps.16220.63922543011545658.b811c016-7bf5-44e1-8dbe-39de98149fe7.5dc8877c-676e-4cd8-b12e-7d04448fec7a",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2015-11-03T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BRZZLBF5T245",
+    "name": "Need for Speed™ Heat",
+    "url": "https://www.microsoft.com/en-us/store/p/need-for-speed-heat/BRZZLBF5T245",
+    "image": "//store-images.s-microsoft.com/image/apps.25499.69435230515002378.5c54c210-6100-4e84-81d0-b92a5aadc00d.621c04a4-1dba-4507-9975-15242516a0a3",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-11-08T05:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C355T88BBX1S",
+    "name": "Need for Speed™ Payback",
+    "url": "https://www.microsoft.com/en-us/store/p/need-for-speed-payback/C355T88BBX1S",
+    "image": "//store-images.s-microsoft.com/image/apps.64146.66406111980515345.a9149b61-a34b-44ad-a434-0a4411d792d3.dbffc626-4525-45e4-8751-8b7a7d51b8bb",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-11-10T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9NC781DK18GN",
     "name": "Neon Abyss",
     "url": "https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN",
@@ -2890,6 +3646,18 @@
     },
     "releaseDate": "2020-08-21T07:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C2HHTCSZRK9G",
+    "name": "NHL® 20",
+    "url": "https://www.microsoft.com/en-us/store/p/nhl-20/C2HHTCSZRK9G",
+    "image": "//store-images.s-microsoft.com/image/apps.12976.65456203328105951.9f57f97a-0235-46cb-af4b-ad0a6a6c300a.5874d5b8-cfe4-4182-88ca-de5757611590",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-09-13T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "BPPZVT8BZ15N",
@@ -3144,6 +3912,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BSCCQL7DZ9KD",
+    "name": "Peggle",
+    "url": "https://www.microsoft.com/en-us/store/p/peggle/BSCCQL7DZ9KD",
+    "image": "//store-images.s-microsoft.com/image/apps.60306.70195604297907649.16687243-8913-4430-a865-c8a76aac240c.4c8fcc13-3452-4c61-a079-b59083aaa185",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2009-03-11T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BNCZHKWRZ7BR",
+    "name": "Peggle 2",
+    "url": "https://www.microsoft.com/en-us/store/p/peggle-2/BNCZHKWRZ7BR",
+    "image": "//store-images.s-microsoft.com/image/apps.33650.67897516232762656.798d5423-ae25-4369-b9f2-33205af62a6f.e9040700-0ee4-41ec-b692-74399a142fb3",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2013-12-09T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "BQ70VB4MM1XM",
     "name": "Perfect Dark",
     "url": "https://www.microsoft.com/en-us/store/p/perfect-dark/BQ70VB4MM1XM",
@@ -3226,6 +4018,54 @@
     },
     "releaseDate": "2019-12-19T18:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BR1D9CR82ZM8",
+    "name": "Plants vs. Zombies",
+    "url": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies/BR1D9CR82ZM8",
+    "image": "//store-images.s-microsoft.com/image/apps.7703.68871528329885281.e03a829d-faa0-4a31-a5d8-785bb8b52288.748acac8-0b82-4e85-a963-0f0736c33cc4",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2010-07-27T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BTJ0T8C04ZBV",
+    "name": "Plants vs. Zombies Garden Warfare",
+    "url": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies-garden-warfare/BTJ0T8C04ZBV",
+    "image": "//store-images.s-microsoft.com/image/apps.21805.70921300667420253.8c8a7ac7-d0bd-46fb-a144-4c5ea316247c.d018de86-d9df-40b3-8309-55253342e39a",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-02-25T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C4HZC7LJG6PX",
+    "name": "Plants vs. Zombies: Battle for Neighborville™",
+    "url": "https://www.xbox.com/en-us/games/plants-vs-zombies-battle-for-neighborville",
+    "image": "//store-images.s-microsoft.com/image/apps.61874.66663660452837213.88feed53-4335-4b35-8a3a-476a0f0fd6ca.2fb76fcc-ce28-470d-b90d-e5285e6ed205",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-10-18T04:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BNRH7BRC1D02",
+    "name": "Plants vs. Zombies™ Garden Warfare 2",
+    "url": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies-garden-warfare-2/BNRH7BRC1D02",
+    "image": "//store-images.s-microsoft.com/image/apps.7672.68092588132505117.32378282-ea7e-40c4-a3a2-81703aa936d7.ee0c2315-50e1-4175-a1ee-f59e0fc7b52e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-02-23T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "C0MN5DN8KR3F",
@@ -3384,6 +4224,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9MX7Q207JGTW",
+    "name": "Rocket Arena",
+    "url": "https://www.microsoft.com/en-us/store/p/rocket-arena/9MX7Q207JGTW",
+    "image": "//store-images.s-microsoft.com/image/apps.8539.13894853419150806.710eb82b-1986-49c3-9168-efbd58edc848.eb3c4b69-ec8a-42b0-910a-15ff2df8ef01",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-07-14T04:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9P3PL76N0KWZ",
     "name": "Rush: A DisneyPixar Adventure",
     "url": "https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ",
@@ -3430,6 +4282,18 @@
     },
     "releaseDate": "2015-03-03T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C4060P46HH4D",
+    "name": "Sea of Solitude",
+    "url": "https://www.microsoft.com/en-us/store/p/sea-of-solitude/C4060P46HH4D",
+    "image": "//store-images.s-microsoft.com/image/apps.65012.66899389918915343.3cdfd82d-2868-4f03-99bf-197a61c1cda4.994de704-9d81-418b-8e1e-f002b9f03853",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-07-05T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9P2N57MC619K",
@@ -3492,6 +4356,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "C136M2366DM0",
+    "name": "Shadows of the Damned",
+    "url": "https://www.microsoft.com/en-us/store/p/shadows-of-the-damned/C136M2366DM0",
+    "image": "//store-images.s-microsoft.com/image/apps.54692.65163340770325341.fc0179f5-4557-4bd7-aab1-9ed66baeb85c.9a034721-5328-4770-8794-c70fed1371b5",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2011-06-07T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BNKDKQXMXRR2",
+    "name": "Skate 3",
+    "url": "https://www.microsoft.com/en-us/store/p/skate-3/BNKDKQXMXRR2",
+    "image": "//store-images.s-microsoft.com/image/apps.18720.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.46888afa-996b-4016-b5b4-c2e0b78171e2",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-09-23T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9MZQR8317S3B",
     "name": "Slay The Spire",
     "url": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
@@ -3552,6 +4440,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BWK0Q0RQMH7V",
+    "name": "SSX",
+    "url": "https://www.microsoft.com/en-us/store/p/ssx/BWK0Q0RQMH7V",
+    "image": "//store-images.s-microsoft.com/image/apps.21771.71550297083306103.8d519f7c-6c18-44cf-afb7-526f535d1ddd.75ec6109-c908-42dc-a501-ab7f14974f47",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2012-02-28T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9PK5S1QKV10D",
     "name": "Star Renegades",
     "url": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
@@ -3562,6 +4462,30 @@
     },
     "releaseDate": "2020-09-08T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BRXTM276DLPR",
+    "name": "STAR WARS™ Battlefront™",
+    "url": "https://www.microsoft.com/en-us/store/p/star-wars-battlefront/BRXTM276DLPR",
+    "image": "//store-images.s-microsoft.com/image/apps.472.69387117932718482.43200d88-4aa5-41bd-a24e-a2c1b87be409.d48bbbe6-dfef-498e-b391-ff0ba82f712d",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2015-11-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C0GWTPD0S8S1",
+    "name": "STAR WARS™ Battlefront™ II",
+    "url": "https://www.xbox.com/en-us/games/star-wars-battlefront-II",
+    "image": "//store-images.s-microsoft.com/image/apps.31281.64256825846959382.44b5bc43-437a-4414-83ca-b41ba9e7764a.86abb8aa-f419-4a90-b6aa-cf79b4228f06",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-11-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NT4X7P8B9NB",
@@ -3816,6 +4740,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9PPBVK3TK83M",
+    "name": "Tetris® Effect: Connected",
+    "url": "https://www.microsoft.com/en-us/store/p/tetris-effect-connected/9PPBVK3TK83M",
+    "image": "//store-images.s-microsoft.com/image/apps.22652.14331659527374482.009c90f5-1029-4e90-879f-365d3684bc53.a0b26805-d4ff-4f3e-806d-bc7af0e3d651",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-11-10T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9PN3VDFTB5HZ",
     "name": "The Bard's Tale ARPG : Remastered and Resnarkled",
     "url": "https://www.microsoft.com/en-us/store/p/the-bards-tale-arpg--remastered-and-resnarkled/9PN3VDFTB5HZ",
@@ -4006,6 +4942,18 @@
     },
     "releaseDate": "2019-10-25T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C08JXNK0VG5L",
+    "name": "The Sims™ 4",
+    "url": "https://www.microsoft.com/en-us/store/p/the-sims-4/C08JXNK0VG5L",
+    "image": "//store-images.s-microsoft.com/image/apps.53697.64737940845214615.82a9a5cd-32c5-4fb1-a951-2a7b976ad460.f0e0779f-450f-421f-b0c6-7b04bf25fa60",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-11-17T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "BSWTLFKMV96K",
@@ -4236,6 +5184,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BPB9XVH92Z7T",
+    "name": "Titanfall",
+    "url": "https://www.microsoft.com/en-us/store/p/titanfall/BPB9XVH92Z7T",
+    "image": "//store-images.s-microsoft.com/image/apps.60809.68465370828881560.b2efcf70-9772-4200-a381-cd43cf16f0b2.19ab9b6f-40f3-4560-85d6-dfb7b287c87d",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2014-03-11T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C0X2HNVH08FB",
+    "name": "Titanfall® 2",
+    "url": "https://www.microsoft.com/en-us/store/p/titanfall-2/C0X2HNVH08FB",
+    "image": "//store-images.s-microsoft.com/image/apps.25984.65123785197113223.0191c6ed-9ff7-488b-b8cc-c338d3886461.8f235e4d-8c5a-46f3-b9ee-5c817f3f7a56",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-10-28T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
     "id": "9P30K2NXWH82",
     "name": "Tom Clancy's Rainbow Six® Siege Deluxe Edition",
     "url": "https://www.microsoft.com/en-us/store/p/tom-clancys-rainbow-six-siege-deluxe-edition/9P30K2NXWH82",
@@ -4390,6 +5362,30 @@
     },
     "releaseDate": "2020-08-06T11:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C11KKHB5H7QJ",
+    "name": "Unravel",
+    "url": "https://www.microsoft.com/en-us/store/p/unravel/C11KKHB5H7QJ",
+    "image": "//store-images.s-microsoft.com/image/apps.52880.65129518710082559.30d43137-919f-4215-820e-038b409fb968.9b56f6c5-bfd1-4b02-beaf-666f707aa0da",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-02-09T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "C4VKLMG1HLZW",
+    "name": "Unravel Two",
+    "url": "https://www.microsoft.com/en-us/store/p/unravel-two/C4VKLMG1HLZW",
+    "image": "//store-images.s-microsoft.com/image/apps.44406.67435278791875206.d60b3a6b-61b2-4afb-9c4c-453efe4ef48e.a3832988-4a37-4d71-b4b9-c2a61dbba80b",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-06-09T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "id": "9NBC54MT6KHX",
@@ -4846,5 +5842,29 @@
     },
     "releaseDate": "2017-10-31T04:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C4SG06H48738",
+    "name": "Zuma",
+    "url": "https://www.microsoft.com/en-us/store/p/zuma/C4SG06H48738",
+    "image": "//store-images.s-microsoft.com/image/apps.49456.67411114035750393.2854ca19-b4a9-4344-8f1d-e8b2bc93c210.889aae66-838d-424c-83da-82b32f3518a2",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2005-10-03T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "BR9MPWXFBCRC",
+    "name": "Zuma's Revenge!",
+    "url": "https://www.microsoft.com/en-us/store/p/zumas-revenge/BR9MPWXFBCRC",
+    "image": "//store-images.s-microsoft.com/image/apps.61463.69624301364778958.b359ee80-4f71-4100-90a4-7fddcd0b18d4.601f069c-4087-4dc0-883c-c41316e5d098",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2012-07-11T00:00:00.0000000Z",
+    "addedAt": "2020-11-10T09:12:53.627Z"
   }
 ]

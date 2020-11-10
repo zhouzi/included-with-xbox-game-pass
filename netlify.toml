@@ -1,5 +1,5 @@
 [build]
 base = ""
-command = "yarn build --cwd packages/xgp.community"
+command = "yarn --cwd packages/xgp.community build"
 functions = "packages/xgp.community/out_functions"
 publish = "packages/xgp.community/out_publish"

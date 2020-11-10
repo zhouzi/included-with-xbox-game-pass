@@ -143,3 +143,6 @@ dist
 
 extension.zip
 packages/actions/screenshots/
+
+# Local Netlify folder
+.netlify

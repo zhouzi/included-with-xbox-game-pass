@@ -2,6 +2,7 @@ import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
+import random from "random-int";
 import { Game } from "../types";
 import currentGames from "../xgp.community/api/v1/games.json";
 
@@ -57,6 +58,7 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
     );
 
     try {
+      await page.waitForTimeout(random(500, 2000));
       await page.click(".paginatenext:not(.pag-disabled) a");
       return scrapCurrentPageAndGoNext();
     } catch (err) {}

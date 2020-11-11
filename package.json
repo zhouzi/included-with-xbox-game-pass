@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/scrapGames.ts",
-    "scrapNews": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/scrapNews.ts",
+    "scrapPosts": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/scrapPosts.ts",
     "sendNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/sendNewsletter/sendNewsletter.ts",
     "prebuild:extension": "rm -rf ./dist",
     "build:extension": "parcel build ./packages/extension/manifest.json -d ./dist",

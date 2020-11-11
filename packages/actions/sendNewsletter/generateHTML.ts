@@ -4,7 +4,7 @@ import { format } from "date-fns";
 import handlebars from "handlebars";
 import mjml from "mjml";
 
-import { Game, APINews } from "../../types";
+import { Game, Post } from "../../types";
 
 interface NewsletterGame {
   url: string;
@@ -15,15 +15,15 @@ interface NewsletterGame {
 export interface TemplateParams {
   games: NewsletterGame[];
   gamesCountIsOdd: boolean;
-  news: APINews[];
+  posts: Post[];
 }
 
 export async function getTemplateParams({
   games,
-  news,
+  posts,
 }: {
   games: Game[];
-  news: APINews[];
+  posts: Post[];
 }): Promise<TemplateParams> {
   return {
     games: games.map((game) => ({
@@ -37,12 +37,12 @@ export async function getTemplateParams({
         .join(", "),
     })),
     gamesCountIsOdd: games.length % 2 !== 0,
-    news,
+    posts,
   };
 }
 
 export function isEmptyTemplateParams(templateParams: TemplateParams): boolean {
-  return templateParams.games.length === 0 && templateParams.news.length === 0;
+  return templateParams.games.length === 0 && templateParams.posts.length === 0;
 }
 
 export async function generateHTML(params: TemplateParams): Promise<string> {

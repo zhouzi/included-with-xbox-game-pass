@@ -11,7 +11,7 @@ export interface Game {
   addedAt: string;
 }
 
-export interface APINews {
+export interface Post {
   title: string;
   publishedAt: string;
   url: string;

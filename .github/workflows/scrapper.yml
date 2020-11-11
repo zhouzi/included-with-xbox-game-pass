@@ -10,7 +10,7 @@ jobs:
       - uses: actions/setup-node@v1
       - run: npm ci
       - run: npm run scrapGames
-      - run: npm run scrapNews
+      - run: npm run scrapPosts
       - uses: peter-evans/create-pull-request@v3
         with:
           reviewers: zhouzi

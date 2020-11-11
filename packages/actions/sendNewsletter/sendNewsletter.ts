@@ -7,7 +7,7 @@ import {
 import { format } from "date-fns";
 
 import games from "../../xgp.community/api/v1/games.json";
-import news from "../../xgp.community/api/v1/news.json";
+import posts from "../../xgp.community/api/v1/posts.json";
 import {
   getTemplateParams,
   isEmptyTemplateParams,
@@ -27,13 +27,13 @@ const LAST_AGGREGATED_AT_PATH = path.join(__dirname, ".lastAggregatedAt");
       (game) =>
         new Date(game.addedAt).getTime() > new Date(lastAggregatedAt).getTime()
     ),
-    news: news.filter(
-      (newsItem) =>
-        new Date(newsItem.publishedAt).getTime() >= lastAggregatedAt.getTime()
+    posts: posts.filter(
+      (post) =>
+        new Date(post.publishedAt).getTime() >= lastAggregatedAt.getTime()
     ),
   });
   if (!isEmptyTemplateParams(templateParams)) {
-    // Only send email if there are actual news to share
+    // Only send email if there are actual posts to share
     const html = await generateHTML(templateParams);
 
     // Send the next day at 11am

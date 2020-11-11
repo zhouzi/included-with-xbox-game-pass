@@ -6,7 +6,7 @@ import fse from "fs-extra";
 import { Game } from "@xgp/types";
 import currentGames from "../xgp.community/public/api/games.json";
 
-const OUTPUT_DIR = path.join(__dirname, ".");
+const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "public", "api");
 const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 
 (async function scrapGames() {
@@ -73,7 +73,11 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
   }
 
   games
-    .sort((a, b) => alphaSort.caseInsensitiveAscending(a.name, b.name))
+    .sort(
+      (a, b) =>
+        alphaSort.caseInsensitiveAscending(a.name, b.name) ||
+        alphaSort.caseInsensitiveAscending(a.id, b.id)
+    )
     .forEach((game) => {
       const currentGame = currentGames.find(
         (otherGame) => otherGame.id === game.id

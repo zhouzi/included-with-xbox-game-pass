@@ -1,4 +1,4 @@
-export interface APIGame {
+export interface Game {
   id: string;
   name: string;
   url: string;

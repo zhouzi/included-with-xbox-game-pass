@@ -2,7 +2,7 @@ import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
-import { APIGame } from "../types";
+import { Game } from "../types";
 import currentGames from "../xgp.community/api/v1/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api", "v1");
@@ -30,7 +30,7 @@ const SELECTORS = {
   const addedAt = new Date().toISOString();
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  const games: APIGame[] = [];
+  const games: Game[] = [];
   const expectations: { games: null | number; pages: null | number } = {
     games: null,
     pages: null,
@@ -64,7 +64,7 @@ const SELECTORS = {
         SELECTORS.games,
         (elements, selectors, addedAt) =>
           elements.map(
-            (element): APIGame => ({
+            (element): Game => ({
               id: element.getAttribute("data-bigid")!,
               name: element.querySelector(selectors.game.name)!.textContent!,
               url: (element.querySelector(

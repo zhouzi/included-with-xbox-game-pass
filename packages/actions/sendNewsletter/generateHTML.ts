@@ -4,7 +4,7 @@ import { format } from "date-fns";
 import handlebars from "handlebars";
 import mjml from "mjml";
 
-import { APIGame, APINews } from "../../types";
+import { Game, APINews } from "../../types";
 
 interface NewsletterGame {
   url: string;
@@ -22,7 +22,7 @@ export async function getTemplateParams({
   games,
   news,
 }: {
-  games: APIGame[];
+  games: Game[];
   news: APINews[];
 }): Promise<TemplateParams> {
   return {

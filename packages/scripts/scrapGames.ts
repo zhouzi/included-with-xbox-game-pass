@@ -7,6 +7,7 @@ import { Game } from "@xgp/types";
 import currentGames from "../xgp.community/public/api/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "public", "api");
+const DEPRECATED_OUTPUT_DIR = path.join(__dirname, "..", "gh-pages");
 const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 
 (async function scrapGames() {
@@ -66,6 +67,12 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 
   await browser.close();
 
+  if (expectations.totalGames <= 0) {
+    throw new Error(
+      `Scrapping ended with an expected number of games of ${expectations.totalGames}.`
+    );
+  }
+
   if (games.length < expectations.totalGames) {
     throw new Error(
       `Scrapping ended with ${games.length} games instead of ${expectations.totalGames}.`
@@ -90,4 +97,8 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
   await fse.writeJSON(path.join(OUTPUT_DIR, "games.json"), games, {
     spaces: 2,
   });
+  await fse.copyFile(
+    path.join(OUTPUT_DIR, "games.json"),
+    path.join(DEPRECATED_OUTPUT_DIR, "games.json")
+  );
 })();

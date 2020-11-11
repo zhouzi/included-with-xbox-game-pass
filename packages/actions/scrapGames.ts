@@ -35,7 +35,7 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
     games.push(
       ...(await page.$$eval(
         `.gameList [itemtype="http://schema.org/Product"]`,
-        (elements) =>
+        (elements, addedAt) =>
           elements.map(
             (element): Game => ({
               id: element.getAttribute("data-bigid")!,
@@ -51,7 +51,8 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
               releaseDate: element.getAttribute("data-releasedate")!,
               addedAt: addedAt,
             })
-          )
+          ),
+        addedAt
       ))
     );
 

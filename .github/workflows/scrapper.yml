@@ -11,6 +11,7 @@ jobs:
       - run: npm ci
       - run: npm run scrapGames
       - run: npm run scrapPosts
+      - run: npm run createNewsletter
       - uses: peter-evans/create-pull-request@v3
         with:
           reviewers: zhouzi

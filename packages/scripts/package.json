@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@xgp/actions",
+  "name": "@xgp/scripts",
   "version": "0.1.0",
   "scripts": {
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scrapGames.ts",

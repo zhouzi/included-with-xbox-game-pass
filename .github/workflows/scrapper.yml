@@ -9,9 +9,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
       - run: yarn
-      - run: yarn --cwd ./packages/actions scrapGames
-      - run: yarn --cwd ./packages/actions scrapPosts
-      - run: yarn --cwd ./packages/actions createNewsletter
+      - run: yarn --cwd ./packages/scripts scrapGames
+      - run: yarn --cwd ./packages/scripts scrapPosts
+      - run: yarn --cwd ./packages/scripts createNewsletter
       - uses: peter-evans/create-pull-request@v3
         with:
           reviewers: zhouzi

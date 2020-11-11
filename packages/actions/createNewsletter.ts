@@ -2,8 +2,8 @@ import mjml from "mjml";
 import axios from "axios";
 import path from "path";
 import fse from "fs-extra";
-import posts from "../xgp.community/api/v1/posts.json";
-import games from "../xgp.community/api/v1/games.json";
+import posts from "../xgp.community/api/posts.json";
+import games from "../xgp.community/api/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
 

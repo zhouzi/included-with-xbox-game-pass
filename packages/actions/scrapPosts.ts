@@ -1,10 +1,10 @@
 import path from "path";
 import fse from "fs-extra";
 import puppeteer from "puppeteer";
-import currentPosts from "../xgp.community/api/v1/posts.json";
+import currentPosts from "../xgp.community/api/posts.json";
 import { Post } from "../types";
 
-const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api", "v1");
+const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api");
 const XBOX_GAME_PASS_BLOG_URL = "https://news.xbox.com/en-US/xbox-game-pass/";
 
 (async function scrapPosts() {

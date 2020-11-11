@@ -6,131 +6,91 @@ import { Game } from "../types";
 import currentGames from "../xgp.community/api/v1/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api", "v1");
-const SCREENSHOTS_DIR = path.join(__dirname, "screenshots");
 const DEPRECATED_OUTPUT_DIR = path.join(__dirname, "..", "gh-pages");
-const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
-const SELECTORS = {
-  games: `.gameList [itemtype="http://schema.org/Product"]`,
-  game: {
-    name: "h3",
-    url: "a",
-    image: "img",
-    availability: {
-      console: `[aria-label="Console"]`,
-      pc: `[aria-label="PC"]`,
-    },
-  },
-  currentPage: ".paginatenum.f-active",
-  next: ".paginatenext:not(.pag-disabled) a",
-  totalGames: ".resultsText",
-  pages: ".paginatenum",
-};
 
-(async () => {
+const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
+
+(async function scrapGames() {
   const addedAt = new Date().toISOString();
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   const games: Game[] = [];
-  const expectations: { games: null | number; pages: null | number } = {
-    games: null,
-    pages: null,
+  const expectations = {
+    games: 0,
   };
 
   await page.goto(XBOX_GAME_PASS_URL);
-  await fse.emptyDir(SCREENSHOTS_DIR);
 
-  await (async function extractCurrentPage(): Promise<void> {
-    await page.waitForSelector(SELECTORS.games);
+  await (async function scrapCurrentPageAndGoNext(): Promise<void> {
+    await page.waitForSelector(
+      `.gameList [itemtype="http://schema.org/Product"]`
+    );
 
-    if (expectations.games == null || expectations.pages == null) {
-      expectations.games = await page.$eval(SELECTORS.totalGames, (element) =>
+    if (expectations.games <= 0) {
+      expectations.games = await page.$eval(".resultsText", (element) =>
         Number(element.textContent!.match(/([0-9]+) result/)![1])
-      );
-      expectations.pages = await page.$$eval(SELECTORS.pages, (elements) =>
-        Number(elements[elements.length - 1].getAttribute("data-topage"))
       );
     }
 
-    const currentPage = await page.$eval(SELECTORS.currentPage, (element) =>
-      Number(element.getAttribute("data-topage")!)
-    );
-    await page.screenshot({
-      path: path.join(SCREENSHOTS_DIR, `page-${currentPage}.png`),
-      fullPage: true,
-    });
-
     games.push(
       ...(await page.$$eval(
-        SELECTORS.games,
-        (elements, selectors, addedAt) =>
+        `.gameList [itemtype="http://schema.org/Product"]`,
+        (elements) =>
           elements.map(
             (element): Game => ({
               id: element.getAttribute("data-bigid")!,
-              name: element.querySelector(selectors.game.name)!.textContent!,
-              url: (element.querySelector(
-                selectors.game.url
-              ) as HTMLAnchorElement).href,
-              image: element
-                .querySelector(selectors.game.image)!
-                .getAttribute("src")!,
+              name: element.querySelector("h3")!.textContent!,
+              url: element.querySelector("a")!.href,
+              image: element.querySelector("img")!.getAttribute("src")!,
               availability: {
                 console: Boolean(
-                  element.querySelector(selectors.game.availability.console)
+                  element.querySelector(`[aria-label="Console"]`)
                 ),
-                pc: Boolean(
-                  element.querySelector(selectors.game.availability.pc)
-                ),
+                pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
               },
               releaseDate: element.getAttribute("data-releasedate")!,
               addedAt: addedAt,
             })
-          ),
-        SELECTORS,
-        addedAt
+          )
       ))
     );
 
     try {
-      await page.click(SELECTORS.next);
-      return extractCurrentPage();
-    } catch (err) {
-      if (
-        currentPage !== expectations.pages ||
-        games.length !== expectations.games
-      ) {
-        throw new Error(
-          `The script ended without meeting the expectations of ${expectations.pages} pages (${currentPage}) and ${expectations.games} games (${games.length}).`
-        );
-      }
-
-      games.sort((a, b) => {
-        const nameSort = alphaSort.caseInsensitiveAscending(a.name, b.name);
-        return nameSort === 0
-          ? alphaSort.caseInsensitiveAscending(a.id, b.id)
-          : nameSort;
-      });
-      games.forEach((game) => {
-        const currentGame = currentGames.find(
-          (otherGame) => otherGame.id === game.id
-        );
-
-        if (currentGame == null) {
-          return;
-        }
-
-        // do not update the addedAt date if the game was already included
-        game.addedAt = currentGame.addedAt;
-      });
-
-      await fse.writeJSON(path.join(OUTPUT_DIR, "games.json"), games, {
-        spaces: 2,
-      });
-      await fse.copyFile(
-        path.join(OUTPUT_DIR, "games.json"),
-        path.join(DEPRECATED_OUTPUT_DIR, "games.json")
-      );
-    }
+      await page.click(".paginatenext:not(.pag-disabled) a");
+      return scrapCurrentPageAndGoNext();
+    } catch (err) {}
   })();
 
   browser.close();
+
+  if (games.length < expectations.games) {
+    throw new Error(
+      `Scrapping ended with ${games.length} games instead of ${expectations.games}.`
+    );
+  }
+
+  games
+    .sort(
+      (a, b) =>
+        alphaSort.caseInsensitiveAscending(a.name, b.name) ||
+        alphaSort.caseInsensitiveAscending(a.id, b.id)
+    )
+    .forEach((game) => {
+      const currentGame = currentGames.find(
+        (otherGame) => otherGame.id === game.id
+      );
+
+      if (currentGame) {
+        // do not update the addedAt date if the game was already included
+        game.addedAt = currentGame.addedAt;
+      }
+    });
+
+  await fse.writeJSON(path.join(OUTPUT_DIR, "games.json"), games, {
+    spaces: 2,
+  });
+  await fse.copyFile(
+    path.join(OUTPUT_DIR, "games.json"),
+    path.join(DEPRECATED_OUTPUT_DIR, "games.json")
+  );
 })();

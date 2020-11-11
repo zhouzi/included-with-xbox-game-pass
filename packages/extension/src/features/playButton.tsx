@@ -1,10 +1,10 @@
 import React from "dom-chef";
-import { APIGame } from "../../types";
+import { Game } from "@xgp/types";
 import { RouteName } from "../routes";
 import getGame from "../getGame";
 import { XboxLogo } from "./badge";
 
-function createPlayButton(game: APIGame) {
+function createPlayButton(game: Game) {
   return (
     <div className="game_area_purchase_game_wrapper game_purchase_sub_dropdown">
       <div className="game_area_already_owned master_sub">

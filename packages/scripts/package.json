@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "@xgp/scripts",
+  "version": "0.1.0",
+  "scripts": {
+    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scrapGames.ts",
+    "scrapPosts": "node --unhandled-rejections=strict -r ts-node/register ./scrapPosts.ts",
+    "createNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./createNewsletter.ts"
+  },
+  "dependencies": {
+    "@xgp/types": "0.1.0",
+    "@types/fs-extra": "^9.0.3",
+    "@types/mjml": "^4.0.4",
+    "@types/puppeteer": "^5.4.0",
+    "alpha-sort": "^3.1.0",
+    "axios": "^0.21.0",
+    "fs-extra": "^9.0.1",
+    "mjml": "^4.7.1",
+    "puppeteer": "^5.4.1",
+    "random-int": "^2.0.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}

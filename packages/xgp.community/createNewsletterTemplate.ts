@@ -1,7 +1,13 @@
 import mjml from "mjml";
-import { Game } from "@xgp/types";
+import { Game, Post } from "@xgp/types";
 
-export function createNewsletterTemplate({ newGames }: { newGames: Game[] }) {
+export function createNewsletterTemplate({
+  newGames,
+  newPosts,
+}: {
+  newGames: Game[];
+  newPosts: Post[];
+}) {
   return mjml(
     `
   <mjml>
@@ -20,16 +26,16 @@ export function createNewsletterTemplate({ newGames }: { newGames: Game[] }) {
         }
   
         a {
-          color: #44F089;
+          color: #fff;
+          text-decoration: underline;
         }
   
         .SectionTitle {
           text-transform: uppercase;
           font-size: 12px;
-          font-weight:
-            bold;
+          font-weight: bold;
           letter-spacing: 0.6px;
-          color: #fff;
+          color: #44F089;
         }
   
         h2 {
@@ -50,6 +56,29 @@ export function createNewsletterTemplate({ newGames }: { newGames: Game[] }) {
           </mj-text>
         </mj-column>
       </mj-section>
+
+      ${
+        newPosts.length > 0
+          ? `
+        <mj-section padding="0 0 30px 0">
+          <mj-column>
+            <mj-text padding="0 0 10px 0">
+              <p class="SectionTitle">Announcements</p>
+            </mj-text>
+            ${newPosts
+              .map(
+                (post) => `
+                <mj-text padding="0 0 10px 0">
+                  <h2><a href="${post.url}">${post.title}</a></h2>
+                </mj-text>
+            `
+              )
+              .join("")}
+          </mj-column>
+        </mj-section>
+      `
+          : ""
+      }
   
       ${
         newGames.length > 0

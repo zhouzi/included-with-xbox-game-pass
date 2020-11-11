@@ -10,3 +10,10 @@ export interface Game {
   releaseDate: string;
   addedAt: string;
 }
+
+export interface Post {
+  url: string;
+  title: string;
+  image: string;
+  publishedAt: string;
+}

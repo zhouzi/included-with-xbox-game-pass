@@ -1,5 +1,5 @@
 import Fuse from "fuse.js";
-import { Game } from "../types";
+import { Game } from "@xgp/types";
 import getGames from "./getGames";
 
 export default async function getGame(name: string): Promise<Game | null> {

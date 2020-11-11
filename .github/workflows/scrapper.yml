@@ -8,10 +8,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: npm ci
-      - run: npm run scrapGames
-      - run: npm run scrapPosts
-      - run: npm run createNewsletter
+      - run: yarn
+      - run: yarn --cwd ./packages/actions scrapGames
+      - run: yarn --cwd ./packages/actions scrapPosts
+      - run: yarn --cwd ./packages/actions createNewsletter
       - uses: peter-evans/create-pull-request@v3
         with:
           reviewers: zhouzi

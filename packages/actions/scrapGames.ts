@@ -3,7 +3,8 @@ import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
 import random from "random-int";
-import { Game } from "../types";
+import { Game } from "@xgp/types";
+
 import currentGames from "../xgp.community/api/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api");

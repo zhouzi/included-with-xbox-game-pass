@@ -2,6 +2,7 @@ import mjml from "mjml";
 import axios from "axios";
 import path from "path";
 import fse from "fs-extra";
+
 import posts from "../xgp.community/api/posts.json";
 import games from "../xgp.community/api/games.json";
 

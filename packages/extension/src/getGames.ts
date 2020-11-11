@@ -1,5 +1,5 @@
 import storageCache from "webext-storage-cache";
-import { Game } from "@xgp/faunadb";
+import { Game } from "@xgp/types";
 
 const API_HOST =
   process.env.NODE_ENV === "production"

@@ -8,7 +8,7 @@
     "postbuild": "cd ./dist && bestzip ../extension.zip *"
   },
   "dependencies": {
-    "@xgp/faunadb": "0.1.0",
+    "@xgp/types": "0.1.0",
     "bestzip": "^2.1.7",
     "dom-chef": "^4.2.2",
     "fuse.js": "^6.4.3",

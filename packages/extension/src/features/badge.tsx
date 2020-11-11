@@ -1,5 +1,5 @@
 import React from "dom-chef";
-import { Game } from "@xgp/faunadb";
+import { Game } from "@xgp/types";
 import { RouteName } from "../routes";
 import getGame from "../getGame";
 

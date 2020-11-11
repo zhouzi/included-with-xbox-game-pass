@@ -1,8 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import {
-  EmailCampaignsApi,
-  EmailCampaignsApiApiKeys,
-} from "sib-api-v3-typescript";
+import axios from "axios";
 import games from "../../../public/api/games.json";
 import posts from "../../../public/api/posts.json";
 import { createNewsletterTemplate } from "../../../createNewsletterTemplate";
@@ -12,19 +9,20 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   let newPosts = posts;
 
   if (process.env.SENDINBLUE_API_KEY) {
-    const sendinblue = new EmailCampaignsApi();
-    sendinblue.setApiKey(
-      EmailCampaignsApiApiKeys.apiKey,
-      process.env.SENDINBLUE_API_KEY
-    );
     const {
-      body: { campaigns },
-    } = await sendinblue.getEmailCampaigns(
-      "classic",
-      "sent",
-      undefined,
-      undefined,
-      1
+      data: { campaigns },
+    } = await axios.get<{ campaigns: Array<{ createdAt: string }> }>(
+      "/emailCampaigns",
+      {
+        params: {
+          status: "sent",
+          limit: 1,
+        },
+        baseURL: "https://api.sendinblue.com/v3/",
+        headers: {
+          "api-key": process.env.SENDINBLUE_API_KEY,
+        },
+      }
     );
     const lastCampaign = campaigns[0];
 

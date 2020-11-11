@@ -6,75 +6,48 @@ import { Post } from "../types";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api", "v1");
 const XBOX_GAME_PASS_BLOG_URL = "https://news.xbox.com/en-US/xbox-game-pass/";
-const SELECTORS = {
-  posts: ".media.feed",
-  lastPost: ".media.feed:last-of-type",
-  post: {
-    url: ".feed__title a",
-    title: ".feed__title",
-    publishedAt: ".feed__date time",
-  },
-  next: ".next.page-numbers",
-};
-const SINCE = new Date(currentPosts[0].publishedAt);
 
-(async () => {
+(async function scrapPosts() {
+  const since = new Date(currentPosts[0].publishedAt);
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   const posts: Post[] = [];
 
   await page.goto(XBOX_GAME_PASS_BLOG_URL);
 
-  await (async function extractCurrentPage(): Promise<void> {
-    await page.waitForSelector(SELECTORS.posts);
+  await (async function scrapCurrentPageAndGoNext(): Promise<void> {
+    await page.waitForSelector(".media.feed");
 
     posts.push(
-      ...(await page.$$eval(
-        SELECTORS.posts,
-        (elements, selectors, since) =>
-          elements
-            .map((element) => ({
-              url: element
-                .querySelector(selectors.post.url)!
-                .getAttribute("href")!,
-              title: element
-                .querySelector(selectors.post.title)!
-                .textContent!.trim(),
-              publishedAt: element
-                .querySelector(selectors.post.publishedAt)!
-                .getAttribute("datetime")!,
-            }))
-            .filter(
-              (post) =>
-                new Date(post.publishedAt).getTime() > new Date(since).getTime()
-            ),
-        SELECTORS,
-        SINCE
+      ...(await page.$$eval(".media.feed", (elements) =>
+        elements.map((element) => ({
+          url: element.querySelector(".feed__title a")!.getAttribute("href")!,
+          title: element.querySelector(".feed__title")!.textContent!.trim(),
+          publishedAt: element
+            .querySelector(".feed__title")!
+            .getAttribute("datetime")!,
+        }))
       ))
     );
 
-    const lastPostPublishedAt = await page.$eval(
-      SELECTORS.lastPost,
-      (element, selectors) =>
-        element
-          .querySelector(selectors.post.publishedAt)!
-          .getAttribute("datetime")!,
-      SELECTORS
-    );
-
-    if (new Date(lastPostPublishedAt).getTime() > SINCE.getTime()) {
-      await page.click(SELECTORS.next);
-      return extractCurrentPage();
+    const lastPost = posts[posts.length - 1];
+    if (new Date(lastPost.publishedAt).getTime() > since.getTime()) {
+      await page.click(".next.page-numbers");
+      return scrapCurrentPageAndGoNext();
     }
-
-    await fse.writeJSON(
-      path.join(OUTPUT_DIR, "posts.json"),
-      posts.concat(currentPosts),
-      {
-        spaces: 2,
-      }
-    );
   })();
 
   browser.close();
+
+  const newPosts = posts.filter(
+    (post) => new Date(post.publishedAt).getTime() > since.getTime()
+  );
+
+  await fse.writeJSON(
+    path.join(OUTPUT_DIR, "posts.json"),
+    newPosts.concat(currentPosts),
+    {
+      spaces: 2,
+    }
+  );
 })();

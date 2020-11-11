@@ -10,29 +10,24 @@ Browser extension bringing the Xbox Game Pass to Steam.
 Here's how you can get a copy of xgp.community running on your machine:
 
 1. Clone this repository
-2. Run `npm install` in its directory
-3. Run `npm start` to start the application
-
-You can now load the unpacked extension from the `dist/` directory.
-You can access the website at http://localhost:1234
+2. Run `yarn` in its directory
 
 ## Contributing
 
 All contributions are welcome!
-I try to track everything through the issues so you might find something cool to work on there.
-Feel free to submit your suggestions, though.
+The issues are usually a good place to find something to contribute to.
+Feel free to suggest your ideas, though.
 
 ### How it works
 
-Although this project is splitted into several packages, it doesn't use any fancy tools behind the scene.
-It really is just a Node project with sub-directories.
-Scripts, dependencies & stuff are all listed in the root `package.json`.
-Here's an introduction to these packages:
+This repository contains the source of the browser extension along with a few other things.
+Here is an introduction to each of the packages:
 
-- `packages/actions` contains scripts that are run on regular basis via GitHub's actions. For example, that's where you can find the code that pulls the list of game from Xbox Game Pass' website (once a day, everyday).
-- `packages/extension` contains the source for the browser extension. It's based on WebExtension so it works in both Chrome and Firefox without platform-specific code.
-- `packages/gh-pages` contains the old API, before I bought the xgp.community domain. There are still people out there using a version of the extension that fetches the list of games from the old URL.
-- `packages/xgp.community` contains the source for the website. There are no build steps, it's pure HTML and CSS.
+- `packages/extension`: code for the browser extension.
+- `packages/gh-pages`: the website used to be hosted on GitHub, before I bought the xgp.community domain. The `games.json` file is still served that way to not break the extension for previous users.
+- `packages/scripts`: contains scripts that are usually run through GitHub actions.
+- `packages/types`: contains types that are shared across the packages.
+- `packages/xgp.community`: contains the source of the website.
 
 ## License
 

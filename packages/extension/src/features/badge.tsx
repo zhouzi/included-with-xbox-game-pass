@@ -1,5 +1,5 @@
 import React from "dom-chef";
-import { APIGame } from "../../types";
+import { Game } from "@xgp/types";
 import { RouteName } from "../routes";
 import getGame from "../getGame";
 
@@ -25,7 +25,7 @@ export function containsBadge(element: HTMLElement): boolean {
   );
 }
 
-export function createBadge(game: APIGame, style: Record<string, string> = {}) {
+export function createBadge(game: Game, style: Record<string, string> = {}) {
   return (
     <a
       data-included-with-xbox-game-pass-badge="true"

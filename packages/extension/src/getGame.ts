@@ -1,8 +1,8 @@
 import Fuse from "fuse.js";
-import { APIGame } from "../types";
+import { Game } from "@xgp/types";
 import getGames from "./getGames";
 
-export default async function getGame(name: string): Promise<APIGame | null> {
+export default async function getGame(name: string): Promise<Game | null> {
   const games = await getGames();
   const fuse = new Fuse(
     games.filter((game) => game.availability.pc),

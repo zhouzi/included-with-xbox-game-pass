@@ -1,7 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "tsc": "tsc --noEmit",
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/scrapGames.ts",
     "scrapNews": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/scrapNews.ts",
     "generateRSS": "node --unhandled-rejections=strict -r ts-node/register ./packages/actions/generateRSS.ts",

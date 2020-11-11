@@ -1,12 +1,12 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: "public/images/uploads"
+media_folder: "packages/xgp.community/public/images/uploads"
 public_folder: "/images/uploads"
 collections:
   - name: "games"
     label: "Games"
-    folder: "public/api/games.json"
+    folder: "packages/xgp.community/public/api/games.json"
     create: true
     slug: "{{slug}}"
     fields:
@@ -40,7 +40,7 @@ collections:
         widget: "DateTime"
   - name: "posts"
     label: "Posts"
-    folder: "public/api/posts.json"
+    folder: "packages/xgp.community/public/api/posts.json"
     create: true
     slug: "{{slug}}"
     fields:

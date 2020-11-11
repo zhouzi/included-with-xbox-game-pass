@@ -1,14 +1,51 @@
+import path from "path";
+import axios from "axios";
 import mjml from "mjml";
-import { Game, Post } from "@xgp/types";
+import fse from "fs-extra";
+import games from "../xgp.community/public/api/games.json";
+import posts from "../xgp.community/public/api/posts.json";
 
-export function createNewsletterTemplate({
-  newGames,
-  newPosts,
-}: {
-  newGames: Game[];
-  newPosts: Post[];
-}) {
-  return mjml(
+const OUTPUT_DIR = path.join(
+  __dirname,
+  "..",
+  "xgp.community",
+  "public",
+  "newsletter"
+);
+
+(async function createNextNewsletter() {
+  const {
+    data: { campaigns },
+  } = await axios.get<{ campaigns: Array<{ createdAt: string }> }>(
+    "/emailCampaigns",
+    {
+      params: {
+        status: "sent",
+        limit: 1,
+      },
+      baseURL: "https://api.sendinblue.com/v3/",
+      headers: {
+        "api-key": process.env.SENDINBLUE_API_KEY,
+      },
+    }
+  );
+  const lastCampaign = campaigns[0];
+
+  if (lastCampaign == null) {
+    throw new Error("No previous campaign found, cannot create a new one");
+  }
+
+  const newGames = games.filter(
+    (game) =>
+      new Date(game.addedAt).getTime() >
+      new Date(lastCampaign.createdAt).getTime()
+  );
+  const newPosts = posts.filter(
+    (post) =>
+      new Date(post.publishedAt).getTime() >
+      new Date(lastCampaign.createdAt).getTime()
+  );
+  const { html, errors } = mjml(
     `
   <mjml>
     <mj-head>
@@ -134,4 +171,10 @@ export function createNewsletterTemplate({
       minify: true,
     }
   );
-}
+
+  if (errors.length > 0) {
+    throw new Error(errors.map((error) => error.formattedMessage).join("\n"));
+  }
+
+  await fse.writeFile(path.join(OUTPUT_DIR, "next.html"), html);
+})();

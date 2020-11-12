@@ -24,9 +24,10 @@ const XBOX_GAME_PASS_BLOG_URL = "https://news.xbox.com/en-US/xbox-game-pass/";
         elements.map((element) => ({
           url: element.querySelector(".feed__title a")!.getAttribute("href")!,
           title: element.querySelector(".feed__title")!.textContent!.trim(),
-          publishedAt: element
-            .querySelector(".feed__title")!
-            .getAttribute("datetime")!,
+          publishedAt: element.querySelector("time")!.getAttribute("datetime")!,
+          image: element
+            .querySelector(".media-image img")!
+            .getAttribute("src")!,
         }))
       ))
     );

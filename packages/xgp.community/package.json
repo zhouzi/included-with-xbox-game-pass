@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "@xgp/xgp.community",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "serve . -p 1234"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}

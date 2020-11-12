@@ -2,58 +2,64 @@ import mjml from "mjml";
 import axios from "axios";
 import path from "path";
 import fse from "fs-extra";
+import { format } from "date-fns";
+import { Game, Post } from "@xgp/types";
 
 import posts from "../xgp.community/api/posts.json";
 import games from "../xgp.community/api/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
+const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
 
 (async function createNewsletter() {
-  const {
-    data: { campaigns },
-  } = await axios.get<{ campaigns: Array<{ createdAt: string }> }>(
-    "/emailCampaigns",
-    {
-      params: {
-        status: "sent",
-        limit: 1,
-      },
-      baseURL: "https://api.sendinblue.com/v3/",
-      headers: {
-        "api-key": process.env.SENDINBLUE_API_KEY,
-      },
+  let since = new Date();
+  since.setDate(since.getDate() - 7);
+
+  if (!IS_DEV) {
+    if (process.env.SENDINBLUE_API_KEY == null) {
+      throw new Error("Missing SENDINBLUE_API_KEY environment variable");
     }
+
+    const {
+      data: { campaigns },
+    } = await axios.get<{ campaigns: Array<{ createdAt: string }> }>(
+      "/emailCampaigns",
+      {
+        params: {
+          status: "sent",
+          limit: 1,
+        },
+        baseURL: "https://api.sendinblue.com/v3/",
+        headers: {
+          "api-key": process.env.SENDINBLUE_API_KEY,
+        },
+      }
+    );
+    const lastCampaign = campaigns[0];
+    since = new Date(lastCampaign.createdAt);
+  }
+
+  const newGames: Game[] = games.filter(
+    (game) => new Date(game.addedAt).getTime() > since.getTime()
   );
-  const lastCampaign = campaigns[0];
-  const newGames = games.filter(
-    (game) =>
-      new Date(game.addedAt).getTime() >
-      new Date(lastCampaign.createdAt).getTime()
-  );
-  const newPosts = posts.filter(
-    (post) =>
-      new Date(post.publishedAt).getTime() >
-      new Date(lastCampaign.createdAt).getTime()
+  const newPosts: Post[] = posts.filter(
+    (post) => new Date(post.publishedAt).getTime() > since.getTime()
   );
   const { html, errors } = mjml(
     `
   <mjml>
     <mj-head>
       <mj-style inline="inline">
-        html,
-        body {
-          background-color: #0F1923;
-        }
-
         p {
+          color: #BAC5CE;
           font-size: 14px;
           line-height: 1.4;
-          color: #BAC5CE;
           margin: 0;
         }
 
         a {
-          color: #44F089;
+          color: #fff;
+          text-decoration: none;
         }
 
         .SectionTitle {
@@ -62,20 +68,20 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
           font-weight:
             bold;
           letter-spacing: 0.6px;
-          color: #fff;
+          color: #44f089;
         }
 
         h2 {
           color: #fff;
-          font-size: 16px;
+          font-size: 18px;
           font-weight: bold;
           margin: 0;
           line-height: 1.2;
         }
       </mj-style>
     </mj-head>
-    <mj-body>
-      <mj-section padding="20px 0 30px 0">
+    <mj-body background-color="#0F1923">
+      <mj-section padding="28px 14px 0 14px">
         <mj-column>
           <mj-image src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
           <mj-text padding="6px 0 0 0">
@@ -87,22 +93,35 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
       ${
         newPosts.length > 0
           ? `
-        <mj-section padding="0 0 30px 0">
+        <mj-section padding="28px 14px 14px 14px">
           <mj-column>
-            <mj-text padding="0 0 10px 0">
+            <mj-text padding="0">
               <p class="SectionTitle">Announcements</p>
             </mj-text>
-            ${newPosts
-              .map(
-                (post) => `
-              <mj-text padding="0 0 10px 0">
-                <h2><a href="${post.url}">${post.title}</a></h2>
-              </mj-text>
-            `
-              )
-              .join("\n")}
           </mj-column>
         </mj-section>
+        ${newPosts
+          .map(
+            (post) => `
+        <mj-section padding="0 14px 14px 14px">
+          <mj-column width="75%">
+            <mj-text padding="0 14px 14px 0">
+              <h2><a href="${post.url}">${post.title}</a></h2>
+              <p>${format(new Date(post.publishedAt), "MMM d, y")}</p>
+            </mj-text>
+          </mj-column>
+          <mj-column width="25%">
+            <mj-image
+              padding="0"
+              width="100px"
+              href="${post.url}"
+              src="${post.image}"
+            ></mj-image>
+          </mj-column>
+        </mj-section>
+        `
+          )
+          .join("\n")}
       `
           : ""
       }
@@ -110,16 +129,16 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
       ${
         newGames.length > 0
           ? `
-        <mj-section padding="0 0 30px 0">
+        <mj-section padding="14px 14px 0 14px">
           <mj-column width="100%">
-            <mj-text padding="0 0 10px 0">
+            <mj-text padding="0 0 14px 0">
               <p class="SectionTitle">New games</p>
             </mj-text>
           </mj-column>
           ${newGames
             .map(
               (game) => `
-            <mj-column width="50%" padding="0 0 10px 0">
+            <mj-column width="50%" padding="0 0 14px 0">
               <mj-text padding="0">
                 <h2><a href="${game.url}">${game.name}</a></h2>
                 <p>Available on: ${[
@@ -135,7 +154,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
             .join("\n")}
           ${
             newGames.length % 2 !== 0
-              ? `<mj-column width="50%" padding="0 0 10px 0"></mj-column>`
+              ? `<mj-column width="50%" padding="0 0 14px 0"></mj-column>`
               : ""
           }
         </mj-section>
@@ -143,7 +162,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
           : ""
       }
 
-      <mj-section padding="0">
+      <mj-section padding="28px 14px 28px 14px">
         <mj-column>
           <mj-text padding="0">
             <p>

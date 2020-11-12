@@ -8,12 +8,14 @@
     "createNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./createNewsletter.ts"
   },
   "dependencies": {
-    "@xgp/types": "0.1.0",
+    "@types/date-fns": "^2.6.0",
     "@types/fs-extra": "^9.0.3",
     "@types/mjml": "^4.0.4",
     "@types/puppeteer": "^5.4.0",
+    "@xgp/types": "0.1.0",
     "alpha-sort": "^3.1.0",
     "axios": "^0.21.0",
+    "date-fns": "^2.16.1",
     "fs-extra": "^9.0.1",
     "mjml": "^4.7.1",
     "puppeteer": "^5.4.1",

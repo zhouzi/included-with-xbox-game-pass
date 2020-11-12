@@ -91,7 +91,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
     <mj-body background-color="#0F1923">
       <mj-section padding="28px 14px 0 14px">
         <mj-column>
-          <mj-image src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
+          <mj-image href="https://xgp.community" src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
           <mj-text padding="6px 0 0 0">
             <p>New games and announcements for Xbox Game Pass members.</p>
           </mj-text>

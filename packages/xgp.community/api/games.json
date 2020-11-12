@@ -1860,6 +1860,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NNTSPSC35ZB",
+    "name": "FINAL FANTASY VIII Remastered",
+    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered/9NNTSPSC35ZB",
+    "image": "//store-images.s-microsoft.com/image/apps.26766.13731709347870779.c180b56b-3179-4d7e-83fd-6e902f537105.16755c05-a40c-4e30-b2a9-6637a25a5d42",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-09-03T00:00:00.0000000Z",
+    "addedAt": "2020-11-12T09:31:46.103Z"
+  },
+  {
+    "id": "9P35DPLN1JCN",
+    "name": "FINAL FANTASY VIII Remastered WINDOWS EDITION",
+    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
+    "image": "//store-images.s-microsoft.com/image/apps.26766.13731709347870779.c180b56b-3179-4d7e-83fd-6e902f537105.16755c05-a40c-4e30-b2a9-6637a25a5d42",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-11-12T00:00:00.0000000Z",
+    "addedAt": "2020-11-12T09:31:46.103Z"
+  },
+  {
     "id": "BNMRPFLB3PQW",
     "name": "FINAL FANTASY XV ROYAL EDITION",
     "url": "https://www.xbox.com/en-us/games/final-fantasy-xv",

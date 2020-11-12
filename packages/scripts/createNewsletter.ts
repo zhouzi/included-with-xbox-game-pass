@@ -53,13 +53,21 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         p {
           color: #BAC5CE;
           font-size: 14px;
-          line-height: 1.4;
+          line-height: 1.5;
           margin: 0;
+        }
+        strong {
+          color: #fff;
+          font-weight: bold;
         }
 
         a {
           color: #fff;
           text-decoration: none;
+        }
+
+        .Introduction {
+          font-size: 16px;
         }
 
         .SectionTitle {
@@ -76,7 +84,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
           font-size: 18px;
           font-weight: bold;
           margin: 0;
-          line-height: 1.2;
+          line-height: 1.3;
         }
       </mj-style>
     </mj-head>
@@ -85,7 +93,27 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column>
           <mj-image src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
           <mj-text padding="6px 0 0 0">
-            <p>New games added to the Xbox Game Pass and announcements.</p>
+            <p>New games and announcements for Xbox Game Pass members.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="28px 14px 0 14px">
+        <mj-column padding="14px" background-color="#182735" border-radius="6px">
+          <mj-text padding="0 0 14px 0">
+            <p class="Introduction">
+              A massive issue this week since no less than <strong>${
+                newGames.length
+              } games were added</strong>, mostly via the <strong>EA Play</strong> (full list further below).
+              They are limited to consoles for now but it's coming to PC on December, 15.
+            </p>
+          </mj-text>
+          <mj-text padding="0">
+            <p class="Introduction">
+              Another major announcement is the <strong>Disney+ perk</strong> which gives away 30 days of free trial for the service.
+              The offer is limited to these regions: AU, AT, BE, CA, DK, FI, DE, IE, IT, NL, NZ, NO, PT, ES, SE, CH, GB, US.
+              A bummer for me since I'm from France...
+            </p>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -96,7 +124,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-section padding="28px 14px 14px 14px">
           <mj-column>
             <mj-text padding="0">
-              <p class="SectionTitle">Announcements</p>
+              <p class="SectionTitle">New posts</p>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -138,7 +166,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
           ${newGames
             .map(
               (game) => `
-            <mj-column width="50%" padding="0 0 14px 0">
+            <mj-column width="50%" padding="0 14px 14px 0">
               <mj-text padding="0">
                 <h2><a href="${game.url}">${game.name}</a></h2>
                 <p>Available on: ${[

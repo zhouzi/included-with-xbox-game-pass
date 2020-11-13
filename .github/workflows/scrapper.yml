@@ -12,6 +12,8 @@ jobs:
       - run: yarn --cwd ./packages/scripts scrapGames
       - run: yarn --cwd ./packages/scripts scrapPosts
       - run: yarn --cwd ./packages/scripts createNewsletter
+        env:
+          SENDINBLUE_API_KEY: ${{ secrets.SENDINBLUE_API_KEY }}
       - uses: peter-evans/create-pull-request@v3
         with:
           reviewers: zhouzi

@@ -4644,6 +4644,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NKRBSZXQ2HM",
+    "name": "Streets of Rogue",
+    "url": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9NKRBSZXQ2HM",
+    "image": "//store-images.s-microsoft.com/image/apps.44999.13862868555865751.9b86871b-d49b-4dc5-85fd-9ce837d00de3.5260ca35-5fa1-427d-9121-20647631d710",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-11-12T12:00:00.0000000Z",
+    "addedAt": "2020-11-13T09:19:08.706Z"
+  },
+  {
     "id": "BX3S1Q5DVHRD",
     "name": "Subnautica",
     "url": "https://www.microsoft.com/en-us/store/p/subnautica/BX3S1Q5DVHRD",

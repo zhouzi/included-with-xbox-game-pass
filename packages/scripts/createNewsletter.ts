@@ -5,10 +5,16 @@ import fse from "fs-extra";
 import { format } from "date-fns";
 import { Game, Post } from "@xgp/types";
 
-import posts from "../xgp.community/api/posts.json";
-import games from "../xgp.community/api/games.json";
+import posts from "../xgp.community/static/api/posts.json";
+import games from "../xgp.community/static/api/games.json";
 
-const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "newsletter");
+const OUTPUT_DIR = path.join(
+  __dirname,
+  "..",
+  "xgp.community",
+  "static",
+  "newsletter"
+);
 const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
 
 (async function createNewsletter() {

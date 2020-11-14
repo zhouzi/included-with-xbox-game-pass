@@ -5,9 +5,9 @@ import alphaSort from "alpha-sort";
 import random from "random-int";
 import { Game } from "@xgp/types";
 
-import currentGames from "../xgp.community/api/games.json";
+import currentGames from "../xgp.community/static/api/games.json";
 
-const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "api");
+const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static", "api");
 const DEPRECATED_OUTPUT_DIR = path.join(__dirname, "..", "gh-pages");
 
 const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";

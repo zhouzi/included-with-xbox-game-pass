@@ -1,2 +1,3 @@
 [build]
-publish = "packages/xgp.community"
+command = "yarn --cwd ./packages/xgp.community build"
+publish = "packages/xgp.community/public"

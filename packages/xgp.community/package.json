@@ -3,9 +3,20 @@
   "name": "@xgp/xgp.community",
   "version": "0.1.0",
   "scripts": {
-    "dev": "serve . -p 1234"
+    "build": "gatsby build",
+    "dev": "gatsby develop"
   },
   "dependencies": {
-    "serve": "^11.3.2"
+    "@types/react-helmet": "^6.1.0",
+    "@types/styled-components": "^5.1.4",
+    "babel-plugin-styled-components": "^1.11.1",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-react-helmet": "^3.4.0",
+    "gatsby-plugin-styled-components": "^3.4.0",
+    "modern-normalize": "^1.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "styled-components": "^5.2.1"
   }
 }

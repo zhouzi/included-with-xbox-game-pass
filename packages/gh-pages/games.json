@@ -216,28 +216,28 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NBLGGH52XC6",
-    "name": "ARK: Survival Evolved",
-    "url": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved/9NBLGGH52XC6",
-    "image": "//store-images.s-microsoft.com/image/apps.59714.13510798887668935.dd5aba3c-2510-4856-87c8-291c488c036b.dd69ce1c-581f-4517-9e9e-977fb6394b87",
+    "id": "9MT8ND8BS6NB",
+    "name": "ARK: Survival Evolved Explorer's Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
+    "image": "//store-images.s-microsoft.com/image/apps.30459.13817182746640445.1152921504738442637.a405c13b-cd2b-4d17-8184-4957c880e4ee",
     "availability": {
       "console": false,
       "pc": true
     },
-    "releaseDate": "2017-12-19T16:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
+    "releaseDate": "2017-12-14T00:00:00.0000000Z",
+    "addedAt": "2020-11-17T09:14:56.670Z"
   },
   {
-    "id": "BNBLC4ZGFNKB",
-    "name": "ARK: Survival Evolved",
-    "url": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved/BNBLC4ZGFNKB",
-    "image": "//store-images.s-microsoft.com/image/apps.59714.67854144654891351.62e8ac86-d08d-4b3e-a943-500d5e0b2692.84297a79-9d0e-4de5-85b0-e08169607845",
+    "id": "BPP79RSDN892",
+    "name": "ARK: Survival Evolved Explorer's Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/BPP79RSDN892",
+    "image": "//store-images.s-microsoft.com/image/apps.30459.68672594993004535.abb7a42a-f75b-44f2-8afd-204cb3d19eb6.7e568b3b-4bac-45d3-94ea-7101228681d6",
     "availability": {
       "console": true,
       "pc": false
     },
-    "releaseDate": "2017-08-29T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
+    "releaseDate": "2017-10-04T00:00:00.0000000Z",
+    "addedAt": "2020-11-17T09:14:56.670Z"
   },
   {
     "id": "C1LM235H6FZ1",
@@ -1130,7 +1130,7 @@
   {
     "id": "9NHFVWX1V7QJ",
     "name": "Deep Rock Galactic",
-    "url": "https://www.xbox.com/en-us/games/deep-rock-galactic",
+    "url": "https://www.microsoft.com/en-us/store/p/deep-rock-galactic/9NHFVWX1V7QJ",
     "image": "//store-images.s-microsoft.com/image/apps.36513.13626568325427111.7cdd7bb6-671f-4ab1-a1b9-f25acd668c0c.55a54e68-1cc5-42b3-8925-75aed52f7e40",
     "availability": {
       "console": true,
@@ -2446,6 +2446,18 @@
     },
     "releaseDate": "2020-09-22T03:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9P8CFXZH93CK",
+    "name": "Halo 4",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-4/9P8CFXZH93CK",
+    "image": "//store-images.s-microsoft.com/image/apps.9432.13744163056196112.102a8eeb-4ff9-477f-bace-a811d3daf9da.39dbb9f5-9c45-40b9-bb98-990ada2ab7ba",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-11-17T04:00:00.0000000Z",
+    "addedAt": "2020-11-17T09:14:56.670Z"
   },
   {
     "id": "BRRC2BP0G9P0",

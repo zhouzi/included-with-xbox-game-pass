@@ -936,30 +936,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9PLPXGK1GDQ1",
-    "name": "Darksiders III",
-    "url": "https://www.microsoft.com/en-us/store/p/darksiders-iii/9PLPXGK1GDQ1",
-    "image": "//store-images.s-microsoft.com/image/apps.9138.14309026356175522.d611fded-6d68-4c61-9bae-9fff5cc93b0d.70effa7d-76b8-4304-8b5c-77f2b4858428",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-11-21T17:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BSVZCMGZV52L",
-    "name": "Darksiders III",
-    "url": "https://www.xbox.com/en-us/games/darksiders-III",
-    "image": "//store-images.s-microsoft.com/image/apps.9138.69959397327195397.eb5a523d-641e-454a-99bf-fe995269ffd5.64e9a387-0e1a-489b-9a8a-5be981fb2c99",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2018-11-27T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NKK6CX54183",
     "name": "Day of the Tentacle Remastered",
     "url": "https://www.microsoft.com/en-us/store/p/day-of-the-tentacle-remastered/9NKK6CX54183",
@@ -2775,7 +2751,7 @@
     "id": "BSMZH25V6V46",
     "name": "Human Fall Flat",
     "url": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
-    "image": "//store-images.s-microsoft.com/image/apps.15792.69811231537758929.3bc4d736-abb9-4266-bc45-42ec85a1c8dc.870265f7-0985-4dad-95d0-7071e9cb9b77",
+    "image": "//store-images.s-microsoft.com/image/apps.27750.69811231537758929.b385e1ea-dde1-46bf-9a0c-b93c26313985.bc6fe0d7-4ad5-4002-bc80-d20e8d342536",
     "availability": {
       "console": true,
       "pc": false
@@ -3501,18 +3477,6 @@
       "pc": false
     },
     "releaseDate": "2017-10-31T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9N80L1CTZ86W",
-    "name": "Munchkin: Quacked Quest",
-    "url": "https://www.microsoft.com/en-us/store/p/munchkin-quacked-quest/9N80L1CTZ86W",
-    "image": "//store-images.s-microsoft.com/image/apps.61770.14058945851413904.586bb783-73bb-4c03-8572-7112a788d9b4.70ed5917-6400-4575-bc0b-9c82b625fb94",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2019-11-19T07:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5076,30 +5040,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9N02KMVCRSRM",
-    "name": "The Talos Principle",
-    "url": "https://www.microsoft.com/en-us/store/p/the-talos-principle/9N02KMVCRSRM",
-    "image": "//store-images.s-microsoft.com/image/apps.19397.13929163201079802.abe56995-9d85-4d28-9059-60eb78cd2381.3bb75924-ea6d-4d26-93f9-37f5cea16076",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-11-14T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "C1TJ5KT8LT9J",
-    "name": "The Talos Principle",
-    "url": "https://www.microsoft.com/en-us/store/p/the-talos-principle/C1TJ5KT8LT9J",
-    "image": "//store-images.s-microsoft.com/image/apps.19397.65643310160401397.0e58aede-f87b-4edf-b9e1-7e4436819c2c.af816547-e376-475c-9061-b1e33e3ccdde",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2018-08-31T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9N9W1JK1X5QJ",
     "name": "The Touryst",
     "url": "https://www.microsoft.com/en-us/store/p/the-touryst/9N9W1JK1X5QJ",
@@ -5349,30 +5289,6 @@
       "pc": true
     },
     "releaseDate": "2020-09-03T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NBM23T6G6RN",
-    "name": "Tracks - The Train Set Game",
-    "url": "https://www.microsoft.com/en-us/store/p/tracks---the-train-set-game/9NBM23T6G6RN",
-    "image": "//store-images.s-microsoft.com/image/apps.29950.14163000528255550.5f47fd70-c17b-41bd-8e44-dd0be98f737d.75a5ed17-c0b1-467c-8fd7-2fffd71772a0",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-11-14T17:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PCTJNL0GDS9",
-    "name": "Tracks - The Train Set Game",
-    "url": "https://www.microsoft.com/en-us/store/p/tracks---the-train-set-game/9PCTJNL0GDS9",
-    "image": "//store-images.s-microsoft.com/image/apps.29950.14163000528255550.5f47fd70-c17b-41bd-8e44-dd0be98f737d.75a5ed17-c0b1-467c-8fd7-2fffd71772a0",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-11-14T17:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {

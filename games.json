@@ -3432,6 +3432,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9PFZC53PVTDB",
+    "name": "Mount & Blade: Warband PC",
+    "url": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
+    "image": "//store-images.s-microsoft.com/image/apps.54445.14195520622051409.1c03fe4f-71c7-458d-8a1a-b32f73146747.5f44e877-99c7-46e2-b073-f478fee3474d",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-11-19T00:00:00.0000000Z",
+    "addedAt": "2020-11-19T09:15:35.902Z"
+  },
+  {
     "id": "9N9H593X8SVP",
     "name": "Moving Out",
     "url": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
@@ -4248,6 +4260,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NN69HFJ8SX1",
+    "name": "River City Girls",
+    "url": "https://www.microsoft.com/en-us/store/p/river-city-girls/9NN69HFJ8SX1",
+    "image": "//store-images.s-microsoft.com/image/apps.35455.13744198789091182.d176867c-ff91-4e0a-b1f7-00b2797de9c7.c3cb7a66-7aec-40f8-99e9-3d987a7d48c8",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-09-05T13:00:00.0000000Z",
+    "addedAt": "2020-11-19T09:15:35.902Z"
+  },
+  {
+    "id": "9PGNT102001S",
+    "name": "River City Girls",
+    "url": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
+    "image": "//store-images.s-microsoft.com/image/apps.35455.14181714136597873.e2dc0d7c-093b-4ddf-9f06-1e45b963bcbc.4c173222-ece4-4012-a915-7ae56652fbd9",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-10-27T13:00:00.0000000Z",
+    "addedAt": "2020-11-19T09:15:35.902Z"
+  },
+  {
     "id": "9MX7Q207JGTW",
     "name": "Rocket Arena",
     "url": "https://www.microsoft.com/en-us/store/p/rocket-arena/9MX7Q207JGTW",
@@ -4474,6 +4510,18 @@
     },
     "releaseDate": "2012-02-28T00:00:00.0000000Z",
     "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "9PHH0RQ51S5V",
+    "name": "Star Renegades",
+    "url": "https://www.microsoft.com/en-us/store/p/star-renegades/9PHH0RQ51S5V",
+    "image": "//store-images.s-microsoft.com/image/apps.37892.14268694482751031.2b57938a-8e7f-4ac1-93f1-a65d2e1ba3a9.3a6799b5-286d-45c8-9d2b-496db4c3b8b8",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-11-19T00:00:00.0000000Z",
+    "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
     "id": "9PK5S1QKV10D",

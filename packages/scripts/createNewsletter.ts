@@ -108,17 +108,12 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              A massive issue this week since no less than <strong>${
-                newGames.length
-              } games were added</strong>, mostly via the <strong>EA Play</strong> (full list further below).
-              They are limited to consoles for now but it's coming to PC on December, 15.
+              This week we received some pretty good stats for the Xbox Game Pass since "<a href="https://www.reddit.com/r/XboxGamePass/comments/jtsrdd/70_of_new_xs_consoles_have_a_new_or_existing/">70% of new X|S consoles have a new or existing Gamepass subscription</a>".
             </p>
           </mj-text>
-          <mj-text padding="0">
+          <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              Another major announcement is the <strong>Disney+ perk</strong> which gives away 30 days of free trial for the service.
-              The offer is limited to these regions: AU, AT, BE, CA, DK, FI, DE, IE, IT, NL, NZ, NO, PT, ES, SE, CH, GB, US.
-              A bummer for me since I'm from France...
+              Also, people have been praising <a href="https://www.reddit.com/r/XboxGamePass/comments/jwa0lc/who_ever_had_the_idea_to_put_full_throttle_on/">Full Throttle Remastered</a> and someone made a <a href="https://www.reddit.com/r/XboxGamePass/comments/jwhrpa/gamepasstacom_scores_all_game_pass_pc_games_live/">site that scores all Xbox Game Pass PC Games</a>.
             </p>
           </mj-text>
         </mj-column>

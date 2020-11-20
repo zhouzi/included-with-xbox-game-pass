@@ -4361,7 +4361,7 @@
     "url": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
     "image": "//store-images.s-microsoft.com/image/apps.16347.14554784103656548.6c0bfca6-ceff-4368-9bde-2fe50f344136.007dce43-6492-46f2-bb2b-2b28df98fc3c",
     "availability": {
-      "console": true,
+      "console": false,
       "pc": true
     },
     "releaseDate": "2018-03-20T04:00:00.0000000Z",

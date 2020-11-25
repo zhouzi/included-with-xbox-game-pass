@@ -1659,7 +1659,7 @@
     "id": "BS6WJ2L56B10",
     "name": "Fallout 76",
     "url": "https://www.microsoft.com/en-us/store/p/fallout-76/BS6WJ2L56B10",
-    "image": "//store-images.s-microsoft.com/image/apps.19275.70143269474194625.c9e01473-4626-42db-895b-500cadcd9abc.1c2f3548-2900-4792-87fb-fa5ee04a391c",
+    "image": "//store-images.s-microsoft.com/image/apps.18492.70143269474194625.be3cf828-9ca8-430f-9714-9bcc590c48fc.a8c35893-36ab-4f8f-a945-3e1be9ff794a",
     "availability": {
       "console": true,
       "pc": false
@@ -1669,9 +1669,9 @@
   },
   {
     "id": "9NKGNMNK3K3Z",
-    "name": "Fallout 76 (PC)",
-    "url": "https://www.microsoft.com/en-us/store/p/fallout-76-pc/9NKGNMNK3K3Z",
-    "image": "//store-images.s-microsoft.com/image/apps.19275.70143269474194625.c9e01473-4626-42db-895b-500cadcd9abc.1c2f3548-2900-4792-87fb-fa5ee04a391c",
+    "name": "Fallout 76 - PC",
+    "url": "https://www.microsoft.com/en-us/store/p/fallout-76---pc/9NKGNMNK3K3Z",
+    "image": "//store-images.s-microsoft.com/image/apps.18492.70143269474194625.be3cf828-9ca8-430f-9714-9bcc590c48fc.a8c35893-36ab-4f8f-a945-3e1be9ff794a",
     "availability": {
       "console": false,
       "pc": true
@@ -2727,7 +2727,7 @@
     "id": "C11HCJPQFHH7",
     "name": "Hotshot Racing",
     "url": "https://www.microsoft.com/en-us/store/p/hotshot-racing/C11HCJPQFHH7",
-    "image": "//store-images.s-microsoft.com/image/apps.30530.14365624762940718.1ebe12d5-72ae-4490-9f57-63b1a1bc9142.cf8c91a1-dacc-4412-8819-7c8c22512ab3",
+    "image": "//store-images.s-microsoft.com/image/apps.30236.65126288183385274.a0ea0aae-2c63-45b1-a42b-689a8a50abfe.6c5e0936-e0f9-4b3c-b334-40ed8cc06d1e",
     "availability": {
       "console": true,
       "pc": false

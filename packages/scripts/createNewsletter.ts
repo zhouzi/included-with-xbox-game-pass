@@ -108,12 +108,18 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              This week we received some pretty good stats for the Xbox Game Pass since "<a href="https://www.reddit.com/r/XboxGamePass/comments/jtsrdd/70_of_new_xs_consoles_have_a_new_or_existing/">70% of new X|S consoles have a new or existing Gamepass subscription</a>".
+              A pretty calm week this time since no games were added 😳 We will pretend it's the calm before the storm since EA games are coming to PC soon.
             </p>
           </mj-text>
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              Also, people have been praising <a href="https://www.reddit.com/r/XboxGamePass/comments/jwa0lc/who_ever_had_the_idea_to_put_full_throttle_on/">Full Throttle Remastered</a> and someone made a <a href="https://www.reddit.com/r/XboxGamePass/comments/jwhrpa/gamepasstacom_scores_all_game_pass_pc_games_live/">site that scores all Xbox Game Pass PC Games</a>.
+              On Reddit, we learned what the <a href="https://www.reddit.com/r/XboxGamePass/comments/k0k4xr/decembers_games_with_gold_announced/">Games With Gold</a> will be for December.
+              People had good words to say about <a href="https://www.reddit.com/r/XboxGamePass/comments/k0dnlj/peggle_2_is_really_freaking_relaxing/">Peggle 2</a> and someone created a <a href="https://www.reddit.com/r/XboxGamePass/comments/jyupgd/discord_server_for_xbox_game_pass/">Discord server for the community</a>.
+            </p>
+          </mj-text>
+          <mj-text padding="0 0 14px 0">
+            <p class="Introduction">
+              Also, people regularly share codes for the Xbox Game Pass so you might want to keep an eye on <a href="https://www.reddit.com/r/XboxGamePass/">/r/XboxGamePass</a> if that's something you are interested in.
             </p>
           </mj-text>
         </mj-column>

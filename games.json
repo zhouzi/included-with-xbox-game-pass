@@ -36,18 +36,6 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "id": "C3XCXTFS6FFQ",
-    "name": "Absolver",
-    "url": "https://www.microsoft.com/en-us/store/p/absolver/C3XCXTFS6FFQ",
-    "image": "//store-images.s-microsoft.com/image/apps.40950.66864491160699943.fbeb6102-8e78-445c-8e22-80d901a8c55e.4b8f71a9-a388-4c7d-bf2b-02a3aa83e285",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-01-07T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "BRVM8RNWLXH1",
     "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
     "url": "https://www.xbox.com/en-us/games/ace-combat-7-skies-unknown",
@@ -1020,18 +1008,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "BS7F51G3DP8R",
-    "name": "Dead Island Definitive Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/dead-island-definitive-edition/BS7F51G3DP8R",
-    "image": "//store-images.s-microsoft.com/image/apps.23908.70128237179769548.ade50b5f-526d-44e1-af2b-6e356a6e2c86.650b04d5-648d-47d4-99c5-ff39b3b5ca8e",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2016-05-31T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "BRJLJ6RPLQTJ",
     "name": "Dead Space™",
     "url": "https://www.microsoft.com/en-us/store/p/dead-space/BRJLJ6RPLQTJ",
@@ -1140,18 +1116,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9N5344N0TFR7",
-    "name": "DEMON'S TILT",
-    "url": "https://www.microsoft.com/en-us/store/p/demons-tilt/9N5344N0TFR7",
-    "image": "//store-images.s-microsoft.com/image/apps.63980.13975866783987650.301af951-2a0e-4455-9425-4edb9697ec99.86a9c993-861b-4f7c-a2f4-8432684791b6",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2019-12-06T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "C37XBX7DCBZ0",
     "name": "Descenders",
     "url": "https://www.microsoft.com/en-us/store/p/descenders/C37XBX7DCBZ0",
@@ -1174,18 +1138,6 @@
     },
     "releaseDate": "2019-10-01T17:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NXXNTRZBS0Z",
-    "name": "Destiny 2: Beyond Light",
-    "url": "https://www.microsoft.com/en-us/store/p/destiny-2-beyond-light/9NXXNTRZBS0Z",
-    "image": "//store-images.s-microsoft.com/image/apps.50907.14491519069757754.144ce769-0fc7-434b-8308-6a341e7d536e.e3b17a91-ecb9-4ee2-8c48-401eae97b12a",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2020-11-10T17:00:00.0000000Z",
-    "addedAt": "2020-11-11T09:13:14.733Z"
   },
   {
     "id": "BQ56JMH9S69F",
@@ -1641,18 +1593,6 @@
       "pc": false
     },
     "releaseDate": "2010-10-25T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9N1XLJGDC163",
-    "name": "Faeria",
-    "url": "https://www.microsoft.com/en-us/store/p/faeria/9N1XLJGDC163",
-    "image": "//store-images.s-microsoft.com/image/apps.10637.13967170069135620.5f888454-8bed-47d7-b530-c00045ef509e.eaf06a36-345e-4b7f-b043-28d4479b22c0",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-12-05T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2592,18 +2532,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NCPXWLM4152",
-    "name": "Hatoful Boyfriend",
-    "url": "https://www.microsoft.com/en-us/store/p/hatoful-boyfriend/9NCPXWLM4152",
-    "image": "//store-images.s-microsoft.com/image/apps.48341.13559304798338507.e5450e37-d2b8-44e4-b55c-5008932f5ef6.507d492a-7045-4129-aed0-10592b5527ec",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-06-09T07:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NF6WPNS1S73",
     "name": "Hearts of Iron IV: Cadet Edition",
     "url": "https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
@@ -3489,18 +3417,6 @@
       "pc": false
     },
     "releaseDate": "2017-10-31T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NMP9B9KMKLF",
-    "name": "Mutant Year Zero: Road to Eden",
-    "url": "https://www.microsoft.com/en-us/store/p/mutant-year-zero-road-to-eden/9NMP9B9KMKLF",
-    "image": "//store-images.s-microsoft.com/image/apps.1776.13754284543881634.da02b8e6-e846-4b41-8bd0-2c20120fb2b8.7f15e2bc-f355-4035-8ba4-799d3e7bfbe0",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2018-12-04T12:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4932,18 +4848,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "BS8XGCLL3VQZ",
-    "name": "The Escapists 2",
-    "url": "https://www.microsoft.com/en-us/store/p/the-escapists-2/BS8XGCLL3VQZ",
-    "image": "//store-images.s-microsoft.com/image/apps.35569.70173344040333382.7556a572-f895-4b02-bc86-3628504df971.f4257110-ee12-49ac-ae9c-285adf03f02a",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2017-08-22T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9P4Z4TW66LPV",
     "name": "The Gardens Between",
     "url": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
@@ -5524,30 +5428,6 @@
     "name": "Void Bastards",
     "url": "https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS",
     "image": "//store-images.s-microsoft.com/image/apps.18409.14220840565943461.66070e1d-a37b-4a3f-9fd0-f7314ce132cf.c41876f1-3c79-467c-ba55-ec3976b6fbee",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-06-09T07:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9ND3Z0QH0NKB",
-    "name": "Wandersong",
-    "url": "https://www.microsoft.com/en-us/store/p/wandersong/9ND3Z0QH0NKB",
-    "image": "//store-images.s-microsoft.com/image/apps.40485.13551668736382575.a89ff9db-2a42-45bb-b442-22f1bfc93d89.af3ea80a-39c1-45df-a05f-5de7af32806b",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-12-06T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NJX558FNW9S",
-    "name": "Wandersong",
-    "url": "https://www.microsoft.com/en-us/store/p/wandersong/9NJX558FNW9S",
-    "image": "//store-images.s-microsoft.com/image/apps.4134.13672252053186917.bdef4e97-3678-4e1d-8d88-4ca772b73691.918cff3c-a4f4-4983-88f7-f96c4eb9f1fb",
     "availability": {
       "console": false,
       "pc": true

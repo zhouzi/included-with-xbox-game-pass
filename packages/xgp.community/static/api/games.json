@@ -768,6 +768,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BZ6W9LRPC26W",
+    "name": "Control",
+    "url": "https://www.microsoft.com/en-us/store/p/control/BZ6W9LRPC26W",
+    "image": "//store-images.s-microsoft.com/image/apps.48174.64090029807136264.88ddb0db-cfad-423c-bb52-c5b649930fb1.18259e82-3a13-4440-ae66-031e2e818198",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-08-27T00:00:00.0000000Z",
+    "addedAt": "2020-12-03T09:17:39.020Z"
+  },
+  {
     "id": "BZ92FB6PWXFJ",
     "name": "Costume Quest 2",
     "url": "https://www.microsoft.com/en-us/store/p/costume-quest-2/BZ92FB6PWXFJ",
@@ -3912,6 +3924,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9P6X271HLG8Q",
+    "name": "PHOGS!",
+    "url": "https://www.microsoft.com/en-us/store/p/phogs/9P6X271HLG8Q",
+    "image": "//store-images.s-microsoft.com/image/apps.28780.14611607011435865.dbd97aaa-9161-430b-965e-f92b26cd82f2.cc5d8382-e49c-47ed-8d22-18be2b150710",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-12-03T09:00:00.0000000Z",
+    "addedAt": "2020-12-03T09:17:39.020Z"
+  },
+  {
     "id": "9N8WRDC25K6J",
     "name": "Pikuniku",
     "url": "https://www.microsoft.com/en-us/store/p/pikuniku/9N8WRDC25K6J",
@@ -4378,6 +4402,18 @@
     },
     "releaseDate": "2019-08-14T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C2NC88M7NWZ1",
+    "name": "Slime Rancher",
+    "url": "https://www.microsoft.com/en-us/store/p/slime-rancher/C2NC88M7NWZ1",
+    "image": "//store-images.s-microsoft.com/image/apps.43883.65571960709588388.6e3322f5-d49a-48f6-ac1e-c5450bd5b3e2.81633a6f-d4ac-4e01-9f1b-ed97cfab5d07",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-08-01T00:00:00.0000000Z",
+    "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
     "id": "BZ5VLVX84STW",
@@ -5376,6 +5412,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9P9C1HB78K05",
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "url": "https://www.microsoft.com/en-us/store/p/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
+    "image": "//store-images.s-microsoft.com/image/apps.22540.14141205805609886.23336644-f20f-482f-97e1-f366c11d1449.2d80aa16-ef66-4304-a81e-589efa7c623b",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-03T00:00:00.0000000Z",
+    "addedAt": "2020-12-03T09:17:39.020Z"
+  },
+  {
     "id": "9N171CGFVT1L",
     "name": "Vambrace: Cold Soul",
     "url": "https://www.microsoft.com/en-us/store/p/vambrace-cold-soul/9N171CGFVT1L",
@@ -5758,6 +5806,18 @@
     },
     "releaseDate": "2020-04-22T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NX14Q0QZD1T",
+    "name": "Yes, Your Grace",
+    "url": "https://www.microsoft.com/en-us/store/p/yes-your-grace/9NX14Q0QZD1T",
+    "image": "//store-images.s-microsoft.com/image/apps.55425.14434818467872696.ebbabf35-221f-46cb-8dca-5d30f05a2b0f.91b4d2b2-f071-455d-8b20-4cf30305304f",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-06-26T15:00:00.0000000Z",
+    "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
     "id": "9PJ06TZX4NMH",

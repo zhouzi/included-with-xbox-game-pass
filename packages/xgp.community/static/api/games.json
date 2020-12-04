@@ -1260,6 +1260,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9PK09BL31FK1",
+    "name": "DOOM Eternal Standard Edition (PC)",
+    "url": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
+    "image": "//store-images.s-microsoft.com/image/apps.33238.64234556958324114.f920cec9-b4fb-47f4-bbac-667ed8bb82e6.3abee797-aba0-4c66-8be7-3fc9074dd446",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-01T16:00:00.0000000Z",
+    "addedAt": "2020-12-04T09:21:40.852Z"
+  },
+  {
     "id": "C2592KJZ0Q1X",
     "name": "Double Dragon Neon",
     "url": "https://www.microsoft.com/en-us/store/p/double-dragon-neon/C2592KJZ0Q1X",
@@ -2544,6 +2556,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NZL91Q08XRV",
+    "name": "Haven",
+    "url": "https://www.microsoft.com/en-us/store/p/haven/9NZL91Q08XRV",
+    "image": "//store-images.s-microsoft.com/image/apps.3955.14474015592034459.e2e750cd-a461-4824-ad07-a9b8c0e9bdfb.18a25d5b-5bb8-43bf-95c1-07fdcf03ffc5",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-12-03T14:00:00.0000000Z",
+    "addedAt": "2020-12-04T09:21:40.852Z"
+  },
+  {
     "id": "9NF6WPNS1S73",
     "name": "Hearts of Iron IV: Cadet Edition",
     "url": "https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
@@ -3612,6 +3636,18 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "id": "9PDGC1Z6ZHTP",
+    "name": "NHL® 94 REWIND",
+    "url": "https://www.microsoft.com/en-us/store/p/nhl-94-rewind/9PDGC1Z6ZHTP",
+    "image": "//store-images.s-microsoft.com/image/apps.30963.14150624283207856.14599c31-25d3-4f59-9a9b-69b4f86ec0ce.a07e476e-3d55-4333-b333-f3bb4184987a",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-10-12T18:35:47.7722382Z",
+    "addedAt": "2020-12-04T09:21:40.852Z"
+  },
+  {
     "id": "BPPZVT8BZ15N",
     "name": "NieR:Automata™ BECOME AS GODS Edition",
     "url": "https://www.xbox.com/en-us/games/nier-automata",
@@ -3915,7 +3951,7 @@
     "id": "9P1P5Q3BNM7J",
     "name": "Phoenix Point",
     "url": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
-    "image": "//store-images.s-microsoft.com/image/apps.44091.14507726714197033.7eebef55-f07c-42bb-b812-558c69d07214.e333c4ac-e41a-4bc8-a59d-6e5fd1352448",
+    "image": "//store-images.s-microsoft.com/image/apps.23750.14507726714197033.ea391b48-d8cb-4724-a6cb-765168bd5161.0029c50b-c234-475e-9928-0185fc83e0aa",
     "availability": {
       "console": false,
       "pc": true

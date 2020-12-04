@@ -108,18 +108,17 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              A pretty calm week this time since no games were added 😳 We will pretend it's the calm before the storm since EA games are coming to PC soon.
+              This week quality won over quantity with the addition a few great games! And there's more <a href="https://www.reddit.com/r/XboxGamePass/comments/k4q7qd/coming_soon/">coming soon</a>.
             </p>
           </mj-text>
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              On Reddit, we learned what the <a href="https://www.reddit.com/r/XboxGamePass/comments/k0k4xr/decembers_games_with_gold_announced/">Games With Gold</a> will be for December.
-              People had good words to say about <a href="https://www.reddit.com/r/XboxGamePass/comments/k0dnlj/peggle_2_is_really_freaking_relaxing/">Peggle 2</a> and someone created a <a href="https://www.reddit.com/r/XboxGamePass/comments/jyupgd/discord_server_for_xbox_game_pass/">Discord server for the community</a>.
+              The Xbox Game Pass has a bright future with EA Play that's already available on console but coming to PC on December, 15. And with Bethesda being bought by Microsoft, we can hope to see their games added early-mid 2021.
             </p>
           </mj-text>
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              Also, people regularly share codes for the Xbox Game Pass so you might want to keep an eye on <a href="https://www.reddit.com/r/XboxGamePass/">/r/XboxGamePass</a> if that's something you are interested in.
+              In other news, someone made a <a href="https://www.reddit.com/r/XboxGamePass/comments/k5zos5/gamepass_vs_psnow_a_great_comparison/">comparison of PSNow / Xbox Game Pass</a> and you can currently get <a href="https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?activetab=pivot%3aoverviewtab">3 months of Xbox Game Pass Ultimate for 1$</a>.
             </p>
           </mj-text>
         </mj-column>

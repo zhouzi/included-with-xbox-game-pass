@@ -1344,6 +1344,18 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "id": "9PBDC0XZ8TXK",
+    "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK",
+    "image": "//store-images.s-microsoft.com/image/apps.40136.14125332336761514.8bb2a8ee-0291-4012-97d8-2e92be70a6ac.fbc31ecb-0fbe-45a2-94cd-d6c5eccaea8c",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-12-04T00:00:00.0000000Z",
+    "addedAt": "2020-12-05T09:18:26.077Z"
+  },
+  {
     "id": "9PGNGGWBX1NR",
     "name": "Drake Hollow",
     "url": "https://www.microsoft.com/en-us/store/p/drake-hollow/9PGNGGWBX1NR",
@@ -4337,7 +4349,7 @@
     "url": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
     "image": "//store-images.s-microsoft.com/image/apps.16347.14554784103656548.6c0bfca6-ceff-4368-9bde-2fe50f344136.007dce43-6492-46f2-bb2b-2b28df98fc3c",
     "availability": {
-      "console": false,
+      "console": true,
       "pc": true
     },
     "releaseDate": "2018-03-20T04:00:00.0000000Z",

@@ -624,6 +624,30 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "id": "9NNG78K7N91K",
+    "name": "Call of the Sea",
+    "url": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9NNG78K7N91K",
+    "image": "//store-images.s-microsoft.com/image/apps.46463.14562710987664012.7bc0702e-3748-40e0-8a1a-40b5348aa74d.28279165-f4b6-44e8-9eb7-406129c2db6d",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-08T00:00:00.0000000Z",
+    "addedAt": "2020-12-08T09:19:33.718Z"
+  },
+  {
+    "id": "9P27ZMZ7FDPZ",
+    "name": "Call of the Sea",
+    "url": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9P27ZMZ7FDPZ",
+    "image": "//store-images.s-microsoft.com/image/apps.46463.14562710987664012.7bc0702e-3748-40e0-8a1a-40b5348aa74d.28279165-f4b6-44e8-9eb7-406129c2db6d",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-12-08T00:00:00.0000000Z",
+    "addedAt": "2020-12-08T09:19:33.718Z"
+  },
+  {
     "id": "9MSMJH3C6TKR",
     "name": "Carrion",
     "url": "https://www.microsoft.com/en-us/store/p/carrion/9MSMJH3C6TKR",
@@ -3360,6 +3384,30 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9MZNS9NZ97PF",
+    "name": "Monster Sanctuary",
+    "url": "https://www.microsoft.com/en-us/store/p/monster-sanctuary/9MZNS9NZ97PF",
+    "image": "//store-images.s-microsoft.com/image/apps.22174.13871023289633408.9023710d-5f63-4b3d-9009-f6d13376289a.01a9cdaf-3cc6-4014-8a21-3fe5d2a69f98",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-12-08T05:00:00.0000000Z",
+    "addedAt": "2020-12-08T09:19:33.718Z"
+  },
+  {
+    "id": "9PBWWQGXVMKC",
+    "name": "Monster Sanctuary",
+    "url": "https://www.microsoft.com/en-us/store/p/monster-sanctuary/9PBWWQGXVMKC",
+    "image": "//store-images.s-microsoft.com/image/apps.22174.14110383629447010.e7d696e2-c4d7-447d-a348-d49a251535b4.d835c558-52f9-48ea-b4a9-031171156c99",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-08T05:00:00.0000000Z",
+    "addedAt": "2020-12-08T09:19:33.718Z"
+  },
+  {
     "id": "9P8XJRLCLH2P",
     "name": "Moonlighter",
     "url": "https://www.microsoft.com/en-us/store/p/moonlighter/9P8XJRLCLH2P",
@@ -4570,6 +4618,18 @@
     },
     "releaseDate": "2017-11-17T00:00:00.0000000Z",
     "addedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "id": "9MTSBWPWPQVQ",
+    "name": "Starbound",
+    "url": "https://www.microsoft.com/en-us/store/p/starbound/9MTSBWPWPQVQ",
+    "image": "//store-images.s-microsoft.com/image/apps.5801.13802186359317829.b9acdcf9-2e05-4328-812d-253b5ab5de76.cc2ee825-d31f-441a-8eba-442e0853957e",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-08T00:00:00.0000000Z",
+    "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
     "id": "9NT4X7P8B9NB",

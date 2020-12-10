@@ -240,6 +240,18 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "id": "C27H5T4HD4WW",
+    "name": "Assetto Corsa",
+    "url": "https://www.microsoft.com/en-us/store/p/assetto-corsa/C27H5T4HD4WW",
+    "image": "//store-images.s-microsoft.com/image/apps.13233.65337361678217538.076929f7-568f-40f8-a97b-49afea238f3d.b3820120-6e79-4cc9-b47d-2fca283cee4e",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-08-30T00:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
+  },
+  {
     "id": "9NFT0CMC62DX",
     "name": "Astrologaster",
     "url": "https://www.microsoft.com/en-us/store/p/astrologaster/9NFT0CMC62DX",
@@ -2338,6 +2350,30 @@
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
     "addedAt": "2020-10-22T14:19:36.679Z"
+  },
+  {
+    "id": "BWMH4RQ4Q06F",
+    "name": "GreedFall",
+    "url": "https://www.microsoft.com/en-us/store/p/greedfall/BWMH4RQ4Q06F",
+    "image": "//store-images.s-microsoft.com/image/apps.4031.71572041439194678.5d05371d-9189-4603-8b72-d531bae40af1.381ad754-ba88-44f8-ad34-6d05ada7e873",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-09-10T04:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
+  },
+  {
+    "id": "9PB79JST8PDH",
+    "name": "GreedFall - Windows 10",
+    "url": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
+    "image": "//store-images.s-microsoft.com/image/apps.4031.71572041439194678.5d05371d-9189-4603-8b72-d531bae40af1.381ad754-ba88-44f8-ad34-6d05ada7e873",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-10T00:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
     "id": "9PC288TN7R8K",
@@ -4788,6 +4824,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NRH78B682L8",
+    "name": "SUPERHOT: MIND CONTROL DELETE",
+    "url": "https://www.microsoft.com/en-us/store/p/superhot-mind-control-delete/9NRH78B682L8",
+    "image": "//store-images.s-microsoft.com/image/apps.10113.14383048766618347.734b0c9a-e030-4976-bf99-73f141752531.ed55d2c8-b4e3-4e01-8582-c8221b2c5955",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-07-16T16:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
+  },
+  {
     "id": "9PN6MTJX8LZD",
     "name": "Supraland",
     "url": "https://www.microsoft.com/en-us/store/p/supraland/9PN6MTJX8LZD",
@@ -5938,6 +5986,30 @@
     },
     "releaseDate": "2020-06-26T15:00:00.0000000Z",
     "addedAt": "2020-12-03T09:17:39.020Z"
+  },
+  {
+    "id": "9NB1LCQDPPM1",
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "url": "https://www.microsoft.com/en-us/store/p/yooka-laylee-and-the-impossible-lair/9NB1LCQDPPM1",
+    "image": "//store-images.s-microsoft.com/image/apps.41993.14247162935800379.95429d1b-e8ab-403f-b6d2-552bc07e26e6.1d2088ff-741a-4740-b9f2-457770234c8a",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-10T05:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
+  },
+  {
+    "id": "9PGPPZW59JB8",
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "url": "https://www.microsoft.com/en-us/store/p/yooka-laylee-and-the-impossible-lair/9PGPPZW59JB8",
+    "image": "//store-images.s-microsoft.com/image/apps.41993.14247162935800379.95429d1b-e8ab-403f-b6d2-552bc07e26e6.1d2088ff-741a-4740-b9f2-457770234c8a",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-10-08T04:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
     "id": "9PJ06TZX4NMH",

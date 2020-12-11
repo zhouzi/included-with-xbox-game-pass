@@ -108,17 +108,17 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              This week quality won over quantity with the addition a few great games! And there's more <a href="https://www.reddit.com/r/XboxGamePass/comments/k4q7qd/coming_soon/">coming soon</a>.
+              Microsoft shared a <a href="https://www.reddit.com/r/XboxGamePass/comments/kattnv/coming_soon_to_xbox_game_pass_this_holiday_the/">trailer for the Game Awards 2020</a>. Here are a few games it announced: Skyrim, Among Us, Yakuza 3 / 4 / 5 / 6.
             </p>
           </mj-text>
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              The Xbox Game Pass has a bright future with EA Play that's already available on console but coming to PC on December, 15. And with Bethesda being bought by Microsoft, we can hope to see their games added early-mid 2021.
+              As you may know, it is possible to play the Xbox Game Pass' games on Android thanks to the cloud. The good news is that it's <a href="https://www.reddit.com/r/XboxGamePass/comments/ka7jv7/xcloud_beta_will_be_available_on_ios_and_pc_in/">coming to PC and iOS in Spring 2021</a>.
             </p>
           </mj-text>
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              In other news, someone made a <a href="https://www.reddit.com/r/XboxGamePass/comments/k5zos5/gamepass_vs_psnow_a_great_comparison/">comparison of PSNow / Xbox Game Pass</a> and you can currently get <a href="https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?activetab=pivot%3aoverviewtab">3 months of Xbox Game Pass Ultimate for 1$</a>.
+              An interesting <a href="https://www.reddit.com/r/XboxGamePass/comments/k9pu9b/anyone_else_getting_overchoice_anxiety_with/">discussion took place regarding overchoice anxiety</a> some people have experienced with Xbox Game Pass. You might want to chime in if you also feel overwhelmed with the number of games the pass has to offer.
             </p>
           </mj-text>
         </mj-column>

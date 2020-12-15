@@ -5028,6 +5028,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BQ1W1T1FC14W",
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-v-skyrim-special-edition/BQ1W1T1FC14W",
+    "image": "//store-images.s-microsoft.com/image/apps.64810.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.fdefe49f-270c-44e5-b660-6d7764b37f0f",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-10-28T00:00:00.0000000Z",
+    "addedAt": "2020-12-15T09:20:24.679Z"
+  },
+  {
     "id": "BRKX5CRMRTC2",
     "name": "The Elder Scrolls® Online",
     "url": "https://www.xbox.com/en-us/games/elder-scrolls-online",

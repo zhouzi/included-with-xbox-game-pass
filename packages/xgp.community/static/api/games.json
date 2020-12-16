@@ -84,30 +84,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9MZ2B3W86SCK",
-    "name": "Age of Wonders: Planetfall",
-    "url": "https://www.microsoft.com/en-us/store/p/age-of-wonders-planetfall/9MZ2B3W86SCK",
-    "image": "//store-images.s-microsoft.com/image/apps.30182.13883075698334732.f2a6b4de-0f9e-4f14-843f-0a4e3ded11ee.64ed540a-0330-43fa-8328-de06165f9bac",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-12-11T15:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BPTKRR85P0JW",
-    "name": "Age of Wonders: Planetfall",
-    "url": "https://www.microsoft.com/en-us/store/p/age-of-wonders-planetfall/BPTKRR85P0JW",
-    "image": "//store-images.s-microsoft.com/image/apps.30182.68169422210298884.d0c4e777-9136-4277-99ed-2bf5e44f7447.097bc188-cb11-4125-b1ac-81070dc69d85",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-08-06T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NKV44QF1R68",
     "name": "Alan Wake",
     "url": "https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68",
@@ -507,7 +483,7 @@
     "id": "BTPDCJXNFSZL",
     "name": "Black Desert",
     "url": "https://www.microsoft.com/en-us/store/p/black-desert/BTPDCJXNFSZL",
-    "image": "//store-images.s-microsoft.com/image/apps.52777.70463400880857175.fd8a8679-a063-4c10-8649-d61835844f60.7fe88b36-7c0e-46e2-8cb1-5db6283d5be8",
+    "image": "//store-images.s-microsoft.com/image/apps.1493.70463400880857175.f50a6a55-5de9-4f77-aeb1-093b077c7e38.4bc6622c-892e-48d9-afe5-0ee81acf8e53",
     "availability": {
       "console": true,
       "pc": false
@@ -2160,16 +2136,16 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9P9CKRGR40KK",
-    "name": "Gears 5 Ultimate Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/gears-5-ultimate-edition/9P9CKRGR40KK",
-    "image": "//store-images.s-microsoft.com/image/apps.50620.14140885276228792.8cf3687b-fb9d-4c18-8d80-0df9033e4fc8.4ee5b39d-512b-428d-b5cc-03cdd19eaf88",
+    "id": "9P4KMR76PLLQ",
+    "name": "Gears 5 Game of the Year Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/gears-5-game-of-the-year-edition/9P4KMR76PLLQ",
+    "image": "//store-images.s-microsoft.com/image/apps.27223.14591801423393397.b86e1d42-e161-4ada-971f-c3354763da8a.918305fb-c146-4d2e-895a-b40f8fd23ab1",
     "availability": {
-      "console": false,
+      "console": true,
       "pc": true
     },
-    "releaseDate": "2019-09-10T01:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
+    "releaseDate": "2020-12-15T00:00:00.0000000Z",
+    "addedAt": "2020-12-16T09:20:26.382Z"
   },
   {
     "id": "BPN08ZDRPSFK",
@@ -2856,18 +2832,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NHGM9CS3XLF",
-    "name": "Infinifactory",
-    "url": "https://www.microsoft.com/en-us/store/p/infinifactory/9NHGM9CS3XLF",
-    "image": "//store-images.s-microsoft.com/image/apps.23228.13626078833072774.5182dd8e-efd5-4f3d-a6d6-a62becea8a10.5d6a0d67-a260-41f6-b574-1ded8f07539b",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-12-19T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9PFW68JLS81F",
     "name": "It Lurks Below",
     "url": "https://www.microsoft.com/en-us/store/p/it-lurks-below/9PFW68JLS81F",
@@ -3264,18 +3228,6 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "id": "9NM5W1TDNQZ3",
-    "name": "Metro: Last Light Redux",
-    "url": "https://www.microsoft.com/en-us/store/p/metro-last-light-redux/9NM5W1TDNQZ3",
-    "image": "//store-images.s-microsoft.com/image/apps.45103.13698525972908774.0e957911-be85-4534-8450-d965f8f83242.d7c02e79-cd56-400e-82cd-a72c6f130fc1",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-12-12T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9NXN8GF8N9HT",
     "name": "Microsoft Flight Simulator: Standard",
     "url": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard/9NXN8GF8N9HT",
@@ -3528,30 +3480,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9N58J0GM9MRP",
-    "name": "MudRunner",
-    "url": "https://www.microsoft.com/en-us/store/p/mudrunner/9N58J0GM9MRP",
-    "image": "//store-images.s-microsoft.com/image/apps.50941.13972258175020380.2a6e7b9d-b806-42cc-913e-87c2970a639e.ba9ca554-56aa-44f9-8b5b-98f7c70ecb72",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-06-09T07:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BTSQF5T410C6",
-    "name": "MudRunner",
-    "url": "https://www.microsoft.com/en-us/store/p/mudrunner/BTSQF5T410C6",
-    "image": "//store-images.s-microsoft.com/image/apps.50941.70538801997001679.e74a272b-aa3a-47f9-990e-ebe0ff233364.0e143036-237d-4f6a-939a-73823c60e6c3",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2017-10-31T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9P16M6LF0QFH",
     "name": "My Friend Pedro",
     "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
@@ -3597,18 +3525,6 @@
       "pc": false
     },
     "releaseDate": "2019-04-16T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BRX56LQJMZ4G",
-    "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
-    "url": "https://www.microsoft.com/en-us/store/p/naruto-to-boruto-shinobi-striker/BRX56LQJMZ4G",
-    "image": "//store-images.s-microsoft.com/image/apps.28992.69400513316706885.2c155959-cfe1-4f1a-a0aa-06e86620da92.7cc96e9f-151b-4c86-a8d2-c63182d33f7d",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2018-08-31T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3969,18 +3885,6 @@
       "pc": true
     },
     "releaseDate": "2019-08-01T16:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PHS5Q7KQMJM",
-    "name": "Pathologic 2",
-    "url": "https://www.microsoft.com/en-us/store/p/pathologic-2/9PHS5Q7KQMJM",
-    "image": "//store-images.s-microsoft.com/image/apps.58256.14229990123044184.4c1002da-81a6-4cdf-ad25-a3cf8ae7d512.ac3c67bc-5445-49d8-b9c3-6327b0f3c98a",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2019-12-12T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5208,30 +5112,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "9NBLGGH4VVTL",
-    "name": "The Turing Test",
-    "url": "https://www.microsoft.com/en-us/store/p/the-turing-test/9NBLGGH4VVTL",
-    "image": "//store-images.s-microsoft.com/image/apps.8731.13510798887505439.333dca03-3e02-419a-a0b9-818762994987.b408e2d3-05aa-4622-a7a4-43d0a3b31f5c",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2016-11-23T09:45:35.4481037Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "BS2MMFVLKXRK",
-    "name": "The Turing Test",
-    "url": "https://www.microsoft.com/en-us/store/p/the-turing-test/BS2MMFVLKXRK",
-    "image": "//store-images.s-microsoft.com/image/apps.8731.69523489975139756.2bc423ff-73f1-402d-b7b9-7c75b62dd719.9cd353d3-9bd3-4fe2-81a5-30127d12459d",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2016-08-30T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "BQR7QS0F8SJ3",
     "name": "The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5)",
     "url": "https://www.microsoft.com/en-us/store/p/the-walking-dead-a-new-frontier---the-complete-season-episodes-1-5/BQR7QS0F8SJ3",
@@ -5349,18 +5229,6 @@
       "pc": true
     },
     "releaseDate": "2017-10-19T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PJZXCCK7VLW",
-    "name": "Ticket to Ride",
-    "url": "https://www.microsoft.com/en-us/store/p/ticket-to-ride/9PJZXCCK7VLW",
-    "image": "//store-images.s-microsoft.com/image/apps.56097.14272537692064304.bd78aee9-7052-46b3-a042-d439288ed509.c7340601-08b2-40d7-964b-1cdf1f5b180d",
-    "availability": {
-      "console": true,
-      "pc": true
-    },
-    "releaseDate": "2019-12-10T08:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5566,18 +5434,6 @@
     },
     "releaseDate": "2019-01-23T14:00:00.0000000Z",
     "addedAt": "2020-10-29T14:21:21.528Z"
-  },
-  {
-    "id": "9MVTCTDTHH23",
-    "name": "Untitled Goose Game",
-    "url": "https://www.microsoft.com/en-us/store/p/untitled-goose-game/9MVTCTDTHH23",
-    "image": "//store-images.s-microsoft.com/image/apps.25596.13856628096419252.2543d50f-bd53-4ec1-90dd-d76914de6757.df5a7952-3ea7-44b8-a791-0c3884d9b256",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-12-17T05:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "id": "9MVJ0W5N2L2Q",

@@ -156,6 +156,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NG07QJNK38J",
+    "name": "Among Us",
+    "url": "https://www.microsoft.com/en-us/store/p/among-us/9NG07QJNK38J",
+    "image": "//store-images.s-microsoft.com/image/apps.27279.13589262686196899.44b29135-f781-4fb7-a3ae-4a3a5d9e39a8.2ed808d9-f77e-42cb-92e6-db9df7c72b90",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "BP9JQBJM0FNW",
     "name": "Anthem™",
     "url": "https://www.xbox.com/en-us/games/anthem",
@@ -456,6 +468,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BPV4628PQ0D0",
+    "name": "Beholder Complete Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/beholder-complete-edition/BPV4628PQ0D0",
+    "image": "//store-images.s-microsoft.com/image/apps.30938.68154223333149423.db499d68-44a6-48cc-864e-333506fc6ded.eae8dd47-73f6-4937-9696-7e6597aa6d30",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2018-02-02T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "BTXM0C9C3B1S",
     "name": "Bejeweled 2",
     "url": "https://www.microsoft.com/en-us/store/p/bejeweled-2/BTXM0C9C3B1S",
@@ -754,6 +778,18 @@
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "C4Q7K19Q0VBZ",
+    "name": "CODE VEIN",
+    "url": "https://www.xbox.com/en-us/games/code-vein",
+    "image": "//store-images.s-microsoft.com/image/apps.57479.67309809726168278.238b1eb9-bece-4b2e-b1e8-19ca99512d56.7399948a-f615-497e-8e65-18acd0adf133",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-09-27T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
     "id": "9N2H2GRB4D0K",
@@ -3384,6 +3420,18 @@
     "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
+    "id": "9NP4BGBLLLXM",
+    "name": "Monster Train",
+    "url": "https://www.microsoft.com/en-us/store/p/monster-train/9NP4BGBLLLXM",
+    "image": "//store-images.s-microsoft.com/image/apps.43919.13730273714404372.ea561b73-8f7b-40a2-b473-ec2ebf0c6300.dc3d6ec4-0b1f-4f01-a975-533226a28eba",
+    "availability": {
+      "console": true,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "9P8XJRLCLH2P",
     "name": "Moonlighter",
     "url": "https://www.microsoft.com/en-us/store/p/moonlighter/9P8XJRLCLH2P",
@@ -3430,6 +3478,30 @@
     },
     "releaseDate": "2020-03-05T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9PJGNFWR6MHL",
+    "name": "MotoGP™20",
+    "url": "https://www.microsoft.com/en-us/store/p/motogp20/9PJGNFWR6MHL",
+    "image": "//store-images.s-microsoft.com/image/apps.48964.14282482603081127.c4d52cdd-54c3-4c5a-a125-98e300817fa7.1f2b59f5-250c-4ac6-8f3f-3278f9453ca4",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-04-23T04:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
+    "id": "9N88HSBP6RJ8",
+    "name": "MotoGP™20 - Windows Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
+    "image": "//store-images.s-microsoft.com/image/apps.48964.14282482603081127.c4d52cdd-54c3-4c5a-a125-98e300817fa7.1f2b59f5-250c-4ac6-8f3f-3278f9453ca4",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
     "id": "BQXN1S3V3FN9",
@@ -3622,6 +3694,18 @@
     },
     "releaseDate": "2020-07-14T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NNSTP6KJTZ9",
+    "name": "Neoverse",
+    "url": "https://www.microsoft.com/en-us/store/p/neoverse/9NNSTP6KJTZ9",
+    "image": "//store-images.s-microsoft.com/image/apps.29424.13732308681387652.912ddfff-827b-4ec6-879c-11fe5776733d.6487f903-ca26-4d1f-93c3-014f5d5fde9b",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
     "id": "9MZN3SMXN824",
@@ -4083,7 +4167,7 @@
     "id": "C0MN5DN8KR3F",
     "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
     "url": "https://www.xbox.com/en-us/games/playerunknowns-battlegrounds",
-    "image": "//store-images.s-microsoft.com/image/apps.29376.64374245401097180.b6c99925-d2d7-4ee9-9062-21b0c3e71df9.79330515-1b54-4b93-a095-8d388adb669d",
+    "image": "//store-images.s-microsoft.com/image/apps.21108.64374245401097180.8642489f-f514-4c9f-bf0a-1ad028417cf8.1837b0cd-168b-4385-959c-e1634d7f2a58",
     "availability": {
       "console": true,
       "pc": false
@@ -4920,6 +5004,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9N3TF0CG8NZB",
+    "name": "The Dark Pictures Anthology: Man Of Medan",
+    "url": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/9N3TF0CG8NZB",
+    "image": "//store-images.s-microsoft.com/image/apps.51719.64499457304317555.ab5a2d14-dee8-4f97-8feb-bd7575c8c5e9.f88423a4-ce00-4ef3-bcef-c3f5d4fe2d81",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "BZZ0Q9ZMM7GX",
     "name": "The Dark Pictures Anthology: Man Of Medan",
     "url": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/BZZ0Q9ZMM7GX",
@@ -5448,6 +5544,18 @@
     "addedAt": "2020-12-09T09:20:03.230Z"
   },
   {
+    "id": "9P9C1HB78K05",
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "url": "https://www.microsoft.com/en-us/store/p/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
+    "image": "//store-images.s-microsoft.com/image/apps.22540.14141205805609886.23336644-f20f-482f-97e1-f366c11d1449.2d80aa16-ef66-4304-a81e-589efa7c623b",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-03T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "9N171CGFVT1L",
     "name": "Vambrace: Cold Soul",
     "url": "https://www.microsoft.com/en-us/store/p/vambrace-cold-soul/9N171CGFVT1L",
@@ -5638,6 +5746,30 @@
     },
     "releaseDate": "2017-07-19T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NLKJK4M1VQK",
+    "name": "Wilmot's Warehouse",
+    "url": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse/9NLKJK4M1VQK",
+    "image": "//store-images.s-microsoft.com/image/apps.28816.13706168114776082.962d26d6-8d62-4fdb-bb9f-680c84d005e3.ff2628b5-9d7e-4a7f-957d-cc07bac8ce26",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
+    "id": "9NCHVR5KH0RN",
+    "name": "Wilmot's Warehouse Win10",
+    "url": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN",
+    "image": "//store-images.s-microsoft.com/image/apps.28816.13567961383990681.4e6075ce-2b2a-4db1-83f9-2558b5f90381.3315b8be-f7d0-48d3-8e4f-4484120a2ad4",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
     "id": "9MZH0GG41HL9",

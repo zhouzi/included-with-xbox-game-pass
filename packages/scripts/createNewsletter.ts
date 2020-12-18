@@ -108,17 +108,12 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              Microsoft shared a <a href="https://www.reddit.com/r/XboxGamePass/comments/kattnv/coming_soon_to_xbox_game_pass_this_holiday_the/">trailer for the Game Awards 2020</a>. Here are a few games it announced: Skyrim, Among Us, Yakuza 3 / 4 / 5 / 6.
+              The EA Play was supposed to come to PC this week but it was delayed to 2021.
             </p>
           </mj-text>
           <mj-text padding="0 0 14px 0">
             <p class="Introduction">
-              As you may know, it is possible to play the Xbox Game Pass' games on Android thanks to the cloud. The good news is that it's <a href="https://www.reddit.com/r/XboxGamePass/comments/ka7jv7/xcloud_beta_will_be_available_on_ios_and_pc_in/">coming to PC and iOS in Spring 2021</a>.
-            </p>
-          </mj-text>
-          <mj-text padding="0 0 14px 0">
-            <p class="Introduction">
-              An interesting <a href="https://www.reddit.com/r/XboxGamePass/comments/k9pu9b/anyone_else_getting_overchoice_anxiety_with/">discussion took place regarding overchoice anxiety</a> some people have experienced with Xbox Game Pass. You might want to chime in if you also feel overwhelmed with the number of games the pass has to offer.
+              But let's focus on the positive: <a href="https://www.reddit.com/r/XboxGamePass/comments/kd44rc/ea_acquires_codemasters_which_means_at_least_some/">EA acquired Codemasters</a>, so their games may come to the EA Play and thus to the Xbox Game Pass. Also, some great games were added and I would recommend to have a look at <a href="https://www.microsoft.com/en-us/store/p/monster-train/9NP4BGBLLLXM">Monster Train</a>, <a href="https://www.xbox.com/en-us/games/code-vein">CODE VEIN</a>, and <a href="https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN">Wilmot's Warehouse</a>.
             </p>
           </mj-text>
         </mj-column>

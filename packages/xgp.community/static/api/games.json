@@ -1200,6 +1200,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9N0N5K1RC2QJ",
+    "name": "Destiny 2: Beyond Light",
+    "url": "https://www.microsoft.com/en-us/store/p/destiny-2-beyond-light/9N0N5K1RC2QJ",
+    "image": "//store-images.s-microsoft.com/image/apps.50907.13922017142827907.6e6ad00f-13a8-4527-80aa-4244fe2884e6.88d5dba1-0d4a-4dd6-8729-10bbb8987691",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-11-10T17:00:00.0000000Z",
+    "addedAt": "2020-12-19T09:22:18.605Z"
+  },
+  {
     "id": "BQ56JMH9S69F",
     "name": "Destiny 2: Forsaken",
     "url": "https://www.microsoft.com/en-us/store/p/destiny-2-forsaken/BQ56JMH9S69F",
@@ -4443,7 +4455,7 @@
     "id": "9P7GBPGT90L3",
     "name": "Secret Neighbor",
     "url": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
-    "image": "//store-images.s-microsoft.com/image/apps.21400.14605254180386304.35eb8b6a-3db7-4fc4-a1ef-8fce19410457.8407a38c-7ae5-4499-9984-9711b1267cbf",
+    "image": "//store-images.s-microsoft.com/image/apps.39468.14605254180386304.5d252ac0-3fdd-4a81-8d96-ade267e2d3a0.0ef6ecac-720d-4641-a0c4-3b42db7152b2",
     "availability": {
       "console": true,
       "pc": false

@@ -1716,30 +1716,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "C45KV8Q992HV",
-    "name": "Farming Simulator 17",
-    "url": "https://www.microsoft.com/en-us/store/p/farming-simulator-17/C45KV8Q992HV",
-    "image": "//store-images.s-microsoft.com/image/apps.32861.66445546520609419.4a3b03bf-e99b-4622-bb87-89586f01c3b4.2d40dd18-a733-4e35-8579-24f4be2c309a",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2016-10-25T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9N2NCBXW44HV",
-    "name": "Farming Simulator 17 - Windows 10",
-    "url": "https://www.microsoft.com/en-us/store/p/farming-simulator-17---windows-10/9N2NCBXW44HV",
-    "image": "//store-images.s-microsoft.com/image/apps.32861.13953270023313819.9bf6eff5-428f-43f7-9312-d0ec7dd4ffec.80e291b2-6f25-45cf-a3bb-81ce4d8782d7",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-12-04T05:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "BZW2R4STVDNK",
     "name": "Fe",
     "url": "https://www.microsoft.com/en-us/store/p/fe/BZW2R4STVDNK",
@@ -1920,18 +1896,6 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "id": "BPR4TX9NRWRW",
-    "name": "Fishing Sim World®: Pro Tour",
-    "url": "https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/BPR4TX9NRWRW",
-    "image": "//store-images.s-microsoft.com/image/apps.3814.68146867127756614.1c8b2bca-894e-4592-ba3a-2f92c663cf1e.46ef9fc3-3716-4879-b531-fe271b1d92ed",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2018-09-18T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "id": "9N5253J559LR",
     "name": "Five Nights at Freddy's",
     "url": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys/9N5253J559LR",
@@ -1990,18 +1954,6 @@
     },
     "releaseDate": "2020-10-29T00:00:00.0000000Z",
     "addedAt": "2020-10-29T14:21:21.528Z"
-  },
-  {
-    "id": "9N0K062BZJVK",
-    "name": "Football Manager 2020",
-    "url": "https://www.microsoft.com/en-us/store/p/football-manager-2020/9N0K062BZJVK",
-    "image": "//store-images.s-microsoft.com/image/apps.18749.13920081542607282.9065fa3e-8bda-4ef9-a929-03a073c901b9.d955d9e8-57a6-4528-96d9-2eca9bed955c",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-04-09T04:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "id": "9NS1CD1V4BKW",
@@ -3466,18 +3418,6 @@
     },
     "releaseDate": "2020-12-11T00:00:00.0000000Z",
     "addedAt": "2020-12-11T09:19:56.924Z"
-  },
-  {
-    "id": "C01Z9J8S9BJP",
-    "name": "Mortal Kombat X",
-    "url": "https://www.microsoft.com/en-us/store/p/mortal-kombat-x/C01Z9J8S9BJP",
-    "image": "//store-images.s-microsoft.com/image/apps.65310.64581772364132402.c5492a1b-bf30-4211-98df-0349f52d8245.00d5acdf-ad3d-4674-a511-3a9264ef7677",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2015-04-14T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "id": "9NVFHBKDLPM4",

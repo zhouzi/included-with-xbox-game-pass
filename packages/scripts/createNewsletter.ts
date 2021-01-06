@@ -55,12 +55,15 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
     `
   <mjml>
     <mj-head>
+      <mj-attributes>
+        <mj-text font-size="14px" color="#BAC5CE" line-height="1.6" />
+      </mj-attributes>
       <mj-style inline="inline">
         p {
-          color: #BAC5CE;
-          font-size: 14px;
-          line-height: 1.5;
-          margin: 0;
+          margin: 0 0 14px 0;
+        }
+        p:last-child {
+          margin-bottom: 0;
         }
         strong {
           color: #fff;
@@ -68,12 +71,8 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         }
 
         a {
-          color: #fff;
+          color: #44f089;
           text-decoration: none;
-        }
-
-        .Introduction {
-          font-size: 16px;
         }
 
         .SectionTitle {
@@ -92,6 +91,9 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
           margin: 0;
           line-height: 1.3;
         }
+        h2 a {
+          color: inherit;
+        }
       </mj-style>
     </mj-head>
     <mj-body background-color="#0F1923">
@@ -99,21 +101,30 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column>
           <mj-image href="https://xgp.community" src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
           <mj-text padding="6px 0 0 0">
-            <p>New games and announcements for Xbox Game Pass members.</p>
+            <p>Weekly digest of all things Xbox Game Pass.</p>
           </mj-text>
         </mj-column>
       </mj-section>
 
       <mj-section padding="28px 14px 0 14px">
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
-          <mj-text padding="0 0 14px 0">
-            <p class="Introduction">
-              The EA Play was supposed to come to PC this week but it was delayed to 2021.
+          <mj-text font-size="16px" padding="0 0 14px 0">
+            <p>
+              I am back from a short break, I hope you are all doing good.
+              Microsoft has been quiet since mid December so not much happened.
+              But things are about to change since a <a href="https://www.reddit.com/r/XboxGamePass/comments/kqyzzv/coming_soon/">few games are joining the pass soon</a>.
             </p>
-          </mj-text>
-          <mj-text padding="0 0 14px 0">
-            <p class="Introduction">
-              But let's focus on the positive: <a href="https://www.reddit.com/r/XboxGamePass/comments/kd44rc/ea_acquires_codemasters_which_means_at_least_some/">EA acquired Codemasters</a>, so their games may come to the EA Play and thus to the Xbox Game Pass. Also, some great games were added and I would recommend to have a look at <a href="https://www.microsoft.com/en-us/store/p/monster-train/9NP4BGBLLLXM">Monster Train</a>, <a href="https://www.xbox.com/en-us/games/code-vein">CODE VEIN</a>, and <a href="https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN">Wilmot's Warehouse</a>.
+            <p>
+              Also, there's a crazy <a href="https://www.reddit.com/r/XboxGamePass/comments/kn771y/just_a_rumor_for_now_but_that_would_be_insane/">rumor that Ubisoft Plus could be coming to the Xbox Game Pass</a>.
+              With EA Play already available on console and coming to PC soon, that would make the Xbox Game Pass a must-have!
+            </p>
+            <p>
+              Speaking of unknowns, the Xbox Game Pass twitter account <a href="https://www.reddit.com/r/XboxGamePass/comments/kp124h/return_of_game_pass_game_teased_by_xbox_game_pass/">teased a game that should be coming back soon</a>.
+              GTA V, Red Dead Redemption 2 and Fallout 4 and Kingdom Come Delivrance are some good candidates according to the community.
+            </p>
+            <p>
+              On Reddit, we discovered the podcast "<a href="https://www.reddit.com/r/XboxGamePass/comments/kobrir/beat_the_sheet_the_xbox_game_pass_podcast/">Beat The Sheet</a>" in which people share their impressions of the games in the Xbox Game Pass.
+              They also review games that are leaving soon, which could be a great way to make sure not to miss gems leaving soon.
             </p>
           </mj-text>
         </mj-column>

@@ -1572,6 +1572,18 @@
     "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
+    "id": "9NX03CC9LL1C",
+    "name": "eFootball PES 2021 SEASON UPDATE STANDARD EDITION",
+    "url": "https://www.microsoft.com/en-us/store/p/efootball-pes-2021-season-update-standard-edition/9NX03CC9LL1C",
+    "image": "//store-images.s-microsoft.com/image/apps.55479.14435264726618422.b6211ca6-c5c0-470a-af4b-2e46a7ee1e99.06bde83b-3462-4996-9c4a-fa6e7bee02a8",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-09-15T04:00:00.0000000Z",
+    "addedAt": "2021-01-07T09:36:21.010Z"
+  },
+  {
     "id": "9NP09BFQNHCJ",
     "name": "Endless Legend",
     "url": "https://www.microsoft.com/en-us/store/p/endless-legend/9NP09BFQNHCJ",
@@ -2830,6 +2842,30 @@
     },
     "releaseDate": "2019-10-08T04:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "BPKVH4C4XV4N",
+    "name": "Injustice™ 2",
+    "url": "https://www.xbox.com/en-us/games/injustice-2",
+    "image": "//store-images.s-microsoft.com/image/apps.51626.68598211680266771.73ef9826-822a-4a0b-ab4a-4fe8fd87fc3b.714f1b5c-6793-443d-a291-74b81479dc92",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2017-05-16T00:00:00.0000000Z",
+    "addedAt": "2021-01-07T09:36:21.010Z"
+  },
+  {
+    "id": "9PHT4W7WBBDQ",
+    "name": "Injustice™ 2 - Standard Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/injustice-2---standard-edition/9PHT4W7WBBDQ",
+    "image": "//store-images.s-microsoft.com/image/apps.51626.14224988712834177.85c26f3e-22b2-4c24-8795-5543bdc17faf.4104b935-1cde-4ea7-a04a-f89e8c253a9a",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2017-11-14T17:00:00.0000000Z",
+    "addedAt": "2021-01-07T09:36:21.010Z"
   },
   {
     "id": "9PFW68JLS81F",
@@ -5028,6 +5064,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "BX89DK9KLJ89",
+    "name": "The Little Acre",
+    "url": "https://www.microsoft.com/en-us/store/p/the-little-acre/BX89DK9KLJ89",
+    "image": "//store-images.s-microsoft.com/image/apps.14957.63527307381190078.506efdd9-d8bc-423d-babf-8939193f1e53.3b655c01-bbb8-491c-81c5-e5f079dc937c",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2016-12-13T00:00:00.0000000Z",
+    "addedAt": "2021-01-07T09:36:21.010Z"
+  },
+  {
     "id": "9NFKN56ZBMR0",
     "name": "The Long Dark",
     "url": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
@@ -5694,7 +5742,7 @@
     "image": "//store-images.s-microsoft.com/image/apps.64458.70337453596158090.1f04e04c-499f-4af1-a19c-88065bd90479.430927fb-62e4-4fa7-9491-902fc16e6ed5",
     "availability": {
       "console": true,
-      "pc": false
+      "pc": true
     },
     "releaseDate": "2017-07-19T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"

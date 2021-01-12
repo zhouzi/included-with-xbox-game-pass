@@ -5,34 +5,22 @@ import alphaSort from "alpha-sort";
 import random from "random-int";
 import { Game } from "@xgp/types";
 
-import currentGames from "../xgp.community/static/api/games.json";
+import currentGames from "../xgp.community/static/games.json";
 
-const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static", "api");
-const DEPRECATED_OUTPUT_DIR = path.join(__dirname, "..", "gh-pages");
-
-const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
+const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
 (async function scrapGames() {
   const addedAt = new Date().toISOString();
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   const games: Game[] = [];
-  const expectations = {
-    games: 0,
-  };
 
-  await page.goto(XBOX_GAME_PASS_URL);
+  await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
 
   await (async function scrapCurrentPageAndGoNext(): Promise<void> {
     await page.waitForSelector(
       `.gameList [itemtype="http://schema.org/Product"]`
     );
-
-    if (expectations.games <= 0) {
-      expectations.games = await page.$eval(".resultsText", (element) =>
-        Number(element.textContent!.match(/([0-9]+) result/)![1])
-      );
-    }
 
     games.push(
       ...(await page.$$eval(
@@ -67,12 +55,6 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
 
   browser.close();
 
-  if (games.length < expectations.games) {
-    throw new Error(
-      `Scrapping ended with ${games.length} games instead of ${expectations.games}.`
-    );
-  }
-
   games
     .sort(
       (a, b) =>
@@ -93,8 +75,4 @@ const XBOX_GAME_PASS_URL = "https://www.xbox.com/en-US/xbox-game-pass/games";
   await fse.writeJSON(path.join(OUTPUT_DIR, "games.json"), games, {
     spaces: 2,
   });
-  await fse.copyFile(
-    path.join(OUTPUT_DIR, "games.json"),
-    path.join(DEPRECATED_OUTPUT_DIR, "games.json")
-  );
 })();

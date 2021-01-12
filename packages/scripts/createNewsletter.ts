@@ -1,3 +1,4 @@
+import puppeteer from "puppeteer";
 import mjml from "mjml";
 import axios from "axios";
 import path from "path";
@@ -5,8 +6,7 @@ import fse from "fs-extra";
 import { format } from "date-fns";
 import { Game, Post } from "@xgp/types";
 
-import posts from "../xgp.community/static/api/posts.json";
-import games from "../xgp.community/static/api/games.json";
+import games from "../xgp.community/static/games.json";
 
 const OUTPUT_DIR = path.join(
   __dirname,
@@ -48,9 +48,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
   const newGames: Game[] = games.filter(
     (game) => new Date(game.addedAt).getTime() > since.getTime()
   );
-  const newPosts: Post[] = posts.filter(
-    (post) => new Date(post.publishedAt).getTime() > since.getTime()
-  );
+  const newPosts: Post[] = await scrapPosts(since);
   const { html, errors } = mjml(
     `
   <mjml>
@@ -227,3 +225,42 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
 
   await fse.writeFile(path.join(OUTPUT_DIR, "next.html"), html);
 })();
+
+async function scrapPosts(since: Date): Promise<Post[]> {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  const posts: Post[] = [];
+
+  await page.goto("https://news.xbox.com/en-US/xbox-game-pass/");
+
+  await (async function scrapCurrentPageAndGoNext(): Promise<void> {
+    await page.waitForSelector(".media.feed");
+
+    posts.push(
+      ...(await page.$$eval(".media.feed", (elements) =>
+        elements.map((element) => ({
+          url: element.querySelector(".feed__title a")!.getAttribute("href")!,
+          title: element.querySelector(".feed__title")!.textContent!.trim(),
+          publishedAt: element.querySelector("time")!.getAttribute("datetime")!,
+          image: element
+            .querySelector(".media-image img")!
+            .getAttribute("src")!,
+        }))
+      ))
+    );
+
+    const lastPost = posts[posts.length - 1];
+    if (new Date(lastPost.publishedAt).getTime() > since.getTime()) {
+      await page.click(".next.page-numbers");
+      return scrapCurrentPageAndGoNext();
+    }
+  })();
+
+  browser.close();
+
+  const newPosts = posts.filter(
+    (post) => new Date(post.publishedAt).getTime() > since.getTime()
+  );
+
+  return newPosts;
+}

@@ -5,8 +5,6 @@ Browser extension bringing the Xbox Game Pass to Steam.
 - [Add to Chrome](https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk)
 - [Add to Firefox](https://addons.mozilla.org/addon/included-with-xbox-game-pass/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/998c8213-1a89-4e9a-ae3c-d74798ad3e0a/deploy-status)](https://app.netlify.com/sites/xgp/deploys)
-
 ## Installation
 
 Here's how you can get a copy of xgp.community running on your machine:

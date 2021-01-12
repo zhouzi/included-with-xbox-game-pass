@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "scripts": {
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scrapGames.ts",
-    "scrapPosts": "node --unhandled-rejections=strict -r ts-node/register ./scrapPosts.ts",
     "createNewsletter": "node --unhandled-rejections=strict -r ts-node/register ./createNewsletter.ts"
   },
   "dependencies": {

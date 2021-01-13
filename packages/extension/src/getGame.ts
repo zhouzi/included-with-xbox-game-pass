@@ -6,7 +6,7 @@ export default async function getGame(
 ): Promise<CachedGame | null> {
   const games = await getGames();
   const fuse = new Fuse(
-    games.filter((game) => game.availability.pc),
+    games.filter((game) => Boolean(game.availability.pc)),
     {
       keys: ["name"],
       includeScore: true,

@@ -12,10 +12,9 @@ const API_ENDPOINT = new URL("./games.json", API_HOST).href;
 // to use something that is available in the API but not in the cache.
 export interface CachedGame {
   name: string;
-  url: string;
   availability: {
-    console: boolean;
-    pc: boolean;
+    console: string;
+    pc: string;
   };
 }
 

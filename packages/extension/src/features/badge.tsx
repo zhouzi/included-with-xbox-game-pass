@@ -1,6 +1,6 @@
 import React from "dom-chef";
-import { Game } from "@xgp/types";
 import { RouteName } from "../routes";
+import { CachedGame } from "../getGames";
 import getGame from "../getGame";
 
 export function XboxLogo() {
@@ -25,11 +25,14 @@ export function containsBadge(element: HTMLElement): boolean {
   );
 }
 
-export function createBadge(game: Game, style: Record<string, string> = {}) {
+export function createBadge(
+  game: CachedGame,
+  style: Record<string, string> = {}
+) {
   return (
     <a
       data-included-with-xbox-game-pass-badge="true"
-      href={game.url}
+      href={game.availability.pc}
       style={{
         display: "inline-flex",
         alignItems: "center",

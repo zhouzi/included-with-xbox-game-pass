@@ -24,10 +24,10 @@ interface ScrappedGame {
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
 (async function scrapGames() {
-  const addedAt = new Date().toISOString();
+  const updatedAt = new Date().toISOString();
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  const games: Game[] = [];
+  const games: Record<string, Game> = {};
 
   await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
 
@@ -54,23 +54,36 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
         )
     );
 
-    games.push(
-      ...rawGames.map((rawGame) => {
-        const name = cleanName(rawGame.name);
-        const slug = slugify(name, {
-          decamelize: false,
-        });
+    rawGames.forEach((rawGame) => {
+      const name = cleanName(rawGame.name);
+      const slug = slugify(name, {
+        decamelize: false,
+      });
 
-        return {
-          ...rawGame,
-          name,
+      if (games[slug] == null) {
+        games[slug] = {
           slug,
-          addedAt:
-            currentGames.find((otherGame) => otherGame.id === rawGame.id)
-              ?.addedAt ?? addedAt,
+          name,
+          url: rawGame.url,
+          image: rawGame.image,
+          availability: {
+            console: null,
+            pc: null,
+          },
+          updatedAt:
+            currentGames.find((game) => game.slug === slug)?.updatedAt ??
+            updatedAt,
         };
-      })
-    );
+      }
+
+      (Object.entries(rawGame.availability) as Array<
+        [keyof typeof rawGame.availability, boolean]
+      >).forEach(([platform, isAvailable]) => {
+        if (isAvailable) {
+          games[slug].availability[platform] = rawGame.url;
+        }
+      });
+    });
 
     try {
       await page.waitForTimeout(random(500, 2000));
@@ -81,15 +94,15 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
   browser.close();
 
-  games.sort(
-    (a, b) =>
-      alphaSort.caseInsensitiveAscending(a.name, b.name) ||
-      alphaSort.caseInsensitiveAscending(a.id, b.id)
+  await fse.writeJSON(
+    path.join(OUTPUT_DIR, "games.json"),
+    Object.values(games).sort((a, b) =>
+      alphaSort.caseInsensitiveAscending(a.name, b.name)
+    ),
+    {
+      spaces: 2,
+    }
   );
-
-  await fse.writeJSON(path.join(OUTPUT_DIR, "games.json"), games, {
-    spaces: 2,
-  });
 })();
 
 function cleanName(name: string): string {

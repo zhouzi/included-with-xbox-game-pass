@@ -1,13 +1,14 @@
 export interface Game {
-  id: string;
   slug: string;
   name: string;
+
+  // @deprecated use availability instead
   url: string;
+
   image: string;
   availability: {
-    console: boolean;
-    pc: boolean;
+    console: string | null;
+    pc: string | null;
   };
-  releaseDate: string;
-  addedAt: string;
+  updatedAt: string;
 }

@@ -46,7 +46,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
   }
 
   const newGames: Game[] = games.filter(
-    (game) => new Date(game.addedAt).getTime() > since.getTime()
+    (game) => new Date(game.updatedAt).getTime() > since.getTime()
   );
   const newPosts: Post[] = await scrapPosts(since);
   const { html, errors } = mjml(

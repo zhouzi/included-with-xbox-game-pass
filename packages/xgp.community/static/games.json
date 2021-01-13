@@ -1,5 +1,17 @@
 [
   {
+    "id": "9ND0CG3LM22K",
+    "name": "A Plague Tale: Innocence",
+    "url": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
+    "image": "//store-images.s-microsoft.com/image/apps.14356.68306748966338141.e6f96fac-aa67-4f59-9043-10654607aa79.aa73acc4-f944-4ab1-83c3-265506b1529d",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-01-23T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "BQ2NNLQPS8RS",
     "name": "A Plague Tale: Innocence",
     "url": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence/BQ2NNLQPS8RS",
@@ -9,18 +21,6 @@
       "pc": false
     },
     "releaseDate": "2019-05-14T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9ND0CG3LM22K",
-    "name": "A Plague Tale: Innocence - Windows 10",
-    "url": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
-    "image": "//store-images.s-microsoft.com/image/apps.14356.68306748966338141.e6f96fac-aa67-4f59-9043-10654607aa79.aa73acc4-f944-4ab1-83c3-265506b1529d",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-01-23T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -433,7 +433,7 @@
   },
   {
     "id": "9NGWKW55M85P",
-    "name": "Battlefleet Gothic: Armada 2 - Windows 10",
+    "name": "Battlefleet Gothic: Armada 2",
     "url": "https://www.microsoft.com/en-us/store/p/battlefleet-gothic-armada-2---windows-10/9NGWKW55M85P",
     "image": "//store-images.s-microsoft.com/image/apps.38801.13641694681790148.15c21351-8fc4-4bf4-809e-0f28e50117ac.3db1392a-1e18-4b44-9bf4-008b4c5bec04",
     "availability": {
@@ -733,7 +733,7 @@
   },
   {
     "id": "9NWVC7XP3PFD",
-    "name": "Cities: Skylines - Windows 10 Edition",
+    "name": "Cities: Skylines",
     "url": "https://www.microsoft.com/en-us/store/p/cities-skylines---windows-10-edition/9NWVC7XP3PFD",
     "image": "//store-images.s-microsoft.com/image/apps.38447.14442149246756025.e0e6c583-8325-415d-813c-e90e0ab7057a.309e5a51-4e69-41a1-8d19-d19c72140230",
     "availability": {
@@ -745,7 +745,7 @@
   },
   {
     "id": "C4GH8N6ZXG5L",
-    "name": "Cities: Skylines - Xbox One Edition",
+    "name": "Cities: Skylines",
     "url": "https://www.microsoft.com/en-us/store/p/cities-skylines---xbox-one-edition/C4GH8N6ZXG5L",
     "image": "//store-images.s-microsoft.com/image/apps.7220.66617542682682743.811213f2-2c45-4145-973d-fe3e3774b196.96b48a30-7ed1-4bc9-8f8b-b114375b2e1c",
     "availability": {
@@ -1021,7 +1021,7 @@
   },
   {
     "id": "9NMS4SFNBGBH",
-    "name": "Dead by Daylight Windows",
+    "name": "Dead by Daylight",
     "url": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH",
     "image": "//store-images.s-microsoft.com/image/apps.29828.13756572830160292.211b496e-17ac-4e8e-b084-ee153cf2c539.563d8dd9-6cc7-41f5-9478-7a17e090e443",
     "availability": {
@@ -1321,7 +1321,7 @@
   },
   {
     "id": "9PK09BL31FK1",
-    "name": "DOOM Eternal Standard Edition (PC)",
+    "name": "DOOM Eternal Standard Edition",
     "url": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
     "image": "//store-images.s-microsoft.com/image/apps.33238.64234556958324114.f920cec9-b4fb-47f4-bbac-667ed8bb82e6.3abee797-aba0-4c66-8be7-3fc9074dd446",
     "availability": {
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "9PHQJWGLTZM8",
-    "name": "Europa Universalis IV - Microsoft Store Edition",
+    "name": "Europa Universalis IV",
     "url": "https://www.microsoft.com/en-us/store/p/europa-universalis-iv---microsoft-store-edition/9PHQJWGLTZM8",
     "image": "//store-images.s-microsoft.com/image/apps.38844.14230990333691497.fa0053d9-3747-4586-8466-82129e3a9083.3aadd188-255c-4d2e-880f-f7006783d7af",
     "availability": {
@@ -1629,6 +1629,18 @@
       "pc": true
     },
     "releaseDate": "2019-12-04T14:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "9NL9VGSH00LL",
+    "name": "F1® 2019",
+    "url": "https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL",
+    "image": "//store-images.s-microsoft.com/image/apps.36580.13715562636919545.416f8889-eabe-46de-9d0b-860c99ef7789.98e13425-8f29-443a-b719-f51e70ec5e1f",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-07-30T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1641,18 +1653,6 @@
       "pc": false
     },
     "releaseDate": "2019-08-20T04:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NL9VGSH00LL",
-    "name": "F1® 2019 PC",
-    "url": "https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL",
-    "image": "//store-images.s-microsoft.com/image/apps.36580.13715562636919545.416f8889-eabe-46de-9d0b-860c99ef7789.98e13425-8f29-443a-b719-f51e70ec5e1f",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-07-30T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1692,6 +1692,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NKGNMNK3K3Z",
+    "name": "Fallout 76",
+    "url": "https://www.microsoft.com/en-us/store/p/fallout-76---pc/9NKGNMNK3K3Z",
+    "image": "//store-images.s-microsoft.com/image/apps.18492.70143269474194625.be3cf828-9ca8-430f-9714-9bcc590c48fc.a8c35893-36ab-4f8f-a945-3e1be9ff794a",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-07-09T14:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "BS6WJ2L56B10",
     "name": "Fallout 76",
     "url": "https://www.microsoft.com/en-us/store/p/fallout-76/BS6WJ2L56B10",
@@ -1701,18 +1713,6 @@
       "pc": false
     },
     "releaseDate": "2018-11-14T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NKGNMNK3K3Z",
-    "name": "Fallout 76 - PC",
-    "url": "https://www.microsoft.com/en-us/store/p/fallout-76---pc/9NKGNMNK3K3Z",
-    "image": "//store-images.s-microsoft.com/image/apps.18492.70143269474194625.be3cf828-9ca8-430f-9714-9bcc590c48fc.a8c35893-36ab-4f8f-a945-3e1be9ff794a",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-07-09T14:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1824,6 +1824,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9PN0W216SKZB",
+    "name": "FINAL FANTASY VII",
+    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
+    "image": "//store-images.s-microsoft.com/image/apps.60784.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.80615048-4a58-4378-a5fe-e462ae70759e",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-08-13T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "BWKXQC5BL5R1",
     "name": "FINAL FANTASY VII",
     "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii/BWKXQC5BL5R1",
@@ -1833,18 +1845,6 @@
       "pc": false
     },
     "releaseDate": "2019-03-26T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PN0W216SKZB",
-    "name": "FINAL FANTASY VII WINDOWS EDITION",
-    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
-    "image": "//store-images.s-microsoft.com/image/apps.60784.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.80615048-4a58-4378-a5fe-e462ae70759e",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-08-13T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1861,7 +1861,7 @@
   },
   {
     "id": "9P35DPLN1JCN",
-    "name": "FINAL FANTASY VIII Remastered WINDOWS EDITION",
+    "name": "FINAL FANTASY VIII Remastered",
     "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
     "image": "//store-images.s-microsoft.com/image/apps.26766.13731709347870779.c180b56b-3179-4d7e-83fd-6e902f537105.16755c05-a40c-4e30-b2a9-6637a25a5d42",
     "availability": {
@@ -1870,6 +1870,18 @@
     },
     "releaseDate": "2020-11-12T00:00:00.0000000Z",
     "addedAt": "2020-11-12T09:31:46.103Z"
+  },
+  {
+    "id": "9NR0N2LZ6TC5",
+    "name": "FINAL FANTASY XV",
+    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-xv-windows-edition/9NR0N2LZ6TC5",
+    "image": "//store-images.s-microsoft.com/image/apps.18571.13763931230652276.7dfcb2da-9be1-4ea7-ace5-d5adae985a69.68d3861d-4f6d-418e-8feb-1dc1d797d2c5",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2018-03-06T17:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "id": "BNMRPFLB3PQW",
@@ -1881,18 +1893,6 @@
       "pc": false
     },
     "releaseDate": "2018-03-06T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NR0N2LZ6TC5",
-    "name": "FINAL FANTASY XV WINDOWS EDITION",
-    "url": "https://www.microsoft.com/en-us/store/p/final-fantasy-xv-windows-edition/9NR0N2LZ6TC5",
-    "image": "//store-images.s-microsoft.com/image/apps.18571.13763931230652276.7dfcb2da-9be1-4ea7-ace5-d5adae985a69.68d3861d-4f6d-418e-8feb-1dc1d797d2c5",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2018-03-06T17:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2064,6 +2064,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NP539LHJD8S",
+    "name": "Frostpunk",
+    "url": "https://www.microsoft.com/en-us/store/p/frostpunk-console-edition/9NP539LHJD8S",
+    "image": "//store-images.s-microsoft.com/image/apps.60016.13729671074412623.f72f7df4-e873-4e52-a4dc-651d0b3e8b0f.cc8acfbd-41d0-4e59-a807-5140924e9378",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2019-10-11T14:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "9NS0KH25D76X",
     "name": "Frostpunk",
     "url": "https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X",
@@ -2073,18 +2085,6 @@
       "pc": true
     },
     "releaseDate": "2018-04-24T14:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NP539LHJD8S",
-    "name": "Frostpunk: Console Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/frostpunk-console-edition/9NP539LHJD8S",
-    "image": "//store-images.s-microsoft.com/image/apps.60016.13729671074412623.f72f7df4-e873-4e52-a4dc-651d0b3e8b0f.cc8acfbd-41d0-4e59-a807-5140924e9378",
-    "availability": {
-      "console": true,
-      "pc": false
-    },
-    "releaseDate": "2019-10-11T14:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2245,7 +2245,7 @@
   },
   {
     "id": "9NBLGGH3SHM5",
-    "name": "Gears of War: Ultimate Edition for Windows 10",
+    "name": "Gears of War: Ultimate Edition for",
     "url": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
     "image": "//store-images.s-microsoft.com/image/apps.2678.13510798884671596.04227bb2-4efd-4b7d-9781-e52626ebb47f.6187888f-814a-4442-bb7b-859746425162",
     "availability": {
@@ -2268,6 +2268,18 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "id": "9MXWKHJ3VZZH",
+    "name": "Goat Simulator",
+    "url": "https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH",
+    "image": "//store-images.s-microsoft.com/image/apps.57187.13882037073203566.da1afb62-bb11-43df-b6aa-9b0deb8f35d9.9dc5c212-78c7-439e-abe0-53a972b77cda",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2018-10-25T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "BV0NM309K1TL",
     "name": "Goat Simulator",
     "url": "https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL",
@@ -2277,18 +2289,6 @@
       "pc": false
     },
     "releaseDate": "2015-04-17T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9MXWKHJ3VZZH",
-    "name": "Goat Simulator Windows 10",
-    "url": "https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH",
-    "image": "//store-images.s-microsoft.com/image/apps.57187.13882037073203566.da1afb62-bb11-43df-b6aa-9b0deb8f35d9.9dc5c212-78c7-439e-abe0-53a972b77cda",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2018-10-25T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2329,7 +2329,7 @@
   },
   {
     "id": "9P44W70MC99Z",
-    "name": "GONNER2 WIN10",
+    "name": "GONNER2",
     "url": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
     "image": "//store-images.s-microsoft.com/image/apps.24980.14373853701406965.3950f607-624d-4a2c-a2ce-e4875c8a18a1.f3a8517d-0671-41c2-a9b4-1b681cbff836",
     "availability": {
@@ -2338,6 +2338,18 @@
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
     "addedAt": "2020-10-22T14:19:36.679Z"
+  },
+  {
+    "id": "9PB79JST8PDH",
+    "name": "GreedFall",
+    "url": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
+    "image": "//store-images.s-microsoft.com/image/apps.4031.71572041439194678.5d05371d-9189-4603-8b72-d531bae40af1.381ad754-ba88-44f8-ad34-6d05ada7e873",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-10T00:00:00.0000000Z",
+    "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
     "id": "BWMH4RQ4Q06F",
@@ -2349,18 +2361,6 @@
       "pc": false
     },
     "releaseDate": "2019-09-10T04:00:00.0000000Z",
-    "addedAt": "2020-12-10T09:19:57.314Z"
-  },
-  {
-    "id": "9PB79JST8PDH",
-    "name": "GreedFall - Windows 10",
-    "url": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
-    "image": "//store-images.s-microsoft.com/image/apps.4031.71572041439194678.5d05371d-9189-4603-8b72-d531bae40af1.381ad754-ba88-44f8-ad34-6d05ada7e873",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-12-10T00:00:00.0000000Z",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -2508,6 +2508,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NBLGGH5WLR0",
+    "name": "Halo Wars: Definitive Edition",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition-pc/9NBLGGH5WLR0",
+    "image": "//store-images.s-microsoft.com/image/apps.54072.13510798886375925.a3c39459-7c74-42c8-97c9-13df3fdc58ac.10fbc36f-0f9c-4191-9977-093f1ed47e2f",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2017-04-20T17:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "BPRPQSKXTD1L",
     "name": "Halo Wars: Definitive Edition",
     "url": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition/BPRPQSKXTD1L",
@@ -2517,18 +2529,6 @@
       "pc": false
     },
     "releaseDate": "2016-12-20T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NBLGGH5WLR0",
-    "name": "Halo Wars: Definitive Edition (PC)",
-    "url": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition-pc/9NBLGGH5WLR0",
-    "image": "//store-images.s-microsoft.com/image/apps.54072.13510798886375925.a3c39459-7c74-42c8-97c9-13df3fdc58ac.10fbc36f-0f9c-4191-9977-093f1ed47e2f",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2017-04-20T17:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2940,6 +2940,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NXP19FZ7DZ4",
+    "name": "Katana Zero",
+    "url": "https://www.microsoft.com/en-us/store/p/katana-zero-xb1/9NXP19FZ7DZ4",
+    "image": "//store-images.s-microsoft.com/image/apps.53278.14491865226006965.067ae062-d843-41dc-a177-a15f095c56ed.e02928f8-a038-4d5c-8453-e1be018b3a87",
+    "availability": {
+      "console": true,
+      "pc": false
+    },
+    "releaseDate": "2020-10-15T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "9P6CVNVMK56R",
     "name": "Katana Zero",
     "url": "https://www.microsoft.com/en-us/store/p/katana-zero/9P6CVNVMK56R",
@@ -2947,18 +2959,6 @@
     "availability": {
       "console": false,
       "pc": true
-    },
-    "releaseDate": "2020-10-15T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NXP19FZ7DZ4",
-    "name": "Katana Zero XB1",
-    "url": "https://www.microsoft.com/en-us/store/p/katana-zero-xb1/9NXP19FZ7DZ4",
-    "image": "//store-images.s-microsoft.com/image/apps.53278.14491865226006965.067ae062-d843-41dc-a177-a15f095c56ed.e02928f8-a038-4d5c-8453-e1be018b3a87",
-    "availability": {
-      "console": true,
-      "pc": false
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
@@ -3325,7 +3325,7 @@
   },
   {
     "id": "9P8MK4NC0LJB",
-    "name": "Minecraft Dungeons - Windows 10",
+    "name": "Minecraft Dungeons",
     "url": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
     "image": "//store-images.s-microsoft.com/image/apps.2957.14089602043039621.efe46bfe-4de2-4879-a22b-f3b08650221c.dbf4f170-baf6-45ca-a7d8-6fadaba1e8b1",
     "availability": {
@@ -3480,6 +3480,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9N88HSBP6RJ8",
+    "name": "MotoGP™20",
+    "url": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
+    "image": "//store-images.s-microsoft.com/image/apps.48964.14282482603081127.c4d52cdd-54c3-4c5a-a125-98e300817fa7.1f2b59f5-250c-4ac6-8f3f-3278f9453ca4",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "9PJGNFWR6MHL",
     "name": "MotoGP™20",
     "url": "https://www.microsoft.com/en-us/store/p/motogp20/9PJGNFWR6MHL",
@@ -3492,16 +3504,16 @@
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
-    "id": "9N88HSBP6RJ8",
-    "name": "MotoGP™20 - Windows Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
-    "image": "//store-images.s-microsoft.com/image/apps.48964.14282482603081127.c4d52cdd-54c3-4c5a-a125-98e300817fa7.1f2b59f5-250c-4ac6-8f3f-3278f9453ca4",
+    "id": "9PFZC53PVTDB",
+    "name": "Mount & Blade: Warband",
+    "url": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
+    "image": "//store-images.s-microsoft.com/image/apps.54445.14195520622051409.1c03fe4f-71c7-458d-8a1a-b32f73146747.5f44e877-99c7-46e2-b073-f478fee3474d",
     "availability": {
       "console": false,
       "pc": true
     },
-    "releaseDate": "2020-12-17T00:00:00.0000000Z",
-    "addedAt": "2020-12-17T09:20:43.814Z"
+    "releaseDate": "2020-11-19T00:00:00.0000000Z",
+    "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
     "id": "BQXN1S3V3FN9",
@@ -3514,18 +3526,6 @@
     },
     "releaseDate": "2016-09-16T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PFZC53PVTDB",
-    "name": "Mount & Blade: Warband PC",
-    "url": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
-    "image": "//store-images.s-microsoft.com/image/apps.54445.14195520622051409.1c03fe4f-71c7-458d-8a1a-b32f73146747.5f44e877-99c7-46e2-b073-f478fee3474d",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-11-19T00:00:00.0000000Z",
-    "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
     "id": "9N9H593X8SVP",
@@ -3552,6 +3552,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NMH293554QQ",
+    "name": "My Friend Pedro",
+    "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
+    "image": "//store-images.s-microsoft.com/image/apps.40255.13688074046071077.6938c4a2-fd96-488f-af50-150fa03c98ef.4679ed83-05e2-4466-8fb3-6a72f2272cd8",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2019-12-05T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "9P16M6LF0QFH",
     "name": "My Friend Pedro",
     "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
@@ -3559,18 +3571,6 @@
     "availability": {
       "console": true,
       "pc": false
-    },
-    "releaseDate": "2019-12-05T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NMH293554QQ",
-    "name": "My Friend Pedro Win10",
-    "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
-    "image": "//store-images.s-microsoft.com/image/apps.40255.13688074046071077.6938c4a2-fd96-488f-af50-150fa03c98ef.4679ed83-05e2-4466-8fb3-6a72f2272cd8",
-    "availability": {
-      "console": false,
-      "pc": true
     },
     "releaseDate": "2019-12-05T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
@@ -3780,6 +3780,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9MV13BTTCKLL",
+    "name": "Night in the Woods",
+    "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
+    "image": "//store-images.s-microsoft.com/image/apps.27228.13797792345674221.588f882c-6432-4b79-b1d2-b4962d6094ac.b7af6c1d-37a7-4b34-bf96-dbb60c1a2d18",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-09-24T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "C501VQFW8FQG",
     "name": "Night in the Woods",
     "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods/C501VQFW8FQG",
@@ -3789,18 +3801,6 @@
       "pc": false
     },
     "releaseDate": "2017-12-13T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9MV13BTTCKLL",
-    "name": "Night in the Woods Win10",
-    "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
-    "image": "//store-images.s-microsoft.com/image/apps.27228.13797792345674221.588f882c-6432-4b79-b1d2-b4962d6094ac.b7af6c1d-37a7-4b34-bf96-dbb60c1a2d18",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-09-24T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4056,6 +4056,18 @@
     "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
+    "id": "9N8QNKN5ZKTH",
+    "name": "Pikuniku",
+    "url": "https://www.microsoft.com/en-us/store/p/pikuniku-win10/9N8QNKN5ZKTH",
+    "image": "//store-images.s-microsoft.com/image/apps.18298.14040057051006478.559ccbd3-80f4-43db-8dec-9a0a77d6902a.ff73072d-d103-4d81-b473-7553c9ac92c7",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-03-12T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "9N8WRDC25K6J",
     "name": "Pikuniku",
     "url": "https://www.microsoft.com/en-us/store/p/pikuniku/9N8WRDC25K6J",
@@ -4063,18 +4075,6 @@
     "availability": {
       "console": true,
       "pc": false
-    },
-    "releaseDate": "2020-03-12T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9N8QNKN5ZKTH",
-    "name": "Pikuniku Win10",
-    "url": "https://www.microsoft.com/en-us/store/p/pikuniku-win10/9N8QNKN5ZKTH",
-    "image": "//store-images.s-microsoft.com/image/apps.18298.14040057051006478.559ccbd3-80f4-43db-8dec-9a0a77d6902a.ff73072d-d103-4d81-b473-7553c9ac92c7",
-    "availability": {
-      "console": false,
-      "pc": true
     },
     "releaseDate": "2020-03-12T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
@@ -4105,7 +4105,7 @@
   },
   {
     "id": "9NGRX7L5NB6M",
-    "name": "Planet Coaster: Console Edition",
+    "name": "Planet Coaster",
     "url": "https://www.microsoft.com/en-us/store/p/planet-coaster-console-edition/9NGRX7L5NB6M",
     "image": "//store-images.s-microsoft.com/image/apps.49051.13639867550980984.425f3079-8475-4a0b-b4c9-6cc9048ee988.8094870c-e7b7-4b11-a0a4-a10535c1c00e",
     "availability": {
@@ -4212,6 +4212,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9P2J7WHV0K4N",
+    "name": "RAGE 2",
+    "url": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
+    "image": "//store-images.s-microsoft.com/image/apps.35410.65377716030309997.4ce8fd57-e617-46e7-9d4f-e8b49f4d07ef.df98cfd9-7020-4aca-8705-7addaccf3c2c",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2019-11-14T21:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "C2DCJ95ZXBMS",
     "name": "RAGE 2",
     "url": "https://www.xbox.com/en-us/games/rage-2",
@@ -4221,18 +4233,6 @@
       "pc": false
     },
     "releaseDate": "2019-05-14T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9P2J7WHV0K4N",
-    "name": "RAGE 2 (PC)",
-    "url": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
-    "image": "//store-images.s-microsoft.com/image/apps.35410.65377716030309997.4ce8fd57-e617-46e7-9d4f-e8b49f4d07ef.df98cfd9-7020-4aca-8705-7addaccf3c2c",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2019-11-14T21:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4693,7 +4693,7 @@
   },
   {
     "id": "BWL72GR7Z7GK",
-    "name": "Stellaris: Console Edition",
+    "name": "Stellaris",
     "url": "https://www.microsoft.com/en-us/store/p/stellaris-console-edition/BWL72GR7Z7GK",
     "image": "//store-images.s-microsoft.com/image/apps.54009.71592693192229022.95f29c62-8ab9-4865-a362-219a5bf8c0d3.b7ea4d54-6fdd-42f7-9c46-57cd14808dd8",
     "availability": {
@@ -5172,6 +5172,18 @@
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "id": "9NLDM4DGX41G",
+    "name": "The Surge 2",
+    "url": "https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G",
+    "image": "//store-images.s-microsoft.com/image/apps.44057.70012318168468878.5eebf938-97f1-4542-82e0-499e9e44e737.cb78a565-8129-4ad1-bb1e-0e9d2210570f",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-03-19T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "BSWTLFKMV96K",
     "name": "The Surge 2",
     "url": "https://www.microsoft.com/en-us/store/p/the-surge-2/BSWTLFKMV96K",
@@ -5181,18 +5193,6 @@
       "pc": false
     },
     "releaseDate": "2019-09-24T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9NLDM4DGX41G",
-    "name": "The Surge 2 - Windows 10",
-    "url": "https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G",
-    "image": "//store-images.s-microsoft.com/image/apps.44057.70012318168468878.5eebf938-97f1-4542-82e0-499e9e44e737.cb78a565-8129-4ad1-bb1e-0e9d2210570f",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-03-19T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5533,7 +5533,7 @@
   },
   {
     "id": "9P3SS6K8ZQ57",
-    "name": "Unruly Heroes Windows 10",
+    "name": "Unruly Heroes",
     "url": "https://www.microsoft.com/en-us/store/p/unruly-heroes-windows-10/9P3SS6K8ZQ57",
     "image": "//store-images.s-microsoft.com/image/apps.6150.14531718481393930.3b7811c4-9ab2-4f4f-95dd-79336bf7ccbf.36bc4c00-08e0-47f5-a44b-e187e4990991",
     "availability": {
@@ -5665,7 +5665,7 @@
   },
   {
     "id": "9NLT5XR52ZS7",
-    "name": "Wasteland 3 (PC)",
+    "name": "Wasteland 3",
     "url": "https://www.microsoft.com/en-us/store/p/wasteland-3-pc/9NLT5XR52ZS7",
     "image": "//store-images.s-microsoft.com/image/apps.54134.13700876625277388.8e8fb436-9b3b-4256-a65f-36b842163d85.05c76123-742b-47cf-a219-76de346b4ef5",
     "availability": {
@@ -5677,7 +5677,7 @@
   },
   {
     "id": "BQ9T0JF0D3L4",
-    "name": "Wasteland 3 (Xbox One)",
+    "name": "Wasteland 3",
     "url": "https://www.microsoft.com/en-us/store/p/wasteland-3-xbox-one/BQ9T0JF0D3L4",
     "image": "//store-images.s-microsoft.com/image/apps.54134.69010346493633739.074410cb-38ab-4f48-b6fe-0ffa69c89fa9.5e0b834f-57d5-42d6-9b07-c8d7bf92038a",
     "availability": {
@@ -5760,6 +5760,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9NCHVR5KH0RN",
+    "name": "Wilmot's Warehouse",
+    "url": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN",
+    "image": "//store-images.s-microsoft.com/image/apps.28816.13567961383990681.4e6075ce-2b2a-4db1-83f9-2558b5f90381.3315b8be-f7d0-48d3-8e4f-4484120a2ad4",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "addedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
     "id": "9NLKJK4M1VQK",
     "name": "Wilmot's Warehouse",
     "url": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse/9NLKJK4M1VQK",
@@ -5767,18 +5779,6 @@
     "availability": {
       "console": true,
       "pc": false
-    },
-    "releaseDate": "2020-12-17T00:00:00.0000000Z",
-    "addedAt": "2020-12-17T09:20:43.814Z"
-  },
-  {
-    "id": "9NCHVR5KH0RN",
-    "name": "Wilmot's Warehouse Win10",
-    "url": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN",
-    "image": "//store-images.s-microsoft.com/image/apps.28816.13567961383990681.4e6075ce-2b2a-4db1-83f9-2558b5f90381.3315b8be-f7d0-48d3-8e4f-4484120a2ad4",
-    "availability": {
-      "console": false,
-      "pc": true
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
     "addedAt": "2020-12-17T09:20:43.814Z"
@@ -5808,6 +5808,18 @@
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "id": "9PHFTS44F99K",
+    "name": "Wolfenstein: Youngblood",
+    "url": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
+    "image": "//store-images.s-microsoft.com/image/apps.34137.66937225626631404.377c6044-13d5-4b96-8957-5b00b3f14438.f8baaf3d-eb53-4355-bd39-515e6bc0d279",
+    "availability": {
+      "console": false,
+      "pc": true
+    },
+    "releaseDate": "2020-02-06T00:00:00.0000000Z",
+    "addedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
     "id": "C421ZX7RCG0W",
     "name": "Wolfenstein: Youngblood",
     "url": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood/C421ZX7RCG0W",
@@ -5817,18 +5829,6 @@
       "pc": false
     },
     "releaseDate": "2019-07-26T00:00:00.0000000Z",
-    "addedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "9PHFTS44F99K",
-    "name": "Wolfenstein: Youngblood (PC)",
-    "url": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
-    "image": "//store-images.s-microsoft.com/image/apps.34137.66937225626631404.377c6044-13d5-4b96-8957-5b00b3f14438.f8baaf3d-eb53-4355-bd39-515e6bc0d279",
-    "availability": {
-      "console": false,
-      "pc": true
-    },
-    "releaseDate": "2020-02-06T00:00:00.0000000Z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5917,7 +5917,7 @@
   },
   {
     "id": "9PD0BJRBLRJM",
-    "name": "Yakuza 0 for Windows 10",
+    "name": "Yakuza 0 for",
     "url": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
     "image": "//store-images.s-microsoft.com/image/apps.39148.14163943905070744.0448a0ad-df57-4343-bd68-4383f0e00abd.c900e907-f923-4304-9ab6-012943740bd6",
     "availability": {
@@ -5953,7 +5953,7 @@
   },
   {
     "id": "9MZNFNN3XJ3F",
-    "name": "Yakuza Kiwami 2 for Windows 10",
+    "name": "Yakuza Kiwami 2 for",
     "url": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
     "image": "//store-images.s-microsoft.com/image/apps.61649.13871188202855056.7357988b-ca9f-46c3-93d0-c3f2d924f6b3.6c541963-8509-4b22-888c-c1092c131844",
     "availability": {
@@ -5965,7 +5965,7 @@
   },
   {
     "id": "9P40SC5DQ9K0",
-    "name": "Yakuza Kiwami for Windows 10",
+    "name": "Yakuza Kiwami for",
     "url": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
     "image": "//store-images.s-microsoft.com/image/apps.1755.14598456430785461.91448404-9afb-4719-8755-cc83d023ef73.8eab2a38-4850-4376-8161-97e25d4dea5d",
     "availability": {

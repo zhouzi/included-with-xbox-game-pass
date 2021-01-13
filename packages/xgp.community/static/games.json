@@ -9,6 +9,7 @@
       "pc": true
     },
     "releaseDate": "2020-01-23T00:00:00.0000000Z",
+    "slug": "a-plague-tale-innocence",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -21,6 +22,7 @@
       "pc": false
     },
     "releaseDate": "2019-05-14T00:00:00.0000000Z",
+    "slug": "a-plague-tale-innocence",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -33,6 +35,7 @@
       "pc": false
     },
     "releaseDate": "2018-03-23T00:00:00.0000000Z",
+    "slug": "a-way-out",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -45,6 +48,7 @@
       "pc": false
     },
     "releaseDate": "2019-01-18T00:00:00.0000000Z",
+    "slug": "ace-combat-7-skies-unknown",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -57,6 +61,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-19T15:00:00.0000000Z",
+    "slug": "age-of-empires-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -69,6 +74,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-14T16:00:00.0000000Z",
+    "slug": "age-of-empires-ii-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -81,6 +87,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-15T13:00:00.0000000Z",
+    "slug": "age-of-empires-iii-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -93,6 +100,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-21T01:00:00.0000000Z",
+    "slug": "alan-wake",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -105,6 +113,7 @@
       "pc": false
     },
     "releaseDate": "2010-05-18T00:00:00.0000000Z",
+    "slug": "alan-wake",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -117,6 +126,7 @@
       "pc": false
     },
     "releaseDate": "2011-06-14T00:00:00.0000000Z",
+    "slug": "alice-madness-returns",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -129,6 +139,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-09T04:00:00.0000000Z",
+    "slug": "alien-isolation",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -141,6 +152,7 @@
       "pc": false
     },
     "releaseDate": "2014-10-07T00:00:00.0000000Z",
+    "slug": "alien-isolation",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -153,6 +165,7 @@
       "pc": true
     },
     "releaseDate": "2019-01-18T00:00:00.0000000Z",
+    "slug": "alvastia-chronicles",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -165,6 +178,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "among-us",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -177,6 +191,7 @@
       "pc": false
     },
     "releaseDate": "2019-02-22T00:00:00.0000000Z",
+    "slug": "anthem",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -189,6 +204,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-22T00:00:00.0000000Z",
+    "slug": "ape-out",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -201,6 +217,7 @@
       "pc": true
     },
     "releaseDate": "2017-12-14T00:00:00.0000000Z",
+    "slug": "ark-survival-evolved-explorer-s-edition",
     "addedAt": "2020-11-17T09:14:56.670Z"
   },
   {
@@ -213,6 +230,7 @@
       "pc": false
     },
     "releaseDate": "2017-10-04T00:00:00.0000000Z",
+    "slug": "ark-survival-evolved-explorer-s-edition",
     "addedAt": "2020-11-17T09:14:56.670Z"
   },
   {
@@ -225,6 +243,7 @@
       "pc": false
     },
     "releaseDate": "2009-12-30T00:00:00.0000000Z",
+    "slug": "army-of-two",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -237,6 +256,7 @@
       "pc": false
     },
     "releaseDate": "2016-08-30T00:00:00.0000000Z",
+    "slug": "assetto-corsa",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -249,6 +269,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-26T09:00:00.0000000Z",
+    "slug": "astrologaster",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -261,6 +282,7 @@
       "pc": true
     },
     "releaseDate": "2019-02-06T00:00:00.0000000Z",
+    "slug": "astroneer",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -273,6 +295,7 @@
       "pc": false
     },
     "releaseDate": "2010-08-03T00:00:00.0000000Z",
+    "slug": "banjo-kazooie-n-n-b",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -285,6 +308,7 @@
       "pc": false
     },
     "releaseDate": "2010-01-11T00:00:00.0000000Z",
+    "slug": "banjo-kazooie",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -297,6 +321,7 @@
       "pc": false
     },
     "releaseDate": "2010-06-23T00:00:00.0000000Z",
+    "slug": "banjo-tooie",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -309,6 +334,7 @@
       "pc": false
     },
     "releaseDate": "2015-06-23T00:00:00.0000000Z",
+    "slug": "batman-arkham-knight",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -321,6 +347,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "battle-chasers-nightwar",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -333,6 +360,7 @@
       "pc": false
     },
     "releaseDate": "2017-10-03T00:00:00.0000000Z",
+    "slug": "battle-chasers-nightwar",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -345,6 +373,7 @@
       "pc": false
     },
     "releaseDate": "2010-06-14T00:00:00.0000000Z",
+    "slug": "battlefield-1943",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -357,6 +386,7 @@
       "pc": false
     },
     "releaseDate": "2011-11-01T00:00:00.0000000Z",
+    "slug": "battlefield-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -369,6 +399,7 @@
       "pc": false
     },
     "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "slug": "battlefield-4",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -381,6 +412,7 @@
       "pc": false
     },
     "releaseDate": "2010-03-02T00:00:00.0000000Z",
+    "slug": "battlefield-bad-company-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -393,6 +425,7 @@
       "pc": false
     },
     "releaseDate": "2010-02-18T00:00:00.0000000Z",
+    "slug": "battlefield-bad-company",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -405,6 +438,7 @@
       "pc": false
     },
     "releaseDate": "2016-10-21T00:00:00.0000000Z",
+    "slug": "battlefield-1",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -417,6 +451,7 @@
       "pc": false
     },
     "releaseDate": "2015-03-17T00:00:00.0000000Z",
+    "slug": "battlefield-hardline",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -429,6 +464,7 @@
       "pc": false
     },
     "releaseDate": "2018-11-20T00:00:00.0000000Z",
+    "slug": "battlefield-v",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -441,6 +477,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-11T00:00:00.0000000Z",
+    "slug": "battlefleet-gothic-armada-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -453,6 +490,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-11T00:00:00.0000000Z",
+    "slug": "battletech",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -465,6 +503,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-20T00:00:00.0000000Z",
+    "slug": "battletoads",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -477,6 +516,7 @@
       "pc": false
     },
     "releaseDate": "2018-02-02T00:00:00.0000000Z",
+    "slug": "beholder-complete-edition",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -489,6 +529,7 @@
       "pc": false
     },
     "releaseDate": "2005-11-22T00:00:00.0000000Z",
+    "slug": "bejeweled-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -501,6 +542,7 @@
       "pc": false
     },
     "releaseDate": "2011-10-19T00:00:00.0000000Z",
+    "slug": "bejeweled-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -513,6 +555,7 @@
       "pc": false
     },
     "releaseDate": "2019-03-04T00:00:00.0000000Z",
+    "slug": "black-desert",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -525,6 +568,7 @@
       "pc": false
     },
     "releaseDate": "2008-04-07T00:00:00.0000000Z",
+    "slug": "black",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -537,6 +581,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-30T16:00:00.0000000Z",
+    "slug": "blair-witch",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -549,6 +594,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-24T07:00:00.0000000Z",
+    "slug": "bleeding-edge",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -561,6 +607,7 @@
       "pc": true
     },
     "releaseDate": "2019-09-19T13:00:00.0000000Z",
+    "slug": "bloodstained-ritual-of-the-night",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -573,6 +620,7 @@
       "pc": false
     },
     "releaseDate": "2019-06-18T04:00:00.0000000Z",
+    "slug": "bloodstained-ritual-of-the-night",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -585,6 +633,7 @@
       "pc": true
     },
     "releaseDate": "2018-10-18T00:00:00.0000000Z",
+    "slug": "bridge-constructor-portal",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -597,6 +646,7 @@
       "pc": false
     },
     "releaseDate": "2018-02-28T00:00:00.0000000Z",
+    "slug": "bridge-constructor-portal",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -609,6 +659,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "broforce",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -621,6 +672,7 @@
       "pc": false
     },
     "releaseDate": "2009-12-15T00:00:00.0000000Z",
+    "slug": "bruetal-legend",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -633,6 +685,7 @@
       "pc": false
     },
     "releaseDate": "2018-03-16T00:00:00.0000000Z",
+    "slug": "burnout-paradise-remastered",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -645,6 +698,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-08T00:00:00.0000000Z",
+    "slug": "call-of-the-sea",
     "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
@@ -657,6 +711,7 @@
       "pc": false
     },
     "releaseDate": "2020-12-08T00:00:00.0000000Z",
+    "slug": "call-of-the-sea",
     "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
@@ -669,6 +724,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-23T00:00:00.0000000Z",
+    "slug": "carrion",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -681,6 +737,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-23T00:00:00.0000000Z",
+    "slug": "carrion",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -693,6 +750,7 @@
       "pc": false
     },
     "releaseDate": "2020-10-27T00:00:00.0000000Z",
+    "slug": "carto",
     "addedAt": "2020-10-27T14:20:06.737Z"
   },
   {
@@ -705,6 +763,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-27T00:00:00.0000000Z",
+    "slug": "carto",
     "addedAt": "2020-10-28T14:20:59.875Z"
   },
   {
@@ -717,6 +776,7 @@
       "pc": true
     },
     "releaseDate": "2018-01-26T00:00:00.0000000Z",
+    "slug": "celeste",
     "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
@@ -729,6 +789,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-15T14:00:00.0000000Z",
+    "slug": "children-of-morta",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -741,6 +802,7 @@
       "pc": true
     },
     "releaseDate": "2017-05-19T00:00:00.0000000Z",
+    "slug": "cities-skylines",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -753,6 +815,7 @@
       "pc": false
     },
     "releaseDate": "2017-04-21T00:00:00.0000000Z",
+    "slug": "cities-skylines",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -765,6 +828,7 @@
       "pc": false
     },
     "releaseDate": "2016-10-28T00:00:00.0000000Z",
+    "slug": "clustertruck",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -777,6 +841,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "clustertruck",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -789,6 +854,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-27T00:00:00.0000000Z",
+    "slug": "code-vein",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -801,6 +867,7 @@
       "pc": true
     },
     "releaseDate": "2799-01-01T00:00:00.0000000Z",
+    "slug": "comanche-game-preview",
     "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
@@ -813,6 +880,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-17T00:00:00.0000000Z",
+    "slug": "company-of-heroes-2-complete-collection",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -825,6 +893,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-27T00:00:00.0000000Z",
+    "slug": "control",
     "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
@@ -837,6 +906,7 @@
       "pc": false
     },
     "releaseDate": "2014-10-29T00:00:00.0000000Z",
+    "slug": "costume-quest-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -849,6 +919,7 @@
       "pc": true
     },
     "releaseDate": "2019-02-15T05:00:00.0000000Z",
+    "slug": "crackdown-3",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -861,6 +932,7 @@
       "pc": false
     },
     "releaseDate": "2019-05-28T04:00:00.0000000Z",
+    "slug": "cricket-19",
     "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
@@ -873,6 +945,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-11T00:00:00.0000000Z",
+    "slug": "crosscode",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -885,6 +958,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "crosscode",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -897,6 +971,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-20T00:00:00.0000000Z",
+    "slug": "crossing-souls",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -909,6 +984,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-01T16:00:00.0000000Z",
+    "slug": "crusader-kings-iii",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -921,6 +997,7 @@
       "pc": false
     },
     "releaseDate": "2011-10-04T00:00:00.0000000Z",
+    "slug": "crysis",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -933,6 +1010,7 @@
       "pc": false
     },
     "releaseDate": "2011-03-22T00:00:00.0000000Z",
+    "slug": "crysis-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -945,6 +1023,7 @@
       "pc": false
     },
     "releaseDate": "2013-02-19T00:00:00.0000000Z",
+    "slug": "crysis-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -957,6 +1036,7 @@
       "pc": false
     },
     "releaseDate": "2010-04-27T00:00:00.0000000Z",
+    "slug": "dante-s-inferno",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -969,6 +1049,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-06T18:36:39.0209213Z",
+    "slug": "darksiders-genesis",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -981,6 +1062,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-14T17:00:00.0000000Z",
+    "slug": "darksiders-genesis",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -993,6 +1075,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "slug": "day-of-the-tentacle-remastered",
     "addedAt": "2020-10-30T09:10:58.465Z"
   },
   {
@@ -1005,6 +1088,7 @@
       "pc": false
     },
     "releaseDate": "2019-03-27T00:00:00.0000000Z",
+    "slug": "dayz",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1017,6 +1101,7 @@
       "pc": false
     },
     "releaseDate": "2017-11-14T00:00:00.0000000Z",
+    "slug": "de-blob",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1029,6 +1114,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-31T14:00:00.0000000Z",
+    "slug": "dead-by-daylight",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1041,6 +1127,7 @@
       "pc": false
     },
     "releaseDate": "2017-06-20T00:00:00.0000000Z",
+    "slug": "dead-by-daylight-special-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1053,6 +1140,7 @@
       "pc": true
     },
     "releaseDate": "2019-09-05T00:00:00.0000000Z",
+    "slug": "dead-cells",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1065,6 +1153,7 @@
       "pc": false
     },
     "releaseDate": "2018-08-07T00:00:00.0000000Z",
+    "slug": "dead-cells",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1077,6 +1166,7 @@
       "pc": false
     },
     "releaseDate": "2010-08-03T00:00:00.0000000Z",
+    "slug": "dead-space",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1089,6 +1179,7 @@
       "pc": false
     },
     "releaseDate": "2011-01-25T00:00:00.0000000Z",
+    "slug": "dead-space-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1101,6 +1192,7 @@
       "pc": false
     },
     "releaseDate": "2013-02-06T00:00:00.0000000Z",
+    "slug": "dead-space-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1113,6 +1205,7 @@
       "pc": false
     },
     "releaseDate": "2010-10-13T00:00:00.0000000Z",
+    "slug": "dead-space-ignition",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1125,6 +1218,7 @@
       "pc": false
     },
     "releaseDate": "2017-03-14T00:00:00.0000000Z",
+    "slug": "death-squared",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1137,6 +1231,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-13T00:00:00.0000000Z",
+    "slug": "death-s-gambit",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1149,6 +1244,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-13T08:00:00.0000000Z",
+    "slug": "deep-rock-galactic",
     "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
@@ -1161,6 +1257,7 @@
       "pc": false
     },
     "releaseDate": "2020-04-24T04:00:00.0000000Z",
+    "slug": "deliver-us-the-moon",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1173,6 +1270,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-24T04:00:00.0000000Z",
+    "slug": "deliver-us-the-moon",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1185,6 +1283,7 @@
       "pc": true
     },
     "releaseDate": "2019-05-07T00:00:00.0000000Z",
+    "slug": "descenders",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1197,6 +1296,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-01T17:00:00.0000000Z",
+    "slug": "destiny-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1209,6 +1309,7 @@
       "pc": false
     },
     "releaseDate": "2020-11-10T17:00:00.0000000Z",
+    "slug": "destiny-2-beyond-light",
     "addedAt": "2020-12-19T09:22:18.605Z"
   },
   {
@@ -1221,6 +1322,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-04T00:00:00.0000000Z",
+    "slug": "destiny-2-forsaken",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1233,6 +1335,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-01T15:00:00.0000000Z",
+    "slug": "destiny-2-shadowkeep",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1245,6 +1348,7 @@
       "pc": false
     },
     "releaseDate": "2017-06-06T00:00:00.0000000Z",
+    "slug": "dirt-4",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1257,6 +1361,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-10T17:00:00.0000000Z",
+    "slug": "disgaea-4-complete",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1269,6 +1374,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-03T00:00:00.0000000Z",
+    "slug": "dishonored-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1281,6 +1387,7 @@
       "pc": false
     },
     "releaseDate": "2016-11-11T00:00:00.0000000Z",
+    "slug": "dishonored-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1293,6 +1400,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-31T00:00:00.0000000Z",
+    "slug": "disneyland-adventures",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1305,6 +1413,7 @@
       "pc": true
     },
     "releaseDate": "2015-08-26T00:00:00.0000000Z",
+    "slug": "don-t-starve-giant-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1317,6 +1426,7 @@
       "pc": false
     },
     "releaseDate": "2020-03-20T04:00:00.0000000Z",
+    "slug": "doom-eternal-standard-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1329,6 +1439,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-01T16:00:00.0000000Z",
+    "slug": "doom-eternal-standard-edition",
     "addedAt": "2020-12-04T09:21:40.852Z"
   },
   {
@@ -1341,6 +1452,7 @@
       "pc": false
     },
     "releaseDate": "2012-09-12T00:00:00.0000000Z",
+    "slug": "double-dragon-neon",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1353,6 +1465,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-28T00:00:00.0000000Z",
+    "slug": "double-kick-heroes",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1365,6 +1478,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-01T00:00:00.0000000Z",
+    "slug": "downwell",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1377,6 +1491,7 @@
       "pc": false
     },
     "releaseDate": "2010-08-10T00:00:00.0000000Z",
+    "slug": "dragon-age-origins",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1389,6 +1504,7 @@
       "pc": false
     },
     "releaseDate": "2011-03-08T00:00:00.0000000Z",
+    "slug": "dragon-age-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1401,6 +1517,7 @@
       "pc": false
     },
     "releaseDate": "2014-11-18T00:00:00.0000000Z",
+    "slug": "dragon-age-inquisition",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1413,6 +1530,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-04T00:00:00.0000000Z",
+    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
     "addedAt": "2020-12-05T09:18:26.077Z"
   },
   {
@@ -1425,6 +1543,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-28T18:00:00.0000000Z",
+    "slug": "drake-hollow",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1437,6 +1556,7 @@
       "pc": false
     },
     "releaseDate": "2016-03-16T00:00:00.0000000Z",
+    "slug": "dungeon-of-the-endless",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1449,6 +1569,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-11T00:00:00.0000000Z",
+    "slug": "dungeon-of-the-endless",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1461,6 +1582,7 @@
       "pc": false
     },
     "releaseDate": "2015-09-22T00:00:00.0000000Z",
+    "slug": "ea-sports-fifa-16",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1473,6 +1595,7 @@
       "pc": false
     },
     "releaseDate": "2016-09-27T00:00:00.0000000Z",
+    "slug": "ea-sports-fifa-17",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1485,6 +1608,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-27T00:00:00.0000000Z",
+    "slug": "ea-sports-fifa-20",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1497,6 +1621,7 @@
       "pc": false
     },
     "releaseDate": "2017-09-15T00:00:00.0000000Z",
+    "slug": "ea-sports-nhl-18",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1509,6 +1634,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-14T00:00:00.0000000Z",
+    "slug": "ea-sports-nhl-19",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1521,6 +1647,7 @@
       "pc": false
     },
     "releaseDate": "2015-07-14T00:00:00.0000000Z",
+    "slug": "ea-sports-rory-mcilroy-pga-tour",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1533,6 +1660,7 @@
       "pc": false
     },
     "releaseDate": "2014-06-17T00:00:00.0000000Z",
+    "slug": "ea-sports-ufc",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1545,6 +1673,7 @@
       "pc": false
     },
     "releaseDate": "2016-03-15T00:00:00.0000000Z",
+    "slug": "ea-sports-ufc-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1557,6 +1686,7 @@
       "pc": false
     },
     "releaseDate": "2018-02-02T00:00:00.0000000Z",
+    "slug": "ea-sports-ufc-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1569,6 +1699,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-21T12:00:00.0000000Z",
+    "slug": "eastshade",
     "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
@@ -1581,6 +1712,7 @@
       "pc": false
     },
     "releaseDate": "2020-09-15T04:00:00.0000000Z",
+    "slug": "efootball-pes-2021-season-update-standard-edition",
     "addedAt": "2021-01-07T09:36:21.010Z"
   },
   {
@@ -1593,6 +1725,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-12T04:00:00.0000000Z",
+    "slug": "endless-legend",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1605,6 +1738,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-09T00:00:00.0000000Z",
+    "slug": "endless-space-2-deluxe-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1617,6 +1751,7 @@
       "pc": true
     },
     "releaseDate": "2017-04-05T04:00:00.0000000Z",
+    "slug": "enter-the-gungeon",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1629,6 +1764,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-04T14:00:00.0000000Z",
+    "slug": "europa-universalis-iv",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1641,6 +1777,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-30T00:00:00.0000000Z",
+    "slug": "f1-2019",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1653,6 +1790,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-20T04:00:00.0000000Z",
+    "slug": "f1-2019",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1665,6 +1803,7 @@
       "pc": false
     },
     "releaseDate": "2014-01-29T00:00:00.0000000Z",
+    "slug": "fable-anniversary",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1677,6 +1816,7 @@
       "pc": false
     },
     "releaseDate": "2010-04-06T00:00:00.0000000Z",
+    "slug": "fable-ii",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1689,6 +1829,7 @@
       "pc": false
     },
     "releaseDate": "2010-10-25T00:00:00.0000000Z",
+    "slug": "fable-iii",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1701,6 +1842,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-09T14:00:00.0000000Z",
+    "slug": "fallout-76",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1713,6 +1855,7 @@
       "pc": false
     },
     "releaseDate": "2018-11-14T00:00:00.0000000Z",
+    "slug": "fallout-76",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1725,6 +1868,7 @@
       "pc": false
     },
     "releaseDate": "2010-10-19T00:00:00.0000000Z",
+    "slug": "fallout-new-vegas",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1737,6 +1881,7 @@
       "pc": false
     },
     "releaseDate": "2018-02-16T00:00:00.0000000Z",
+    "slug": "fe",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1749,6 +1894,7 @@
       "pc": false
     },
     "releaseDate": "2006-03-10T00:00:00.0000000Z",
+    "slug": "feeding-frenzy",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1761,6 +1907,7 @@
       "pc": false
     },
     "releaseDate": "2008-09-17T00:00:00.0000000Z",
+    "slug": "feeding-frenzy-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1773,6 +1920,7 @@
       "pc": false
     },
     "releaseDate": "2014-09-23T00:00:00.0000000Z",
+    "slug": "fifa-15",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1785,6 +1933,7 @@
       "pc": false
     },
     "releaseDate": "2017-10-10T00:00:00.0000000Z",
+    "slug": "fifa-18",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1797,6 +1946,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-28T00:00:00.0000000Z",
+    "slug": "fifa-19",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1809,6 +1959,7 @@
       "pc": false
     },
     "releaseDate": "2010-04-26T00:00:00.0000000Z",
+    "slug": "fight-night-champion",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1821,6 +1972,7 @@
       "pc": true
     },
     "releaseDate": "2019-02-13T23:00:00.0000000Z",
+    "slug": "final-fantasy-ix",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1833,6 +1985,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-13T00:00:00.0000000Z",
+    "slug": "final-fantasy-vii",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1845,6 +1998,7 @@
       "pc": false
     },
     "releaseDate": "2019-03-26T00:00:00.0000000Z",
+    "slug": "final-fantasy-vii",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1857,6 +2011,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-03T00:00:00.0000000Z",
+    "slug": "final-fantasy-viii-remastered",
     "addedAt": "2020-11-12T09:31:46.103Z"
   },
   {
@@ -1869,6 +2024,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-12T00:00:00.0000000Z",
+    "slug": "final-fantasy-viii-remastered",
     "addedAt": "2020-11-12T09:31:46.103Z"
   },
   {
@@ -1881,6 +2037,7 @@
       "pc": true
     },
     "releaseDate": "2018-03-06T17:00:00.0000000Z",
+    "slug": "final-fantasy-xv",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1893,6 +2050,7 @@
       "pc": false
     },
     "releaseDate": "2018-03-06T00:00:00.0000000Z",
+    "slug": "final-fantasy-xv-royal-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1905,6 +2063,7 @@
       "pc": true
     },
     "releaseDate": "2020-01-30T14:00:00.0000000Z",
+    "slug": "fishing-sim-world-pro-tour",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1917,6 +2076,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-18T00:00:00.0000000Z",
+    "slug": "fishing-sim-world-pro-tour",
     "addedAt": "2021-01-10T09:38:29.538Z"
   },
   {
@@ -1929,6 +2089,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "slug": "five-nights-at-freddy-s",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -1941,6 +2102,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "slug": "five-nights-at-freddy-s-2",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -1953,6 +2115,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "slug": "five-nights-at-freddy-s-3",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -1965,6 +2128,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-29T00:00:00.0000000Z",
+    "slug": "five-nights-at-freddy-s-4",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -1977,6 +2141,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-29T00:00:00.0000000Z",
+    "slug": "five-nights-at-freddy-s-original-series",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -1989,6 +2154,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-06T00:00:00.0000000Z",
+    "slug": "for-the-king",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2001,6 +2167,7 @@
       "pc": false
     },
     "releaseDate": "2019-05-10T00:00:00.0000000Z",
+    "slug": "for-the-king",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2013,6 +2180,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-16T00:00:00.0000000Z",
+    "slug": "forager",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2025,6 +2193,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-16T00:00:00.0000000Z",
+    "slug": "forager",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2037,6 +2206,7 @@
       "pc": true
     },
     "releaseDate": "2018-10-02T04:00:00.0000000Z",
+    "slug": "forza-horizon-4-standard-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2049,6 +2219,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-03T04:00:00.0000000Z",
+    "slug": "forza-motorsport-7-standard-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2061,6 +2232,7 @@
       "pc": false
     },
     "releaseDate": "2019-11-14T05:00:00.0000000Z",
+    "slug": "fractured-minds",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2073,6 +2245,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-11T14:00:00.0000000Z",
+    "slug": "frostpunk",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2085,6 +2258,7 @@
       "pc": true
     },
     "releaseDate": "2018-04-24T14:00:00.0000000Z",
+    "slug": "frostpunk",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2097,6 +2271,7 @@
       "pc": true
     },
     "releaseDate": "2020-01-09T00:00:00.0000000Z",
+    "slug": "ftl-faster-than-light",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2109,6 +2284,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "slug": "full-throttle-remastered",
     "addedAt": "2020-10-30T09:10:58.465Z"
   },
   {
@@ -2121,6 +2297,7 @@
       "pc": false
     },
     "releaseDate": "2001-09-23T00:00:00.0000000Z",
+    "slug": "fuzion-frenzy",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2133,6 +2310,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-21T00:00:00.0000000Z",
+    "slug": "gato-roboto",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2145,6 +2323,7 @@
       "pc": false
     },
     "releaseDate": "2020-04-21T00:00:00.0000000Z",
+    "slug": "gato-roboto",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2157,6 +2336,7 @@
       "pc": true
     },
     "releaseDate": "2019-09-10T01:00:00.0000000Z",
+    "slug": "gears-5",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2169,6 +2349,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-15T00:00:00.0000000Z",
+    "slug": "gears-5-game-of-the-year-edition",
     "addedAt": "2020-12-16T09:20:26.382Z"
   },
   {
@@ -2181,6 +2362,7 @@
       "pc": false
     },
     "releaseDate": "2009-12-29T00:00:00.0000000Z",
+    "slug": "gears-of-war",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2193,6 +2375,7 @@
       "pc": false
     },
     "releaseDate": "2010-10-12T00:00:00.0000000Z",
+    "slug": "gears-of-war-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2205,6 +2388,7 @@
       "pc": false
     },
     "releaseDate": "2012-03-27T00:00:00.0000000Z",
+    "slug": "gears-of-war-3",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2217,6 +2401,7 @@
       "pc": true
     },
     "releaseDate": "2016-10-11T04:00:00.0000000Z",
+    "slug": "gears-of-war-4",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2229,6 +2414,7 @@
       "pc": false
     },
     "releaseDate": "2013-06-18T00:00:00.0000000Z",
+    "slug": "gears-of-war-judgment",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2241,6 +2427,7 @@
       "pc": false
     },
     "releaseDate": "2015-08-25T00:00:00.0000000Z",
+    "slug": "gears-of-war-ultimate-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2253,6 +2440,7 @@
       "pc": true
     },
     "releaseDate": "2016-02-01T03:28:34.1909663Z",
+    "slug": "gears-of-war-ultimate-edition-for",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2265,6 +2453,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-09T16:00:00.0000000Z",
+    "slug": "gears-tactics",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -2277,6 +2466,7 @@
       "pc": true
     },
     "releaseDate": "2018-10-25T00:00:00.0000000Z",
+    "slug": "goat-simulator",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2289,6 +2479,7 @@
       "pc": false
     },
     "releaseDate": "2015-04-17T00:00:00.0000000Z",
+    "slug": "goat-simulator",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2301,6 +2492,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-23T00:00:00.0000000Z",
+    "slug": "golf-with-your-friends",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2313,6 +2505,7 @@
       "pc": false
     },
     "releaseDate": "2020-05-19T04:00:00.0000000Z",
+    "slug": "golf-with-your-friends",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2325,6 +2518,7 @@
       "pc": false
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
+    "slug": "gonner2",
     "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
@@ -2337,6 +2531,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
+    "slug": "gonner2",
     "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
@@ -2349,6 +2544,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-10T00:00:00.0000000Z",
+    "slug": "greedfall",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -2361,6 +2557,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-10T04:00:00.0000000Z",
+    "slug": "greedfall",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -2373,6 +2570,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-29T17:00:00.0000000Z",
+    "slug": "grim-fandango-remastered",
     "addedAt": "2020-10-30T09:10:58.465Z"
   },
   {
@@ -2385,6 +2583,7 @@
       "pc": true
     },
     "releaseDate": "2020-01-23T00:00:00.0000000Z",
+    "slug": "gris",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2397,6 +2596,7 @@
       "pc": true
     },
     "releaseDate": "2799-12-31T17:00:00.0000000Z",
+    "slug": "grounded-game-preview",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2409,6 +2609,7 @@
       "pc": true
     },
     "releaseDate": "2019-01-18T17:00:00.0000000Z",
+    "slug": "guacamelee-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2421,6 +2622,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-13T03:00:00.0000000Z",
+    "slug": "halo-2-anniversary",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2433,6 +2635,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-14T17:00:00.0000000Z",
+    "slug": "halo-3",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2445,6 +2648,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-22T03:00:00.0000000Z",
+    "slug": "halo-3-odst",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2457,6 +2661,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-17T04:00:00.0000000Z",
+    "slug": "halo-4",
     "addedAt": "2020-11-17T09:14:56.670Z"
   },
   {
@@ -2469,6 +2674,7 @@
       "pc": false
     },
     "releaseDate": "2015-10-27T00:00:00.0000000Z",
+    "slug": "halo-5-guardians",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2481,6 +2687,7 @@
       "pc": true
     },
     "releaseDate": "2016-11-30T19:55:27.2612117Z",
+    "slug": "halo-wars-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2493,6 +2700,7 @@
       "pc": true
     },
     "releaseDate": "2017-02-21T05:00:00.0000000Z",
+    "slug": "halo-wars-2-standard-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2505,6 +2713,7 @@
       "pc": false
     },
     "releaseDate": "2017-02-21T00:00:00.0000000Z",
+    "slug": "halo-wars-2-standard-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2517,6 +2726,7 @@
       "pc": true
     },
     "releaseDate": "2017-04-20T17:00:00.0000000Z",
+    "slug": "halo-wars-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2529,6 +2739,7 @@
       "pc": false
     },
     "releaseDate": "2016-12-20T00:00:00.0000000Z",
+    "slug": "halo-wars-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2541,6 +2752,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-03T18:00:00.0000000Z",
+    "slug": "halo-combat-evolved-anniversary",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2553,6 +2765,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-03T18:00:00.0000000Z",
+    "slug": "halo-reach",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2565,6 +2778,7 @@
       "pc": true
     },
     "releaseDate": "2013-07-08T23:33:39.7691754Z",
+    "slug": "halo-spartan-assault",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2577,6 +2791,7 @@
       "pc": false
     },
     "releaseDate": "2013-12-23T00:00:00.0000000Z",
+    "slug": "halo-spartan-assault",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2589,6 +2804,7 @@
       "pc": true
     },
     "releaseDate": "2014-11-25T22:00:00.0000000Z",
+    "slug": "halo-spartan-strike",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2601,6 +2817,7 @@
       "pc": false
     },
     "releaseDate": "2019-11-14T21:00:00.0000000Z",
+    "slug": "halo-the-master-chief-collection",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2613,6 +2830,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-03T18:00:00.0000000Z",
+    "slug": "halo-the-master-chief-collection",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2625,6 +2843,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-03T14:00:00.0000000Z",
+    "slug": "haven",
     "addedAt": "2020-12-04T09:21:40.852Z"
   },
   {
@@ -2637,6 +2856,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-13T15:00:00.0000000Z",
+    "slug": "hearts-of-iron-iv-cadet-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2649,6 +2869,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
+    "slug": "heave-ho",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2661,6 +2882,7 @@
       "pc": false
     },
     "releaseDate": "2007-01-17T00:00:00.0000000Z",
+    "slug": "heavy-weapon",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -2673,6 +2895,7 @@
       "pc": true
     },
     "releaseDate": "2018-04-11T04:00:00.0000000Z",
+    "slug": "hellblade-senua-s-sacrifice",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2685,6 +2908,7 @@
       "pc": false
     },
     "releaseDate": "2018-04-11T00:00:00.0000000Z",
+    "slug": "hellblade-senua-s-sacrifice",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2697,6 +2921,7 @@
       "pc": true
     },
     "releaseDate": "2017-12-08T15:00:00.0000000Z",
+    "slug": "hello-neighbor",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2709,6 +2934,7 @@
       "pc": false
     },
     "releaseDate": "2017-12-08T00:00:00.0000000Z",
+    "slug": "hello-neighbor",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2721,6 +2947,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "hollow-knight",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2733,6 +2960,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-25T17:00:00.0000000Z",
+    "slug": "hollow-knight-voidheart-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2745,6 +2973,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "hotline-miami",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2757,6 +2986,7 @@
       "pc": false
     },
     "releaseDate": "2020-09-10T04:00:00.0000000Z",
+    "slug": "hotshot-racing",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2769,6 +2999,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-12T17:00:00.0000000Z",
+    "slug": "human-fall-flat",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2781,6 +3012,7 @@
       "pc": false
     },
     "releaseDate": "2017-05-12T00:00:00.0000000Z",
+    "slug": "human-fall-flat",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2793,6 +3025,7 @@
       "pc": true
     },
     "releaseDate": "2020-01-31T05:00:00.0000000Z",
+    "slug": "hyperdot",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2805,6 +3038,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-27T15:00:00.0000000Z",
+    "slug": "hypnospace-outlaw",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2817,6 +3051,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-08T00:00:00.0000000Z",
+    "slug": "ikenfell",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2829,6 +3064,7 @@
       "pc": false
     },
     "releaseDate": "2020-10-08T00:00:00.0000000Z",
+    "slug": "ikenfell",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2841,6 +3077,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-26T00:00:00.0000000Z",
+    "slug": "indivisible",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2853,6 +3090,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-08T04:00:00.0000000Z",
+    "slug": "indivisible",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2865,6 +3103,7 @@
       "pc": false
     },
     "releaseDate": "2017-05-16T00:00:00.0000000Z",
+    "slug": "injustice-2",
     "addedAt": "2021-01-07T09:36:21.010Z"
   },
   {
@@ -2877,6 +3116,7 @@
       "pc": true
     },
     "releaseDate": "2017-11-14T17:00:00.0000000Z",
+    "slug": "injustice-2-standard-edition",
     "addedAt": "2021-01-07T09:36:21.010Z"
   },
   {
@@ -2889,6 +3129,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-06T00:00:00.0000000Z",
+    "slug": "it-lurks-below",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2901,6 +3142,7 @@
       "pc": false
     },
     "releaseDate": "2006-10-24T00:00:00.0000000Z",
+    "slug": "jetpac-refuelled",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2913,6 +3155,7 @@
       "pc": false
     },
     "releaseDate": "2020-01-28T16:00:00.0000000Z",
+    "slug": "journey-to-the-savage-planet",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2925,6 +3168,7 @@
       "pc": false
     },
     "releaseDate": "2012-05-23T00:00:00.0000000Z",
+    "slug": "joy-ride-turbo",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2937,6 +3181,7 @@
       "pc": false
     },
     "releaseDate": "2009-08-11T00:00:00.0000000Z",
+    "slug": "kameo",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2949,6 +3194,7 @@
       "pc": false
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
+    "slug": "katana-zero",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2961,6 +3207,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
+    "slug": "katana-zero",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2973,6 +3220,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-24T00:00:00.0000000Z",
+    "slug": "kathy-rain",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2985,6 +3233,7 @@
       "pc": true
     },
     "releaseDate": "2016-12-09T18:00:00.0000000Z",
+    "slug": "killer-instinct-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2997,6 +3246,7 @@
       "pc": false
     },
     "releaseDate": "2016-09-20T00:00:00.0000000Z",
+    "slug": "killer-instinct-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3009,6 +3259,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-18T05:00:00.0000000Z",
+    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3021,6 +3272,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-18T05:00:00.0000000Z",
+    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3033,6 +3285,7 @@
       "pc": false
     },
     "releaseDate": "2019-01-29T00:00:00.0000000Z",
+    "slug": "kingdom-hearts",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3045,6 +3298,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-05T00:00:00.0000000Z",
+    "slug": "knights-and-bikes",
     "addedAt": "2020-11-05T09:20:53.821Z"
   },
   {
@@ -3057,6 +3311,7 @@
       "pc": false
     },
     "releaseDate": "2017-03-17T00:00:00.0000000Z",
+    "slug": "kona",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3069,6 +3324,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-30T12:00:00.0000000Z",
+    "slug": "levelhead",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3081,6 +3337,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-23T15:00:00.0000000Z",
+    "slug": "lonely-mountains-downhill",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3093,6 +3350,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-16T00:00:00.0000000Z",
+    "slug": "machinarium",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3105,6 +3363,7 @@
       "pc": false
     },
     "releaseDate": "2014-08-26T00:00:00.0000000Z",
+    "slug": "madden-nfl-15",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3117,6 +3376,7 @@
       "pc": false
     },
     "releaseDate": "2015-08-25T00:00:00.0000000Z",
+    "slug": "madden-nfl-16",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3129,6 +3389,7 @@
       "pc": false
     },
     "releaseDate": "2016-08-23T00:00:00.0000000Z",
+    "slug": "madden-nfl-17",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3141,6 +3402,7 @@
       "pc": false
     },
     "releaseDate": "2017-08-25T00:00:00.0000000Z",
+    "slug": "madden-nfl-18",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3153,6 +3415,7 @@
       "pc": false
     },
     "releaseDate": "2018-08-10T00:00:00.0000000Z",
+    "slug": "madden-nfl-19",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3165,6 +3428,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-02T00:00:00.0000000Z",
+    "slug": "madden-nfl-20",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3177,6 +3441,7 @@
       "pc": false
     },
     "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "slug": "madden-nfl-25",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3189,6 +3454,7 @@
       "pc": true
     },
     "releaseDate": "2017-09-19T16:00:00.0000000Z",
+    "slug": "marvel-vs-capcom-infinite",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3201,6 +3467,7 @@
       "pc": false
     },
     "releaseDate": "2009-08-06T00:00:00.0000000Z",
+    "slug": "mass-effect",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3213,6 +3480,7 @@
       "pc": false
     },
     "releaseDate": "2010-01-26T00:00:00.0000000Z",
+    "slug": "mass-effect-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3225,6 +3493,7 @@
       "pc": false
     },
     "releaseDate": "2012-03-06T00:00:00.0000000Z",
+    "slug": "mass-effect-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3237,6 +3506,7 @@
       "pc": false
     },
     "releaseDate": "2017-03-21T00:00:00.0000000Z",
+    "slug": "mass-effect-andromeda",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3249,6 +3519,7 @@
       "pc": false
     },
     "releaseDate": "2013-12-20T00:00:00.0000000Z",
+    "slug": "max-the-curse-of-brotherhood",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3261,6 +3532,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-07T00:00:00.0000000Z",
+    "slug": "mechwarrior-5-mercenaries",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3273,6 +3545,7 @@
       "pc": false
     },
     "releaseDate": "2010-05-26T00:00:00.0000000Z",
+    "slug": "medal-of-honor-airborne",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3285,6 +3558,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-18T00:00:00.0000000Z",
+    "slug": "microsoft-flight-simulator-standard",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3297,6 +3571,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-10T04:00:00.0000000Z",
+    "slug": "middle-earth-shadow-of-war",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3309,6 +3584,7 @@
       "pc": false
     },
     "releaseDate": "2017-09-20T15:00:00.0000000Z",
+    "slug": "minecraft",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3321,6 +3597,7 @@
       "pc": false
     },
     "releaseDate": "2020-05-26T08:00:00.0000000Z",
+    "slug": "minecraft-dungeons",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3333,6 +3610,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-26T08:00:00.0000000Z",
+    "slug": "minecraft-dungeons",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3345,6 +3623,7 @@
       "pc": false
     },
     "releaseDate": "2010-06-22T00:00:00.0000000Z",
+    "slug": "mirror-s-edge",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3357,6 +3636,7 @@
       "pc": false
     },
     "releaseDate": "2016-06-07T00:00:00.0000000Z",
+    "slug": "mirror-s-edge-catalyst",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3369,6 +3649,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-10T00:00:00.0000000Z",
+    "slug": "mistover",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3381,6 +3662,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-19T05:44:31.2659222Z",
+    "slug": "momodora-reverie-under-the-moonlight",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3393,6 +3675,7 @@
       "pc": false
     },
     "releaseDate": "2017-03-17T00:00:00.0000000Z",
+    "slug": "momodora-reverie-under-the-moonlight",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3405,6 +3688,7 @@
       "pc": false
     },
     "releaseDate": "2018-01-26T00:00:00.0000000Z",
+    "slug": "monster-hunter-world",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3417,6 +3701,7 @@
       "pc": false
     },
     "releaseDate": "2020-12-08T05:00:00.0000000Z",
+    "slug": "monster-sanctuary",
     "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
@@ -3429,6 +3714,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-08T05:00:00.0000000Z",
+    "slug": "monster-sanctuary",
     "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
@@ -3441,6 +3727,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "monster-train",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -3453,6 +3740,7 @@
       "pc": true
     },
     "releaseDate": "2018-05-29T13:00:00.0000000Z",
+    "slug": "moonlighter",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3465,6 +3753,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-11T00:00:00.0000000Z",
+    "slug": "morkredd",
     "addedAt": "2020-12-11T09:19:56.924Z"
   },
   {
@@ -3477,6 +3766,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-05T00:00:00.0000000Z",
+    "slug": "mother-russia-bleeds",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3489,6 +3779,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "motogp-20",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -3501,6 +3792,7 @@
       "pc": false
     },
     "releaseDate": "2020-04-23T04:00:00.0000000Z",
+    "slug": "motogp-20",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -3513,6 +3805,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-19T00:00:00.0000000Z",
+    "slug": "mount-and-blade-warband",
     "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
@@ -3525,6 +3818,7 @@
       "pc": false
     },
     "releaseDate": "2016-09-16T00:00:00.0000000Z",
+    "slug": "mount-and-blade-warband",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3537,6 +3831,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-28T04:00:00.0000000Z",
+    "slug": "moving-out",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3549,6 +3844,7 @@
       "pc": false
     },
     "releaseDate": "2020-04-28T04:00:00.0000000Z",
+    "slug": "moving-out",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3561,6 +3857,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-05T00:00:00.0000000Z",
+    "slug": "my-friend-pedro",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3573,6 +3870,7 @@
       "pc": false
     },
     "releaseDate": "2019-12-05T00:00:00.0000000Z",
+    "slug": "my-friend-pedro",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3585,6 +3883,7 @@
       "pc": true
     },
     "releaseDate": "2019-07-04T00:00:00.0000000Z",
+    "slug": "my-time-at-portia",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3597,6 +3896,7 @@
       "pc": false
     },
     "releaseDate": "2019-04-16T00:00:00.0000000Z",
+    "slug": "my-time-at-portia",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3609,6 +3909,7 @@
       "pc": false
     },
     "releaseDate": "2017-09-15T00:00:00.0000000Z",
+    "slug": "nba-live-18-the-one-edition",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3621,6 +3922,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-07T00:00:00.0000000Z",
+    "slug": "nba-live-19",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3633,6 +3935,7 @@
       "pc": false
     },
     "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "slug": "need-for-speed-rivals",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3645,6 +3948,7 @@
       "pc": false
     },
     "releaseDate": "2015-11-03T00:00:00.0000000Z",
+    "slug": "need-for-speed",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3657,6 +3961,7 @@
       "pc": false
     },
     "releaseDate": "2019-11-08T05:00:00.0000000Z",
+    "slug": "need-for-speed-heat",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3669,6 +3974,7 @@
       "pc": false
     },
     "releaseDate": "2017-11-10T00:00:00.0000000Z",
+    "slug": "need-for-speed-payback",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3681,6 +3987,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-14T00:00:00.0000000Z",
+    "slug": "neon-abyss",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3693,6 +4000,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-14T00:00:00.0000000Z",
+    "slug": "neon-abyss",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3705,6 +4013,7 @@
       "pc": false
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "neoverse",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -3717,6 +4026,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-21T07:00:00.0000000Z",
+    "slug": "new-super-lucky-s-tale",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3729,6 +4039,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-13T00:00:00.0000000Z",
+    "slug": "nhl-20",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3741,6 +4052,7 @@
       "pc": false
     },
     "releaseDate": "2020-10-12T18:35:47.7722382Z",
+    "slug": "nhl-94-rewind",
     "addedAt": "2020-12-04T09:21:40.852Z"
   },
   {
@@ -3753,6 +4065,7 @@
       "pc": false
     },
     "releaseDate": "2018-06-26T00:00:00.0000000Z",
+    "slug": "nier-automata-become-as-gods-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3765,6 +4078,7 @@
       "pc": true
     },
     "releaseDate": "2019-07-17T21:00:00.0000000Z",
+    "slug": "night-call",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3777,6 +4091,7 @@
       "pc": false
     },
     "releaseDate": "2020-06-24T00:00:00.0000000Z",
+    "slug": "night-call",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3789,6 +4104,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-24T00:00:00.0000000Z",
+    "slug": "night-in-the-woods",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3801,6 +4117,7 @@
       "pc": false
     },
     "releaseDate": "2017-12-13T00:00:00.0000000Z",
+    "slug": "night-in-the-woods",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3813,6 +4130,7 @@
       "pc": false
     },
     "releaseDate": "2009-07-29T00:00:00.0000000Z",
+    "slug": "ninja-gaiden-ii",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3825,6 +4143,7 @@
       "pc": true
     },
     "releaseDate": "2018-07-24T00:00:00.0000000Z",
+    "slug": "no-man-s-sky",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3837,6 +4156,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-29T00:00:00.0000000Z",
+    "slug": "nowhere-prophet",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3849,6 +4169,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-25T00:00:00.0000000Z",
+    "slug": "observation",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3861,6 +4182,7 @@
       "pc": true
     },
     "releaseDate": "2016-03-30T01:33:48.7163504Z",
+    "slug": "ori-and-the-blind-forest-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3873,6 +4195,7 @@
       "pc": false
     },
     "releaseDate": "2016-03-11T00:00:00.0000000Z",
+    "slug": "ori-and-the-blind-forest-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3885,6 +4208,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-11T04:00:00.0000000Z",
+    "slug": "ori-and-the-will-of-the-wisps",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3897,6 +4221,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-25T04:26:27.1725397Z",
+    "slug": "out-of-the-park-baseball-21",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3909,6 +4234,7 @@
       "pc": false
     },
     "releaseDate": "2019-05-29T12:00:00.0000000Z",
+    "slug": "outer-wilds",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3921,6 +4247,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-02T00:00:00.0000000Z",
+    "slug": "overcooked-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3933,6 +4260,7 @@
       "pc": false
     },
     "releaseDate": "2018-08-07T00:00:00.0000000Z",
+    "slug": "overcooked-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3945,6 +4273,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-12T18:04:30.3240048Z",
+    "slug": "oxenfree",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3957,6 +4286,7 @@
       "pc": false
     },
     "releaseDate": "2016-01-15T00:00:00.0000000Z",
+    "slug": "oxenfree",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3969,6 +4299,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-01T16:00:00.0000000Z",
+    "slug": "pandemic-the-board-game",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3981,6 +4312,7 @@
       "pc": false
     },
     "releaseDate": "2015-06-16T00:00:00.0000000Z",
+    "slug": "payday-2-crimewave-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3993,6 +4325,7 @@
       "pc": false
     },
     "releaseDate": "2009-03-11T00:00:00.0000000Z",
+    "slug": "peggle",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4005,6 +4338,7 @@
       "pc": false
     },
     "releaseDate": "2013-12-09T00:00:00.0000000Z",
+    "slug": "peggle-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4017,6 +4351,7 @@
       "pc": false
     },
     "releaseDate": "2010-03-17T00:00:00.0000000Z",
+    "slug": "perfect-dark",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4029,6 +4364,7 @@
       "pc": false
     },
     "releaseDate": "2009-08-11T00:00:00.0000000Z",
+    "slug": "perfect-dark-zero",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4041,6 +4377,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-19T00:00:00.0000000Z",
+    "slug": "phoenix-point",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4053,6 +4390,7 @@
       "pc": false
     },
     "releaseDate": "2020-12-03T09:00:00.0000000Z",
+    "slug": "phogs",
     "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
@@ -4065,6 +4403,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-12T00:00:00.0000000Z",
+    "slug": "pikuniku",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4077,6 +4416,7 @@
       "pc": false
     },
     "releaseDate": "2020-03-12T00:00:00.0000000Z",
+    "slug": "pikuniku",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4089,6 +4429,7 @@
       "pc": false
     },
     "releaseDate": "2017-08-29T00:00:00.0000000Z",
+    "slug": "pillars-of-eternity-complete-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4101,6 +4442,7 @@
       "pc": true
     },
     "releaseDate": "2019-12-19T18:00:00.0000000Z",
+    "slug": "pillars-of-eternity-hero-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4113,6 +4455,7 @@
       "pc": false
     },
     "releaseDate": "2020-11-24T00:00:00.0000000Z",
+    "slug": "planet-coaster",
     "addedAt": "2020-11-11T09:13:14.733Z"
   },
   {
@@ -4125,6 +4468,7 @@
       "pc": false
     },
     "releaseDate": "2010-07-27T00:00:00.0000000Z",
+    "slug": "plants-vs-zombies",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4137,6 +4481,7 @@
       "pc": false
     },
     "releaseDate": "2014-02-25T00:00:00.0000000Z",
+    "slug": "plants-vs-zombies-garden-warfare",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4149,6 +4494,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-18T04:00:00.0000000Z",
+    "slug": "plants-vs-zombies-battle-for-neighborville",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4161,6 +4507,7 @@
       "pc": false
     },
     "releaseDate": "2016-02-23T00:00:00.0000000Z",
+    "slug": "plants-vs-zombies-garden-warfare-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4173,6 +4520,7 @@
       "pc": false
     },
     "releaseDate": "2018-09-04T00:00:00.0000000Z",
+    "slug": "playerunknown-s-battlegrounds",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4185,6 +4533,7 @@
       "pc": true
     },
     "releaseDate": "2020-05-21T00:00:00.0000000Z",
+    "slug": "plebby-quest-the-crusades",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4197,6 +4546,7 @@
       "pc": true
     },
     "releaseDate": "2019-03-26T00:00:00.0000000Z",
+    "slug": "power-rangers-battle-for-the-grid",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4209,6 +4559,7 @@
       "pc": false
     },
     "releaseDate": "2016-04-05T00:00:00.0000000Z",
+    "slug": "quantum-break",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4221,6 +4572,7 @@
       "pc": true
     },
     "releaseDate": "2019-11-14T21:00:00.0000000Z",
+    "slug": "rage-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4233,6 +4585,7 @@
       "pc": false
     },
     "releaseDate": "2019-05-14T00:00:00.0000000Z",
+    "slug": "rage-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4245,6 +4598,7 @@
       "pc": false
     },
     "releaseDate": "2015-08-04T00:00:00.0000000Z",
+    "slug": "rare-replay",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4257,6 +4611,7 @@
       "pc": true
     },
     "releaseDate": "2016-09-13T04:00:00.0000000Z",
+    "slug": "recore",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4269,6 +4624,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-20T00:00:00.0000000Z",
+    "slug": "reigns-game-of-thrones",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4281,6 +4637,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-20T00:00:00.0000000Z",
+    "slug": "remnant-from-the-ashes",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4293,6 +4650,7 @@
       "pc": true
     },
     "releaseDate": "2017-01-24T05:00:00.0000000Z",
+    "slug": "resident-evil-7-biohazard",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4305,6 +4663,7 @@
       "pc": false
     },
     "releaseDate": "2017-01-24T00:00:00.0000000Z",
+    "slug": "resident-evil-7-biohazard",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4317,6 +4676,7 @@
       "pc": true
     },
     "releaseDate": "2017-09-14T17:00:00.0000000Z",
+    "slug": "rise-of-nations-extended-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4329,6 +4689,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-05T13:00:00.0000000Z",
+    "slug": "river-city-girls",
     "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
@@ -4341,6 +4702,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-27T13:00:00.0000000Z",
+    "slug": "river-city-girls",
     "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
@@ -4353,6 +4715,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-14T04:00:00.0000000Z",
+    "slug": "rocket-arena",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4365,6 +4728,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-31T04:00:00.0000000Z",
+    "slug": "rush-a-disneypixar-adventure",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4377,6 +4741,7 @@
       "pc": false
     },
     "releaseDate": "2013-11-22T00:00:00.0000000Z",
+    "slug": "ryse-son-of-rome",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4389,6 +4754,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-21T17:00:00.0000000Z",
+    "slug": "scourgebringer",
     "addedAt": "2020-10-21T14:20:13.785Z"
   },
   {
@@ -4401,6 +4767,7 @@
       "pc": false
     },
     "releaseDate": "2015-03-03T00:00:00.0000000Z",
+    "slug": "screamride",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4413,6 +4780,7 @@
       "pc": false
     },
     "releaseDate": "2019-07-05T00:00:00.0000000Z",
+    "slug": "sea-of-solitude",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4425,6 +4793,7 @@
       "pc": true
     },
     "releaseDate": "2018-03-20T04:00:00.0000000Z",
+    "slug": "sea-of-thieves",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4437,6 +4806,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-17T09:00:00.0000000Z",
+    "slug": "sea-salt",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4449,6 +4819,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-23T23:00:00.0000000Z",
+    "slug": "secret-neighbor",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4461,6 +4832,7 @@
       "pc": true
     },
     "releaseDate": "2019-09-19T00:00:00.0000000Z",
+    "slug": "shadow-warrior-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4473,6 +4845,7 @@
       "pc": false
     },
     "releaseDate": "2017-05-19T00:00:00.0000000Z",
+    "slug": "shadow-warrior-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4485,6 +4858,7 @@
       "pc": false
     },
     "releaseDate": "2011-06-07T00:00:00.0000000Z",
+    "slug": "shadows-of-the-damned",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4497,6 +4871,7 @@
       "pc": false
     },
     "releaseDate": "2014-09-23T00:00:00.0000000Z",
+    "slug": "skate-3",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4509,6 +4884,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "slay-the-spire",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4521,6 +4897,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-14T00:00:00.0000000Z",
+    "slug": "slay-the-spire",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4533,6 +4910,7 @@
       "pc": false
     },
     "releaseDate": "2017-08-01T00:00:00.0000000Z",
+    "slug": "slime-rancher",
     "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
@@ -4545,6 +4923,7 @@
       "pc": false
     },
     "releaseDate": "2017-02-14T00:00:00.0000000Z",
+    "slug": "sniper-elite-4",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4557,6 +4936,7 @@
       "pc": false
     },
     "releaseDate": "2018-10-19T00:00:00.0000000Z",
+    "slug": "soulcalibur-vi",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4569,6 +4949,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-18T17:00:00.0000000Z",
+    "slug": "spiritfarer",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4581,6 +4962,7 @@
       "pc": false
     },
     "releaseDate": "2012-02-28T00:00:00.0000000Z",
+    "slug": "ssx",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4593,6 +4975,7 @@
       "pc": false
     },
     "releaseDate": "2020-11-19T00:00:00.0000000Z",
+    "slug": "star-renegades",
     "addedAt": "2020-11-19T09:15:35.902Z"
   },
   {
@@ -4605,6 +4988,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-08T00:00:00.0000000Z",
+    "slug": "star-renegades",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4617,6 +5001,7 @@
       "pc": false
     },
     "releaseDate": "2019-11-15T00:00:00.0000000Z",
+    "slug": "star-wars-jedi-fallen-order",
     "addedAt": "2020-11-11T09:13:14.733Z"
   },
   {
@@ -4629,6 +5014,7 @@
       "pc": false
     },
     "releaseDate": "2015-11-17T00:00:00.0000000Z",
+    "slug": "star-wars-battlefront",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4641,6 +5027,7 @@
       "pc": false
     },
     "releaseDate": "2017-11-17T00:00:00.0000000Z",
+    "slug": "star-wars-battlefront-ii",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4653,6 +5040,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-08T00:00:00.0000000Z",
+    "slug": "starbound",
     "addedAt": "2020-12-08T09:19:33.718Z"
   },
   {
@@ -4665,6 +5053,7 @@
       "pc": true
     },
     "releaseDate": "2018-05-22T04:00:00.0000000Z",
+    "slug": "state-of-decay-2-juggernaut-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4677,6 +5066,7 @@
       "pc": false
     },
     "releaseDate": "2015-04-28T00:00:00.0000000Z",
+    "slug": "state-of-decay-year-one",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4689,6 +5079,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-09T15:00:00.0000000Z",
+    "slug": "stellaris",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4701,6 +5092,7 @@
       "pc": false
     },
     "releaseDate": "2019-02-26T00:00:00.0000000Z",
+    "slug": "stellaris",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4713,6 +5105,7 @@
       "pc": false
     },
     "releaseDate": "2019-07-04T17:00:00.0000000Z",
+    "slug": "stranger-things-3-the-game",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4725,6 +5118,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-09T00:00:00.0000000Z",
+    "slug": "stranger-things-3-the-game",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4737,6 +5131,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-30T14:00:00.0000000Z",
+    "slug": "streets-of-rage-4",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4749,6 +5144,7 @@
       "pc": false
     },
     "releaseDate": "2019-07-12T00:00:00.0000000Z",
+    "slug": "streets-of-rogue",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4761,6 +5157,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-12T12:00:00.0000000Z",
+    "slug": "streets-of-rogue",
     "addedAt": "2020-11-13T09:19:08.706Z"
   },
   {
@@ -4773,6 +5170,7 @@
       "pc": true
     },
     "releaseDate": "2018-12-04T00:00:00.0000000Z",
+    "slug": "subnautica",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4785,6 +5183,7 @@
       "pc": true
     },
     "releaseDate": "2018-11-16T17:00:00.0000000Z",
+    "slug": "sunset-overdrive",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4797,6 +5196,7 @@
       "pc": false
     },
     "releaseDate": "2014-10-28T00:00:00.0000000Z",
+    "slug": "sunset-overdrive",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4809,6 +5209,7 @@
       "pc": true
     },
     "releaseDate": "2017-11-07T05:00:00.0000000Z",
+    "slug": "super-lucky-s-tale",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4821,6 +5222,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-16T16:00:00.0000000Z",
+    "slug": "superhot-mind-control-delete",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -4833,6 +5235,7 @@
       "pc": false
     },
     "releaseDate": "2020-10-22T00:00:00.0000000Z",
+    "slug": "supraland",
     "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
@@ -4845,6 +5248,7 @@
       "pc": true
     },
     "releaseDate": "2018-03-15T00:00:00.0000000Z",
+    "slug": "surviving-mars",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4857,6 +5261,7 @@
       "pc": false
     },
     "releaseDate": "2018-03-15T00:00:00.0000000Z",
+    "slug": "surviving-mars",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4869,6 +5274,7 @@
       "pc": false
     },
     "releaseDate": "2018-02-23T00:00:00.0000000Z",
+    "slug": "sword-art-online-fatal-bullet",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4881,6 +5287,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
+    "slug": "tales-of-vesperia-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4893,6 +5300,7 @@
       "pc": false
     },
     "releaseDate": "2019-01-11T00:00:00.0000000Z",
+    "slug": "tales-of-vesperia-definitive-edition",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4905,6 +5313,7 @@
       "pc": false
     },
     "releaseDate": "2017-06-02T00:00:00.0000000Z",
+    "slug": "tekken-7",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4917,6 +5326,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-27T16:00:00.0000000Z",
+    "slug": "tell-me-why-chapters-1-3",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4929,6 +5339,7 @@
       "pc": false
     },
     "releaseDate": "2014-11-14T00:00:00.0000000Z",
+    "slug": "terraria",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4941,6 +5352,7 @@
       "pc": true
     },
     "releaseDate": "2020-11-10T00:00:00.0000000Z",
+    "slug": "tetris-effect-connected",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4953,6 +5365,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-18T03:00:00.0000000Z",
+    "slug": "the-bard-s-tale-arpg-remastered-and-resnarkled",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4965,6 +5378,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-27T15:00:00.0000000Z",
+    "slug": "the-bard-s-tale-iv-director-s-cut",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4977,6 +5391,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-13T13:00:00.0000000Z",
+    "slug": "the-bard-s-tale-trilogy",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4989,6 +5404,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-10T00:00:00.0000000Z",
+    "slug": "the-dark-crystal-age-of-resistance-tactics",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5001,6 +5417,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-04T05:00:00.0000000Z",
+    "slug": "the-dark-crystal-age-of-resistance-tactics",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5013,6 +5430,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "the-dark-pictures-anthology-man-of-medan",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -5025,6 +5443,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-30T04:00:00.0000000Z",
+    "slug": "the-dark-pictures-anthology-man-of-medan",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5037,6 +5456,7 @@
       "pc": false
     },
     "releaseDate": "2016-10-28T00:00:00.0000000Z",
+    "slug": "the-elder-scrolls-v-skyrim-special-edition",
     "addedAt": "2020-12-15T09:20:24.679Z"
   },
   {
@@ -5049,6 +5469,7 @@
       "pc": false
     },
     "releaseDate": "2017-06-06T00:00:00.0000000Z",
+    "slug": "the-elder-scrolls-online",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5061,6 +5482,7 @@
       "pc": true
     },
     "releaseDate": "2018-11-29T05:00:00.0000000Z",
+    "slug": "the-gardens-between",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5073,6 +5495,7 @@
       "pc": false
     },
     "releaseDate": "2017-10-20T00:00:00.0000000Z",
+    "slug": "the-jackbox-party-pack-4",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5085,6 +5508,7 @@
       "pc": false
     },
     "releaseDate": "2016-12-13T00:00:00.0000000Z",
+    "slug": "the-little-acre",
     "addedAt": "2021-01-07T09:36:21.010Z"
   },
   {
@@ -5097,6 +5521,7 @@
       "pc": true
     },
     "releaseDate": "2017-11-02T09:00:00.0000000Z",
+    "slug": "the-long-dark",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5109,6 +5534,7 @@
       "pc": false
     },
     "releaseDate": "2017-08-01T00:00:00.0000000Z",
+    "slug": "the-long-dark",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5121,6 +5547,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "the-messenger",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5133,6 +5560,7 @@
       "pc": false
     },
     "releaseDate": "2020-06-25T00:00:00.0000000Z",
+    "slug": "the-messenger",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5145,6 +5573,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-25T00:00:00.0000000Z",
+    "slug": "the-outer-worlds",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5157,6 +5586,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-25T00:00:00.0000000Z",
+    "slug": "the-outer-worlds",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5169,6 +5599,7 @@
       "pc": false
     },
     "releaseDate": "2017-11-17T00:00:00.0000000Z",
+    "slug": "the-sims-4",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -5181,6 +5612,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-19T00:00:00.0000000Z",
+    "slug": "the-surge-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5193,6 +5625,7 @@
       "pc": false
     },
     "releaseDate": "2019-09-24T00:00:00.0000000Z",
+    "slug": "the-surge-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5205,6 +5638,7 @@
       "pc": true
     },
     "releaseDate": "2020-10-15T00:00:00.0000000Z",
+    "slug": "the-swords-of-ditto-mormo-s-curse",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5217,6 +5651,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-30T00:00:00.0000000Z",
+    "slug": "the-touryst",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5229,6 +5664,7 @@
       "pc": false
     },
     "releaseDate": "2016-12-20T00:00:00.0000000Z",
+    "slug": "the-walking-dead-a-new-frontier-the-complete-season-episodes-1-5",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5241,6 +5677,7 @@
       "pc": false
     },
     "releaseDate": "2016-03-29T00:00:00.0000000Z",
+    "slug": "the-walking-dead-michonne-ep-2-give-no-shelter",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5253,6 +5690,7 @@
       "pc": false
     },
     "releaseDate": "2016-04-26T00:00:00.0000000Z",
+    "slug": "the-walking-dead-michonne-ep-3-what-we-deserve",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5265,6 +5703,7 @@
       "pc": false
     },
     "releaseDate": "2016-02-23T00:00:00.0000000Z",
+    "slug": "the-walking-dead-michonne-the-complete-season",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5277,6 +5716,7 @@
       "pc": false
     },
     "releaseDate": "2014-10-21T00:00:00.0000000Z",
+    "slug": "the-walking-dead-season-two",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5289,6 +5729,7 @@
       "pc": false
     },
     "releaseDate": "2014-10-14T00:00:00.0000000Z",
+    "slug": "the-walking-dead-the-complete-first-season",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5301,6 +5742,7 @@
       "pc": false
     },
     "releaseDate": "2015-05-19T00:00:00.0000000Z",
+    "slug": "the-witcher-3-wild-hunt",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5313,6 +5755,7 @@
       "pc": false
     },
     "releaseDate": "2017-10-02T00:00:00.0000000Z",
+    "slug": "thehunter-call-of-the-wild",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5325,6 +5768,7 @@
       "pc": false
     },
     "releaseDate": "2018-12-04T00:00:00.0000000Z",
+    "slug": "thronebreaker-the-witcher-tales",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5337,6 +5781,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-19T00:00:00.0000000Z",
+    "slug": "thumper",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5349,6 +5794,7 @@
       "pc": false
     },
     "releaseDate": "2014-03-11T00:00:00.0000000Z",
+    "slug": "titanfall",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -5361,6 +5807,7 @@
       "pc": false
     },
     "releaseDate": "2016-10-28T00:00:00.0000000Z",
+    "slug": "titanfall-2",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -5373,6 +5820,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-18T14:00:00.0000000Z",
+    "slug": "tom-clancy-s-rainbow-six-siege-deluxe-edition",
     "addedAt": "2020-10-22T14:19:36.679Z"
   },
   {
@@ -5385,6 +5833,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-27T00:00:00.0000000Z",
+    "slug": "torment-tides-of-numenera",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5397,6 +5846,7 @@
       "pc": true
     },
     "releaseDate": "2799-12-31T00:00:00.0000000Z",
+    "slug": "totally-accurate-battle-simulator-game-preview",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5409,6 +5859,7 @@
       "pc": false
     },
     "releaseDate": "2020-04-01T00:00:00.0000000Z",
+    "slug": "totally-reliable-delivery-service",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5421,6 +5872,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-03T00:00:00.0000000Z",
+    "slug": "touhou-luna-nights",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5433,6 +5885,7 @@
       "pc": true
     },
     "releaseDate": "2019-09-18T16:00:00.0000000Z",
+    "slug": "trailmakers",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5445,6 +5898,7 @@
       "pc": false
     },
     "releaseDate": "2019-08-15T15:00:00.0000000Z",
+    "slug": "train-sim-world-2020",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5457,6 +5911,7 @@
       "pc": true
     },
     "releaseDate": "2020-03-05T14:00:00.0000000Z",
+    "slug": "train-sim-world-2020",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5469,6 +5924,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-25T05:00:00.0000000Z",
+    "slug": "two-point-hospital",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5481,6 +5937,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-25T05:00:00.0000000Z",
+    "slug": "two-point-hospital",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5493,6 +5950,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-06T11:00:00.0000000Z",
+    "slug": "undermine",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5505,6 +5963,7 @@
       "pc": false
     },
     "releaseDate": "2016-02-09T00:00:00.0000000Z",
+    "slug": "unravel",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -5517,6 +5976,7 @@
       "pc": false
     },
     "releaseDate": "2018-06-09T00:00:00.0000000Z",
+    "slug": "unravel-two",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -5529,6 +5989,7 @@
       "pc": false
     },
     "releaseDate": "2019-01-23T14:00:00.0000000Z",
+    "slug": "unruly-heroes",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -5541,6 +6002,7 @@
       "pc": true
     },
     "releaseDate": "2019-01-23T14:00:00.0000000Z",
+    "slug": "unruly-heroes",
     "addedAt": "2020-10-29T14:21:21.528Z"
   },
   {
@@ -5553,6 +6015,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-09T00:00:00.0000000Z",
+    "slug": "unto-the-end",
     "addedAt": "2020-12-09T09:20:03.230Z"
   },
   {
@@ -5565,6 +6028,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-03T00:00:00.0000000Z",
+    "slug": "va-11-hall-a-cyberpunk-bartender-action",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -5577,6 +6041,7 @@
       "pc": true
     },
     "releaseDate": "2019-08-28T04:00:00.0000000Z",
+    "slug": "vambrace-cold-soul",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5589,6 +6054,7 @@
       "pc": false
     },
     "releaseDate": "2010-06-01T00:00:00.0000000Z",
+    "slug": "viva-pinata",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5601,6 +6067,7 @@
       "pc": false
     },
     "releaseDate": "2009-08-11T00:00:00.0000000Z",
+    "slug": "viva-pinata-tip",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5613,6 +6080,7 @@
       "pc": false
     },
     "releaseDate": "2019-05-29T04:00:00.0000000Z",
+    "slug": "void-bastards",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5625,6 +6093,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "void-bastards",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5637,6 +6106,7 @@
       "pc": true
     },
     "releaseDate": "2019-02-01T00:00:00.0000000Z",
+    "slug": "wargroove",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5649,6 +6119,7 @@
       "pc": false
     },
     "releaseDate": "2018-07-11T00:00:00.0000000Z",
+    "slug": "warhammer-vermintide-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5661,6 +6132,7 @@
       "pc": true
     },
     "releaseDate": "2015-10-13T00:00:00.0000000Z",
+    "slug": "wasteland-2-director-s-cut",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5673,6 +6145,7 @@
       "pc": true
     },
     "releaseDate": "2020-08-28T00:00:00.0000000Z",
+    "slug": "wasteland-3",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5685,6 +6158,7 @@
       "pc": false
     },
     "releaseDate": "2020-08-28T00:00:00.0000000Z",
+    "slug": "wasteland-3",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5697,6 +6171,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-25T21:00:00.0000000Z",
+    "slug": "wasteland-remastered",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5709,6 +6184,7 @@
       "pc": true
     },
     "releaseDate": "2018-08-10T18:00:00.0000000Z",
+    "slug": "we-happy-few",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5721,6 +6197,7 @@
       "pc": false
     },
     "releaseDate": "2018-08-10T00:00:00.0000000Z",
+    "slug": "we-happy-few",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5733,6 +6210,7 @@
       "pc": false
     },
     "releaseDate": "2020-06-18T09:00:00.0000000Z",
+    "slug": "west-of-dead",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5745,6 +6223,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-18T09:00:00.0000000Z",
+    "slug": "west-of-dead",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5757,6 +6236,7 @@
       "pc": true
     },
     "releaseDate": "2017-07-19T00:00:00.0000000Z",
+    "slug": "what-remains-of-edith-finch",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5769,6 +6249,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "wilmot-s-warehouse",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -5781,6 +6262,7 @@
       "pc": false
     },
     "releaseDate": "2020-12-17T00:00:00.0000000Z",
+    "slug": "wilmot-s-warehouse",
     "addedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -5793,6 +6275,7 @@
       "pc": true
     },
     "releaseDate": "2019-06-09T07:00:00.0000000Z",
+    "slug": "wizard-of-legend",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5805,6 +6288,7 @@
       "pc": false
     },
     "releaseDate": "2018-05-15T00:00:00.0000000Z",
+    "slug": "wizard-of-legend",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5817,6 +6301,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-06T00:00:00.0000000Z",
+    "slug": "wolfenstein-youngblood",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5829,6 +6314,7 @@
       "pc": false
     },
     "releaseDate": "2019-07-26T00:00:00.0000000Z",
+    "slug": "wolfenstein-youngblood",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5841,6 +6327,7 @@
       "pc": true
     },
     "releaseDate": "2799-12-31T08:00:00.0000000Z",
+    "slug": "world-of-horror-game-preview",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5853,6 +6340,7 @@
       "pc": true
     },
     "releaseDate": "2020-09-03T00:00:00.0000000Z",
+    "slug": "world-war-z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5865,6 +6353,7 @@
       "pc": false
     },
     "releaseDate": "2019-04-16T00:00:00.0000000Z",
+    "slug": "world-war-z",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5877,6 +6366,7 @@
       "pc": true
     },
     "releaseDate": "2019-07-25T00:00:00.0000000Z",
+    "slug": "worms-w-m-d",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5889,6 +6379,7 @@
       "pc": false
     },
     "releaseDate": "2016-08-23T00:00:00.0000000Z",
+    "slug": "worms-w-m-d",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5901,6 +6392,7 @@
       "pc": true
     },
     "releaseDate": "2019-10-30T00:00:00.0000000Z",
+    "slug": "xeno-crisis",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5913,6 +6405,7 @@
       "pc": false
     },
     "releaseDate": "2020-02-26T00:00:00.0000000Z",
+    "slug": "yakuza-0",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5925,6 +6418,7 @@
       "pc": true
     },
     "releaseDate": "2020-02-26T00:00:00.0000000Z",
+    "slug": "yakuza-0-for",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5937,6 +6431,7 @@
       "pc": false
     },
     "releaseDate": "2020-04-22T00:00:00.0000000Z",
+    "slug": "yakuza-kiwami",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5949,6 +6444,7 @@
       "pc": false
     },
     "releaseDate": "2020-07-29T00:00:00.0000000Z",
+    "slug": "yakuza-kiwami-2",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5961,6 +6457,7 @@
       "pc": true
     },
     "releaseDate": "2020-07-29T00:00:00.0000000Z",
+    "slug": "yakuza-kiwami-2-for",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5973,6 +6470,7 @@
       "pc": true
     },
     "releaseDate": "2020-04-22T00:00:00.0000000Z",
+    "slug": "yakuza-kiwami-for",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -5985,6 +6483,7 @@
       "pc": true
     },
     "releaseDate": "2020-06-26T15:00:00.0000000Z",
+    "slug": "yes-your-grace",
     "addedAt": "2020-12-03T09:17:39.020Z"
   },
   {
@@ -5997,6 +6496,7 @@
       "pc": true
     },
     "releaseDate": "2020-12-10T05:00:00.0000000Z",
+    "slug": "yooka-laylee-and-the-impossible-lair",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -6009,6 +6509,7 @@
       "pc": false
     },
     "releaseDate": "2019-10-08T04:00:00.0000000Z",
+    "slug": "yooka-laylee-and-the-impossible-lair",
     "addedAt": "2020-12-10T09:19:57.314Z"
   },
   {
@@ -6021,6 +6522,7 @@
       "pc": true
     },
     "releaseDate": "2017-10-31T04:00:00.0000000Z",
+    "slug": "zoo-tycoon-ultimate-animal-collection",
     "addedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -6033,6 +6535,7 @@
       "pc": false
     },
     "releaseDate": "2005-10-03T00:00:00.0000000Z",
+    "slug": "zuma",
     "addedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -6045,6 +6548,7 @@
       "pc": false
     },
     "releaseDate": "2012-07-11T00:00:00.0000000Z",
+    "slug": "zuma-s-revenge",
     "addedAt": "2020-11-10T09:12:53.627Z"
   }
 ]

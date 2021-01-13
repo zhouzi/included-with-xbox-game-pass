@@ -4,6 +4,7 @@ import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
 import random from "random-int";
 import escapeRegexp from "escape-string-regexp";
+import slugify from "@sindresorhus/slugify";
 import { Game } from "@xgp/types";
 
 import currentGames from "../xgp.community/static/games.json";
@@ -54,13 +55,21 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
     );
 
     games.push(
-      ...rawGames.map((rawGame) => ({
-        ...rawGame,
-        name: cleanName(rawGame.name),
-        addedAt:
-          currentGames.find((otherGame) => otherGame.id === rawGame.id)
-            ?.addedAt ?? addedAt,
-      }))
+      ...rawGames.map((rawGame) => {
+        const name = cleanName(rawGame.name);
+        const slug = slugify(name, {
+          decamelize: false,
+        });
+
+        return {
+          ...rawGame,
+          name,
+          slug,
+          addedAt:
+            currentGames.find((otherGame) => otherGame.id === rawGame.id)
+              ?.addedAt ?? addedAt,
+        };
+      })
     );
 
     try {

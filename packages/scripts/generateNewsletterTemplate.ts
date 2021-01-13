@@ -4,7 +4,7 @@ import axios from "axios";
 import path from "path";
 import fse from "fs-extra";
 import { format } from "date-fns";
-import { Game, Post } from "@xgp/types";
+import { Game } from "@xgp/types";
 
 import games from "../xgp.community/static/games.json";
 
@@ -225,6 +225,13 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
 
   await fse.writeFile(path.join(OUTPUT_DIR, "next.html"), html);
 })();
+
+interface Post {
+  title: string;
+  publishedAt: string;
+  url: string;
+  image: string;
+}
 
 async function scrapPosts(since: Date): Promise<Post[]> {
   const browser = await puppeteer.launch();

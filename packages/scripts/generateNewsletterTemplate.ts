@@ -17,7 +17,7 @@ const OUTPUT_DIR = path.join(
 );
 const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
 
-(async function createNewsletter() {
+(async function generateNewsletterTemplate() {
   let since = new Date();
   since.setDate(since.getDate() - 7);
 

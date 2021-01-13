@@ -5,20 +5,18 @@ import alphaSort from "alpha-sort";
 import random from "random-int";
 import escapeRegexp from "escape-string-regexp";
 import slugify from "@sindresorhus/slugify";
+import got from "got";
 import { Game } from "@xgp/types";
 
 import currentGames from "../xgp.community/static/games.json";
 
 interface ScrappedGame {
-  id: string;
   name: string;
   url: string;
-  image: string;
   availability: {
     console: boolean;
     pc: boolean;
   };
-  releaseDate: string;
 }
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
@@ -41,15 +39,12 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       (elements) =>
         elements.map(
           (element): ScrappedGame => ({
-            id: element.getAttribute("data-bigid")!,
             name: element.querySelector("h3")!.textContent!,
             url: element.querySelector("a")!.href,
-            image: element.querySelector("img")!.getAttribute("src")!,
             availability: {
               console: Boolean(element.querySelector(`[aria-label="Console"]`)),
               pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
             },
-            releaseDate: element.getAttribute("data-releasedate")!,
           })
         )
     );
@@ -59,20 +54,19 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       const slug = slugify(name, {
         decamelize: false,
       });
+      const currentGame = currentGames.find((game) => game.slug === slug);
 
       if (games[slug] == null) {
         games[slug] = {
           slug,
           name,
           url: rawGame.url,
-          image: rawGame.image,
           availability: {
             console: null,
             pc: null,
+            steam: currentGame?.availability.steam ?? null,
           },
-          updatedAt:
-            currentGames.find((game) => game.slug === slug)?.updatedAt ??
-            updatedAt,
+          updatedAt: currentGame?.updatedAt ?? updatedAt,
         };
       }
 
@@ -93,6 +87,23 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
   })();
 
   browser.close();
+
+  const {
+    applist: { apps },
+  } = await got("https://api.steampowered.com/ISteamApps/GetAppList/v2/").json<{
+    applist: { apps: Array<{ appid: number; name: string }> };
+  }>();
+  apps.forEach((app) => {
+    const slug = slugify(app.name, {
+      decamelize: false,
+    });
+
+    if (games.hasOwnProperty(slug)) {
+      games[
+        slug
+      ].availability.steam = `https://store.steampowered.com/app/${app.appid}/`;
+    }
+  });
 
   await fse.writeJSON(
     path.join(OUTPUT_DIR, "games.json"),
@@ -122,6 +133,8 @@ function cleanName(name: string): string {
     "XB1",
     "Win10",
     "(Xbox One)",
+    "Game Preview",
+    "(Game Preview)",
   ].map((suffix) => new RegExp(`[-:\\s]*${escapeRegexp(suffix)}$`, "i"));
   return suffixes.reduce((acc, regexp) => acc.replace(regexp, ""), name).trim();
 }

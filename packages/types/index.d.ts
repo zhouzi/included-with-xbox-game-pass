@@ -5,10 +5,10 @@ export interface Game {
   // @deprecated use availability instead
   url: string;
 
-  image: string;
   availability: {
     console: string | null;
     pc: string | null;
+    steam: string | null;
   };
   updatedAt: string;
 }

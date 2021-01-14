@@ -68,7 +68,7 @@
   {
     "slug": "alan-wake",
     "name": "Alan Wake",
-    "url": "https://www.microsoft.com/en-us/store/p/alan-wake/C493V31WXV80",
+    "url": "https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/alan-wake/C493V31WXV80",
       "pc": "https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68",
@@ -83,7 +83,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/alice-madness-returns/BSNZHRCKC13J",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/19680/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -244,7 +244,7 @@
   {
     "slug": "battle-chasers-nightwar",
     "name": "Battle Chasers: Nightwar",
-    "url": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/BNVPW9NHWNM5",
+    "url": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/9NT8XR7D5L00",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/BNVPW9NHWNM5",
       "pc": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/9NT8XR7D5L00",
@@ -292,7 +292,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-bad-company-2/C0JN2J76L7C9",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/24960/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -402,7 +402,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/bejeweled-3/BR7QJW8V9L2S",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/78000/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -435,7 +435,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
       "pc": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
-      "steam": "https://store.steampowered.com/app/541470/"
+      "steam": "https://store.steampowered.com/app/1092660/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -453,7 +453,7 @@
   {
     "slug": "bloodstained-ritual-of-the-night",
     "name": "Bloodstained: Ritual of the Night",
-    "url": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9P9K78101LCW",
+    "url": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9MWB2BFF0SPD",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9P9K78101LCW",
       "pc": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9MWB2BFF0SPD",
@@ -699,7 +699,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis/BNN7BPDZ6GQB",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/17310/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -805,7 +805,7 @@
   {
     "slug": "dead-cells",
     "name": "Dead Cells",
-    "url": "https://www.microsoft.com/en-us/store/p/dead-cells/BQSCNS1T8PHQ",
+    "url": "https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-cells/BQSCNS1T8PHQ",
       "pc": "https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK",
@@ -820,7 +820,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-space/BRJLJ6RPLQTJ",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/17470/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -831,7 +831,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-space-2/C2PB7STLJGS0",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/47780/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -1014,7 +1014,7 @@
   {
     "slug": "doom-eternal-standard-edition",
     "name": "DOOM Eternal Standard Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition/9P5S26314HWQ",
+    "url": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition/9P5S26314HWQ",
       "pc": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
@@ -1062,7 +1062,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-origins/BS9SX4Q6XJRF",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/17450/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -1447,7 +1447,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii/BWKXQC5BL5R1",
       "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/39140/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -1553,7 +1553,7 @@
   {
     "slug": "for-the-king",
     "name": "For The King",
-    "url": "https://www.microsoft.com/en-us/store/p/for-the-king/BP2BW45WZ45Z",
+    "url": "https://www.microsoft.com/en-us/store/p/for-the-king/9NS1CD1V4BKW",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/for-the-king/BP2BW45WZ45Z",
       "pc": "https://www.microsoft.com/en-us/store/p/for-the-king/9NS1CD1V4BKW",
@@ -1564,7 +1564,7 @@
   {
     "slug": "forager",
     "name": "Forager",
-    "url": "https://www.microsoft.com/en-us/store/p/forager/9MV2S7Q5PHSW",
+    "url": "https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/forager/9MV2S7Q5PHSW",
       "pc": "https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13",
@@ -1784,7 +1784,7 @@
   {
     "slug": "golf-with-your-friends",
     "name": "Golf With Your Friends",
-    "url": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9N14G09PWG74",
+    "url": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9MVK5W0HMRP7",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9N14G09PWG74",
       "pc": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9MVK5W0HMRP7",
@@ -1795,7 +1795,7 @@
   {
     "slug": "gonner2",
     "name": "GONNER2",
-    "url": "https://www.microsoft.com/en-us/store/p/gonner2/9NRZHK9QN558",
+    "url": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/gonner2/9NRZHK9QN558",
       "pc": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
@@ -1971,7 +1971,7 @@
   {
     "slug": "halo-spartan-assault",
     "name": "Halo: Spartan Assault",
-    "url": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/BV0K9LMLQ9W5",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/9WZDNCRFHWFH",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/BV0K9LMLQ9W5",
       "pc": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/9WZDNCRFHWFH",
@@ -1993,7 +1993,7 @@
   {
     "slug": "halo-the-master-chief-collection",
     "name": "Halo: The Master Chief Collection",
-    "url": "https://www.xbox.com/en-us/games/halo",
+    "url": "https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/halo",
       "pc": "https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX",
@@ -2059,7 +2059,7 @@
   {
     "slug": "hello-neighbor",
     "name": "Hello Neighbor",
-    "url": "https://www.microsoft.com/en-us/store/p/hello-neighbor/C0G1L18DT97K",
+    "url": "https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/hello-neighbor/C0G1L18DT97K",
       "pc": "https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40",
@@ -2114,7 +2114,7 @@
   {
     "slug": "human-fall-flat",
     "name": "Human Fall Flat",
-    "url": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
+    "url": "https://www.microsoft.com/en-us/store/p/human-fall-flat/9MT4HS1CP72W",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
       "pc": "https://www.microsoft.com/en-us/store/p/human-fall-flat/9MT4HS1CP72W",
@@ -2147,7 +2147,7 @@
   {
     "slug": "ikenfell",
     "name": "Ikenfell",
-    "url": "https://www.microsoft.com/en-us/store/p/ikenfell/9P91S5ZL1P4D",
+    "url": "https://www.microsoft.com/en-us/store/p/ikenfell/9N2X1J99S4M9",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ikenfell/9P91S5ZL1P4D",
       "pc": "https://www.microsoft.com/en-us/store/p/ikenfell/9N2X1J99S4M9",
@@ -2360,7 +2360,7 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/machinarium/9N83GKZLC8BK",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/40700/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -2459,7 +2459,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect/BV5N90RDT0SH",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/17460/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -2470,7 +2470,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-2/C0Z1N477W100",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/24999/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -2525,7 +2525,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/medal-of-honor-airborne/C43H00X6KZRJ",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/24840/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -2565,7 +2565,7 @@
   {
     "slug": "minecraft-dungeons",
     "name": "Minecraft Dungeons",
-    "url": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons/9N8NJ74FZTG9",
+    "url": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons/9N8NJ74FZTG9",
       "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
@@ -2580,7 +2580,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mirrors-edge/BP96WRTVD7C1",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/17410/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -2609,7 +2609,7 @@
   {
     "slug": "momodora-reverie-under-the-moonlight",
     "name": "Momodora: Reverie Under the Moonlight",
-    "url": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/BPKQZ245CQ2H",
+    "url": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/9NZL00LF4V58",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/BPKQZ245CQ2H",
       "pc": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/9NZL00LF4V58",
@@ -2697,18 +2697,18 @@
   {
     "slug": "mount-and-blade-warband",
     "name": "Mount & Blade: Warband",
-    "url": "https://www.microsoft.com/en-us/store/p/mount--blade-warband/BQXN1S3V3FN9",
+    "url": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mount--blade-warband/BQXN1S3V3FN9",
       "pc": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/48700/"
     },
     "updatedAt": "2020-11-19T09:15:35.902Z"
   },
   {
     "slug": "moving-out",
     "name": "Moving Out",
-    "url": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
+    "url": "https://www.microsoft.com/en-us/store/p/moving-out/9NXPBSMHPLTV",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/moving-out/9NXPBSMHPLTV",
       "pc": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
@@ -2719,7 +2719,7 @@
   {
     "slug": "my-friend-pedro",
     "name": "My Friend Pedro",
-    "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
+    "url": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
       "pc": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
@@ -2730,7 +2730,7 @@
   {
     "slug": "my-time-at-portia",
     "name": "My Time At Portia",
-    "url": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/BX1FZX1X4132",
+    "url": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/BX1FZX1X4132",
       "pc": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH",
@@ -2807,7 +2807,7 @@
   {
     "slug": "neon-abyss",
     "name": "Neon Abyss",
-    "url": "https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN",
+    "url": "https://www.microsoft.com/en-us/store/p/neon-abyss/9PLWSGHFQ4PS",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN",
       "pc": "https://www.microsoft.com/en-us/store/p/neon-abyss/9PLWSGHFQ4PS",
@@ -2821,7 +2821,7 @@
     "url": "https://www.microsoft.com/en-us/store/p/neoverse/9NNSTP6KJTZ9",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/neoverse/9NNSTP6KJTZ9",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/neoverse/9NNSTP6KJTZ9",
       "steam": "https://store.steampowered.com/app/994220/"
     },
     "updatedAt": "2020-12-17T09:20:43.814Z"
@@ -2873,7 +2873,7 @@
   {
     "slug": "night-call",
     "name": "Night Call",
-    "url": "https://www.microsoft.com/en-us/store/p/night-call/9NZKR4V4QGD4",
+    "url": "https://www.microsoft.com/en-us/store/p/night-call/9N5KSQG0R9TB",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/night-call/9NZKR4V4QGD4",
       "pc": "https://www.microsoft.com/en-us/store/p/night-call/9N5KSQG0R9TB",
@@ -2884,7 +2884,7 @@
   {
     "slug": "night-in-the-woods",
     "name": "Night in the Woods",
-    "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods/C501VQFW8FQG",
+    "url": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/night-in-the-woods/C501VQFW8FQG",
       "pc": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
@@ -2939,7 +2939,7 @@
   {
     "slug": "ori-and-the-blind-forest-definitive-edition",
     "name": "Ori and the Blind Forest: Definitive Edition",
-    "url": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/9NBLGGH1Z6FB",
+    "url": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/BW85KQB8Q31M",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/BW85KQB8Q31M",
       "pc": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/9NBLGGH1Z6FB",
@@ -2994,7 +2994,7 @@
   {
     "slug": "oxenfree",
     "name": "Oxenfree",
-    "url": "https://www.microsoft.com/en-us/store/p/oxenfree/BSK1GN27RB8R",
+    "url": "https://www.microsoft.com/en-us/store/p/oxenfree/9NBLGGH6CTZ5",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/oxenfree/BSK1GN27RB8R",
       "pc": "https://www.microsoft.com/en-us/store/p/oxenfree/9NBLGGH6CTZ5",
@@ -3225,7 +3225,7 @@
   {
     "slug": "rage-2",
     "name": "RAGE 2",
-    "url": "https://www.xbox.com/en-us/games/rage-2",
+    "url": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/rage-2",
       "pc": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
@@ -3280,7 +3280,7 @@
   {
     "slug": "resident-evil-7-biohazard",
     "name": "RESIDENT EVIL 7 biohazard",
-    "url": "https://www.xbox.com/en-us/games/resident-evil",
+    "url": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/resident-evil",
       "pc": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
@@ -3302,7 +3302,7 @@
   {
     "slug": "river-city-girls",
     "name": "River City Girls",
-    "url": "https://www.microsoft.com/en-us/store/p/river-city-girls/9NN69HFJ8SX1",
+    "url": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/river-city-girls/9NN69HFJ8SX1",
       "pc": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
@@ -3412,7 +3412,7 @@
   {
     "slug": "shadow-warrior-2",
     "name": "Shadow Warrior 2",
-    "url": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/BP79KKVGDDH1",
+    "url": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/BP79KKVGDDH1",
       "pc": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ",
@@ -3445,7 +3445,7 @@
   {
     "slug": "slay-the-spire",
     "name": "Slay The Spire",
-    "url": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9P6W46XMDJM5",
+    "url": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9P6W46XMDJM5",
       "pc": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
@@ -3588,7 +3588,7 @@
   {
     "slug": "stellaris",
     "name": "Stellaris",
-    "url": "https://www.microsoft.com/en-us/store/p/stellaris-console-edition/BWL72GR7Z7GK",
+    "url": "https://www.microsoft.com/en-us/store/p/stellaris/9NXQPGMR917R",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/stellaris-console-edition/BWL72GR7Z7GK",
       "pc": "https://www.microsoft.com/en-us/store/p/stellaris/9NXQPGMR917R",
@@ -3643,7 +3643,7 @@
   {
     "slug": "sunset-overdrive",
     "name": "Sunset Overdrive",
-    "url": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/BRZHFR5XBLQS",
+    "url": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/9NNLBL0T2Z43",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/BRZHFR5XBLQS",
       "pc": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/9NNLBL0T2Z43",
@@ -3687,7 +3687,7 @@
   {
     "slug": "surviving-mars",
     "name": "Surviving Mars",
-    "url": "https://www.microsoft.com/en-us/store/p/surviving-mars/BXC7CS90NX6S",
+    "url": "https://www.microsoft.com/en-us/store/p/surviving-mars/9MXB71Q4VWGJ",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/surviving-mars/BXC7CS90NX6S",
       "pc": "https://www.microsoft.com/en-us/store/p/surviving-mars/9MXB71Q4VWGJ",
@@ -3874,7 +3874,7 @@
   {
     "slug": "the-long-dark",
     "name": "The Long Dark",
-    "url": "https://www.microsoft.com/en-us/store/p/the-long-dark/C41ZDFQ82M1G",
+    "url": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-long-dark/C41ZDFQ82M1G",
       "pc": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
@@ -3885,7 +3885,7 @@
   {
     "slug": "the-messenger",
     "name": "The Messenger",
-    "url": "https://www.microsoft.com/en-us/store/p/the-messenger/9P5C81K094KW",
+    "url": "https://www.microsoft.com/en-us/store/p/the-messenger/9NNFBW3NGV9K",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-messenger/9P5C81K094KW",
       "pc": "https://www.microsoft.com/en-us/store/p/the-messenger/9NNFBW3NGV9K",
@@ -4092,6 +4092,17 @@
     "updatedAt": "2020-10-22T14:19:36.679Z"
   },
   {
+    "slug": "torchlight-iii",
+    "name": "Torchlight III",
+    "url": "https://www.microsoft.com/en-us/store/p/torchlight-iii/9N944BP7SMCG",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/torchlight-iii/9N944BP7SMCG",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1030210/"
+    },
+    "updatedAt": "2021-01-14T09:53:26.977Z"
+  },
+  {
     "slug": "torment-tides-of-numenera",
     "name": "Torment: Tides of Numenera",
     "url": "https://www.microsoft.com/en-us/store/p/torment-tides-of-numenera/9NC0071DJ6XC",
@@ -4270,7 +4281,7 @@
   {
     "slug": "void-bastards",
     "name": "Void Bastards",
-    "url": "https://www.microsoft.com/en-us/store/p/void-bastards/9N584LPFG1GM",
+    "url": "https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/void-bastards/9N584LPFG1GM",
       "pc": "https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS",
@@ -4347,7 +4358,7 @@
   {
     "slug": "west-of-dead",
     "name": "West of Dead",
-    "url": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NTZCWK6P6GL",
+    "url": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NV0540N4JRN",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NTZCWK6P6GL",
       "pc": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NV0540N4JRN",
@@ -4380,7 +4391,7 @@
   {
     "slug": "wizard-of-legend",
     "name": "Wizard of Legend",
-    "url": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/C40HL7DFHWCX",
+    "url": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/9MZH0GG41HL9",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/C40HL7DFHWCX",
       "pc": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/9MZH0GG41HL9",
@@ -4391,7 +4402,7 @@
   {
     "slug": "wolfenstein-youngblood",
     "name": "Wolfenstein: Youngblood",
-    "url": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood/C421ZX7RCG0W",
+    "url": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood/C421ZX7RCG0W",
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
@@ -4424,7 +4435,7 @@
   {
     "slug": "worms-w-m-d",
     "name": "Worms W.M.D",
-    "url": "https://www.microsoft.com/en-us/store/p/worms-wmd/C4BZ7X545J1T",
+    "url": "https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/worms-wmd/C4BZ7X545J1T",
       "pc": "https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99",
@@ -4519,6 +4530,17 @@
       "steam": "https://store.steampowered.com/app/1115690/"
     },
     "updatedAt": "2020-12-03T09:17:39.020Z"
+  },
+  {
+    "slug": "yiik-a-postmodern-rpg",
+    "name": "YIIK: A Postmodern RPG",
+    "url": "https://www.microsoft.com/en-us/store/p/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
+      "steam": "https://store.steampowered.com/app/459080/"
+    },
+    "updatedAt": "2021-01-14T09:53:26.977Z"
   },
   {
     "slug": "yooka-laylee-and-the-impossible-lair",

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "included-with-xbox-game-pass",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "A browser extension that adds the mention \"included / not included with Xbox Game Pass\" on Steam's store page.",
   "permissions": ["storage", "https://xgp.community/*"],
   "content_scripts": [

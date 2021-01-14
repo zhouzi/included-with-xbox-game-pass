@@ -1648,10 +1648,18 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^16.9.56":
+"@types/react@*":
   version "16.9.56"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.56.tgz#ea25847b53c5bec064933095fc366b1462e2adf0"
   integrity sha512-gIkl4J44G/qxbuC6r2Xh+D3CGZpJ+NdWTItAPmZbR5mUS+JQ8Zvzpl0ea5qT/ZT3ZNTUcDKUVqV3xBE8wv/DyQ==
+  dependencies:
+    "@types/prop-types" "*"
+    csstype "^3.0.2"
+
+"@types/react@^17.0.0":
+  version "17.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.0.tgz#5af3eb7fad2807092f0046a1302b7823e27919b8"
+  integrity sha512-aj/L7RIMsRlWML3YB6KZiXB3fV2t41+5RBGYF8z+tAKU43Px8C3cYUZsDvf1/+Bm4FK21QWBrDutu8ZJ/70qOw==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
@@ -5826,11 +5834,6 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-fuse.js@^6.4.3:
-  version "6.4.3"
-  resolved "https://registry.yarnpkg.com/fuse.js/-/fuse.js-6.4.3.tgz#aadd6ac34aab5b1d6e6c60462fcb4d1c3f53bb01"
-  integrity sha512-JNgngolukIrqwayWnvy6NLH63hmwKPhm63o0uyBg51jPD0j09IvAzlV1rTXfAsgxpghI7khAo6Mv+EmvjDWXig==
-
 gatsby-cli@^2.13.1:
   version "2.13.1"
   resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.13.1.tgz#3d95afaa7f116cec63a5188dfca77310040ab6d0"
@@ -8440,6 +8443,11 @@ methods@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/methods/-/methods-1.1.2.tgz#5529a4d67654134edcc5266656835b0f851afcee"
   integrity sha1-VSmk1nZUE07cxSZmVoNbD4Ua/O4=
+
+micro-memoize@^4.0.9:
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/micro-memoize/-/micro-memoize-4.0.9.tgz#b44a38c9dffbee1cefc2fd139bc8947952268b62"
+  integrity sha512-Z2uZi/IUMGQDCXASdujXRqrXXEwSY0XffUrAOllhqzQI3wpUyZbiZTiE2JuYC0HSG2G7DbCS5jZmsEKEGZuemg==
 
 micromatch@^3.0.4, micromatch@^3.1.10, micromatch@^3.1.4:
   version "3.1.10"
@@ -13347,30 +13355,31 @@ web-resource-inliner@^5.0.0:
     node-fetch "^2.6.0"
     valid-data-url "^3.0.0"
 
-webext-detect-page@^2.0.2:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/webext-detect-page/-/webext-detect-page-2.0.5.tgz#132b59bfc4886c548c13c6f1a0fc4aba80603b9c"
-  integrity sha512-yyWDNgR+cb9jpSU5HIt31vMUo4j8E5P4oqQaDsmiToe++uGYnFzhQeyn1r/i3i6CfCO7GkGOr/mCmycS79dJog==
+webext-detect-page@^2.0.5:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/webext-detect-page/-/webext-detect-page-2.0.6.tgz#dbad250de3b8e82cf694e684741d00e5ac5587ef"
+  integrity sha512-IGpAHdsHz9mwpT8nHyzbdVz1ArUnsRf3PNGMprk3MgEtyN+jhcV4JqkOjNiKIb3k9sZ4WKY4lCxi5MtV1MuTYg==
 
-webext-storage-cache@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/webext-storage-cache/-/webext-storage-cache-4.1.1.tgz#0f9562c413316d3b2286abc51e2687f0676eea1a"
-  integrity sha512-CIOR1whOx5IAGfTXIpuLJQvqjLkFllOAWQsh0ZBiXyxoIrhHX9ebO7Pw13/LlFdwnPLaskZZ8i8vOGXDfTxb6g==
+webext-storage-cache@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/webext-storage-cache/-/webext-storage-cache-4.2.0.tgz#e8189aadb29115ef76d76519de00fd9025b37729"
+  integrity sha512-c3vwG6MiAoO9Ru6H6+/xbHDKSOhH3OwfhQe7d3chnlnOnpZFE76XoqrtoEktm8n/smpkI3GLbV3aBSNwjRFrow==
   dependencies:
     "@sindresorhus/to-milliseconds" "^1.2.0"
-    webext-detect-page "^2.0.2"
+    micro-memoize "^4.0.9"
+    webext-detect-page "^2.0.5"
 
-webextension-polyfill-ts@^0.21.0:
-  version "0.21.0"
-  resolved "https://registry.yarnpkg.com/webextension-polyfill-ts/-/webextension-polyfill-ts-0.21.0.tgz#de07984177b585d12e7189abfab9fb1e3fbfa048"
-  integrity sha512-x1Bbr4XVYcIUIQRNWulWHBIgKTJOhzfkcaaVraTOlvVqYiIz+pMAamrK6XKnOlWNZEybDa2DkZgidpriPSXFGw==
+webextension-polyfill-ts@^0.22.0:
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/webextension-polyfill-ts/-/webextension-polyfill-ts-0.22.0.tgz#86cfd7bab4d9d779d98c8340983f4b691b2343f3"
+  integrity sha512-3P33ClMwZ/qiAT7UH1ROrkRC1KM78umlnPpRhdC/292UyoTTW9NcjJEqDsv83HbibcTB6qCtpVeuB2q2/oniHQ==
   dependencies:
-    webextension-polyfill "^0.6.0"
+    webextension-polyfill "^0.7.0"
 
-webextension-polyfill@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/webextension-polyfill/-/webextension-polyfill-0.6.0.tgz#1afd925f3274a0d4848083579b9c0b649a5c6763"
-  integrity sha512-PlYwiX8e4bNZrEeBFxbFFsLtm0SMPxJliLTGdNCA0Bq2XkWrAn2ejUd+89vZm+8BnfFB1BclJyCz3iKsm2atNg==
+webextension-polyfill@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/webextension-polyfill/-/webextension-polyfill-0.7.0.tgz#0df1120ff0266056319ce1a622b09ad8d4a56505"
+  integrity sha512-su48BkMLxqzTTvPSE1eWxKToPS2Tv5DLGxKexLEVpwFd6Po6N8hhSLIvG6acPAg7qERoEaDL+Y5HQJeJeml5Aw==
 
 webidl-conversions@^4.0.2:
   version "4.0.2"

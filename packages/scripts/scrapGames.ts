@@ -65,7 +65,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
             pc: null,
             steam: currentGame?.availability.steam ?? null,
           },
-          updatedAt: currentGame?.updatedAt ?? updatedAt,
+          updatedAt,
         };
       }
 
@@ -86,6 +86,24 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
   })();
 
   browser.close();
+
+  Object.values(games).forEach((game) => {
+    const currentGame = currentGames.find(
+      (currentGame) => currentGame.slug === game.slug
+    );
+    if (
+      // if the game was already included
+      currentGame &&
+      // with the same availability
+      ["console" as const, "pc" as const].every(
+        (platform) =>
+          currentGame.availability[platform] && game.availability[platform]
+      )
+    ) {
+      // then keep its old updatedAt date
+      game.updatedAt = currentGame.updatedAt;
+    }
+  });
 
   const {
     applist: { apps },

@@ -60,7 +60,6 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
         games[slug] = {
           slug,
           name,
-          url: rawGame.url,
           availability: {
             console: null,
             pc: null,

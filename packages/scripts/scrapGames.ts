@@ -91,16 +91,15 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
     const currentGame = currentGames.find(
       (currentGame) => currentGame.slug === game.slug
     );
+
+    // keep the old updatedAt if the game has the same or less availability as before
     if (
-      // if the game was already included
       currentGame &&
-      // with the same availability
-      ["console" as const, "pc" as const].every(
-        (platform) =>
-          currentGame.availability[platform] && game.availability[platform]
-      )
+      [currentGame.availability.console, currentGame.availability.pc].filter(
+        Boolean
+      ).length >=
+        [game.availability.console, game.availability.pc].filter(Boolean).length
     ) {
-      // then keep its old updatedAt date
       game.updatedAt = currentGame.updatedAt;
     }
   });

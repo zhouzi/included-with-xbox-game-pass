@@ -54,7 +54,7 @@ export default async function badge(currentRoute: RouteName) {
   }
 
   const appName = window.document.querySelector(".apphub_AppName")!;
-  const game = await getGame(appName.textContent!);
+  const game = await getGame(window.location.href);
 
   if (game) {
     appName.parentNode!.insertBefore(

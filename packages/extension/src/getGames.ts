@@ -15,6 +15,7 @@ export interface CachedGame {
   availability: {
     console: string;
     pc: string;
+    steam: string;
   };
 }
 

@@ -178,7 +178,9 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
               (game) => `
             <mj-column width="50%" padding="0 14px 14px 0">
               <mj-text padding="0">
-                <h2><a href="${game.url}">${game.name}</a></h2>
+                <h2><a href="${
+                  game.availability.pc ?? game.availability.console
+                }">${game.name}</a></h2>
                 <p>Available on: ${[
                   game.availability.pc && "PC",
                   game.availability.console && "Console",

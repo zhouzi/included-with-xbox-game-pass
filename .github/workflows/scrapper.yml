@@ -10,9 +10,6 @@ jobs:
       - uses: actions/setup-node@v1
       - run: yarn
       - run: yarn --cwd ./packages/scripts scrapGames
-      - run: yarn --cwd ./packages/scripts generateNewsletterTemplate
-        env:
-          SENDINBLUE_API_KEY: ${{ secrets.SENDINBLUE_API_KEY }}
       - uses: peter-evans/create-pull-request@v3
         with:
           reviewers: zhouzi

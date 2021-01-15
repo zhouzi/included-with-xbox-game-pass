@@ -123,7 +123,7 @@ export function Home() {
           . Regarding the latest news, Microsoft usually posts them on{" "}
           <a href="https://twitter.com/xboxgamepass" className="Link">
             Twitter
-          </a>
+          </a>{" "}
           and/or on their{" "}
           <a
             href="https://news.xbox.com/en-us/xbox-game-pass/"

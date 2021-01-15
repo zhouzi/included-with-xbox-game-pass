@@ -25,7 +25,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
   const updatedAt = new Date().toISOString();
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  const games: Record<string, Game> = {};
+  const rawGames: ScrappedGame[] = [];
 
   await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
 
@@ -34,30 +34,45 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       `.gameList [itemtype="http://schema.org/Product"]`
     );
 
-    const rawGames = await page.$$eval(
-      `.gameList [itemtype="http://schema.org/Product"]`,
-      (elements) =>
-        elements.map(
-          (element): ScrappedGame => ({
-            name: element.querySelector("h3")!.textContent!,
-            url: element.querySelector("a")!.href,
-            availability: {
-              console: Boolean(element.querySelector(`[aria-label="Console"]`)),
-              pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
-            },
-          })
-        )
+    rawGames.push(
+      ...(await page.$$eval(
+        `.gameList [itemtype="http://schema.org/Product"]`,
+        (elements) =>
+          elements.map(
+            (element): ScrappedGame => ({
+              name: element.querySelector("h3")!.textContent!,
+              url: element.querySelector("a")!.href,
+              availability: {
+                console: Boolean(
+                  element.querySelector(`[aria-label="Console"]`)
+                ),
+                pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
+              },
+            })
+          )
+      ))
     );
 
-    rawGames.forEach((rawGame) => {
+    try {
+      await page.waitForTimeout(random(500, 2000));
+      await page.click(".paginatenext:not(.pag-disabled) a");
+      return scrapCurrentPageAndGoNext();
+    } catch (err) {}
+  })();
+
+  browser.close();
+
+  const games = rawGames
+    .sort((a, b) => alphaSort.ascending(a.name, b.name))
+    .reduce<Record<string, Game>>((acc, rawGame) => {
       const name = cleanName(rawGame.name);
       const slug = slugify(name, {
         decamelize: false,
       });
       const currentGame = currentGames.find((game) => game.slug === slug);
 
-      if (games[slug] == null) {
-        games[slug] = {
+      if (acc[slug] == null) {
+        acc[slug] = {
           slug,
           name,
           availability: {
@@ -73,36 +88,25 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
         [keyof typeof rawGame.availability, boolean]
       >).forEach(([platform, isAvailable]) => {
         if (isAvailable) {
-          games[slug].availability[platform] = rawGame.url;
+          acc[slug].availability[platform] = rawGame.url;
         }
       });
-    });
 
-    try {
-      await page.waitForTimeout(random(500, 2000));
-      await page.click(".paginatenext:not(.pag-disabled) a");
-      return scrapCurrentPageAndGoNext();
-    } catch (err) {}
-  })();
+      // keep the old updatedAt if the game has the same or less availability as before
+      if (
+        currentGame &&
+        [currentGame.availability.console, currentGame.availability.pc].filter(
+          Boolean
+        ).length >=
+          [acc[slug].availability.console, acc[slug].availability.pc].filter(
+            Boolean
+          ).length
+      ) {
+        acc[slug].updatedAt = currentGame.updatedAt;
+      }
 
-  browser.close();
-
-  Object.values(games).forEach((game) => {
-    const currentGame = currentGames.find(
-      (currentGame) => currentGame.slug === game.slug
-    );
-
-    // keep the old updatedAt if the game has the same or less availability as before
-    if (
-      currentGame &&
-      [currentGame.availability.console, currentGame.availability.pc].filter(
-        Boolean
-      ).length >=
-        [game.availability.console, game.availability.pc].filter(Boolean).length
-    ) {
-      game.updatedAt = currentGame.updatedAt;
-    }
-  });
+      return acc;
+    }, {});
 
   const {
     applist: { apps },

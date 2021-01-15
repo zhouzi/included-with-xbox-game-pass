@@ -24,7 +24,9 @@ export default async function wishList(currentRoute: RouteName) {
     );
 
     for (const addedGame of addedGames) {
-      const game = await getGame(addedGame.getAttribute("href"));
+      const game = await getGame(
+        addedGame.querySelector(".title").getAttribute("href")
+      );
 
       if (game) {
         addedGame.querySelector(".platform_icons")!.prepend(

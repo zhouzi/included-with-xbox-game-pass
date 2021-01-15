@@ -108,22 +108,18 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text font-size="16px" padding="0 0 14px 0">
             <p>
-              I am back from a short break, I hope you are all doing good.
-              Microsoft has been quiet since mid December so not much happened.
-              But things are about to change since a <a href="https://www.reddit.com/r/XboxGamePass/comments/kqyzzv/coming_soon/">few games are joining the pass soon</a>.
+              Microsoft has yet to communicate their plans for the Xbox Game Pass in 2021.
+              We haven't heard much from them for a few weeks, which is a bit surprising.
+              Nothing to worry about though, the pass is still the <a href="https://www.reddit.com/r/XboxGamePass/comments/kt95wq/the_value_of_game_pass_is_truly_insane_to_me/">number 1 subscription service for gamers</a>.
+              A subscription that you can get for free by <a href="https://www.reddit.com/r/XboxGamePass/comments/kwhl03/protip_doing_bing_daily_searches_can_get_you_free/">doing Bing daily seaches</a>.
+              If you'd rather <a href="https://www.reddit.com/r/XboxGamePass/comments/kxhpc7/fyi_apparently_the_3_months_for_1_promotion_for/">pay 1$ for 3 months of Xbox Game Pass Ultimate</a>, you can do so until January 25th.
             </p>
             <p>
-              Also, there's a crazy <a href="https://www.reddit.com/r/XboxGamePass/comments/kn771y/just_a_rumor_for_now_but_that_would_be_insane/">rumor that Ubisoft Plus could be coming to the Xbox Game Pass</a>.
-              With EA Play already available on console and coming to PC soon, that would make the Xbox Game Pass a must-have!
+              This week Bethesda, which is owned by Microsoft, announced a <a href="https://www.reddit.com/r/XboxGamePass/comments/kvvgmt/new_indy_game_likely_to_be_on_xbox_game_pass_day_1/">new Indiania Jones game</a>. So it's very likely that it's going to be available with Xbox Game Pass day 1.
             </p>
             <p>
-              Speaking of unknowns, the Xbox Game Pass twitter account <a href="https://www.reddit.com/r/XboxGamePass/comments/kp124h/return_of_game_pass_game_teased_by_xbox_game_pass/">teased a game that should be coming back soon</a>.
-              GTA V, Red Dead Redemption 2 and Fallout 4 and Kingdom Come Delivrance are some good candidates according to the community.
-            </p>
-            <p>
-              On Reddit, we discovered the podcast "<a href="https://www.reddit.com/r/XboxGamePass/comments/kobrir/beat_the_sheet_the_xbox_game_pass_podcast/">Beat The Sheet</a>" in which people share their impressions of the games in the Xbox Game Pass.
-              They also review games that are leaving soon, which could be a great way to make sure not to miss gems leaving soon.
-            </p>
+              Speaking of games, people have been praising <a href="https://www.reddit.com/r/XboxGamePass/comments/kudhbr/dont_miss_out_on_yakuza/">Yakuza</a>, <a href="https://www.reddit.com/r/XboxGamePass/comments/ku87xe/if_you_liked_gears_try_titanfall_2/">Titanfall 2</a> and made a few recommandations if <a href="https://www.reddit.com/r/XboxGamePass/comments/kv99hf/what_are_some_good_group_games_on_gamepass/">you are looking for group games</a>.
+            </P>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -170,7 +166,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-section padding="14px 14px 0 14px">
           <mj-column width="100%">
             <mj-text padding="0 0 14px 0">
-              <p class="SectionTitle">New games</p>
+              <p class="SectionTitle">Added this week</p>
             </mj-text>
           </mj-column>
           ${newGames

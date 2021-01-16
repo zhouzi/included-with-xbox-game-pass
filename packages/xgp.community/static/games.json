@@ -395,7 +395,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
       "pc": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
-      "steam": "https://store.steampowered.com/app/1092660/"
+      "steam": "https://store.steampowered.com/app/541470/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -1470,16 +1470,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "ftl-faster-than-light",
-    "name": "FTL: Faster Than Light",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/ftl-faster-than-light/9NWNTZQW4G8G",
-      "steam": "https://store.steampowered.com/app/212680/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "full-throttle-remastered",
     "name": "Full Throttle Remastered",
     "availability": {
@@ -2470,16 +2460,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "my-friend-pedro",
-    "name": "My Friend Pedro",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
-      "pc": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
-      "steam": "https://store.steampowered.com/app/557340/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "my-time-at-portia",
     "name": "My Time At Portia",
     "availability": {
@@ -3360,32 +3340,12 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "sword-art-online-fatal-bullet",
-    "name": "SWORD ART ONLINE: FATAL BULLET",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/sword-art-online-fatal-bullet/BWH56DK175P1",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/626690/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "tales-of-vesperia-definitive-edition",
     "name": "Tales of Vesperia™: Definitive Edition",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/tales-of-vesperia",
       "pc": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
       "steam": "https://store.steampowered.com/app/738540/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "tekken-7",
-    "name": "TEKKEN 7",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/tekken-7/BRJGPRMBV1NT",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/389730/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },

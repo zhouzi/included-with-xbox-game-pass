@@ -635,7 +635,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis/BNN7BPDZ6GQB",
       "pc": null,
-      "steam": "https://store.steampowered.com/app/17310/"
+      "steam": "https://store.steampowered.com/app/17300/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -645,7 +645,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis-2/BQBTGDT4P54J",
       "pc": null,
-      "steam": "https://store.steampowered.com/app/99839/"
+      "steam": "https://store.steampowered.com/app/99830/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -1225,7 +1225,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas/BX3JNK07Z6QK",
       "pc": null,
-      "steam": "https://store.steampowered.com/app/5711/"
+      "steam": "https://store.steampowered.com/app/22380/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -1466,16 +1466,6 @@
       "console": "https://www.microsoft.com/en-us/store/p/frostpunk-console-edition/9NP539LHJD8S",
       "pc": "https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X",
       "steam": "https://store.steampowered.com/app/323190/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "ftl-faster-than-light",
-    "name": "FTL: Faster Than Light",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/ftl-faster-than-light/9NWNTZQW4G8G",
-      "steam": "https://store.steampowered.com/app/212680/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -2245,7 +2235,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-2/C0Z1N477W100",
       "pc": null,
-      "steam": "https://store.steampowered.com/app/24999/"
+      "steam": "https://store.steampowered.com/app/24980/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -2466,16 +2456,6 @@
       "console": "https://www.microsoft.com/en-us/store/p/moving-out/9NXPBSMHPLTV",
       "pc": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
       "steam": "https://store.steampowered.com/app/996770/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "my-friend-pedro",
-    "name": "My Friend Pedro",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH",
-      "pc": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
-      "steam": "https://store.steampowered.com/app/557340/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -3360,32 +3340,12 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "sword-art-online-fatal-bullet",
-    "name": "SWORD ART ONLINE: FATAL BULLET",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/sword-art-online-fatal-bullet/BWH56DK175P1",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/626690/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "tales-of-vesperia-definitive-edition",
     "name": "Tales of Vesperia™: Definitive Edition",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/tales-of-vesperia",
       "pc": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
       "steam": "https://store.steampowered.com/app/738540/"
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "tekken-7",
-    "name": "TEKKEN 7",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/tekken-7/BRJGPRMBV1NT",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/389730/"
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -4165,7 +4125,7 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/zumas-revenge/BR9MPWXFBCRC",
       "pc": null,
-      "steam": "https://store.steampowered.com/app/3629/"
+      "steam": "https://store.steampowered.com/app/3620/"
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   }

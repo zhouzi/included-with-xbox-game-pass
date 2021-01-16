@@ -10,7 +10,7 @@ import { Game } from "@xgp/types";
 
 import currentGames from "../xgp.community/static/games.json";
 
-interface ScrappedGame {
+interface RawGame {
   name: string;
   url: string;
   availability: {
@@ -25,7 +25,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
   const updatedAt = new Date().toISOString();
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  const rawGames: ScrappedGame[] = [];
+  const rawGames: RawGame[] = [];
 
   await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
 
@@ -39,7 +39,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
         `.gameList [itemtype="http://schema.org/Product"]`,
         (elements) =>
           elements.map(
-            (element): ScrappedGame => ({
+            (element): RawGame => ({
               name: element.querySelector("h3")!.textContent!,
               url: element.querySelector("a")!.href,
               availability: {

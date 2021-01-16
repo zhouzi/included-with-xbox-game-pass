@@ -84,25 +84,18 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
         };
       }
 
-      (Object.entries(rawGame.availability) as Array<
-        [keyof typeof rawGame.availability, boolean]
-      >).forEach(([platform, isAvailable]) => {
-        if (isAvailable) {
-          acc[slug].availability[platform] = rawGame.url;
-        }
-      });
+      const game = acc[slug];
 
-      // keep the old updatedAt if the game has the same or less availability as before
-      if (
-        currentGame &&
-        [currentGame.availability.console, currentGame.availability.pc].filter(
-          Boolean
-        ).length >=
-          [acc[slug].availability.console, acc[slug].availability.pc].filter(
-            Boolean
-          ).length
-      ) {
-        acc[slug].updatedAt = currentGame.updatedAt;
+      if (rawGame.availability.console) {
+        game.availability.console = rawGame.url;
+      }
+
+      if (rawGame.availability.pc) {
+        game.availability.pc = rawGame.url;
+      }
+
+      if (currentGame && !hasNewAvailability(currentGame, game)) {
+        game.updatedAt = currentGame.updatedAt;
       }
 
       return acc;
@@ -118,7 +111,8 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       decamelize: false,
     });
 
-    if (games.hasOwnProperty(slug)) {
+    // the steam url may be edited manually so it's never updated automatically
+    if (games.hasOwnProperty(slug) && games[slug].availability.steam == null) {
       games[
         slug
       ].availability.steam = `https://store.steampowered.com/app/${app.appid}/`;
@@ -135,6 +129,13 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
     }
   );
 })();
+
+function hasNewAvailability(oldGame: Game, newGame: Game): boolean {
+  return (
+    (Boolean(newGame.availability.console) && !oldGame.availability.console) ||
+    (Boolean(newGame.availability.pc) && !oldGame.availability.pc)
+  );
+}
 
 function cleanName(name: string): string {
   // games tend to add a suffix to their name on the Microsoft store

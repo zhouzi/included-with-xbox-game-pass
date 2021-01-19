@@ -11,10 +11,10 @@ import { Game } from "@xgp/types";
 import currentGames from "../xgp.community/static/games.json";
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
+const NOW = new Date().toISOString();
 
 (async function updateGamesList() {
-  const updatedAt = new Date().toISOString();
-  const scrappedGames = await scrapGames();
+  const scrappedGames = await getScrappedGames();
   const games = sortGames(scrappedGames).reduce<Record<string, Game>>(
     (acc, scrappedGame) => {
       const name = cleanName(scrappedGame.name);
@@ -33,7 +33,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
             steam: currentGame?.availability.steam ?? null,
           },
           steam: currentGame?.steam ?? null,
-          updatedAt,
+          updatedAt: NOW,
         };
       }
 
@@ -56,6 +56,19 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
     {}
   );
 
+  await updateSteamRelation(games);
+  await updateSteamReviews(games);
+
+  await fse.writeJSON(
+    path.join(OUTPUT_DIR, "games.json"),
+    sortGames(Object.values(games)),
+    {
+      spaces: 2,
+    }
+  );
+})();
+
+async function updateSteamRelation(games: Record<string, Game>) {
   const {
     applist: { apps },
   } = await got("https://api.steampowered.com/ISteamApps/GetAppList/v2/").json<{
@@ -83,15 +96,59 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       ].availability.steam = `https://store.steampowered.com/app/${app.appid}/`;
     }
   });
+}
 
-  await fse.writeJSON(
-    path.join(OUTPUT_DIR, "games.json"),
-    sortGames(Object.values(games)),
-    {
-      spaces: 2,
-    }
-  );
-})();
+async function updateSteamReviews(games: Record<string, Game>) {
+  const priorizedSlugs = Object.values(games)
+    .filter((game) => game.steam != null)
+    // prioritize games without reviews data, then the oldest ones
+    .sort((a, b) => {
+      if (a.steam!.reviews == null && b.steam!.reviews != null) {
+        return -1;
+      }
+      if (a.steam!.reviews != null && b.steam!.reviews == null) {
+        return 1;
+      }
+      if (a.steam!.reviews == null && b.steam!.reviews == null) {
+        return 0;
+      }
+      return (
+        new Date(a.steam!.reviews!.updatedAt).getTime() -
+        new Date(b.steam!.reviews!.updatedAt).getTime()
+      );
+    })
+    // up to 100 requests are made to steam's api to avoid quota limit
+    .slice(0, 100)
+    .map((game) => game.slug);
+
+  for (const slug of priorizedSlugs) {
+    const { appid } = games[slug].steam!;
+    const {
+      query_summary: {
+        review_score,
+        review_score_desc,
+        total_positive,
+        total_negative,
+      },
+    } = await got(
+      `https://store.steampowered.com/appreviews/${appid}?json=1`
+    ).json<{
+      query_summary: {
+        review_score: number;
+        review_score_desc: string;
+        total_positive: number;
+        total_negative: number;
+      };
+    }>();
+    games[slug].steam!.reviews = {
+      reviewScore: review_score,
+      reviewScoreDesc: review_score_desc,
+      totalPositive: total_positive,
+      totalNegative: total_negative,
+      updatedAt: NOW,
+    };
+  }
+}
 
 // Represents a game as scrapped from the Xbox Game Pass website
 // It doesn't have all the final data and structure yet
@@ -104,7 +161,7 @@ interface ScrappedGame {
   };
 }
 
-async function scrapGames(): Promise<ScrappedGame[]> {
+async function getScrappedGames(): Promise<ScrappedGame[]> {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   const scrappedGames: ScrappedGame[] = [];
@@ -148,7 +205,9 @@ async function scrapGames(): Promise<ScrappedGame[]> {
 }
 
 function sortGames<T extends Array<{ name: string }>>(games: T): T {
-  const compareNames = alphaSort({ natural: true });
+  const compareNames = alphaSort({
+    caseInsensitive: true,
+  });
   return games.sort((a, b) => compareNames(a.name, b.name));
 }
 

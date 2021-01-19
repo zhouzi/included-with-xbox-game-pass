@@ -11,7 +11,10 @@ export interface Game {
   steam: {
     appid: number;
     reviews: {
+      reviewScore: number;
       reviewScoreDesc: string;
+      totalPositive: number;
+      totalNegative: number;
       updatedAt: string;
     } | null;
   } | null;

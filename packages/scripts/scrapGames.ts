@@ -10,61 +10,14 @@ import { Game } from "@xgp/types";
 
 import currentGames from "../xgp.community/static/games.json";
 
-interface RawGame {
-  name: string;
-  url: string;
-  availability: {
-    console: boolean;
-    pc: boolean;
-  };
-}
-
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
-(async function scrapGames() {
+(async function updateGamesList() {
   const updatedAt = new Date().toISOString();
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  const rawGames: RawGame[] = [];
-
-  await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
-
-  await (async function scrapCurrentPageAndGoNext(): Promise<void> {
-    await page.waitForSelector(
-      `.gameList [itemtype="http://schema.org/Product"]`
-    );
-
-    rawGames.push(
-      ...(await page.$$eval(
-        `.gameList [itemtype="http://schema.org/Product"]`,
-        (elements) =>
-          elements.map(
-            (element): RawGame => ({
-              name: element.querySelector("h3")!.textContent!,
-              url: element.querySelector("a")!.href,
-              availability: {
-                console: Boolean(
-                  element.querySelector(`[aria-label="Console"]`)
-                ),
-                pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
-              },
-            })
-          )
-      ))
-    );
-
-    try {
-      await page.waitForTimeout(random(500, 2000));
-      await page.click(".paginatenext:not(.pag-disabled) a");
-      return scrapCurrentPageAndGoNext();
-    } catch (err) {}
-  })();
-
-  browser.close();
-
-  const games = sortGames(rawGames).reduce<Record<string, Game>>(
-    (acc, rawGame) => {
-      const name = cleanName(rawGame.name);
+  const scrappedGames = await scrapGames();
+  const games = sortGames(scrappedGames).reduce<Record<string, Game>>(
+    (acc, scrappedGame) => {
+      const name = cleanName(scrappedGame.name);
       const slug = slugify(name, {
         decamelize: false,
       });
@@ -85,12 +38,12 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
       const game = acc[slug];
 
-      if (rawGame.availability.console) {
-        game.availability.console = rawGame.url;
+      if (scrappedGame.availability.console) {
+        game.availability.console = scrappedGame.url;
       }
 
-      if (rawGame.availability.pc) {
-        game.availability.pc = rawGame.url;
+      if (scrappedGame.availability.pc) {
+        game.availability.pc = scrappedGame.url;
       }
 
       if (currentGame && !hasNewAvailability(currentGame, game)) {
@@ -128,6 +81,60 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
     }
   );
 })();
+
+// Represents a game as scrapped from the Xbox Game Pass website
+// It doesn't have all the final data and structure yet
+interface ScrappedGame {
+  name: string;
+  url: string;
+  availability: {
+    console: boolean;
+    pc: boolean;
+  };
+}
+
+async function scrapGames(): Promise<ScrappedGame[]> {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  const scrappedGames: ScrappedGame[] = [];
+
+  await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
+
+  await (async function scrapCurrentPageAndGoNext(): Promise<void> {
+    await page.waitForSelector(
+      `.gameList [itemtype="http://schema.org/Product"]`
+    );
+
+    scrappedGames.push(
+      ...(await page.$$eval(
+        `.gameList [itemtype="http://schema.org/Product"]`,
+        (elements) =>
+          elements.map(
+            (element): ScrappedGame => ({
+              name: element.querySelector("h3")!.textContent!,
+              url: element.querySelector("a")!.href,
+              availability: {
+                console: Boolean(
+                  element.querySelector(`[aria-label="Console"]`)
+                ),
+                pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
+              },
+            })
+          )
+      ))
+    );
+
+    try {
+      await page.waitForTimeout(random(500, 2000));
+      await page.click(".paginatenext:not(.pag-disabled) a");
+      return scrapCurrentPageAndGoNext();
+    } catch (err) {}
+  })();
+
+  browser.close();
+
+  return scrappedGames;
+}
 
 function sortGames<T extends Array<{ name: string }>>(games: T): T {
   const compareNames = alphaSort({ natural: true });

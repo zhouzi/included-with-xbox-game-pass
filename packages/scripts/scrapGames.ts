@@ -62,9 +62,8 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
   browser.close();
 
-  const games = rawGames
-    .sort((a, b) => alphaSort.ascending(a.name, b.name))
-    .reduce<Record<string, Game>>((acc, rawGame) => {
+  const games = sortGames(rawGames).reduce<Record<string, Game>>(
+    (acc, rawGame) => {
       const name = cleanName(rawGame.name);
       const slug = slugify(name, {
         decamelize: false,
@@ -99,7 +98,9 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       }
 
       return acc;
-    }, {});
+    },
+    {}
+  );
 
   const {
     applist: { apps },
@@ -121,14 +122,17 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 
   await fse.writeJSON(
     path.join(OUTPUT_DIR, "games.json"),
-    Object.values(games).sort((a, b) =>
-      alphaSort.caseInsensitiveAscending(a.name, b.name)
-    ),
+    sortGames(Object.values(games)),
     {
       spaces: 2,
     }
   );
 })();
+
+function sortGames<T extends Array<{ name: string }>>(games: T): T {
+  const compareNames = alphaSort({ natural: true });
+  return games.sort((a, b) => compareNames(a.name, b.name));
+}
 
 function hasNewAvailability(oldGame: Game, newGame: Game): boolean {
   return (

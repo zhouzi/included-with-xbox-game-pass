@@ -32,6 +32,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
             pc: null,
             steam: currentGame?.availability.steam ?? null,
           },
+          steam: currentGame?.steam ?? null,
           updatedAt,
         };
       }
@@ -65,8 +66,18 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
       decamelize: false,
     });
 
-    // the steam url may be edited manually so it's never updated automatically
-    if (games.hasOwnProperty(slug) && games[slug].availability.steam == null) {
+    if (!games.hasOwnProperty(slug)) {
+      return;
+    }
+
+    if (games[slug].steam == null) {
+      games[slug].steam = {
+        appid: app.appid,
+        reviews: games[slug].steam?.reviews ?? null,
+      };
+
+      // this property is deprecated and will be removed in the future
+      // until then let's keep it updated
       games[
         slug
       ].availability.steam = `https://store.steampowered.com/app/${app.appid}/`;

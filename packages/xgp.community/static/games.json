@@ -7,7 +7,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
       "steam": "https://store.steampowered.com/app/752590/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 752590,
+      "reviews": null
+    }
   },
   {
     "slug": "a-way-out",
@@ -17,7 +21,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1222700/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1222700,
+      "reviews": null
+    }
   },
   {
     "slug": "ace-combat-7-skies-unknown",
@@ -27,7 +35,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/502500/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 502500,
+      "reviews": null
+    }
   },
   {
     "slug": "age-of-empires-definitive-edition",
@@ -37,7 +49,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-definitive-edition/9NJWTJSVGVLJ",
       "steam": "https://store.steampowered.com/app/1017900/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1017900,
+      "reviews": null
+    }
   },
   {
     "slug": "age-of-empires-ii-definitive-edition",
@@ -47,7 +63,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q",
       "steam": "https://store.steampowered.com/app/813780/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 813780,
+      "reviews": null
+    }
   },
   {
     "slug": "age-of-empires-iii-definitive-edition",
@@ -57,7 +77,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-iii-definitive-edition/9N1HF804QXN4",
       "steam": "https://store.steampowered.com/app/933110/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 933110,
+      "reviews": null
+    }
   },
   {
     "slug": "alan-wake",
@@ -67,7 +91,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68",
       "steam": "https://store.steampowered.com/app/108710/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 108710,
+      "reviews": null
+    }
   },
   {
     "slug": "alice-madness-returns",
@@ -77,7 +105,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/19680/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 19680,
+      "reviews": null
+    }
   },
   {
     "slug": "alien-isolation",
@@ -87,7 +119,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/alien-isolation/9NSRJ872SGH7",
       "steam": "https://store.steampowered.com/app/214490/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 214490,
+      "reviews": null
+    }
   },
   {
     "slug": "alvastia-chronicles",
@@ -97,7 +133,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/alvastia-chronicles/9MVJGBNNFPPS",
       "steam": "https://store.steampowered.com/app/948660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 948660,
+      "reviews": null
+    }
   },
   {
     "slug": "among-us",
@@ -107,7 +147,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/among-us/9NG07QJNK38J",
       "steam": "https://store.steampowered.com/app/945360/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 945360,
+      "reviews": null
+    }
   },
   {
     "slug": "anthem",
@@ -117,7 +161,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ape-out",
@@ -127,7 +172,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/ape-out/9NR6DZ9F76P8",
       "steam": "https://store.steampowered.com/app/447150/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 447150,
+      "reviews": null
+    }
   },
   {
     "slug": "ark-survival-evolved-explorer-s-edition",
@@ -137,7 +186,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
       "steam": "https://store.steampowered.com/app/346110/"
     },
-    "updatedAt": "2020-11-17T09:14:56.670Z"
+    "updatedAt": "2020-11-17T09:14:56.670Z",
+    "steam": {
+      "appid": 346110,
+      "reviews": null
+    }
   },
   {
     "slug": "army-of-two",
@@ -147,7 +200,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "assetto-corsa",
@@ -157,7 +211,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/244210/"
     },
-    "updatedAt": "2020-12-10T09:19:57.314Z"
+    "updatedAt": "2020-12-10T09:19:57.314Z",
+    "steam": {
+      "appid": 244210,
+      "reviews": null
+    }
   },
   {
     "slug": "astrologaster",
@@ -167,7 +225,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/astrologaster/9NFT0CMC62DX",
       "steam": "https://store.steampowered.com/app/742520/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 742520,
+      "reviews": null
+    }
   },
   {
     "slug": "astroneer",
@@ -177,7 +239,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/astroneer/9NBLGGH43KZB",
       "steam": "https://store.steampowered.com/app/361420/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 361420,
+      "reviews": null
+    }
   },
   {
     "slug": "banjo-kazooie-n-n-b",
@@ -187,7 +253,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "banjo-kazooie",
@@ -197,7 +264,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "banjo-tooie",
@@ -207,7 +275,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "batman-arkham-knight",
@@ -217,7 +286,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/208650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 208650,
+      "reviews": null
+    }
   },
   {
     "slug": "battle-chasers-nightwar",
@@ -227,7 +300,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/9NT8XR7D5L00",
       "steam": "https://store.steampowered.com/app/451020/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 451020,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefield-1943",
@@ -237,7 +314,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "battlefield-3",
@@ -247,7 +325,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238820/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238820,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefield-4",
@@ -257,7 +339,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238860/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238860,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefield-bad-company-2",
@@ -267,7 +353,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/24960/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 24960,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefield-bad-company",
@@ -277,7 +367,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "battlefield-1",
@@ -287,7 +378,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238840/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238840,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefield-hardline",
@@ -297,7 +392,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238880/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238880,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefield-v",
@@ -307,7 +406,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238810/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238810,
+      "reviews": null
+    }
   },
   {
     "slug": "battlefleet-gothic-armada-2",
@@ -317,7 +420,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/battlefleet-gothic-armada-2---windows-10/9NGWKW55M85P",
       "steam": "https://store.steampowered.com/app/573100/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 573100,
+      "reviews": null
+    }
   },
   {
     "slug": "battletech",
@@ -327,7 +434,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/battletech/9NQVDQS2BC10",
       "steam": "https://store.steampowered.com/app/637090/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 637090,
+      "reviews": null
+    }
   },
   {
     "slug": "battletoads",
@@ -337,7 +448,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/battletoads/9N7GCF5SGCXC",
       "steam": "https://store.steampowered.com/app/1244950/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1244950,
+      "reviews": null
+    }
   },
   {
     "slug": "beholder-complete-edition",
@@ -347,7 +462,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": null
   },
   {
     "slug": "bejeweled-2",
@@ -357,7 +473,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "bejeweled-3",
@@ -367,7 +484,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/78000/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 78000,
+      "reviews": null
+    }
   },
   {
     "slug": "black-desert",
@@ -377,7 +498,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/836620/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 836620,
+      "reviews": null
+    }
   },
   {
     "slug": "black",
@@ -387,7 +512,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "blair-witch",
@@ -397,7 +523,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
       "steam": "https://store.steampowered.com/app/1092660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1092660,
+      "reviews": null
+    }
   },
   {
     "slug": "bleeding-edge",
@@ -407,7 +537,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/bleeding-edge/9NX6XGVJ0J3D",
       "steam": "https://store.steampowered.com/app/1189800/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1189800,
+      "reviews": null
+    }
   },
   {
     "slug": "bloodstained-ritual-of-the-night",
@@ -417,7 +551,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9MWB2BFF0SPD",
       "steam": "https://store.steampowered.com/app/692850/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 692850,
+      "reviews": null
+    }
   },
   {
     "slug": "bridge-constructor-portal",
@@ -427,7 +565,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/9PDXF172R7VJ",
       "steam": "https://store.steampowered.com/app/684410/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 684410,
+      "reviews": null
+    }
   },
   {
     "slug": "broforce",
@@ -437,7 +579,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/broforce/9P03ZQMBMV65",
       "steam": "https://store.steampowered.com/app/274190/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 274190,
+      "reviews": null
+    }
   },
   {
     "slug": "bruetal-legend",
@@ -447,7 +593,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/225260/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 225260,
+      "reviews": null
+    }
   },
   {
     "slug": "burnout-paradise-remastered",
@@ -457,7 +607,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238080/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238080,
+      "reviews": null
+    }
   },
   {
     "slug": "call-of-the-sea",
@@ -467,7 +621,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9NNG78K7N91K",
       "steam": "https://store.steampowered.com/app/1042490/"
     },
-    "updatedAt": "2020-12-08T09:19:33.718Z"
+    "updatedAt": "2020-12-08T09:19:33.718Z",
+    "steam": {
+      "appid": 1042490,
+      "reviews": null
+    }
   },
   {
     "slug": "carrion",
@@ -477,7 +635,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/carrion/9MSMJH3C6TKR",
       "steam": "https://store.steampowered.com/app/953490/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 953490,
+      "reviews": null
+    }
   },
   {
     "slug": "carto",
@@ -487,7 +649,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/carto/9PFS8Q01C2C4",
       "steam": "https://store.steampowered.com/app/1172450/"
     },
-    "updatedAt": "2020-10-28T14:20:59.875Z"
+    "updatedAt": "2020-10-28T14:20:59.875Z",
+    "steam": {
+      "appid": 1172450,
+      "reviews": null
+    }
   },
   {
     "slug": "celeste",
@@ -497,7 +663,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/celeste/BWMQL2RPWBHB",
       "steam": "https://store.steampowered.com/app/504230/"
     },
-    "updatedAt": "2020-11-05T09:20:53.821Z"
+    "updatedAt": "2020-11-05T09:20:53.821Z",
+    "steam": {
+      "appid": 504230,
+      "reviews": null
+    }
   },
   {
     "slug": "children-of-morta",
@@ -507,7 +677,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4",
       "steam": "https://store.steampowered.com/app/330020/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 330020,
+      "reviews": null
+    }
   },
   {
     "slug": "cities-skylines",
@@ -517,7 +691,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/cities-skylines---windows-10-edition/9NWVC7XP3PFD",
       "steam": "https://store.steampowered.com/app/255710/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 255710,
+      "reviews": null
+    }
   },
   {
     "slug": "clustertruck",
@@ -527,7 +705,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/clustertruck/9N8WVMD7J5GQ",
       "steam": "https://store.steampowered.com/app/397950/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 397950,
+      "reviews": null
+    }
   },
   {
     "slug": "code-vein",
@@ -537,7 +719,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/678960/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 678960,
+      "reviews": null
+    }
   },
   {
     "slug": "comanche",
@@ -547,7 +733,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/comanche-game-preview/9N2H2GRB4D0K",
       "steam": "https://store.steampowered.com/app/879000/"
     },
-    "updatedAt": "2020-11-05T09:20:53.821Z"
+    "updatedAt": "2020-11-05T09:20:53.821Z",
+    "steam": {
+      "appid": 879000,
+      "reviews": null
+    }
   },
   {
     "slug": "company-of-heroes-2-complete-collection",
@@ -557,7 +747,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/company-of-heroes-2-complete-collection/9NX9WH5F0RZD",
       "steam": "https://store.steampowered.com/app/231430/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 231430,
+      "reviews": null
+    }
   },
   {
     "slug": "control",
@@ -567,7 +761,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/870780/"
     },
-    "updatedAt": "2020-12-03T09:17:39.020Z"
+    "updatedAt": "2020-12-03T09:17:39.020Z",
+    "steam": {
+      "appid": 870780,
+      "reviews": null
+    }
   },
   {
     "slug": "costume-quest-2",
@@ -577,7 +775,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/275180/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 275180,
+      "reviews": null
+    }
   },
   {
     "slug": "crackdown-3",
@@ -587,7 +789,8 @@
       "pc": "https://www.xbox.com/en-us/games/crackdown-3",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "cricket-19",
@@ -597,7 +800,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1028630/"
     },
-    "updatedAt": "2020-10-22T14:19:36.679Z"
+    "updatedAt": "2020-10-22T14:19:36.679Z",
+    "steam": {
+      "appid": 1028630,
+      "reviews": null
+    }
   },
   {
     "slug": "crosscode",
@@ -607,7 +814,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/crosscode/9NFDPQ0KZ6RN",
       "steam": "https://store.steampowered.com/app/368340/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 368340,
+      "reviews": null
+    }
   },
   {
     "slug": "crossing-souls",
@@ -617,7 +828,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/crossing-souls/9PD1Z95CNTW4",
       "steam": "https://store.steampowered.com/app/331690/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 331690,
+      "reviews": null
+    }
   },
   {
     "slug": "crusader-kings-iii",
@@ -627,7 +842,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/crusader-kings-iii/9N7GG222GTTH",
       "steam": "https://store.steampowered.com/app/1158310/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1158310,
+      "reviews": null
+    }
   },
   {
     "slug": "crysis",
@@ -637,7 +856,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/17300/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 17300,
+      "reviews": null
+    }
   },
   {
     "slug": "crysis-2",
@@ -647,7 +870,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/99830/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 99830,
+      "reviews": null
+    }
   },
   {
     "slug": "crysis-3",
@@ -657,7 +884,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1282690/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1282690,
+      "reviews": null
+    }
   },
   {
     "slug": "dante-s-inferno",
@@ -667,7 +898,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "darksiders-genesis",
@@ -677,7 +909,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/9NJ5X04M30HN",
       "steam": "https://store.steampowered.com/app/710920/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 710920,
+      "reviews": null
+    }
   },
   {
     "slug": "day-of-the-tentacle-remastered",
@@ -687,7 +923,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/day-of-the-tentacle-remastered/9NKK6CX54183",
       "steam": "https://store.steampowered.com/app/388210/"
     },
-    "updatedAt": "2020-10-30T09:10:58.465Z"
+    "updatedAt": "2020-10-30T09:10:58.465Z",
+    "steam": {
+      "appid": 388210,
+      "reviews": null
+    }
   },
   {
     "slug": "dayz",
@@ -697,7 +937,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/221100/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 221100,
+      "reviews": null
+    }
   },
   {
     "slug": "de-blob",
@@ -707,7 +951,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/532320/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 532320,
+      "reviews": null
+    }
   },
   {
     "slug": "dead-by-daylight",
@@ -717,7 +965,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH",
       "steam": "https://store.steampowered.com/app/381210/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 381210,
+      "reviews": null
+    }
   },
   {
     "slug": "dead-by-daylight-special-edition",
@@ -727,7 +979,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "dead-cells",
@@ -737,7 +990,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK",
       "steam": "https://store.steampowered.com/app/588650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 588650,
+      "reviews": null
+    }
   },
   {
     "slug": "dead-space",
@@ -747,7 +1004,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/17470/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 17470,
+      "reviews": null
+    }
   },
   {
     "slug": "dead-space-2",
@@ -757,7 +1018,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/47780/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 47780,
+      "reviews": null
+    }
   },
   {
     "slug": "dead-space-3",
@@ -767,7 +1032,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238060/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238060,
+      "reviews": null
+    }
   },
   {
     "slug": "dead-space-ignition",
@@ -777,7 +1046,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "death-squared",
@@ -787,7 +1057,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/471810/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 471810,
+      "reviews": null
+    }
   },
   {
     "slug": "death-s-gambit",
@@ -797,7 +1071,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/deaths-gambit/9MV537XVLVXR",
       "steam": "https://store.steampowered.com/app/356650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 356650,
+      "reviews": null
+    }
   },
   {
     "slug": "deep-rock-galactic",
@@ -807,7 +1085,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/deep-rock-galactic/9NHFVWX1V7QJ",
       "steam": "https://store.steampowered.com/app/548430/"
     },
-    "updatedAt": "2020-11-05T09:20:53.821Z"
+    "updatedAt": "2020-11-05T09:20:53.821Z",
+    "steam": {
+      "appid": 548430,
+      "reviews": null
+    }
   },
   {
     "slug": "deliver-us-the-moon",
@@ -817,7 +1099,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9PF6BS5DGNLX",
       "steam": "https://store.steampowered.com/app/428660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 428660,
+      "reviews": null
+    }
   },
   {
     "slug": "descenders",
@@ -827,7 +1113,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/descenders/C37XBX7DCBZ0",
       "steam": "https://store.steampowered.com/app/681280/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 681280,
+      "reviews": null
+    }
   },
   {
     "slug": "destiny-2",
@@ -837,7 +1127,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1085660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1085660,
+      "reviews": null
+    }
   },
   {
     "slug": "destiny-2-beyond-light",
@@ -847,7 +1141,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1314563/"
     },
-    "updatedAt": "2020-12-19T09:22:18.605Z"
+    "updatedAt": "2020-12-19T09:22:18.605Z",
+    "steam": {
+      "appid": 1314563,
+      "reviews": null
+    }
   },
   {
     "slug": "destiny-2-forsaken",
@@ -857,7 +1155,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1090150/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1090150,
+      "reviews": null
+    }
   },
   {
     "slug": "destiny-2-shadowkeep",
@@ -867,7 +1169,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1090200/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1090200,
+      "reviews": null
+    }
   },
   {
     "slug": "dirt-4",
@@ -877,7 +1183,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/421020/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 421020,
+      "reviews": null
+    }
   },
   {
     "slug": "disgaea-4-complete",
@@ -887,7 +1197,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/disgaea-4-complete/9PFJDSL1CC7G",
       "steam": "https://store.steampowered.com/app/1233880/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1233880,
+      "reviews": null
+    }
   },
   {
     "slug": "dishonored-2",
@@ -897,7 +1211,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/dishonored-2/9MW4RJDRSF78",
       "steam": "https://store.steampowered.com/app/403640/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 403640,
+      "reviews": null
+    }
   },
   {
     "slug": "disneyland-adventures",
@@ -907,7 +1225,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/disneyland-adventures/9N6Z8DQXSQWH",
       "steam": "https://store.steampowered.com/app/630610/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 630610,
+      "reviews": null
+    }
   },
   {
     "slug": "don-t-starve-giant-edition",
@@ -917,7 +1239,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/dont-starve-giant-edition/C0XBNVR137DZ",
       "steam": "https://store.steampowered.com/app/219740/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 219740,
+      "reviews": null
+    }
   },
   {
     "slug": "doom-eternal-standard-edition",
@@ -927,7 +1253,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
       "steam": "https://store.steampowered.com/app/782330/"
     },
-    "updatedAt": "2020-12-04T09:21:40.852Z"
+    "updatedAt": "2020-12-04T09:21:40.852Z",
+    "steam": {
+      "appid": 782330,
+      "reviews": null
+    }
   },
   {
     "slug": "double-dragon-neon",
@@ -937,7 +1267,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/252350/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 252350,
+      "reviews": null
+    }
   },
   {
     "slug": "double-kick-heroes",
@@ -947,7 +1281,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/double-kick-heroes/9NJPT63K27W8",
       "steam": "https://store.steampowered.com/app/589670/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 589670,
+      "reviews": null
+    }
   },
   {
     "slug": "downwell",
@@ -957,7 +1295,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/downwell/9P641Z19NT2S",
       "steam": "https://store.steampowered.com/app/360740/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 360740,
+      "reviews": null
+    }
   },
   {
     "slug": "dragon-age-origins",
@@ -967,7 +1309,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/17450/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 17450,
+      "reviews": null
+    }
   },
   {
     "slug": "dragon-age-2",
@@ -977,7 +1323,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "dragon-age-inquisition",
@@ -987,7 +1334,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1222690/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1222690,
+      "reviews": null
+    }
   },
   {
     "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
@@ -997,7 +1348,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK",
       "steam": "https://store.steampowered.com/app/1295510/"
     },
-    "updatedAt": "2020-12-05T09:18:26.077Z"
+    "updatedAt": "2020-12-05T09:18:26.077Z",
+    "steam": {
+      "appid": 1295510,
+      "reviews": null
+    }
   },
   {
     "slug": "drake-hollow",
@@ -1007,7 +1362,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/drake-hollow/9PGNGGWBX1NR",
       "steam": "https://store.steampowered.com/app/739650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 739650,
+      "reviews": null
+    }
   },
   {
     "slug": "dungeon-of-the-endless",
@@ -1017,7 +1376,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/9N46K0X6TBZK",
       "steam": "https://store.steampowered.com/app/249050/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 249050,
+      "reviews": null
+    }
   },
   {
     "slug": "ea-sports-fifa-16",
@@ -1027,7 +1390,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-fifa-17",
@@ -1037,7 +1401,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-fifa-20",
@@ -1047,7 +1412,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-nhl-18",
@@ -1057,7 +1423,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-nhl-19",
@@ -1067,7 +1434,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-rory-mcilroy-pga-tour",
@@ -1077,7 +1445,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-ufc",
@@ -1087,7 +1456,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-ufc-2",
@@ -1097,7 +1467,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "ea-sports-ufc-3",
@@ -1107,7 +1478,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "eastshade",
@@ -1117,7 +1489,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/eastshade/9PLCR0FR564K",
       "steam": "https://store.steampowered.com/app/715560/"
     },
-    "updatedAt": "2020-11-05T09:20:53.821Z"
+    "updatedAt": "2020-11-05T09:20:53.821Z",
+    "steam": {
+      "appid": 715560,
+      "reviews": null
+    }
   },
   {
     "slug": "efootball-pes-2021-season-update-standard-edition",
@@ -1127,7 +1503,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2021-01-07T09:36:21.010Z"
+    "updatedAt": "2021-01-07T09:36:21.010Z",
+    "steam": null
   },
   {
     "slug": "endless-legend",
@@ -1137,7 +1514,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/endless-legend/9NP09BFQNHCJ",
       "steam": "https://store.steampowered.com/app/289130/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 289130,
+      "reviews": null
+    }
   },
   {
     "slug": "endless-space-2-deluxe-edition",
@@ -1147,7 +1528,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/endless-space-2-deluxe-edition/9NV3Q7WVN2RB",
       "steam": "https://store.steampowered.com/app/392110/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 392110,
+      "reviews": null
+    }
   },
   {
     "slug": "enter-the-gungeon",
@@ -1157,7 +1542,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/enter-the-gungeon/9NB65S6LFZRT",
       "steam": "https://store.steampowered.com/app/311690/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 311690,
+      "reviews": null
+    }
   },
   {
     "slug": "europa-universalis-iv",
@@ -1167,7 +1556,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/europa-universalis-iv---microsoft-store-edition/9PHQJWGLTZM8",
       "steam": "https://store.steampowered.com/app/236850/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 236850,
+      "reviews": null
+    }
   },
   {
     "slug": "f1-2019",
@@ -1177,7 +1570,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL",
       "steam": "https://store.steampowered.com/app/928600/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 928600,
+      "reviews": null
+    }
   },
   {
     "slug": "fable-anniversary",
@@ -1187,7 +1584,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/288470/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 288470,
+      "reviews": null
+    }
   },
   {
     "slug": "fable-ii",
@@ -1197,7 +1598,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "fable-iii",
@@ -1207,7 +1609,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/105400/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 105400,
+      "reviews": null
+    }
   },
   {
     "slug": "fallout-76",
@@ -1217,7 +1623,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/fallout-76---pc/9NKGNMNK3K3Z",
       "steam": "https://store.steampowered.com/app/1151340/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1151340,
+      "reviews": null
+    }
   },
   {
     "slug": "fallout-new-vegas",
@@ -1227,7 +1637,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/22380/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 22380,
+      "reviews": null
+    }
   },
   {
     "slug": "fe",
@@ -1237,7 +1651,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1225580/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1225580,
+      "reviews": null
+    }
   },
   {
     "slug": "feeding-frenzy",
@@ -1247,7 +1665,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "feeding-frenzy-2",
@@ -1257,7 +1676,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "fifa-15",
@@ -1267,7 +1687,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "fifa-18",
@@ -1277,7 +1698,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "fifa-19",
@@ -1287,7 +1709,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "fight-night-champion",
@@ -1297,7 +1720,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "final-fantasy-ix",
@@ -1307,7 +1731,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-ix/9NPGTNQFC8B5",
       "steam": "https://store.steampowered.com/app/377840/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 377840,
+      "reviews": null
+    }
   },
   {
     "slug": "final-fantasy-vii",
@@ -1317,7 +1745,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
       "steam": "https://store.steampowered.com/app/39140/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 39140,
+      "reviews": null
+    }
   },
   {
     "slug": "final-fantasy-viii-remastered",
@@ -1327,7 +1759,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
       "steam": "https://store.steampowered.com/app/1026680/"
     },
-    "updatedAt": "2020-11-12T09:31:46.103Z"
+    "updatedAt": "2020-11-12T09:31:46.103Z",
+    "steam": {
+      "appid": 1026680,
+      "reviews": null
+    }
   },
   {
     "slug": "final-fantasy-xv",
@@ -1337,7 +1773,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xv-windows-edition/9NR0N2LZ6TC5",
       "steam": "https://store.steampowered.com/app/637650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 637650,
+      "reviews": null
+    }
   },
   {
     "slug": "final-fantasy-xv-royal-edition",
@@ -1347,7 +1787,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "fishing-sim-world-pro-tour",
@@ -1357,7 +1798,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/9NM7LC8MJXKS",
       "steam": "https://store.steampowered.com/app/834280/"
     },
-    "updatedAt": "2021-01-10T09:38:29.538Z"
+    "updatedAt": "2021-01-10T09:38:29.538Z",
+    "steam": {
+      "appid": 834280,
+      "reviews": null
+    }
   },
   {
     "slug": "five-nights-at-freddy-s",
@@ -1367,7 +1812,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys/9N5253J559LR",
       "steam": "https://store.steampowered.com/app/319510/"
     },
-    "updatedAt": "2020-10-29T14:21:21.528Z"
+    "updatedAt": "2020-10-29T14:21:21.528Z",
+    "steam": {
+      "appid": 319510,
+      "reviews": null
+    }
   },
   {
     "slug": "five-nights-at-freddy-s-2",
@@ -1377,7 +1826,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-2/9NBR2ZSD99FX",
       "steam": "https://store.steampowered.com/app/332800/"
     },
-    "updatedAt": "2020-10-29T14:21:21.528Z"
+    "updatedAt": "2020-10-29T14:21:21.528Z",
+    "steam": {
+      "appid": 332800,
+      "reviews": null
+    }
   },
   {
     "slug": "five-nights-at-freddy-s-3",
@@ -1387,7 +1840,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-3/9P6N7LQ4HZFD",
       "steam": "https://store.steampowered.com/app/354140/"
     },
-    "updatedAt": "2020-10-29T14:21:21.528Z"
+    "updatedAt": "2020-10-29T14:21:21.528Z",
+    "steam": {
+      "appid": 354140,
+      "reviews": null
+    }
   },
   {
     "slug": "five-nights-at-freddy-s-4",
@@ -1397,7 +1854,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-4/9PLDLMPLR7JV",
       "steam": "https://store.steampowered.com/app/388090/"
     },
-    "updatedAt": "2020-10-29T14:21:21.528Z"
+    "updatedAt": "2020-10-29T14:21:21.528Z",
+    "steam": {
+      "appid": 388090,
+      "reviews": null
+    }
   },
   {
     "slug": "five-nights-at-freddy-s-original-series",
@@ -1407,7 +1868,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-original-series/9PJ2DSSXZR0P",
       "steam": null
     },
-    "updatedAt": "2020-10-29T14:21:21.528Z"
+    "updatedAt": "2020-10-29T14:21:21.528Z",
+    "steam": null
   },
   {
     "slug": "for-the-king",
@@ -1417,7 +1879,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/for-the-king/9NS1CD1V4BKW",
       "steam": "https://store.steampowered.com/app/527230/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 527230,
+      "reviews": null
+    }
   },
   {
     "slug": "forager",
@@ -1427,7 +1893,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13",
       "steam": "https://store.steampowered.com/app/751780/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 751780,
+      "reviews": null
+    }
   },
   {
     "slug": "forza-horizon-4-standard-edition",
@@ -1437,7 +1907,8 @@
       "pc": "https://www.xbox.com/en-us/games/forza-horizon-4",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "forza-motorsport-7-standard-edition",
@@ -1447,7 +1918,8 @@
       "pc": "https://www.xbox.com/en-us/games/forza-7",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "fractured-minds",
@@ -1457,7 +1929,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/688740/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 688740,
+      "reviews": null
+    }
   },
   {
     "slug": "frostpunk",
@@ -1467,7 +1943,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X",
       "steam": "https://store.steampowered.com/app/323190/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 323190,
+      "reviews": null
+    }
   },
   {
     "slug": "full-throttle-remastered",
@@ -1477,7 +1957,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/full-throttle-remastered/9P3ZRGNQVC7D",
       "steam": "https://store.steampowered.com/app/228360/"
     },
-    "updatedAt": "2020-10-30T09:10:58.465Z"
+    "updatedAt": "2020-10-30T09:10:58.465Z",
+    "steam": {
+      "appid": 228360,
+      "reviews": null
+    }
   },
   {
     "slug": "fuzion-frenzy",
@@ -1487,7 +1971,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gato-roboto",
@@ -1497,7 +1982,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/gato-roboto/9PBJQ90CT236",
       "steam": "https://store.steampowered.com/app/916730/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 916730,
+      "reviews": null
+    }
   },
   {
     "slug": "gears-5",
@@ -1507,7 +1996,11 @@
       "pc": "https://www.xbox.com/en-us/games/gears-5",
       "steam": "https://store.steampowered.com/app/1097840/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1097840,
+      "reviews": null
+    }
   },
   {
     "slug": "gears-5-game-of-the-year-edition",
@@ -1517,7 +2010,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/gears-5-game-of-the-year-edition/9P4KMR76PLLQ",
       "steam": "https://store.steampowered.com/app/1415070/"
     },
-    "updatedAt": "2020-12-16T09:20:26.382Z"
+    "updatedAt": "2020-12-16T09:20:26.382Z",
+    "steam": {
+      "appid": 1415070,
+      "reviews": null
+    }
   },
   {
     "slug": "gears-of-war",
@@ -1527,7 +2024,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-of-war-2",
@@ -1537,7 +2035,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-of-war-3",
@@ -1547,7 +2046,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-of-war-4",
@@ -1557,7 +2057,8 @@
       "pc": "https://www.xbox.com/en-us/games/gears-of-war-4",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-of-war-judgment",
@@ -1567,7 +2068,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-of-war-ultimate-edition",
@@ -1577,7 +2079,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-of-war-ultimate-edition-for",
@@ -1587,7 +2090,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "gears-tactics",
@@ -1597,7 +2101,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/gears-tactics/9NN3HCKW5TPC",
       "steam": "https://store.steampowered.com/app/1184050/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1184050,
+      "reviews": null
+    }
   },
   {
     "slug": "goat-simulator",
@@ -1607,7 +2115,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH",
       "steam": "https://store.steampowered.com/app/265930/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 265930,
+      "reviews": null
+    }
   },
   {
     "slug": "golf-with-your-friends",
@@ -1617,7 +2129,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9MVK5W0HMRP7",
       "steam": "https://store.steampowered.com/app/431240/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 431240,
+      "reviews": null
+    }
   },
   {
     "slug": "gonner2",
@@ -1627,7 +2143,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
       "steam": "https://store.steampowered.com/app/1117670/"
     },
-    "updatedAt": "2020-10-22T14:19:36.679Z"
+    "updatedAt": "2020-10-22T14:19:36.679Z",
+    "steam": {
+      "appid": 1117670,
+      "reviews": null
+    }
   },
   {
     "slug": "greedfall",
@@ -1637,7 +2157,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
       "steam": "https://store.steampowered.com/app/606880/"
     },
-    "updatedAt": "2020-12-10T09:19:57.314Z"
+    "updatedAt": "2020-12-10T09:19:57.314Z",
+    "steam": {
+      "appid": 606880,
+      "reviews": null
+    }
   },
   {
     "slug": "grim-fandango-remastered",
@@ -1647,7 +2171,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/grim-fandango-remastered/9PC288TN7R8K",
       "steam": "https://store.steampowered.com/app/316790/"
     },
-    "updatedAt": "2020-10-30T09:10:58.465Z"
+    "updatedAt": "2020-10-30T09:10:58.465Z",
+    "steam": {
+      "appid": 316790,
+      "reviews": null
+    }
   },
   {
     "slug": "gris",
@@ -1657,7 +2185,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/gris/9NHHP2H0ZP98",
       "steam": "https://store.steampowered.com/app/683320/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 683320,
+      "reviews": null
+    }
   },
   {
     "slug": "grounded",
@@ -1667,7 +2199,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/grounded---game-preview/9PJTHRNVH62H",
       "steam": "https://store.steampowered.com/app/962130/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 962130,
+      "reviews": null
+    }
   },
   {
     "slug": "guacamelee-2",
@@ -1677,7 +2213,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/guacamelee-2/9NVK1W7L093S",
       "steam": "https://store.steampowered.com/app/534550/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 534550,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-2-anniversary",
@@ -1687,7 +2227,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-2-anniversary/9P5739G419LD",
       "steam": "https://store.steampowered.com/app/1064270/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1064270,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-3",
@@ -1697,7 +2241,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-3/9PGL2Z1H9M4R",
       "steam": "https://store.steampowered.com/app/1064271/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1064271,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-3-odst",
@@ -1707,7 +2255,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-3-odst/9P6VZCRGXFMX",
       "steam": "https://store.steampowered.com/app/1064272/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1064272,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-4",
@@ -1717,7 +2269,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-4/9P8CFXZH93CK",
       "steam": "https://store.steampowered.com/app/1064273/"
     },
-    "updatedAt": "2020-11-17T09:14:56.670Z"
+    "updatedAt": "2020-11-17T09:14:56.670Z",
+    "steam": {
+      "appid": 1064273,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-5-guardians",
@@ -1727,7 +2283,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "halo-wars-2",
@@ -1737,7 +2294,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "halo-wars-2-standard-edition",
@@ -1747,7 +2305,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/9NBLGGH515BD",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "halo-wars-definitive-edition",
@@ -1757,7 +2316,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition-pc/9NBLGGH5WLR0",
       "steam": "https://store.steampowered.com/app/459220/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 459220,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-combat-evolved-anniversary",
@@ -1767,7 +2330,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-combat-evolved-anniversary/9NWQMVSB63N4",
       "steam": "https://store.steampowered.com/app/1064221/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1064221,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-reach",
@@ -1777,7 +2344,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-reach/9N9WZT3PJ27W",
       "steam": "https://store.steampowered.com/app/1064220/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1064220,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-spartan-assault",
@@ -1787,7 +2358,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/9WZDNCRFHWFH",
       "steam": "https://store.steampowered.com/app/277430/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 277430,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-spartan-strike",
@@ -1797,7 +2372,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-spartan-strike/9WZDNCRFJBFJ",
       "steam": "https://store.steampowered.com/app/324570/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 324570,
+      "reviews": null
+    }
   },
   {
     "slug": "halo-the-master-chief-collection",
@@ -1807,7 +2386,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX",
       "steam": "https://store.steampowered.com/app/976730/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 976730,
+      "reviews": null
+    }
   },
   {
     "slug": "haven",
@@ -1817,7 +2400,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/haven/9NZL91Q08XRV",
       "steam": "https://store.steampowered.com/app/983970/"
     },
-    "updatedAt": "2020-12-04T09:21:40.852Z"
+    "updatedAt": "2020-12-04T09:21:40.852Z",
+    "steam": {
+      "appid": 983970,
+      "reviews": null
+    }
   },
   {
     "slug": "hearts-of-iron-iv-cadet-edition",
@@ -1827,7 +2414,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
       "steam": "https://store.steampowered.com/app/394360/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 394360,
+      "reviews": null
+    }
   },
   {
     "slug": "heave-ho",
@@ -1837,7 +2428,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/heave-ho/9P8JHRDVBLHB",
       "steam": "https://store.steampowered.com/app/905340/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 905340,
+      "reviews": null
+    }
   },
   {
     "slug": "heavy-weapon",
@@ -1847,7 +2442,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "hellblade-senua-s-sacrifice",
@@ -1857,7 +2453,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/9NCLP4LV5K7Z",
       "steam": "https://store.steampowered.com/app/414340/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 414340,
+      "reviews": null
+    }
   },
   {
     "slug": "hello-neighbor",
@@ -1867,7 +2467,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40",
       "steam": "https://store.steampowered.com/app/521890/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 521890,
+      "reviews": null
+    }
   },
   {
     "slug": "hollow-knight",
@@ -1877,7 +2481,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hollow-knight/9PKM22F7C9K5",
       "steam": "https://store.steampowered.com/app/367520/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 367520,
+      "reviews": null
+    }
   },
   {
     "slug": "hollow-knight-voidheart-edition",
@@ -1887,7 +2495,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "hotline-miami",
@@ -1897,7 +2506,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hotline-miami/9PPCS86WS28Z",
       "steam": "https://store.steampowered.com/app/219150/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 219150,
+      "reviews": null
+    }
   },
   {
     "slug": "hotshot-racing",
@@ -1907,7 +2520,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/609920/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 609920,
+      "reviews": null
+    }
   },
   {
     "slug": "human-fall-flat",
@@ -1917,7 +2534,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/human-fall-flat/9MT4HS1CP72W",
       "steam": "https://store.steampowered.com/app/477160/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 477160,
+      "reviews": null
+    }
   },
   {
     "slug": "hyperdot",
@@ -1927,7 +2548,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hyperdot/9NVVJ8TBD7KP",
       "steam": "https://store.steampowered.com/app/876500/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 876500,
+      "reviews": null
+    }
   },
   {
     "slug": "hypnospace-outlaw",
@@ -1937,7 +2562,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/hypnospace-outlaw/9PM3NVB3PXG0",
       "steam": "https://store.steampowered.com/app/844590/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 844590,
+      "reviews": null
+    }
   },
   {
     "slug": "ikenfell",
@@ -1947,7 +2576,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/ikenfell/9N2X1J99S4M9",
       "steam": "https://store.steampowered.com/app/854940/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 854940,
+      "reviews": null
+    }
   },
   {
     "slug": "indivisible",
@@ -1957,7 +2590,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/indivisible/9N3KCLT53VDZ",
       "steam": "https://store.steampowered.com/app/421170/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 421170,
+      "reviews": null
+    }
   },
   {
     "slug": "injustice-2",
@@ -1967,7 +2604,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/627270/"
     },
-    "updatedAt": "2021-01-07T09:36:21.010Z"
+    "updatedAt": "2021-01-07T09:36:21.010Z",
+    "steam": {
+      "appid": 627270,
+      "reviews": null
+    }
   },
   {
     "slug": "injustice-2-standard-edition",
@@ -1977,7 +2618,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/injustice-2---standard-edition/9PHT4W7WBBDQ",
       "steam": "https://store.steampowered.com/app/627270/"
     },
-    "updatedAt": "2021-01-07T09:36:21.010Z"
+    "updatedAt": "2021-01-07T09:36:21.010Z",
+    "steam": {
+      "appid": 627270,
+      "reviews": null
+    }
   },
   {
     "slug": "it-lurks-below",
@@ -1987,7 +2632,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/it-lurks-below/9PFW68JLS81F",
       "steam": "https://store.steampowered.com/app/697550/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 697550,
+      "reviews": null
+    }
   },
   {
     "slug": "jetpac-refuelled",
@@ -1997,7 +2646,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "journey-to-the-savage-planet",
@@ -2007,7 +2657,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "joy-ride-turbo",
@@ -2017,7 +2668,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "kameo",
@@ -2027,7 +2679,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "katana-zero",
@@ -2037,7 +2690,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/katana-zero/9P6CVNVMK56R",
       "steam": "https://store.steampowered.com/app/460950/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 460950,
+      "reviews": null
+    }
   },
   {
     "slug": "kathy-rain",
@@ -2047,7 +2704,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/kathy-rain/9P8HN2T2SZGB",
       "steam": "https://store.steampowered.com/app/370910/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 370910,
+      "reviews": null
+    }
   },
   {
     "slug": "killer-instinct-definitive-edition",
@@ -2057,7 +2718,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/9NBLGGH51BMC",
       "steam": "https://store.steampowered.com/app/577940/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 577940,
+      "reviews": null
+    }
   },
   {
     "slug": "kingdom-hearts-hd-1-5-2-5-remix",
@@ -2067,7 +2732,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
@@ -2077,7 +2743,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "kingdom-hearts",
@@ -2087,7 +2754,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "knights-and-bikes",
@@ -2097,7 +2765,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/knights-and-bikes/9P64KV1HQK07",
       "steam": "https://store.steampowered.com/app/592480/"
     },
-    "updatedAt": "2020-11-05T09:20:53.821Z"
+    "updatedAt": "2020-11-05T09:20:53.821Z",
+    "steam": {
+      "appid": 592480,
+      "reviews": null
+    }
   },
   {
     "slug": "kona",
@@ -2107,7 +2779,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/365160/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 365160,
+      "reviews": null
+    }
   },
   {
     "slug": "levelhead",
@@ -2117,7 +2793,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/levelhead/9PJZBB8FWK8H",
       "steam": "https://store.steampowered.com/app/792710/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 792710,
+      "reviews": null
+    }
   },
   {
     "slug": "lonely-mountains-downhill",
@@ -2127,7 +2807,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/lonely-mountains-downhill/9MV6MCVLT8GR",
       "steam": "https://store.steampowered.com/app/711540/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 711540,
+      "reviews": null
+    }
   },
   {
     "slug": "machinarium",
@@ -2137,7 +2821,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/machinarium/9N83GKZLC8BK",
       "steam": "https://store.steampowered.com/app/40700/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 40700,
+      "reviews": null
+    }
   },
   {
     "slug": "madden-nfl-15",
@@ -2147,7 +2835,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "madden-nfl-16",
@@ -2157,7 +2846,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "madden-nfl-17",
@@ -2167,7 +2857,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "madden-nfl-18",
@@ -2177,7 +2868,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "madden-nfl-19",
@@ -2187,7 +2879,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "madden-nfl-20",
@@ -2197,7 +2890,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "madden-nfl-25",
@@ -2207,7 +2901,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "marvel-vs-capcom-infinite",
@@ -2217,7 +2912,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/marvel-vs-capcom-infinite/9PGSCB1X2P7G",
       "steam": "https://store.steampowered.com/app/493840/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 493840,
+      "reviews": null
+    }
   },
   {
     "slug": "mass-effect",
@@ -2227,7 +2926,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/17460/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 17460,
+      "reviews": null
+    }
   },
   {
     "slug": "mass-effect-2",
@@ -2237,7 +2940,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/24980/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 24980,
+      "reviews": null
+    }
   },
   {
     "slug": "mass-effect-3",
@@ -2247,7 +2954,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238020/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238020,
+      "reviews": null
+    }
   },
   {
     "slug": "mass-effect-andromeda",
@@ -2257,7 +2968,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238000/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1238000,
+      "reviews": null
+    }
   },
   {
     "slug": "max-the-curse-of-brotherhood",
@@ -2267,7 +2982,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/255390/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 255390,
+      "reviews": null
+    }
   },
   {
     "slug": "mechwarrior-5-mercenaries",
@@ -2277,7 +2996,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/mechwarrior-5-mercenaries/9PB86W3JK8Z5",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "medal-of-honor-airborne",
@@ -2287,7 +3007,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/24840/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 24840,
+      "reviews": null
+    }
   },
   {
     "slug": "microsoft-flight-simulator-standard",
@@ -2297,7 +3021,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard/9NXN8GF8N9HT",
       "steam": "https://store.steampowered.com/app/1250410/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1250410,
+      "reviews": null
+    }
   },
   {
     "slug": "middle-earth-shadow-of-war",
@@ -2307,7 +3035,11 @@
       "pc": "https://www.xbox.com/en-us/games/middle-earth-shadow-of-war",
       "steam": "https://store.steampowered.com/app/356190/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 356190,
+      "reviews": null
+    }
   },
   {
     "slug": "minecraft",
@@ -2317,7 +3049,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "minecraft-dungeons",
@@ -2327,7 +3060,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "mirror-s-edge",
@@ -2337,7 +3071,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/17410/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 17410,
+      "reviews": null
+    }
   },
   {
     "slug": "mirror-s-edge-catalyst",
@@ -2347,7 +3085,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1233570/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1233570,
+      "reviews": null
+    }
   },
   {
     "slug": "mistover",
@@ -2357,7 +3099,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/mistover/9P8K66J3CQ9S",
       "steam": "https://store.steampowered.com/app/909510/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 909510,
+      "reviews": null
+    }
   },
   {
     "slug": "momodora-reverie-under-the-moonlight",
@@ -2367,7 +3113,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/9NZL00LF4V58",
       "steam": "https://store.steampowered.com/app/428550/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 428550,
+      "reviews": null
+    }
   },
   {
     "slug": "monster-hunter-world",
@@ -2377,7 +3127,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/582010/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 582010,
+      "reviews": null
+    }
   },
   {
     "slug": "monster-sanctuary",
@@ -2387,7 +3141,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/monster-sanctuary/9PBWWQGXVMKC",
       "steam": "https://store.steampowered.com/app/814370/"
     },
-    "updatedAt": "2020-12-08T09:19:33.718Z"
+    "updatedAt": "2020-12-08T09:19:33.718Z",
+    "steam": {
+      "appid": 814370,
+      "reviews": null
+    }
   },
   {
     "slug": "monster-train",
@@ -2397,7 +3155,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/monster-train/9NP4BGBLLLXM",
       "steam": "https://store.steampowered.com/app/1102190/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 1102190,
+      "reviews": null
+    }
   },
   {
     "slug": "moonlighter",
@@ -2407,7 +3169,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/moonlighter/9P8XJRLCLH2P",
       "steam": "https://store.steampowered.com/app/606150/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 606150,
+      "reviews": null
+    }
   },
   {
     "slug": "morkredd",
@@ -2417,7 +3183,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/morkredd/9PKD7RG0TQP4",
       "steam": "https://store.steampowered.com/app/1331910/"
     },
-    "updatedAt": "2020-12-11T09:19:56.924Z"
+    "updatedAt": "2020-12-11T09:19:56.924Z",
+    "steam": {
+      "appid": 1331910,
+      "reviews": null
+    }
   },
   {
     "slug": "mother-russia-bleeds",
@@ -2427,7 +3197,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/mother-russia-bleeds/9NVFHBKDLPM4",
       "steam": "https://store.steampowered.com/app/361300/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 361300,
+      "reviews": null
+    }
   },
   {
     "slug": "motogp-20",
@@ -2437,7 +3211,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
       "steam": "https://store.steampowered.com/app/1161490/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 1161490,
+      "reviews": null
+    }
   },
   {
     "slug": "mount-and-blade-warband",
@@ -2447,7 +3225,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
       "steam": "https://store.steampowered.com/app/48700/"
     },
-    "updatedAt": "2020-11-19T09:15:35.902Z"
+    "updatedAt": "2020-11-19T09:15:35.902Z",
+    "steam": {
+      "appid": 48700,
+      "reviews": null
+    }
   },
   {
     "slug": "moving-out",
@@ -2457,7 +3239,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
       "steam": "https://store.steampowered.com/app/996770/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 996770,
+      "reviews": null
+    }
   },
   {
     "slug": "my-time-at-portia",
@@ -2467,7 +3253,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH",
       "steam": "https://store.steampowered.com/app/666140/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 666140,
+      "reviews": null
+    }
   },
   {
     "slug": "nba-live-18-the-one-edition",
@@ -2477,7 +3267,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "nba-live-19",
@@ -2487,7 +3278,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "need-for-speed-rivals",
@@ -2497,7 +3289,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1262600/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1262600,
+      "reviews": null
+    }
   },
   {
     "slug": "need-for-speed",
@@ -2507,7 +3303,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1262540/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1262540,
+      "reviews": null
+    }
   },
   {
     "slug": "need-for-speed-heat",
@@ -2517,7 +3317,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1222680/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1222680,
+      "reviews": null
+    }
   },
   {
     "slug": "need-for-speed-payback",
@@ -2527,7 +3331,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1262580/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1262580,
+      "reviews": null
+    }
   },
   {
     "slug": "neon-abyss",
@@ -2537,7 +3345,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/neon-abyss/9PLWSGHFQ4PS",
       "steam": "https://store.steampowered.com/app/788100/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 788100,
+      "reviews": null
+    }
   },
   {
     "slug": "neoverse",
@@ -2547,7 +3359,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/neoverse/9NNSTP6KJTZ9",
       "steam": "https://store.steampowered.com/app/994220/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 994220,
+      "reviews": null
+    }
   },
   {
     "slug": "new-super-lucky-s-tale",
@@ -2557,7 +3373,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/new-super-luckys-tale/9MZN3SMXN824",
       "steam": "https://store.steampowered.com/app/1038300/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1038300,
+      "reviews": null
+    }
   },
   {
     "slug": "nhl-20",
@@ -2567,7 +3387,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "nhl-94-rewind",
@@ -2577,7 +3398,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-12-04T09:21:40.852Z"
+    "updatedAt": "2020-12-04T09:21:40.852Z",
+    "steam": null
   },
   {
     "slug": "nier-automata-become-as-gods-edition",
@@ -2587,7 +3409,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "night-call",
@@ -2597,7 +3420,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/night-call/9N5KSQG0R9TB",
       "steam": "https://store.steampowered.com/app/680380/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 680380,
+      "reviews": null
+    }
   },
   {
     "slug": "night-in-the-woods",
@@ -2607,7 +3434,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
       "steam": "https://store.steampowered.com/app/481510/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 481510,
+      "reviews": null
+    }
   },
   {
     "slug": "ninja-gaiden-ii",
@@ -2617,7 +3448,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "no-man-s-sky",
@@ -2627,7 +3459,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/no-mans-sky/BQVQTL3PCH05",
       "steam": "https://store.steampowered.com/app/275850/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 275850,
+      "reviews": null
+    }
   },
   {
     "slug": "nowhere-prophet",
@@ -2637,7 +3473,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/nowhere-prophet/9P01NRSZCVR6",
       "steam": "https://store.steampowered.com/app/681730/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 681730,
+      "reviews": null
+    }
   },
   {
     "slug": "observation",
@@ -2647,7 +3487,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/observation/9PBLH1322GX0",
       "steam": "https://store.steampowered.com/app/906100/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 906100,
+      "reviews": null
+    }
   },
   {
     "slug": "ori-and-the-blind-forest-definitive-edition",
@@ -2657,7 +3501,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/9NBLGGH1Z6FB",
       "steam": "https://store.steampowered.com/app/387290/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 387290,
+      "reviews": null
+    }
   },
   {
     "slug": "ori-and-the-will-of-the-wisps",
@@ -2667,7 +3515,11 @@
       "pc": "https://www.xbox.com/en-us/games/ori-will-of-the-wisps",
       "steam": "https://store.steampowered.com/app/1057090/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1057090,
+      "reviews": null
+    }
   },
   {
     "slug": "out-of-the-park-baseball-21",
@@ -2677,7 +3529,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/out-of-the-park-baseball-21/9NNW9V8DVPG6",
       "steam": "https://store.steampowered.com/app/1087280/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1087280,
+      "reviews": null
+    }
   },
   {
     "slug": "outer-wilds",
@@ -2687,7 +3543,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/753640/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 753640,
+      "reviews": null
+    }
   },
   {
     "slug": "overcooked-2",
@@ -2697,7 +3557,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/overcooked-2/9PGB72NFG5JN",
       "steam": "https://store.steampowered.com/app/728880/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 728880,
+      "reviews": null
+    }
   },
   {
     "slug": "oxenfree",
@@ -2707,7 +3571,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/oxenfree/9NBLGGH6CTZ5",
       "steam": "https://store.steampowered.com/app/388880/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 388880,
+      "reviews": null
+    }
   },
   {
     "slug": "pandemic-the-board-game",
@@ -2717,7 +3585,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/pandemic-the-board-game/9P8Q4W21QQZ2",
       "steam": "https://store.steampowered.com/app/622440/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 622440,
+      "reviews": null
+    }
   },
   {
     "slug": "payday-2-crimewave-edition",
@@ -2727,7 +3599,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "peggle",
@@ -2737,7 +3610,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "peggle-2",
@@ -2747,7 +3621,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "perfect-dark",
@@ -2757,7 +3632,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "perfect-dark-zero",
@@ -2767,7 +3643,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "phoenix-point",
@@ -2777,7 +3654,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
       "steam": "https://store.steampowered.com/app/839770/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 839770,
+      "reviews": null
+    }
   },
   {
     "slug": "phogs",
@@ -2787,7 +3668,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/850320/"
     },
-    "updatedAt": "2020-12-03T09:17:39.020Z"
+    "updatedAt": "2020-12-03T09:17:39.020Z",
+    "steam": {
+      "appid": 850320,
+      "reviews": null
+    }
   },
   {
     "slug": "pikuniku",
@@ -2797,7 +3682,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/pikuniku-win10/9N8QNKN5ZKTH",
       "steam": "https://store.steampowered.com/app/572890/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 572890,
+      "reviews": null
+    }
   },
   {
     "slug": "pillars-of-eternity-complete-edition",
@@ -2807,7 +3696,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "pillars-of-eternity-hero-edition",
@@ -2817,7 +3707,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-hero-edition/9P5LZC1KB48V",
       "steam": "https://store.steampowered.com/app/291650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 291650,
+      "reviews": null
+    }
   },
   {
     "slug": "planet-coaster",
@@ -2827,7 +3721,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/493340/"
     },
-    "updatedAt": "2020-11-11T09:13:14.733Z"
+    "updatedAt": "2020-11-11T09:13:14.733Z",
+    "steam": {
+      "appid": 493340,
+      "reviews": null
+    }
   },
   {
     "slug": "plants-vs-zombies",
@@ -2837,7 +3735,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/3599/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 3599,
+      "reviews": null
+    }
   },
   {
     "slug": "plants-vs-zombies-garden-warfare",
@@ -2847,7 +3749,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "plants-vs-zombies-battle-for-neighborville",
@@ -2857,7 +3760,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1262240/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1262240,
+      "reviews": null
+    }
   },
   {
     "slug": "plants-vs-zombies-garden-warfare-2",
@@ -2867,7 +3774,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "playerunknown-s-battlegrounds",
@@ -2877,7 +3785,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/578080/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 578080,
+      "reviews": null
+    }
   },
   {
     "slug": "plebby-quest-the-crusades",
@@ -2887,7 +3799,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/plebby-quest-the-crusades/9MWBPSQ5PKQR",
       "steam": "https://store.steampowered.com/app/334310/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 334310,
+      "reviews": null
+    }
   },
   {
     "slug": "power-rangers-battle-for-the-grid",
@@ -2897,7 +3813,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/power-rangers-battle-for-the-grid/9P5VMG8D4P4B",
       "steam": "https://store.steampowered.com/app/1110100/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1110100,
+      "reviews": null
+    }
   },
   {
     "slug": "quantum-break",
@@ -2907,7 +3827,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/474960/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 474960,
+      "reviews": null
+    }
   },
   {
     "slug": "rage-2",
@@ -2917,7 +3841,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
       "steam": "https://store.steampowered.com/app/548570/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 548570,
+      "reviews": null
+    }
   },
   {
     "slug": "rare-replay",
@@ -2927,7 +3855,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "recore",
@@ -2937,7 +3866,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/recore/9NBLGGH1Z6FQ",
       "steam": "https://store.steampowered.com/app/537450/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 537450,
+      "reviews": null
+    }
   },
   {
     "slug": "reigns-game-of-thrones",
@@ -2947,7 +3880,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/reigns-game-of-thrones/9NB2WLSJ2QK3",
       "steam": "https://store.steampowered.com/app/897820/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 897820,
+      "reviews": null
+    }
   },
   {
     "slug": "remnant-from-the-ashes",
@@ -2957,7 +3894,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/617290/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 617290,
+      "reviews": null
+    }
   },
   {
     "slug": "resident-evil-7-biohazard",
@@ -2967,7 +3908,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
       "steam": "https://store.steampowered.com/app/418370/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 418370,
+      "reviews": null
+    }
   },
   {
     "slug": "rise-of-nations-extended-edition",
@@ -2977,7 +3922,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/rise-of-nations-extended-edition/9NS84HCWZD8B",
       "steam": "https://store.steampowered.com/app/287450/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 287450,
+      "reviews": null
+    }
   },
   {
     "slug": "river-city-girls",
@@ -2987,7 +3936,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
       "steam": "https://store.steampowered.com/app/1049320/"
     },
-    "updatedAt": "2020-11-19T09:15:35.902Z"
+    "updatedAt": "2020-11-19T09:15:35.902Z",
+    "steam": {
+      "appid": 1049320,
+      "reviews": null
+    }
   },
   {
     "slug": "rocket-arena",
@@ -2997,7 +3950,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1233550/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1233550,
+      "reviews": null
+    }
   },
   {
     "slug": "rush-a-disneypixar-adventure",
@@ -3007,7 +3964,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ",
       "steam": "https://store.steampowered.com/app/579490/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 579490,
+      "reviews": null
+    }
   },
   {
     "slug": "ryse-son-of-rome",
@@ -3017,7 +3978,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/302510/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 302510,
+      "reviews": null
+    }
   },
   {
     "slug": "scourgebringer",
@@ -3027,7 +3992,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/scourgebringer/9NXPV1T3WS34",
       "steam": "https://store.steampowered.com/app/1037020/"
     },
-    "updatedAt": "2020-10-21T14:20:13.785Z"
+    "updatedAt": "2020-10-21T14:20:13.785Z",
+    "steam": {
+      "appid": 1037020,
+      "reviews": null
+    }
   },
   {
     "slug": "screamride",
@@ -3037,7 +4006,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "sea-of-solitude",
@@ -3047,7 +4017,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1225590/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1225590,
+      "reviews": null
+    }
   },
   {
     "slug": "sea-of-thieves",
@@ -3057,7 +4031,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
       "steam": "https://store.steampowered.com/app/1172620/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1172620,
+      "reviews": null
+    }
   },
   {
     "slug": "sea-salt",
@@ -3067,7 +4045,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/sea-salt/9NXQ4PX4TZJZ",
       "steam": "https://store.steampowered.com/app/983350/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 983350,
+      "reviews": null
+    }
   },
   {
     "slug": "secret-neighbor",
@@ -3077,7 +4059,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/859570/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 859570,
+      "reviews": null
+    }
   },
   {
     "slug": "shadow-warrior-2",
@@ -3087,7 +4073,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ",
       "steam": "https://store.steampowered.com/app/324800/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 324800,
+      "reviews": null
+    }
   },
   {
     "slug": "shadows-of-the-damned",
@@ -3097,7 +4087,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "skate-3",
@@ -3107,7 +4098,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "slay-the-spire",
@@ -3117,7 +4109,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
       "steam": "https://store.steampowered.com/app/646570/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 646570,
+      "reviews": null
+    }
   },
   {
     "slug": "slime-rancher",
@@ -3127,7 +4123,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/433340/"
     },
-    "updatedAt": "2020-12-03T09:17:39.020Z"
+    "updatedAt": "2020-12-03T09:17:39.020Z",
+    "steam": {
+      "appid": 433340,
+      "reviews": null
+    }
   },
   {
     "slug": "sniper-elite-4",
@@ -3137,7 +4137,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/312660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 312660,
+      "reviews": null
+    }
   },
   {
     "slug": "soulcalibur-vi",
@@ -3147,7 +4151,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/544750/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 544750,
+      "reviews": null
+    }
   },
   {
     "slug": "spiritfarer",
@@ -3157,7 +4165,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/spiritfarer/9NG5L58FD3X5",
       "steam": "https://store.steampowered.com/app/972660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 972660,
+      "reviews": null
+    }
   },
   {
     "slug": "ssx",
@@ -3167,7 +4179,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "star-renegades",
@@ -3177,7 +4190,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
       "steam": "https://store.steampowered.com/app/651670/"
     },
-    "updatedAt": "2020-11-19T09:15:35.902Z"
+    "updatedAt": "2020-11-19T09:15:35.902Z",
+    "steam": {
+      "appid": 651670,
+      "reviews": null
+    }
   },
   {
     "slug": "star-wars-jedi-fallen-order",
@@ -3187,7 +4204,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1172380/"
     },
-    "updatedAt": "2020-11-11T09:13:14.733Z"
+    "updatedAt": "2020-11-11T09:13:14.733Z",
+    "steam": {
+      "appid": 1172380,
+      "reviews": null
+    }
   },
   {
     "slug": "star-wars-battlefront",
@@ -3197,7 +4218,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1237980/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1237980,
+      "reviews": null
+    }
   },
   {
     "slug": "star-wars-battlefront-ii",
@@ -3207,7 +4232,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1237950/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1237950,
+      "reviews": null
+    }
   },
   {
     "slug": "starbound",
@@ -3217,7 +4246,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/starbound/9MTSBWPWPQVQ",
       "steam": "https://store.steampowered.com/app/211820/"
     },
-    "updatedAt": "2020-12-08T09:19:33.718Z"
+    "updatedAt": "2020-12-08T09:19:33.718Z",
+    "steam": {
+      "appid": 211820,
+      "reviews": null
+    }
   },
   {
     "slug": "state-of-decay-2-juggernaut-edition",
@@ -3227,7 +4260,11 @@
       "pc": "https://www.xbox.com/en-us/games/state-of-decay-2",
       "steam": "https://store.steampowered.com/app/495420/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 495420,
+      "reviews": null
+    }
   },
   {
     "slug": "state-of-decay-year-one",
@@ -3237,7 +4274,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/329430/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 329430,
+      "reviews": null
+    }
   },
   {
     "slug": "stellaris",
@@ -3247,7 +4288,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/stellaris/9NXQPGMR917R",
       "steam": "https://store.steampowered.com/app/281990/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 281990,
+      "reviews": null
+    }
   },
   {
     "slug": "stranger-things-3-the-game",
@@ -3257,7 +4302,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9PMDDQ228FQD",
       "steam": "https://store.steampowered.com/app/1097800/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1097800,
+      "reviews": null
+    }
   },
   {
     "slug": "streets-of-rage-4",
@@ -3267,7 +4316,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/streets-of-rage-4/9N7H54KNCB9N",
       "steam": "https://store.steampowered.com/app/985890/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 985890,
+      "reviews": null
+    }
   },
   {
     "slug": "streets-of-rogue",
@@ -3277,7 +4330,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9NKRBSZXQ2HM",
       "steam": "https://store.steampowered.com/app/512900/"
     },
-    "updatedAt": "2020-11-13T09:19:08.706Z"
+    "updatedAt": "2020-11-13T09:19:08.706Z",
+    "steam": {
+      "appid": 512900,
+      "reviews": null
+    }
   },
   {
     "slug": "subnautica",
@@ -3287,7 +4344,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/subnautica/BX3S1Q5DVHRD",
       "steam": "https://store.steampowered.com/app/264710/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 264710,
+      "reviews": null
+    }
   },
   {
     "slug": "sunset-overdrive",
@@ -3297,7 +4358,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/9NNLBL0T2Z43",
       "steam": "https://store.steampowered.com/app/847370/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 847370,
+      "reviews": null
+    }
   },
   {
     "slug": "super-lucky-s-tale",
@@ -3307,7 +4372,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/super-luckys-tale/9PLMGFWCFZ9G",
       "steam": "https://store.steampowered.com/app/847360/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 847360,
+      "reviews": null
+    }
   },
   {
     "slug": "superhot-mind-control-delete",
@@ -3317,7 +4386,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/690040/"
     },
-    "updatedAt": "2020-12-10T09:19:57.314Z"
+    "updatedAt": "2020-12-10T09:19:57.314Z",
+    "steam": {
+      "appid": 690040,
+      "reviews": null
+    }
   },
   {
     "slug": "supraland",
@@ -3327,7 +4400,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/813630/"
     },
-    "updatedAt": "2020-10-22T14:19:36.679Z"
+    "updatedAt": "2020-10-22T14:19:36.679Z",
+    "steam": {
+      "appid": 813630,
+      "reviews": null
+    }
   },
   {
     "slug": "surviving-mars",
@@ -3337,7 +4414,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/surviving-mars/9MXB71Q4VWGJ",
       "steam": "https://store.steampowered.com/app/464920/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 464920,
+      "reviews": null
+    }
   },
   {
     "slug": "tales-of-vesperia-definitive-edition",
@@ -3347,7 +4428,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
       "steam": "https://store.steampowered.com/app/738540/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 738540,
+      "reviews": null
+    }
   },
   {
     "slug": "tell-me-why-chapters-1-3",
@@ -3357,7 +4442,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapters-1-3/9NF83PRZK6K3",
       "steam": "https://store.steampowered.com/app/1180660/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1180660,
+      "reviews": null
+    }
   },
   {
     "slug": "terraria",
@@ -3367,7 +4456,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/105600/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 105600,
+      "reviews": null
+    }
   },
   {
     "slug": "tetris-effect-connected",
@@ -3377,7 +4470,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/tetris-effect-connected/9PPBVK3TK83M",
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "the-bard-s-tale-arpg-remastered-and-resnarkled",
@@ -3387,7 +4481,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-bards-tale-arpg--remastered-and-resnarkled/9PN3VDFTB5HZ",
       "steam": "https://store.steampowered.com/app/41900/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 41900,
+      "reviews": null
+    }
   },
   {
     "slug": "the-bard-s-tale-iv-director-s-cut",
@@ -3397,7 +4495,11 @@
       "pc": "https://www.xbox.com/en-us/games/bards-tale-iv-directors-cut",
       "steam": "https://store.steampowered.com/app/1091980/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1091980,
+      "reviews": null
+    }
   },
   {
     "slug": "the-bard-s-tale-trilogy",
@@ -3407,7 +4509,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-bards-tale-trilogy/9MVN4ND41DD3",
       "steam": "https://store.steampowered.com/app/843260/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 843260,
+      "reviews": null
+    }
   },
   {
     "slug": "the-dark-crystal-age-of-resistance-tactics",
@@ -3417,7 +4523,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-dark-crystal-age-of-resistance-tactics/9NPWSCWJGHL1",
       "steam": "https://store.steampowered.com/app/1097790/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1097790,
+      "reviews": null
+    }
   },
   {
     "slug": "the-dark-pictures-anthology-man-of-medan",
@@ -3427,7 +4537,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/9N3TF0CG8NZB",
       "steam": "https://store.steampowered.com/app/939850/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 939850,
+      "reviews": null
+    }
   },
   {
     "slug": "the-elder-scrolls-v-skyrim-special-edition",
@@ -3437,7 +4551,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/489830/"
     },
-    "updatedAt": "2020-12-15T09:20:24.679Z"
+    "updatedAt": "2020-12-15T09:20:24.679Z",
+    "steam": {
+      "appid": 489830,
+      "reviews": null
+    }
   },
   {
     "slug": "the-elder-scrolls-online",
@@ -3447,7 +4565,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/306130/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 306130,
+      "reviews": null
+    }
   },
   {
     "slug": "the-gardens-between",
@@ -3457,7 +4579,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
       "steam": "https://store.steampowered.com/app/600990/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 600990,
+      "reviews": null
+    }
   },
   {
     "slug": "the-jackbox-party-pack-4",
@@ -3467,7 +4593,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/610180/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 610180,
+      "reviews": null
+    }
   },
   {
     "slug": "the-little-acre",
@@ -3477,7 +4607,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/423590/"
     },
-    "updatedAt": "2021-01-07T09:36:21.010Z"
+    "updatedAt": "2021-01-07T09:36:21.010Z",
+    "steam": {
+      "appid": 423590,
+      "reviews": null
+    }
   },
   {
     "slug": "the-long-dark",
@@ -3487,7 +4621,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
       "steam": "https://store.steampowered.com/app/305620/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 305620,
+      "reviews": null
+    }
   },
   {
     "slug": "the-messenger",
@@ -3497,7 +4635,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-messenger/9NNFBW3NGV9K",
       "steam": "https://store.steampowered.com/app/764790/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 764790,
+      "reviews": null
+    }
   },
   {
     "slug": "the-outer-worlds",
@@ -3507,7 +4649,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-outer-worlds/9MWD2Z8L1FBQ",
       "steam": "https://store.steampowered.com/app/578650/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 578650,
+      "reviews": null
+    }
   },
   {
     "slug": "the-sims-4",
@@ -3517,7 +4663,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1222670/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1222670,
+      "reviews": null
+    }
   },
   {
     "slug": "the-surge-2",
@@ -3527,7 +4677,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G",
       "steam": "https://store.steampowered.com/app/644830/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 644830,
+      "reviews": null
+    }
   },
   {
     "slug": "the-swords-of-ditto-mormo-s-curse",
@@ -3537,7 +4691,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-swords-of-ditto-mormos-curse/9NF2DDV5RTH8",
       "steam": "https://store.steampowered.com/app/619780/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 619780,
+      "reviews": null
+    }
   },
   {
     "slug": "the-touryst",
@@ -3547,7 +4705,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/the-touryst/9N9W1JK1X5QJ",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "the-walking-dead-a-new-frontier-the-complete-season-episodes-1-5",
@@ -3557,7 +4716,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "the-walking-dead-michonne-ep-2-give-no-shelter",
@@ -3567,7 +4727,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "the-walking-dead-michonne-ep-3-what-we-deserve",
@@ -3577,7 +4738,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "the-walking-dead-michonne-the-complete-season",
@@ -3587,7 +4749,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "the-walking-dead-season-two",
@@ -3597,7 +4760,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/261030/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 261030,
+      "reviews": null
+    }
   },
   {
     "slug": "the-walking-dead-the-complete-first-season",
@@ -3607,7 +4774,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "the-witcher-3-wild-hunt",
@@ -3617,7 +4785,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/292030/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 292030,
+      "reviews": null
+    }
   },
   {
     "slug": "thehunter-call-of-the-wild",
@@ -3627,7 +4799,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/518790/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 518790,
+      "reviews": null
+    }
   },
   {
     "slug": "thronebreaker-the-witcher-tales",
@@ -3637,7 +4813,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/973760/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 973760,
+      "reviews": null
+    }
   },
   {
     "slug": "thumper",
@@ -3647,7 +4827,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/thumper/9PHV10KXLJZT",
       "steam": "https://store.steampowered.com/app/356400/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 356400,
+      "reviews": null
+    }
   },
   {
     "slug": "titanfall",
@@ -3657,7 +4841,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1454890/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1454890,
+      "reviews": null
+    }
   },
   {
     "slug": "titanfall-2",
@@ -3667,7 +4855,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1237970/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1237970,
+      "reviews": null
+    }
   },
   {
     "slug": "tom-clancy-s-rainbow-six-siege-deluxe-edition",
@@ -3677,7 +4869,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-10-22T14:19:36.679Z"
+    "updatedAt": "2020-10-22T14:19:36.679Z",
+    "steam": null
   },
   {
     "slug": "torchlight-iii",
@@ -3687,7 +4880,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1030210/"
     },
-    "updatedAt": "2021-01-14T09:53:26.977Z"
+    "updatedAt": "2021-01-14T09:53:26.977Z",
+    "steam": {
+      "appid": 1030210,
+      "reviews": null
+    }
   },
   {
     "slug": "torment-tides-of-numenera",
@@ -3697,7 +4894,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/torment-tides-of-numenera/9NC0071DJ6XC",
       "steam": "https://store.steampowered.com/app/272270/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 272270,
+      "reviews": null
+    }
   },
   {
     "slug": "totally-accurate-battle-simulator",
@@ -3707,7 +4908,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/totally-accurate-battle-simulator-game-preview/9PC4RWP34M2D",
       "steam": "https://store.steampowered.com/app/508440/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 508440,
+      "reviews": null
+    }
   },
   {
     "slug": "totally-reliable-delivery-service",
@@ -3717,7 +4922,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1011670/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1011670,
+      "reviews": null
+    }
   },
   {
     "slug": "touhou-luna-nights",
@@ -3727,7 +4936,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/touhou-luna-nights/9NBLGJQQBHH4",
       "steam": "https://store.steampowered.com/app/851100/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 851100,
+      "reviews": null
+    }
   },
   {
     "slug": "trailmakers",
@@ -3737,7 +4950,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/trailmakers/9NSFGM8J6MBJ",
       "steam": "https://store.steampowered.com/app/585420/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 585420,
+      "reviews": null
+    }
   },
   {
     "slug": "train-sim-world-2020",
@@ -3747,7 +4964,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9PMT49X8ZGM2",
       "steam": "https://store.steampowered.com/app/530070/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 530070,
+      "reviews": null
+    }
   },
   {
     "slug": "two-point-hospital",
@@ -3757,7 +4978,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9N08S5VPC4SX",
       "steam": "https://store.steampowered.com/app/535930/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 535930,
+      "reviews": null
+    }
   },
   {
     "slug": "undermine",
@@ -3767,7 +4992,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/undermine/9N52CQMFH3BB",
       "steam": "https://store.steampowered.com/app/656350/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 656350,
+      "reviews": null
+    }
   },
   {
     "slug": "unravel",
@@ -3777,7 +5006,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1225560/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1225560,
+      "reviews": null
+    }
   },
   {
     "slug": "unravel-two",
@@ -3787,7 +5020,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/1225570/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 1225570,
+      "reviews": null
+    }
   },
   {
     "slug": "unruly-heroes",
@@ -3797,7 +5034,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/unruly-heroes-windows-10/9P3SS6K8ZQ57",
       "steam": "https://store.steampowered.com/app/780350/"
     },
-    "updatedAt": "2020-10-29T14:21:21.528Z"
+    "updatedAt": "2020-10-29T14:21:21.528Z",
+    "steam": {
+      "appid": 780350,
+      "reviews": null
+    }
   },
   {
     "slug": "unto-the-end",
@@ -3807,7 +5048,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/unto-the-end/9MVJ0W5N2L2Q",
       "steam": "https://store.steampowered.com/app/600080/"
     },
-    "updatedAt": "2020-12-09T09:20:03.230Z"
+    "updatedAt": "2020-12-09T09:20:03.230Z",
+    "steam": {
+      "appid": 600080,
+      "reviews": null
+    }
   },
   {
     "slug": "va-11-hall-a-cyberpunk-bartender-action",
@@ -3817,7 +5062,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
       "steam": "https://store.steampowered.com/app/447530/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 447530,
+      "reviews": null
+    }
   },
   {
     "slug": "vambrace-cold-soul",
@@ -3827,7 +5076,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/vambrace-cold-soul/9N171CGFVT1L",
       "steam": "https://store.steampowered.com/app/904380/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 904380,
+      "reviews": null
+    }
   },
   {
     "slug": "viva-pinata",
@@ -3837,7 +5090,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "viva-pinata-tip",
@@ -3847,7 +5101,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "void-bastards",
@@ -3857,7 +5112,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS",
       "steam": "https://store.steampowered.com/app/857980/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 857980,
+      "reviews": null
+    }
   },
   {
     "slug": "wargroove",
@@ -3867,7 +5126,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wargroove/9NRPTTJ94PCK",
       "steam": "https://store.steampowered.com/app/607050/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 607050,
+      "reviews": null
+    }
   },
   {
     "slug": "warhammer-vermintide-2",
@@ -3877,7 +5140,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/552500/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 552500,
+      "reviews": null
+    }
   },
   {
     "slug": "wasteland-2-director-s-cut",
@@ -3887,7 +5154,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wasteland-2-directors-cut/C521HDXRTS7F",
       "steam": "https://store.steampowered.com/app/404730/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 404730,
+      "reviews": null
+    }
   },
   {
     "slug": "wasteland-3",
@@ -3897,7 +5168,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wasteland-3-pc/9NLT5XR52ZS7",
       "steam": "https://store.steampowered.com/app/719040/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 719040,
+      "reviews": null
+    }
   },
   {
     "slug": "wasteland-remastered",
@@ -3907,7 +5182,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wasteland-remastered/9NGH1FK0RJGL",
       "steam": "https://store.steampowered.com/app/875800/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 875800,
+      "reviews": null
+    }
   },
   {
     "slug": "we-happy-few",
@@ -3917,7 +5196,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/we-happy-few/9NBLGGH5342P",
       "steam": "https://store.steampowered.com/app/320240/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 320240,
+      "reviews": null
+    }
   },
   {
     "slug": "west-of-dead",
@@ -3927,7 +5210,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NV0540N4JRN",
       "steam": "https://store.steampowered.com/app/1016790/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1016790,
+      "reviews": null
+    }
   },
   {
     "slug": "what-remains-of-edith-finch",
@@ -3937,7 +5224,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/what-remains-of-edith-finch/BSLGLG8P9T01",
       "steam": "https://store.steampowered.com/app/501300/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 501300,
+      "reviews": null
+    }
   },
   {
     "slug": "wilmot-s-warehouse",
@@ -3947,7 +5238,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN",
       "steam": "https://store.steampowered.com/app/839870/"
     },
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2020-12-17T09:20:43.814Z",
+    "steam": {
+      "appid": 839870,
+      "reviews": null
+    }
   },
   {
     "slug": "wizard-of-legend",
@@ -3957,7 +5252,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/9MZH0GG41HL9",
       "steam": "https://store.steampowered.com/app/445980/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 445980,
+      "reviews": null
+    }
   },
   {
     "slug": "wolfenstein-youngblood",
@@ -3967,7 +5266,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
       "steam": "https://store.steampowered.com/app/1056960/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 1056960,
+      "reviews": null
+    }
   },
   {
     "slug": "world-of-horror",
@@ -3977,7 +5280,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/world-of-horror-game-preview/9N1FDTTSS49Z",
       "steam": "https://store.steampowered.com/app/913740/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 913740,
+      "reviews": null
+    }
   },
   {
     "slug": "world-war-z",
@@ -3987,7 +5294,8 @@
       "pc": "https://www.microsoft.com/en-us/store/p/world-war-z/9N015DFDMVK6",
       "steam": null
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": null
   },
   {
     "slug": "worms-w-m-d",
@@ -3997,7 +5305,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99",
       "steam": "https://store.steampowered.com/app/327030/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 327030,
+      "reviews": null
+    }
   },
   {
     "slug": "xeno-crisis",
@@ -4007,7 +5319,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/xeno-crisis/9PNBGZTL0Z1S",
       "steam": "https://store.steampowered.com/app/464260/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 464260,
+      "reviews": null
+    }
   },
   {
     "slug": "yakuza-0",
@@ -4017,7 +5333,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/638970/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 638970,
+      "reviews": null
+    }
   },
   {
     "slug": "yakuza-0-for",
@@ -4027,7 +5347,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
       "steam": "https://store.steampowered.com/app/638970/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 638970,
+      "reviews": null
+    }
   },
   {
     "slug": "yakuza-kiwami",
@@ -4037,7 +5361,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/834530/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 834530,
+      "reviews": null
+    }
   },
   {
     "slug": "yakuza-kiwami-2",
@@ -4047,7 +5375,11 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/927380/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 927380,
+      "reviews": null
+    }
   },
   {
     "slug": "yakuza-kiwami-2-for",
@@ -4057,7 +5389,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
       "steam": "https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 927380,
+      "reviews": null
+    }
   },
   {
     "slug": "yakuza-kiwami-for",
@@ -4067,7 +5403,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
       "steam": "https://store.steampowered.com/app/834530/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 834530,
+      "reviews": null
+    }
   },
   {
     "slug": "yes-your-grace",
@@ -4077,7 +5417,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/yes-your-grace/9NX14Q0QZD1T",
       "steam": "https://store.steampowered.com/app/1115690/"
     },
-    "updatedAt": "2020-12-03T09:17:39.020Z"
+    "updatedAt": "2020-12-03T09:17:39.020Z",
+    "steam": {
+      "appid": 1115690,
+      "reviews": null
+    }
   },
   {
     "slug": "yiik-a-postmodern-rpg",
@@ -4087,7 +5431,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
       "steam": "https://store.steampowered.com/app/459080/"
     },
-    "updatedAt": "2021-01-14T09:53:26.977Z"
+    "updatedAt": "2021-01-14T09:53:26.977Z",
+    "steam": {
+      "appid": 459080,
+      "reviews": null
+    }
   },
   {
     "slug": "yooka-laylee-and-the-impossible-lair",
@@ -4097,7 +5445,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/yooka-laylee-and-the-impossible-lair/9NB1LCQDPPM1",
       "steam": "https://store.steampowered.com/app/846870/"
     },
-    "updatedAt": "2020-12-10T09:19:57.314Z"
+    "updatedAt": "2020-12-10T09:19:57.314Z",
+    "steam": {
+      "appid": 846870,
+      "reviews": null
+    }
   },
   {
     "slug": "zoo-tycoon-ultimate-animal-collection",
@@ -4107,7 +5459,11 @@
       "pc": "https://www.microsoft.com/en-us/store/p/zoo-tycoon-ultimate-animal-collection/9PJ06TZX4NMH",
       "steam": "https://store.steampowered.com/app/613880/"
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2020-08-01T00:00:00.000Z",
+    "steam": {
+      "appid": 613880,
+      "reviews": null
+    }
   },
   {
     "slug": "zuma",
@@ -4117,7 +5473,8 @@
       "pc": null,
       "steam": null
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": null
   },
   {
     "slug": "zuma-s-revenge",
@@ -4127,6 +5484,10 @@
       "pc": null,
       "steam": "https://store.steampowered.com/app/3620/"
     },
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2020-11-10T09:12:53.627Z",
+    "steam": {
+      "appid": 3620,
+      "reviews": null
+    }
   }
 ]

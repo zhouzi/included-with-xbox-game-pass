@@ -4,6 +4,7 @@ import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
 import random from "random-int";
 import escapeRegexp from "escape-string-regexp";
+import { subDays, startOfDay, isBefore } from "date-fns";
 import slugify from "@sindresorhus/slugify";
 import got from "got";
 import { Game } from "@xgp/types";
@@ -99,10 +100,18 @@ async function updateSteamRelation(games: Record<string, Game>) {
 }
 
 async function updateSteamReviews(games: Record<string, Game>) {
+  const oneWeekAgo = startOfDay(subDays(new Date(), 7));
   const priorizedSlugs = Object.values(games)
     .filter((game) => game.steam != null)
-    // prioritize games without reviews data, then the oldest ones
+    .filter(
+      (game) =>
+        game.steam!.reviews == null ||
+        // filter out reviews updated recently
+        // to avoid generating changes with each run
+        isBefore(new Date(game.steam!.reviews.updatedAt), oneWeekAgo)
+    )
     .sort((a, b) => {
+      // prioritize games without reviews data
       if (a.steam!.reviews == null && b.steam!.reviews != null) {
         return -1;
       }
@@ -112,6 +121,8 @@ async function updateSteamReviews(games: Record<string, Game>) {
       if (a.steam!.reviews == null && b.steam!.reviews == null) {
         return 0;
       }
+
+      // then the oldest ones
       return (
         new Date(a.steam!.reviews!.updatedAt).getTime() -
         new Date(b.steam!.reviews!.updatedAt).getTime()

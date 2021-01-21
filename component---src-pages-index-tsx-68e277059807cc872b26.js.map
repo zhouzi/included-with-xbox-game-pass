@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.tsx"],"names":["PageHome"],"mappings":"2FAAA,2EAGe,SAASA,IACtB,OAAO,gBAAC,IAAD","file":"component---src-pages-index-tsx-68e277059807cc872b26.js","sourcesContent":["import * as React from \"react\";\nimport { Home } from \"../components/pages\";\n\nexport default function PageHome() {\n  return <Home />;\n}\n"],"sourceRoot":""}

@@ -33,7 +33,7 @@ const ALIASES = {
   "FINAL FANTASY VIII Remastered": [
     "FINAL FANTASY VIII Remastered WINDOWS EDITION",
   ],
-  "Gears of War: Ultimate Edition for": [
+  "Gears of War: Ultimate Edition": [
     "Gears of War: Ultimate Edition for Windows 10",
   ],
   GONNER2: ["GONNER2 WIN10"],
@@ -48,9 +48,9 @@ const ALIASES = {
   "Unruly Heroes": ["Unruly Heroes Windows 10"],
   "Wasteland 3": ["Wasteland 3 (PC)", "Wasteland 3 (Xbox One)"],
   "Wolfenstein: Youngblood": ["Wolfenstein: Youngblood (PC)"],
-  "Yakuza 0 for": ["Yakuza 0 for Windows 10"],
-  "Yakuza Kiwami 2 for": ["Yakuza Kiwami 2 for Windows 10"],
-  "Yakuza Kiwami for": ["Yakuza Kiwami for Windows 10"],
+  "Yakuza 0": ["Yakuza 0 for Windows 10"],
+  "Yakuza Kiwami 2": ["Yakuza Kiwami 2 for Windows 10"],
+  "Yakuza Kiwami": ["Yakuza Kiwami for Windows 10"],
   "Wilmot's Warehouse": ["Wilmot's Warehouse Win10"],
   "F1® 2019": ["F1® 2019 PC"],
   "MotoGP™20": ["MotoGP™20 - Windows Edition"],

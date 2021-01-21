@@ -2817,17 +2817,6 @@
     "name": "Gears of War: Ultimate Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition/BQT21VXFS52F",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "gears-of-war-ultimate-edition-for",
-    "name": "Gears of War: Ultimate Edition for",
-    "availability": {
-      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
       "steam": null
     },
@@ -7211,7 +7200,7 @@
     "name": "Yakuza 0",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-0/9NPP17LHJ3MK",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
       "steam": "https://store.steampowered.com/app/638970/"
     },
     "steam": {
@@ -7227,31 +7216,11 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "yakuza-0-for",
-    "name": "Yakuza 0 for",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
-      "steam": "https://store.steampowered.com/app/638970/"
-    },
-    "steam": {
-      "appid": 638970,
-      "reviews": {
-        "reviewScore": 9,
-        "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 13811,
-        "totalNegative": 595,
-        "updatedAt": "2021-01-19T18:09:01.287Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "yakuza-kiwami",
     "name": "Yakuza Kiwami",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami/9NBJ51BD0LTH",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
       "steam": "https://store.steampowered.com/app/834530/"
     },
     "steam": {
@@ -7271,7 +7240,7 @@
     "name": "Yakuza Kiwami 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2/9PBJL0NLFMK9",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
       "steam": "https://store.steampowered.com/app/927380/"
     },
     "steam": {
@@ -7281,46 +7250,6 @@
         "reviewScoreDesc": "Overwhelmingly Positive",
         "totalPositive": 2641,
         "totalNegative": 69,
-        "updatedAt": "2021-01-19T18:09:01.287Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yakuza-kiwami-2-for",
-    "name": "Yakuza Kiwami 2 for",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
-      "steam": "https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/"
-    },
-    "steam": {
-      "appid": 927380,
-      "reviews": {
-        "reviewScore": 9,
-        "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 2642,
-        "totalNegative": 69,
-        "updatedAt": "2021-01-19T18:09:01.287Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yakuza-kiwami-for",
-    "name": "Yakuza Kiwami for",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
-      "steam": "https://store.steampowered.com/app/834530/"
-    },
-    "steam": {
-      "appid": 834530,
-      "reviews": {
-        "reviewScore": 8,
-        "reviewScoreDesc": "Very Positive",
-        "totalPositive": 2952,
-        "totalNegative": 166,
         "updatedAt": "2021-01-19T18:09:01.287Z"
       }
     },

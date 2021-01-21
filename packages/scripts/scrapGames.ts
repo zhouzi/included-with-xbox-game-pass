@@ -26,7 +26,10 @@ const ALIASES = {
   Pikuniku: ["Pikuniku Win10"],
   Stellaris: ["Stellaris: Console Edition"],
   "A Plague Tale: Innocence": ["A Plague Tale: Innocence - Windows 10"],
-  "Dead by Daylight": ["Dead by Daylight Windows"],
+  "Dead by Daylight": [
+    "Dead by Daylight Windows",
+    "Dead by Daylight: Special Edition",
+  ],
   "DOOM Eternal Standard Edition": ["DOOM Eternal Standard Edition (PC)"],
   "Fallout 76": ["Fallout 76 - PC"],
   "FINAL FANTASY VII": ["FINAL FANTASY VII WINDOWS EDITION"],
@@ -56,10 +59,28 @@ const ALIASES = {
   "MotoGP™20": ["MotoGP™20 - Windows Edition"],
   "Planet Coaster": ["Planet Coaster: Console Edition"],
   "WORLD OF HORROR": ["WORLD OF HORROR (Game Preview)"],
-  "FINAL FANTASY XV": ["FINAL FANTASY XV WINDOWS EDITION"],
+  "FINAL FANTASY XV": [
+    "FINAL FANTASY XV WINDOWS EDITION",
+    "FINAL FANTASY XV ROYAL EDITION",
+  ],
   "Battlefleet Gothic: Armada 2": ["Battlefleet Gothic: Armada 2 - Windows 10"],
   "Europa Universalis IV": ["Europa Universalis IV - Microsoft Store Edition"],
   Comanche: ["Comanche (Game Preview)"],
+  Control: ["Control Standard Edition"],
+  Beholder: ["Beholder Complete Edition"],
+  "eFootball PES 2021 SEASON UPDATE": [
+    "eFootball PES 2021 SEASON UPDATE STANDARD EDITION",
+  ],
+  "Hollow Knight": ["Hollow Knight: Voidheart Edition"],
+  "NieR:Automata™": ["NieR:Automata™ BECOME AS GODS Edition"],
+  "PAYDAY 2": ["PAYDAY 2: CRIMEWAVE EDITION"],
+  "Pillars of Eternity": [
+    "Pillars of Eternity: Complete Edition",
+    "Pillars of Eternity: Hero Edition",
+  ],
+  "Tom Clancy's Rainbow Six® Siege": [
+    "Tom Clancy's Rainbow Six® Siege Deluxe Edition",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

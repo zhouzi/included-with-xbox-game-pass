@@ -617,14 +617,23 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "beholder-complete-edition",
-    "name": "Beholder Complete Edition",
+    "slug": "beholder",
+    "name": "Beholder",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/beholder-complete-edition/BPV4628PQ0D0",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/475550/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 475550,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 1575,
+        "totalNegative": 390,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -633,9 +642,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/bejeweled-2/BTXM0C9C3B1S",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/3300/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 3300,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 178,
+        "totalNegative": 10,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -1034,7 +1052,7 @@
     "name": "Control",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/control/BZ6W9LRPC26W",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
       "steam": "https://store.steampowered.com/app/870780/"
     },
     "steam": {
@@ -1047,17 +1065,6 @@
         "updatedAt": "2021-01-19T18:09:01.287Z"
       }
     },
-    "updatedAt": "2020-12-03T09:17:39.020Z"
-  },
-  {
-    "slug": "control-standard-edition",
-    "name": "Control Standard Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-01-21T09:56:03.069Z"
   },
   {
@@ -1326,7 +1333,7 @@
     "slug": "dead-by-daylight",
     "name": "Dead by Daylight",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-special-edition/C0N22P73QZ60",
       "pc": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH",
       "steam": "https://store.steampowered.com/app/381210/"
     },
@@ -1340,17 +1347,6 @@
         "updatedAt": "2021-01-19T18:09:01.287Z"
       }
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "dead-by-daylight-special-edition",
-    "name": "Dead by Daylight: Special Edition",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-special-edition/C0N22P73QZ60",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1870,9 +1866,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-2/C4G76555T4QN",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1238040/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 1238040,
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 377,
+        "totalNegative": 96,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -2075,14 +2080,23 @@
     "updatedAt": "2020-11-05T09:20:53.821Z"
   },
   {
-    "slug": "efootball-pes-2021-season-update-standard-edition",
-    "name": "eFootball PES 2021 SEASON UPDATE STANDARD EDITION",
+    "slug": "efootball-pes-2021-season-update",
+    "name": "eFootball PES 2021 SEASON UPDATE",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/efootball-pes-2021-season-update-standard-edition/9NX03CC9LL1C",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1259970/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 1259970,
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 1599,
+        "totalNegative": 414,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2021-01-07T09:36:21.010Z"
   },
   {
@@ -2313,9 +2327,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/feeding-frenzy-2/BQ192SFB694X",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/3390/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 3390,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 300,
+        "totalNegative": 12,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -2426,7 +2449,7 @@
     "slug": "final-fantasy-xv",
     "name": "FINAL FANTASY XV",
     "availability": {
-      "console": null,
+      "console": "https://www.xbox.com/en-us/games/final-fantasy-xv",
       "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xv-windows-edition/9NR0N2LZ6TC5",
       "steam": "https://store.steampowered.com/app/637650/"
     },
@@ -2440,17 +2463,6 @@
         "updatedAt": "2021-01-19T18:23:34.898Z"
       }
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "final-fantasy-xv-royal-edition",
-    "name": "FINAL FANTASY XV ROYAL EDITION",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/final-fantasy-xv",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2817,17 +2829,6 @@
     "name": "Gears of War: Ultimate Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition/BQT21VXFS52F",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "gears-of-war-ultimate-edition-for",
-    "name": "Gears of War: Ultimate Edition for",
-    "availability": {
-      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
       "steam": null
     },
@@ -3313,9 +3314,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/heavy-weapon/BZ910SG8ML8X",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/3410/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 3410,
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 73,
+        "totalNegative": 27,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -3362,7 +3372,7 @@
     "slug": "hollow-knight",
     "name": "Hollow Knight",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/hollow-knight-voidheart-edition/9MW9469V91LM",
       "pc": "https://www.microsoft.com/en-us/store/p/hollow-knight/9PKM22F7C9K5",
       "steam": "https://store.steampowered.com/app/367520/"
     },
@@ -3376,17 +3386,6 @@
         "updatedAt": "2021-01-19T18:23:34.898Z"
       }
     },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "hollow-knight-voidheart-edition",
-    "name": "Hollow Knight: Voidheart Edition",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/hollow-knight-voidheart-edition/9MW9469V91LM",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4581,14 +4580,23 @@
     "updatedAt": "2020-12-04T09:21:40.852Z"
   },
   {
-    "slug": "nier-automata-become-as-gods-edition",
-    "name": "NieR:Automata™ BECOME AS GODS Edition",
+    "slug": "nier-automata",
+    "name": "NieR:Automata™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/nier-automata",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/524220/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 524220,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 22695,
+        "totalNegative": 2693,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4843,14 +4851,23 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "payday-2-crimewave-edition",
-    "name": "PAYDAY 2: CRIMEWAVE EDITION",
+    "slug": "payday-2",
+    "name": "PAYDAY 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/payday-2-crimewave-edition/C2Z9D406G0KQ",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/218620/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 218620,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 94214,
+        "totalNegative": 18443,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4859,9 +4876,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/peggle/BSCCQL7DZ9KD",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/3480/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 3480,
+      "reviews": {
+        "reviewScore": 9,
+        "reviewScoreDesc": "Overwhelmingly Positive",
+        "totalPositive": 1485,
+        "totalNegative": 48,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
@@ -4958,21 +4984,10 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "pillars-of-eternity-complete-edition",
-    "name": "Pillars of Eternity: Complete Edition",
+    "slug": "pillars-of-eternity",
+    "name": "Pillars of Eternity",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-complete-edition/BS34VNW7H61F",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "pillars-of-eternity-hero-edition",
-    "name": "Pillars of Eternity: Hero Edition",
-    "availability": {
-      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-hero-edition/9P5LZC1KB48V",
       "steam": "https://store.steampowered.com/app/291650/"
     },
@@ -6563,14 +6578,23 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "tom-clancy-s-rainbow-six-siege-deluxe-edition",
-    "name": "Tom Clancy's Rainbow Six® Siege Deluxe Edition",
+    "slug": "tom-clancy-s-rainbow-six-siege",
+    "name": "Tom Clancy's Rainbow Six® Siege",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/tom-clancys-rainbow-six-siege-deluxe-edition/9P30K2NXWH82",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/359550/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 359550,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 281667,
+        "totalNegative": 30641,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-10-22T14:19:36.679Z"
   },
   {
@@ -7211,7 +7235,7 @@
     "name": "Yakuza 0",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-0/9NPP17LHJ3MK",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
       "steam": "https://store.steampowered.com/app/638970/"
     },
     "steam": {
@@ -7227,31 +7251,11 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "yakuza-0-for",
-    "name": "Yakuza 0 for",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
-      "steam": "https://store.steampowered.com/app/638970/"
-    },
-    "steam": {
-      "appid": 638970,
-      "reviews": {
-        "reviewScore": 9,
-        "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 13811,
-        "totalNegative": 595,
-        "updatedAt": "2021-01-19T18:09:01.287Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "yakuza-kiwami",
     "name": "Yakuza Kiwami",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami/9NBJ51BD0LTH",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
       "steam": "https://store.steampowered.com/app/834530/"
     },
     "steam": {
@@ -7271,7 +7275,7 @@
     "name": "Yakuza Kiwami 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2/9PBJL0NLFMK9",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
       "steam": "https://store.steampowered.com/app/927380/"
     },
     "steam": {
@@ -7281,46 +7285,6 @@
         "reviewScoreDesc": "Overwhelmingly Positive",
         "totalPositive": 2641,
         "totalNegative": 69,
-        "updatedAt": "2021-01-19T18:09:01.287Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yakuza-kiwami-2-for",
-    "name": "Yakuza Kiwami 2 for",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
-      "steam": "https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/"
-    },
-    "steam": {
-      "appid": 927380,
-      "reviews": {
-        "reviewScore": 9,
-        "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 2642,
-        "totalNegative": 69,
-        "updatedAt": "2021-01-19T18:09:01.287Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yakuza-kiwami-for",
-    "name": "Yakuza Kiwami for",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
-      "steam": "https://store.steampowered.com/app/834530/"
-    },
-    "steam": {
-      "appid": 834530,
-      "reviews": {
-        "reviewScore": 8,
-        "reviewScoreDesc": "Very Positive",
-        "totalPositive": 2952,
-        "totalNegative": 166,
         "updatedAt": "2021-01-19T18:09:01.287Z"
       }
     },

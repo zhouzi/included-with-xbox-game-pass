@@ -622,9 +622,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/beholder-complete-edition/BPV4628PQ0D0",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/475550/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 475550,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 1575,
+        "totalNegative": 390,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
+    },
     "updatedAt": "2020-12-17T09:20:43.814Z"
   },
   {
@@ -637,7 +646,13 @@
     },
     "steam": {
       "appid": 3300,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 178,
+        "totalNegative": 10,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -1855,7 +1870,13 @@
     },
     "steam": {
       "appid": 1238040,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 377,
+        "totalNegative": 96,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -2068,7 +2089,13 @@
     },
     "steam": {
       "appid": 1259970,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 1599,
+        "totalNegative": 414,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2021-01-07T09:36:21.010Z"
   },
@@ -2304,7 +2331,13 @@
     },
     "steam": {
       "appid": 3390,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 300,
+        "totalNegative": 12,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -3285,7 +3318,13 @@
     },
     "steam": {
       "appid": 3410,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 73,
+        "totalNegative": 27,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -4550,7 +4589,13 @@
     },
     "steam": {
       "appid": 524220,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 22695,
+        "totalNegative": 2693,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -4815,7 +4860,13 @@
     },
     "steam": {
       "appid": 218620,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 94214,
+        "totalNegative": 18443,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
@@ -4829,7 +4880,13 @@
     },
     "steam": {
       "appid": 3480,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 9,
+        "reviewScoreDesc": "Overwhelmingly Positive",
+        "totalPositive": 1485,
+        "totalNegative": 48,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
@@ -6530,7 +6587,13 @@
     },
     "steam": {
       "appid": 359550,
-      "reviews": null
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 281667,
+        "totalNegative": 30641,
+        "updatedAt": "2021-01-21T17:41:32.467Z"
+      }
     },
     "updatedAt": "2020-10-22T14:19:36.679Z"
   },

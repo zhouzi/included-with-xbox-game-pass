@@ -3,7 +3,6 @@ import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
 import random from "random-int";
-import escapeRegexp from "escape-string-regexp";
 import { subDays, startOfDay, isBefore } from "date-fns";
 import slugify from "@sindresorhus/slugify";
 import got from "got";
@@ -11,14 +10,70 @@ import { Game } from "@xgp/types";
 
 import currentGames from "../xgp.community/static/games.json";
 
+// games tend to have funky names on the xbox game pass store
+// so below is a mapping of the game's real name -> the names found on the xbox store
+const ALIASES = {
+  "Totally Accurate Battle Simulator": [
+    "Totally Accurate Battle Simulator (Game Preview)",
+  ],
+  "Cities: Skylines": [
+    "Cities: Skylines - Xbox One Edition",
+    "Cities: Skylines - Windows 10 Edition",
+  ],
+  Frostpunk: ["Frostpunk: Console Edition"],
+  "Goat Simulator": ["Goat Simulator Windows 10"],
+  "Mount & Blade: Warband": ["Mount & Blade: Warband PC"],
+  Pikuniku: ["Pikuniku Win10"],
+  Stellaris: ["Stellaris: Console Edition"],
+  "A Plague Tale: Innocence": ["A Plague Tale: Innocence - Windows 10"],
+  "Dead by Daylight": ["Dead by Daylight Windows"],
+  "DOOM Eternal Standard Edition": ["DOOM Eternal Standard Edition (PC)"],
+  "Fallout 76": ["Fallout 76 - PC"],
+  "FINAL FANTASY VII": ["FINAL FANTASY VII WINDOWS EDITION"],
+  "FINAL FANTASY VIII Remastered": [
+    "FINAL FANTASY VIII Remastered WINDOWS EDITION",
+  ],
+  "Gears of War: Ultimate Edition for": [
+    "Gears of War: Ultimate Edition for Windows 10",
+  ],
+  GONNER2: ["GONNER2 WIN10"],
+  GreedFall: ["GreedFall - Windows 10"],
+  Grounded: ["Grounded - Game Preview"],
+  "Halo Wars: Definitive Edition": ["Halo Wars: Definitive Edition (PC)"],
+  "Katana Zero": ["Katana Zero XB1"],
+  "Minecraft Dungeons": ["Minecraft Dungeons - Windows 10"],
+  "Night in the Woods": ["Night in the Woods Win10"],
+  "RAGE 2": ["RAGE 2 (PC)"],
+  "The Surge 2": ["The Surge 2 - Windows 10"],
+  "Unruly Heroes": ["Unruly Heroes Windows 10"],
+  "Wasteland 3": ["Wasteland 3 (PC)", "Wasteland 3 (Xbox One)"],
+  "Wolfenstein: Youngblood": ["Wolfenstein: Youngblood (PC)"],
+  "Yakuza 0 for": ["Yakuza 0 for Windows 10"],
+  "Yakuza Kiwami 2 for": ["Yakuza Kiwami 2 for Windows 10"],
+  "Yakuza Kiwami for": ["Yakuza Kiwami for Windows 10"],
+  "Wilmot's Warehouse": ["Wilmot's Warehouse Win10"],
+  "F1® 2019": ["F1® 2019 PC"],
+  "MotoGP™20": ["MotoGP™20 - Windows Edition"],
+  "Planet Coaster": ["Planet Coaster: Console Edition"],
+  "WORLD OF HORROR": ["WORLD OF HORROR (Game Preview)"],
+  "FINAL FANTASY XV": ["FINAL FANTASY XV WINDOWS EDITION"],
+  "Battlefleet Gothic: Armada 2": ["Battlefleet Gothic: Armada 2 - Windows 10"],
+  "Europa Universalis IV": ["Europa Universalis IV - Microsoft Store Edition"],
+  Comanche: ["Comanche (Game Preview)"],
+};
+
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 const NOW = new Date().toISOString();
 
 (async function updateGamesList() {
   const scrappedGames = await getScrappedGames();
+
   const games = sortGames(scrappedGames).reduce<Record<string, Game>>(
     (acc, scrappedGame) => {
-      const name = cleanName(scrappedGame.name);
+      const name =
+        (Object.keys(ALIASES) as Array<keyof typeof ALIASES>).find((name) =>
+          ALIASES[name].includes(scrappedGame.name)
+        ) ?? scrappedGame.name;
       const slug = slugify(name, {
         decamelize: false,
       });
@@ -227,27 +282,4 @@ function hasNewAvailability(oldGame: Game, newGame: Game): boolean {
     (Boolean(newGame.availability.console) && !oldGame.availability.console) ||
     (Boolean(newGame.availability.pc) && !oldGame.availability.pc)
   );
-}
-
-function cleanName(name: string): string {
-  // games tend to add a suffix to their name on the Microsoft store
-  // which makes it harder to match them with the actual game
-  // below is a list of known suffixes that should be removed
-  const suffixes = [
-    "Windows",
-    "Windows 10",
-    "Windows 10 Edition",
-    "Xbox One Edition",
-    "(PC)",
-    "PC",
-    "Microsoft Store Edition",
-    "WINDOWS EDITION",
-    "Console Edition",
-    "XB1",
-    "Win10",
-    "(Xbox One)",
-    "Game Preview",
-    "(Game Preview)",
-  ].map((suffix) => new RegExp(`[-:\\s]*${escapeRegexp(suffix)}$`, "i"));
-  return suffixes.reduce((acc, regexp) => acc.replace(regexp, ""), name).trim();
 }

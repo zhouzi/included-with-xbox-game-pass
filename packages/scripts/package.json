@@ -16,7 +16,6 @@
     "alpha-sort": "^4.0.0",
     "axios": "^0.21.1",
     "date-fns": "^2.16.1",
-    "escape-string-regexp": "^4.0.0",
     "fs-extra": "^9.0.1",
     "got": "^11.8.1",
     "mjml": "^4.8.1",

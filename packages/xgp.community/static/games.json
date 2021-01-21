@@ -1050,6 +1050,17 @@
     "updatedAt": "2020-12-03T09:17:39.020Z"
   },
   {
+    "slug": "control-standard-edition",
+    "name": "Control Standard Edition",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-01-21T09:56:03.069Z"
+  },
+  {
     "slug": "costume-quest-2",
     "name": "Costume Quest 2",
     "availability": {
@@ -1534,6 +1545,26 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "desperados-iii",
+    "name": "Desperados III",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/desperados-iii/BRRC2X2GQGC7",
+      "pc": "https://www.microsoft.com/en-us/store/p/desperados-iii/9P1ZX74WPL68",
+      "steam": "https://store.steampowered.com/app/610370/"
+    },
+    "steam": {
+      "appid": 610370,
+      "reviews": {
+        "reviewScore": 9,
+        "reviewScoreDesc": "Overwhelmingly Positive",
+        "totalPositive": 1691,
+        "totalNegative": 57,
+        "updatedAt": "2021-01-21T09:56:03.069Z"
+      }
+    },
+    "updatedAt": "2021-01-21T09:56:03.069Z"
+  },
+  {
     "slug": "destiny-2",
     "name": "Destiny 2",
     "availability": {
@@ -1712,6 +1743,26 @@
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "donut-county",
+    "name": "Donut County",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/donut-county/9N6V2181GHLM",
+      "pc": "https://www.microsoft.com/en-us/store/p/donut-county/9N6V2181GHLM",
+      "steam": "https://store.steampowered.com/app/702670/"
+    },
+    "steam": {
+      "appid": 702670,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 2227,
+        "totalNegative": 363,
+        "updatedAt": "2021-01-21T09:56:03.069Z"
+      }
+    },
+    "updatedAt": "2021-01-21T09:56:03.069Z"
   },
   {
     "slug": "doom-eternal-standard-edition",

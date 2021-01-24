@@ -3605,9 +3605,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/journey-to-the-savage-planet/BZ3CVPFPDSHK",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/973810/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 973810,
+      "reviews": {
+        "reviewScore": 0,
+        "reviewScoreDesc": "No user reviews",
+        "totalPositive": 0,
+        "totalNegative": 0,
+        "updatedAt": "2021-01-24T09:52:19.901Z"
+      }
+    },
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

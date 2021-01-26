@@ -1239,6 +1239,26 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "cyber-shadow",
+    "name": "Cyber Shadow",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/cyber-shadow/9NX9LJ5JSWH8",
+      "pc": "https://www.microsoft.com/en-us/store/p/cyber-shadow/9NX9LJ5JSWH8",
+      "steam": "https://store.steampowered.com/app/861250/"
+    },
+    "steam": {
+      "appid": 861250,
+      "reviews": {
+        "reviewScore": 0,
+        "reviewScoreDesc": "No user reviews",
+        "totalPositive": 0,
+        "totalNegative": 0,
+        "updatedAt": "2021-01-26T09:24:13.513Z"
+      }
+    },
+    "updatedAt": "2021-01-26T09:24:13.513Z"
+  },
+  {
     "slug": "dante-s-inferno",
     "name": "Dante's Inferno™",
     "availability": {

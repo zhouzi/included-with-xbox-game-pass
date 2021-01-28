@@ -81,6 +81,13 @@ const ALIASES = {
   "Tom Clancy's Rainbow Six® Siege": [
     "Tom Clancy's Rainbow Six® Siege Deluxe Edition",
   ],
+  "Prison Architect": ["Prison Architect PC"],
+  "The Yakuza Remastered Collection": [
+    "The Yakuza Remastered Collection for Windows 10",
+  ],
+  "Yakuza 3 Remastered": ["Yakuza 3 Remastered for Windows 10"],
+  "Yakuza 4 Remastered": ["Yakuza 4 Remastered for Windows 10"],
+  "Yakuza 5 Remastered": ["Yakuza 5 Remastered for Windows 10"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
@@ -124,14 +131,21 @@ const NOW = new Date().toISOString();
         game.availability.pc = scrappedGame.url;
       }
 
-      if (currentGame && !hasNewAvailability(currentGame, game)) {
-        game.updatedAt = currentGame.updatedAt;
-      }
-
       return acc;
     },
     {}
   );
+
+  Object.values(games).forEach((game) => {
+    const currentGame = currentGames.find(
+      (currentGame) => currentGame.slug === game.slug
+    );
+    if (currentGame && !hasNewAvailability(currentGame, game)) {
+      // by default all games' updatedAt is set to NOW
+      // so we revert it to its old value if it turns out that the game has no new availability
+      game.updatedAt = currentGame.updatedAt;
+    }
+  });
 
   await updateSteamRelation(games);
   await updateSteamReviews(games);

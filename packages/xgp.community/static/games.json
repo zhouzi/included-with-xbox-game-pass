@@ -629,9 +629,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 1575,
-        "totalNegative": 390,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "totalPositive": 1577,
+        "totalNegative": 391,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-12-17T09:20:43.814Z"
@@ -651,7 +651,7 @@
         "reviewScoreDesc": "Very Positive",
         "totalPositive": 178,
         "totalNegative": 10,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -1573,9 +1573,9 @@
       "reviews": {
         "reviewScore": 9,
         "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 1691,
-        "totalNegative": 57,
-        "updatedAt": "2021-01-21T09:56:03.069Z"
+        "totalPositive": 1714,
+        "totalNegative": 59,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2021-01-21T09:56:03.069Z"
@@ -1773,9 +1773,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 2227,
-        "totalNegative": 363,
-        "updatedAt": "2021-01-21T09:56:03.069Z"
+        "totalPositive": 2238,
+        "totalNegative": 364,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2021-01-21T09:56:03.069Z"
@@ -1893,9 +1893,9 @@
       "reviews": {
         "reviewScore": 6,
         "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 377,
-        "totalNegative": 96,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "totalPositive": 389,
+        "totalNegative": 98,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -2112,9 +2112,9 @@
       "reviews": {
         "reviewScore": 6,
         "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 1599,
-        "totalNegative": 414,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "totalPositive": 1627,
+        "totalNegative": 429,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2021-01-07T09:36:21.010Z"
@@ -2354,9 +2354,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 300,
+        "totalPositive": 304,
         "totalNegative": 12,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -3341,9 +3341,9 @@
       "reviews": {
         "reviewScore": 6,
         "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 73,
+        "totalPositive": 72,
         "totalNegative": 27,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -4217,9 +4217,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 2930,
+        "totalPositive": 2933,
         "totalNegative": 192,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4237,9 +4237,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 56885,
-        "totalNegative": 6285,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 57217,
+        "totalNegative": 6292,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4257,9 +4257,9 @@
       "reviews": {
         "reviewScore": 9,
         "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 1264,
-        "totalNegative": 62,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 1320,
+        "totalNegative": 68,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-12-08T09:19:33.718Z"
@@ -4277,9 +4277,9 @@
       "reviews": {
         "reviewScore": 9,
         "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 7020,
-        "totalNegative": 155,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 7092,
+        "totalNegative": 157,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-12-17T09:20:43.814Z"
@@ -4297,9 +4297,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 2873,
-        "totalNegative": 598,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 2885,
+        "totalNegative": 600,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4319,7 +4319,7 @@
         "reviewScoreDesc": "3 user reviews",
         "totalPositive": 2,
         "totalNegative": 1,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-12-11T09:19:56.924Z"
@@ -4339,7 +4339,7 @@
         "reviewScoreDesc": "Very Positive",
         "totalPositive": 950,
         "totalNegative": 179,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4357,9 +4357,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 641,
-        "totalNegative": 71,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 645,
+        "totalNegative": 72,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-12-17T09:20:43.814Z"
@@ -4377,9 +4377,9 @@
       "reviews": {
         "reviewScore": 9,
         "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 44697,
-        "totalNegative": 1041,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 44779,
+        "totalNegative": 1044,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-19T09:15:35.902Z"
@@ -4397,9 +4397,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 214,
+        "totalPositive": 222,
         "totalNegative": 39,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4417,9 +4417,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 7442,
-        "totalNegative": 483,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 7521,
+        "totalNegative": 491,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4459,9 +4459,9 @@
       "reviews": {
         "reviewScore": 6,
         "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 353,
-        "totalNegative": 129,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 361,
+        "totalNegative": 133,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -4479,9 +4479,9 @@
       "reviews": {
         "reviewScore": 5,
         "reviewScoreDesc": "Mixed",
-        "totalPositive": 995,
-        "totalNegative": 497,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 1015,
+        "totalNegative": 504,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -4499,9 +4499,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 5107,
-        "totalNegative": 954,
-        "updatedAt": "2021-01-19T18:23:34.898Z"
+        "totalPositive": 5270,
+        "totalNegative": 992,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -4621,9 +4621,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 22695,
-        "totalNegative": 2693,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "totalPositive": 22857,
+        "totalNegative": 2701,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4892,9 +4892,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 94214,
-        "totalNegative": 18443,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "totalPositive": 94634,
+        "totalNegative": 18442,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -4912,9 +4912,9 @@
       "reviews": {
         "reviewScore": 9,
         "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 1485,
+        "totalPositive": 1511,
         "totalNegative": 48,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-11-10T09:12:53.627Z"
@@ -6321,6 +6321,26 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "the-medium",
+    "name": "The Medium",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-medium/9NFSR96G6K4N",
+      "pc": "https://www.microsoft.com/en-us/store/p/the-medium/9NFSR96G6K4N",
+      "steam": "https://store.steampowered.com/app/1293160/"
+    },
+    "steam": {
+      "appid": 1293160,
+      "reviews": {
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 81,
+        "totalNegative": 26,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
+      }
+    },
+    "updatedAt": "2021-01-29T09:25:53.477Z"
+  },
+  {
     "slug": "the-messenger",
     "name": "The Messenger",
     "availability": {
@@ -6650,9 +6670,9 @@
       "reviews": {
         "reviewScore": 8,
         "reviewScoreDesc": "Very Positive",
-        "totalPositive": 281667,
-        "totalNegative": 30641,
-        "updatedAt": "2021-01-21T17:41:32.467Z"
+        "totalPositive": 283423,
+        "totalNegative": 30855,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
       }
     },
     "updatedAt": "2020-10-22T14:19:36.679Z"
@@ -7316,9 +7336,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-3-remastered/9N3460XCS8BC",
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-3-remastered-for-windows-10/9NC4QMRHCNZK",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1088710/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 1088710,
+      "reviews": {
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 109,
+        "totalNegative": 6,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
+      }
+    },
     "updatedAt": "2021-01-28T10:14:23.745Z"
   },
   {
@@ -7327,9 +7356,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-4-remastered/9NXFD44B98P4",
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-4-remastered-for-windows-10/9NWZTB9JQG9S",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1105500/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 1105500,
+      "reviews": {
+        "reviewScore": 7,
+        "reviewScoreDesc": "Positive",
+        "totalPositive": 14,
+        "totalNegative": 1,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
+      }
+    },
     "updatedAt": "2021-01-28T10:14:23.745Z"
   },
   {
@@ -7338,9 +7376,18 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-5-remastered/9NK23S9XBMZ6",
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-5-remastered-for-windows-10/9MVX1V7W5SW8",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1105510/"
     },
-    "steam": null,
+    "steam": {
+      "appid": 1105510,
+      "reviews": {
+        "reviewScore": 7,
+        "reviewScoreDesc": "Positive",
+        "totalPositive": 23,
+        "totalNegative": 0,
+        "updatedAt": "2021-01-29T09:25:53.477Z"
+      }
+    },
     "updatedAt": "2021-01-28T10:14:23.745Z"
   },
   {

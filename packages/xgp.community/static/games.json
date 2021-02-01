@@ -1461,46 +1461,6 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "death-squared",
-    "name": "Death Squared",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/death-squared/BS32QFXVPWBC",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/471810/"
-    },
-    "steam": {
-      "appid": 471810,
-      "reviews": {
-        "reviewScore": 8,
-        "reviewScoreDesc": "Very Positive",
-        "totalPositive": 120,
-        "totalNegative": 10,
-        "updatedAt": "2021-01-28T09:34:21.626Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "death-s-gambit",
-    "name": "Death's Gambit",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/deaths-gambit/9MV537XVLVXR",
-      "steam": "https://store.steampowered.com/app/356650/"
-    },
-    "steam": {
-      "appid": 356650,
-      "reviews": {
-        "reviewScore": 6,
-        "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 870,
-        "totalNegative": 305,
-        "updatedAt": "2021-01-28T09:34:21.626Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "deep-rock-galactic",
     "name": "Deep Rock Galactic",
     "availability": {
@@ -2466,46 +2426,6 @@
     "updatedAt": "2020-11-12T09:31:46.103Z"
   },
   {
-    "slug": "final-fantasy-xv",
-    "name": "FINAL FANTASY XV",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/final-fantasy-xv",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xv-windows-edition/9NR0N2LZ6TC5",
-      "steam": "https://store.steampowered.com/app/637650/"
-    },
-    "steam": {
-      "appid": 637650,
-      "reviews": {
-        "reviewScore": 8,
-        "reviewScoreDesc": "Very Positive",
-        "totalPositive": 7850,
-        "totalNegative": 1939,
-        "updatedAt": "2021-01-28T10:14:23.745Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "fishing-sim-world-pro-tour",
-    "name": "Fishing Sim World®: Pro Tour",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/BPR4TX9NRWRW",
-      "pc": "https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/9NM7LC8MJXKS",
-      "steam": "https://store.steampowered.com/app/834280/"
-    },
-    "steam": {
-      "appid": 834280,
-      "reviews": {
-        "reviewScore": 6,
-        "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 189,
-        "totalNegative": 75,
-        "updatedAt": "2021-01-28T10:14:23.745Z"
-      }
-    },
-    "updatedAt": "2021-01-10T09:38:29.538Z"
-  },
-  {
     "slug": "five-nights-at-freddy-s",
     "name": "Five Nights at Freddy's",
     "availability": {
@@ -2974,26 +2894,6 @@
       }
     },
     "updatedAt": "2020-10-30T09:10:58.465Z"
-  },
-  {
-    "slug": "gris",
-    "name": "Gris",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/gris/9NHHP2H0ZP98",
-      "steam": "https://store.steampowered.com/app/683320/"
-    },
-    "steam": {
-      "appid": 683320,
-      "reviews": {
-        "reviewScore": 9,
-        "reviewScoreDesc": "Overwhelmingly Positive",
-        "totalPositive": 10926,
-        "totalNegative": 470,
-        "updatedAt": "2021-01-28T10:14:23.745Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "grounded",
@@ -3529,26 +3429,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "indivisible",
-    "name": "Indivisible",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/indivisible/9NBFQMP69N1S",
-      "pc": "https://www.microsoft.com/en-us/store/p/indivisible/9N3KCLT53VDZ",
-      "steam": "https://store.steampowered.com/app/421170/"
-    },
-    "steam": {
-      "appid": 421170,
-      "reviews": {
-        "reviewScore": 6,
-        "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 601,
-        "totalNegative": 184,
-        "updatedAt": "2021-01-28T10:14:23.745Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "injustice-2",
     "name": "Injustice™ 2",
     "availability": {
@@ -3630,11 +3510,11 @@
     "steam": {
       "appid": 973810,
       "reviews": {
-        "reviewScore": 0,
-        "reviewScoreDesc": "No user reviews",
-        "totalPositive": 0,
-        "totalNegative": 0,
-        "updatedAt": "2021-01-24T09:52:19.901Z"
+        "reviewScore": 8,
+        "reviewScoreDesc": "Very Positive",
+        "totalPositive": 144,
+        "totalNegative": 25,
+        "updatedAt": "2021-02-01T09:26:08.422Z"
       }
     },
     "updatedAt": "2020-08-01T00:00:00.000Z"
@@ -5266,26 +5146,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "reigns-game-of-thrones",
-    "name": "Reigns: Game of Thrones",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/reigns-game-of-thrones/9NB2WLSJ2QK3",
-      "steam": "https://store.steampowered.com/app/897820/"
-    },
-    "steam": {
-      "appid": 897820,
-      "reviews": {
-        "reviewScore": 6,
-        "reviewScoreDesc": "Mostly Positive",
-        "totalPositive": 152,
-        "totalNegative": 63,
-        "updatedAt": "2021-01-27T09:24:49.864Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "remnant-from-the-ashes",
     "name": "Remnant: From the Ashes",
     "availability": {
@@ -5491,26 +5351,6 @@
         "reviewScoreDesc": "Very Positive",
         "totalPositive": 23940,
         "totalNegative": 2201,
-        "updatedAt": "2021-01-27T09:24:49.864Z"
-      }
-    },
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "sea-salt",
-    "name": "Sea Salt",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/sea-salt/9NXQ4PX4TZJZ",
-      "pc": "https://www.microsoft.com/en-us/store/p/sea-salt/9NXQ4PX4TZJZ",
-      "steam": "https://store.steampowered.com/app/983350/"
-    },
-    "steam": {
-      "appid": 983350,
-      "reviews": {
-        "reviewScore": 8,
-        "reviewScoreDesc": "Very Positive",
-        "totalPositive": 160,
-        "totalNegative": 25,
         "updatedAt": "2021-01-27T09:24:49.864Z"
       }
     },

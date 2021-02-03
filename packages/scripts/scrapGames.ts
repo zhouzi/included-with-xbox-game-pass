@@ -3,7 +3,6 @@ import fse from "fs-extra";
 import puppeteer from "puppeteer";
 import alphaSort from "alpha-sort";
 import random from "random-int";
-import { subDays, startOfDay, isBefore } from "date-fns";
 import slugify from "@sindresorhus/slugify";
 import got from "got";
 import { Game } from "@xgp/types";
@@ -148,7 +147,6 @@ const NOW = new Date().toISOString();
   });
 
   await updateSteamRelation(games);
-  await updateSteamReviews(games);
 
   await fse.writeJSON(
     path.join(OUTPUT_DIR, "games.json"),
@@ -175,10 +173,7 @@ async function updateSteamRelation(games: Record<string, Game>) {
     }
 
     if (games[slug].steam == null) {
-      games[slug].steam = {
-        appid: app.appid,
-        reviews: games[slug].steam?.reviews ?? null,
-      };
+      games[slug].steam = app.appid;
 
       // this property is deprecated and will be removed in the future
       // until then let's keep it updated
@@ -187,68 +182,6 @@ async function updateSteamRelation(games: Record<string, Game>) {
       ].availability.steam = `https://store.steampowered.com/app/${app.appid}/`;
     }
   });
-}
-
-async function updateSteamReviews(games: Record<string, Game>) {
-  const oneWeekAgo = startOfDay(subDays(new Date(), 7));
-  const priorizedSlugs = Object.values(games)
-    .filter((game) => game.steam != null)
-    .filter(
-      (game) =>
-        game.steam!.reviews == null ||
-        // filter out reviews updated recently
-        // to avoid generating changes with each run
-        isBefore(new Date(game.steam!.reviews.updatedAt), oneWeekAgo)
-    )
-    .sort((a, b) => {
-      // prioritize games without reviews data
-      if (a.steam!.reviews == null && b.steam!.reviews != null) {
-        return -1;
-      }
-      if (a.steam!.reviews != null && b.steam!.reviews == null) {
-        return 1;
-      }
-      if (a.steam!.reviews == null && b.steam!.reviews == null) {
-        return 0;
-      }
-
-      // then the oldest ones
-      return (
-        new Date(a.steam!.reviews!.updatedAt).getTime() -
-        new Date(b.steam!.reviews!.updatedAt).getTime()
-      );
-    })
-    // up to 100 requests are made to steam's api to avoid quota limit
-    .slice(0, 100)
-    .map((game) => game.slug);
-
-  for (const slug of priorizedSlugs) {
-    const { appid } = games[slug].steam!;
-    const {
-      query_summary: {
-        review_score,
-        review_score_desc,
-        total_positive,
-        total_negative,
-      },
-    } = await got(
-      `https://store.steampowered.com/appreviews/${appid}?json=1`
-    ).json<{
-      query_summary: {
-        review_score: number;
-        review_score_desc: string;
-        total_positive: number;
-        total_negative: number;
-      };
-    }>();
-    games[slug].steam!.reviews = {
-      reviewScore: review_score,
-      reviewScoreDesc: review_score_desc,
-      totalPositive: total_positive,
-      totalNegative: total_negative,
-      updatedAt: NOW,
-    };
-  }
 }
 
 // Represents a game as scrapped from the Xbox Game Pass website

@@ -16,9 +16,7 @@ export interface CachedGame {
     console: string;
     pc: string;
   };
-  steam: {
-    appid: number;
-  } | null;
+  steam: number | null;
 }
 
 export default storageCache.function<

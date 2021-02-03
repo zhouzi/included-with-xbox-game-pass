@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{XdX2:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return c}));var u=t("ERkP"),r=t("V65f");function c(){return u.createElement(r.a,null)}}}]);
-//# sourceMappingURL=component---src-pages-games-tsx-7e60e59e930ce83a74a0.js.map

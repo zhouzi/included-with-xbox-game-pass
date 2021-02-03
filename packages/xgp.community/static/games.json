@@ -1249,11 +1249,11 @@
     "steam": {
       "appid": 861250,
       "reviews": {
-        "reviewScore": 0,
-        "reviewScoreDesc": "No user reviews",
-        "totalPositive": 0,
-        "totalNegative": 0,
-        "updatedAt": "2021-01-26T09:24:13.513Z"
+        "reviewScore": 6,
+        "reviewScoreDesc": "Mostly Positive",
+        "totalPositive": 113,
+        "totalNegative": 38,
+        "updatedAt": "2021-02-03T09:21:06.729Z"
       }
     },
     "updatedAt": "2021-01-26T09:24:13.513Z"

@@ -1716,6 +1716,17 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "ghost-of-a-tale",
+    "name": "Ghost of a Tale",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/ghost-of-a-tale/9PJR5XZG5CNS",
+      "steam": "https://store.steampowered.com/app/417290/"
+    },
+    "steam": 417290,
+    "updatedAt": "2021-02-04T09:19:23.220Z"
+  },
+  {
     "slug": "goat-simulator",
     "name": "Goat Simulator",
     "availability": {
@@ -3113,6 +3124,17 @@
     "updatedAt": "2021-01-28T10:14:23.745Z"
   },
   {
+    "slug": "project-winter",
+    "name": "Project Winter",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/project-winter/9P3SX4G50LZ1",
+      "pc": "https://www.microsoft.com/en-us/store/p/project-winter/9P3SX4G50LZ1",
+      "steam": "https://store.steampowered.com/app/774861/"
+    },
+    "steam": 774861,
+    "updatedAt": "2021-02-04T09:19:23.220Z"
+  },
+  {
     "slug": "quantum-break",
     "name": "Quantum Break",
     "availability": {
@@ -3694,6 +3716,17 @@
     },
     "steam": 306130,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-falconeer",
+    "name": "The Falconeer",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-falconeer/9N8J0T5HCDB9",
+      "pc": "https://www.microsoft.com/en-us/store/p/the-falconeer/9N8J0T5HCDB9",
+      "steam": "https://store.steampowered.com/app/1135260/"
+    },
+    "steam": 1135260,
+    "updatedAt": "2021-02-04T09:19:23.220Z"
   },
   {
     "slug": "the-gardens-between",

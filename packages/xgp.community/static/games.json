@@ -1463,6 +1463,17 @@
     "updatedAt": "2020-11-12T09:31:46.103Z"
   },
   {
+    "slug": "final-fantasy-xii-the-zodiac-age",
+    "name": "FINAL FANTASY XII THE ZODIAC AGE",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-xii-the-zodiac-age/BXDH919M16G9",
+      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xii-the-zodiac-age/9NM6NG7KNHWJ",
+      "steam": "https://store.steampowered.com/app/595520/"
+    },
+    "steam": 595520,
+    "updatedAt": "2021-02-11T09:20:15.549Z"
+  },
+  {
     "slug": "five-nights-at-freddy-s",
     "name": "Five Nights at Freddy's",
     "availability": {
@@ -2154,6 +2165,17 @@
     },
     "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "jurassic-world-evolution",
+    "name": "Jurassic World Evolution",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/jurassic-world-evolution/C1LD4244XCNJ",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/648350/"
+    },
+    "steam": 648350,
+    "updatedAt": "2021-02-11T09:20:15.549Z"
   },
   {
     "slug": "kameo",
@@ -3485,6 +3507,17 @@
     },
     "steam": 329430,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "stealth-inc-2-a-game-of-clones",
+    "name": "Stealth Inc. 2: A Game of Clones",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/stealth-inc-2-a-game-of-clones/BR26S2C6SKN1",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/329380/"
+    },
+    "steam": 329380,
+    "updatedAt": "2021-02-11T09:20:15.549Z"
   },
   {
     "slug": "stellaris",

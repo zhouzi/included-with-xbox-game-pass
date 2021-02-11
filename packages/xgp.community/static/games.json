@@ -3514,9 +3514,9 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/stealth-inc-2-a-game-of-clones/BR26S2C6SKN1",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/329380/"
     },
-    "steam": null,
+    "steam": 329380,
     "updatedAt": "2021-02-11T09:20:15.549Z"
   },
   {

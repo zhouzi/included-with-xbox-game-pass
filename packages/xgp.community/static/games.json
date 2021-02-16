@@ -781,17 +781,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "de-blob",
-    "name": "de Blob",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/de-blob/C092FLK91X41",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/532320/"
-    },
-    "steam": 532320,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "dead-by-daylight",
     "name": "Dead by Daylight",
     "availability": {
@@ -2827,17 +2816,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "ninja-gaiden-ii",
-    "name": "NINJA GAIDEN II",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ninja-gaiden-ii/BSCSRTX27ZH3",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "no-man-s-sky",
     "name": "No Man's Sky",
     "availability": {
@@ -4353,17 +4331,6 @@
       "steam": "https://store.steampowered.com/app/1056960/"
     },
     "steam": 1056960,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "world-of-horror",
-    "name": "WORLD OF HORROR",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/world-of-horror-game-preview/9N1FDTTSS49Z",
-      "steam": "https://store.steampowered.com/app/913740/"
-    },
-    "steam": 913740,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

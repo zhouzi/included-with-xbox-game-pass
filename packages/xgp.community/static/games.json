@@ -3322,17 +3322,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "shadows-of-the-damned",
-    "name": "Shadows of the Damned",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/shadows-of-the-damned/C136M2366DM0",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
     "slug": "skate-3",
     "name": "Skate 3",
     "availability": {

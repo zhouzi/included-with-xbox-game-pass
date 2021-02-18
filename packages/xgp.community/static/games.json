@@ -587,11 +587,11 @@
     "name": "CODE VEIN",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/code-vein",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/code-vein/9P59LFQSNB6R",
       "steam": "https://store.steampowered.com/app/678960/"
     },
     "steam": 678960,
-    "updatedAt": "2020-12-17T09:20:43.814Z"
+    "updatedAt": "2021-02-18T09:55:01.478Z"
   },
   {
     "slug": "comanche",
@@ -3025,6 +3025,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "pillars-of-eternity-ii-deadfire-ultimate-edition",
+    "name": "Pillars of Eternity II: Deadfire - Ultimate Edition",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-ii-deadfire---ultimate-edition/9PJD2KMX7TZ6",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-02-18T09:55:01.478Z"
+  },
+  {
     "slug": "planet-coaster",
     "name": "Planet Coaster",
     "availability": {
@@ -4343,6 +4354,17 @@
     },
     "steam": 327030,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "wreckfest",
+    "name": "Wreckfest",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/wreckfest/BRJNRZ9N734V",
+      "pc": "https://www.microsoft.com/en-us/store/p/wreckfest/9NG06CSMM97P",
+      "steam": "https://store.steampowered.com/app/228380/"
+    },
+    "steam": 228380,
+    "updatedAt": "2021-02-18T09:55:01.478Z"
   },
   {
     "slug": "xeno-crisis",

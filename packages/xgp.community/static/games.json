@@ -2211,6 +2211,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "killer-queen-black",
+    "name": "KILLER QUEEN BLACK",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/killer-queen-black/9N7J7104W0K1",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/663670/"
+    },
+    "steam": 663670,
+    "updatedAt": "2021-02-23T09:20:23.619Z"
+  },
+  {
     "slug": "kingdom-hearts-hd-1-5-2-5-remix",
     "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
     "availability": {

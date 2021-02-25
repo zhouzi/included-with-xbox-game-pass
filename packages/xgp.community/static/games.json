@@ -653,11 +653,11 @@
     "name": "Cricket 19",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/cricket-19/9NTT51922L20",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/cricket-19-windows-10/9PHJZZHT860R",
       "steam": "https://store.steampowered.com/app/1028630/"
     },
     "steam": 1028630,
-    "updatedAt": "2020-10-22T14:19:36.679Z"
+    "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
     "slug": "crosscode",
@@ -935,15 +935,15 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "dirt-4",
-    "name": "DiRT 4",
+    "slug": "dirt-5",
+    "name": "DIRT 5",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dirt-4/C2MBDNDS3H5W",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/421020/"
+      "console": "https://www.microsoft.com/en-us/store/p/dirt-5/9PJGM0T0827V",
+      "pc": "https://www.microsoft.com/en-us/store/p/dirt-5/9PJGM0T0827V",
+      "steam": "https://store.steampowered.com/app/1038250/"
     },
-    "steam": 421020,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "steam": 1038250,
+    "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
     "slug": "disgaea-4-complete",
@@ -1230,6 +1230,17 @@
     },
     "steam": 1259970,
     "updatedAt": "2021-01-07T09:36:21.010Z"
+  },
+  {
+    "slug": "elite-dangerous",
+    "name": "Elite Dangerous",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/elite-dangerous-standard-edition/C3LW50BQJ878",
+      "pc": null,
+      "steam": null
+    },
+    "steam": 359320,
+    "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
     "slug": "endless-legend",
@@ -3590,11 +3601,11 @@
     "name": "SUPERHOT: MIND CONTROL DELETE",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/superhot-mind-control-delete/9NRH78B682L8",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/superhot-mind-control-delete/9NRH78B682L8",
       "steam": "https://store.steampowered.com/app/690040/"
     },
     "steam": 690040,
-    "updatedAt": "2020-12-10T09:19:57.314Z"
+    "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
     "slug": "supraland",

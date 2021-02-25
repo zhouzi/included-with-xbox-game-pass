@@ -87,6 +87,8 @@ const ALIASES = {
   "Yakuza 3 Remastered": ["Yakuza 3 Remastered for Windows 10"],
   "Yakuza 4 Remastered": ["Yakuza 4 Remastered for Windows 10"],
   "Yakuza 5 Remastered": ["Yakuza 5 Remastered for Windows 10"],
+  "Cricket 19": ["Cricket 19 Windows 10"],
+  "Elite Dangerous": ["Elite Dangerous Standard Edition"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

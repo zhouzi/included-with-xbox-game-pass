@@ -2563,17 +2563,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "momodora-reverie-under-the-moonlight",
-    "name": "Momodora: Reverie Under the Moonlight",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/BPKQZ245CQ2H",
-      "pc": "https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/9NZL00LF4V58",
-      "steam": "https://store.steampowered.com/app/428550/"
-    },
-    "steam": 428550,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "monster-hunter-world",
     "name": "MONSTER HUNTER: WORLD™",
     "availability": {
@@ -2627,17 +2616,6 @@
     },
     "steam": 1331910,
     "updatedAt": "2020-12-11T09:19:56.924Z"
-  },
-  {
-    "slug": "mother-russia-bleeds",
-    "name": "Mother Russia Bleeds",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/mother-russia-bleeds/9NVFHBKDLPM4",
-      "steam": "https://store.steampowered.com/app/361300/"
-    },
-    "steam": 361300,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "motogp-20",
@@ -2923,17 +2901,6 @@
       "steam": "https://store.steampowered.com/app/728880/"
     },
     "steam": 728880,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "oxenfree",
-    "name": "Oxenfree",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/oxenfree/BSK1GN27RB8R",
-      "pc": "https://www.microsoft.com/en-us/store/p/oxenfree/9NBLGGH6CTZ5",
-      "steam": "https://store.steampowered.com/app/388880/"
-    },
-    "steam": 388880,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3773,17 +3740,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "the-jackbox-party-pack-4",
-    "name": "The Jackbox Party Pack 4",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/the-jackbox-party-pack-4/C5150FZWS1K2",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/610180/"
-    },
-    "steam": 610180,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "the-little-acre",
     "name": "The Little Acre",
     "availability": {
@@ -4189,17 +4145,6 @@
     },
     "steam": 447530,
     "updatedAt": "2020-12-17T09:20:43.814Z"
-  },
-  {
-    "slug": "vambrace-cold-soul",
-    "name": "Vambrace: Cold Soul",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/vambrace-cold-soul/9N171CGFVT1L",
-      "pc": "https://www.microsoft.com/en-us/store/p/vambrace-cold-soul/9N171CGFVT1L",
-      "steam": "https://store.steampowered.com/app/904380/"
-    },
-    "steam": 904380,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "viva-pinata",

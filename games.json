@@ -2387,6 +2387,17 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "madden-nfl-21",
+    "name": "Madden NFL 21",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-series-xs/9NW6RJDFKV5V",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-03T09:20:55.371Z"
+  },
+  {
     "slug": "madden-nfl-25",
     "name": "Madden NFL 25",
     "availability": {

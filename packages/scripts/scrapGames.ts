@@ -89,6 +89,12 @@ const ALIASES = {
   "Yakuza 5 Remastered": ["Yakuza 5 Remastered for Windows 10"],
   "Cricket 19": ["Cricket 19 Windows 10"],
   "Elite Dangerous": ["Elite Dangerous Standard Edition"],
+  "Madden NFL 21": [
+    // they are not exactly the same games and have separate URLs
+    // but it's ok to merge them for our use case
+    "Madden NFL 21 Xbox One",
+    "Madden NFL 21 Xbox Series X|S",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

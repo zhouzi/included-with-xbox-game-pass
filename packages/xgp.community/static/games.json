@@ -1529,6 +1529,17 @@
     "updatedAt": "2020-10-29T14:21:21.528Z"
   },
   {
+    "slug": "football-manager-2021",
+    "name": "Football Manager 2021",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/football-manager-2021-xbox-edition/9P3S3C0WHGM9",
+      "pc": "https://www.microsoft.com/en-us/store/p/football-manager-2021/9PPMVK9HRHWC",
+      "steam": "https://store.steampowered.com/app/1263850/"
+    },
+    "steam": 1263850,
+    "updatedAt": "2021-03-04T09:26:29.349Z"
+  },
+  {
     "slug": "for-the-king",
     "name": "For The King",
     "availability": {
@@ -2392,9 +2403,9 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-series-xs/9NW6RJDFKV5V",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1239520/"
     },
-    "steam": null,
+    "steam": 1239520,
     "updatedAt": "2021-03-03T09:20:55.371Z"
   },
   {
@@ -2671,6 +2682,17 @@
     },
     "steam": 666140,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "nba-2k21",
+    "name": "NBA 2K21",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/nba-2k21/9P0Q1F7P0KR1",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1225330/"
+    },
+    "steam": 1225330,
+    "updatedAt": "2021-03-04T09:26:29.349Z"
   },
   {
     "slug": "nba-live-18-the-one-edition",

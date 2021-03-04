@@ -95,6 +95,7 @@ const ALIASES = {
     "Madden NFL 21 Xbox One",
     "Madden NFL 21 Xbox Series X|S",
   ],
+  "Football Manager 2021": ["Football Manager 2021 Xbox Edition"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

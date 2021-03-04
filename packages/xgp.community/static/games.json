@@ -1532,22 +1532,11 @@
     "slug": "football-manager-2021",
     "name": "Football Manager 2021",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/football-manager-2021-xbox-edition/9P3S3C0WHGM9",
       "pc": "https://www.microsoft.com/en-us/store/p/football-manager-2021/9PPMVK9HRHWC",
       "steam": "https://store.steampowered.com/app/1263850/"
     },
     "steam": 1263850,
-    "updatedAt": "2021-03-04T09:26:29.349Z"
-  },
-  {
-    "slug": "football-manager-2021-xbox-edition",
-    "name": "Football Manager 2021 Xbox Edition",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/football-manager-2021-xbox-edition/9P3S3C0WHGM9",
-      "pc": "https://www.microsoft.com/en-us/store/p/football-manager-2021-xbox-edition/9P3S3C0WHGM9",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-04T09:26:29.349Z"
   },
   {

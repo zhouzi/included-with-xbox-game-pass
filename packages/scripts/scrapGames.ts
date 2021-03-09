@@ -94,6 +94,7 @@ const ALIASES = {
     // but it's ok to merge them for our use case
     "Madden NFL 21 Xbox One",
     "Madden NFL 21 Xbox Series X|S",
+    "Madden NFL 21 Xbox One & Xbox Series X|S",
   ],
   "Football Manager 2021": ["Football Manager 2021 Xbox Edition"],
 };

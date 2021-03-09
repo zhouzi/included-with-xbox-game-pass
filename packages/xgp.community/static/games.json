@@ -2401,23 +2401,12 @@
     "slug": "madden-nfl-21",
     "name": "Madden NFL 21",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-series-xs/9NW6RJDFKV5V",
+      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-one--xbox-series-xs/9NTFD9Z6DCFL",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1239520/"
     },
     "steam": 1239520,
     "updatedAt": "2021-03-03T09:20:55.371Z"
-  },
-  {
-    "slug": "madden-nfl-21-xbox-one-and-xbox-series-x-s",
-    "name": "Madden NFL 21 Xbox One & Xbox Series X|S",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-one--xbox-series-xs/9NTFD9Z6DCFL",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-09T09:26:36.013Z"
   },
   {
     "slug": "madden-nfl-25",

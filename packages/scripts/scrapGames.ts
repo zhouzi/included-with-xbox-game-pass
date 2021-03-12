@@ -97,6 +97,26 @@ const ALIASES = {
     "Madden NFL 21 Xbox One & Xbox Series X|S",
   ],
   "Football Manager 2021": ["Football Manager 2021 Xbox Edition"],
+  Dishonored: [
+    "Dishonored® Definitive Edition",
+    "Dishonored® Definitive Edition (PC)",
+  ],
+  DOOM: ["DOOM (1993)"],
+  "DOOM II": ["DOOM II (Classic)"],
+  "Fallout 4": ["Fallout 4 (PC)"],
+  "The Elder Scrolls III: Morrowind": [
+    "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
+  ],
+  "The Elder Scrolls IV: Oblivion": [
+    "The Elder Scrolls IV: Oblivion Game of the Year Edition (PC)",
+  ],
+  "The Elder Scrolls V: Skyrim": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls V: Skyrim Special Edition (PC)",
+  ],
+  "The Evil Within": ["The Evil Within (PC)"],
+  "Wolfenstein: The New Order": ["Wolfenstein: The New Order (PC)"],
+  "Wolfenstein: The Old Blood": ["Wolfenstein: The Old Blood (PC)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

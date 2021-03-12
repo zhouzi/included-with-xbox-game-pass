@@ -4,6 +4,7 @@ import axios from "axios";
 import path from "path";
 import fse from "fs-extra";
 import { format } from "date-fns";
+import marked from "marked";
 import { Game } from "@xgp/types";
 
 import games from "../xgp.community/static/games.json";
@@ -49,6 +50,9 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
     (game) => new Date(game.updatedAt).getTime() > since.getTime()
   );
   const newPosts: Post[] = await scrapPosts(since);
+  const content = marked(
+    fse.readFileSync(path.join(__dirname, "newsletter.md"), "utf-8")
+  );
   const { html, errors } = mjml(
     `
   <mjml>
@@ -107,19 +111,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
       <mj-section padding="28px 14px 0 14px">
         <mj-column padding="14px" background-color="#182735" border-radius="6px">
           <mj-text font-size="16px" padding="0 0 14px 0">
-            <p>
-              Microsoft has yet to communicate their plans for the Xbox Game Pass in 2021.
-              We haven't heard much from them for a few weeks, which is a bit surprising.
-              Nothing to worry about though, the pass is still the <a href="https://www.reddit.com/r/XboxGamePass/comments/kt95wq/the_value_of_game_pass_is_truly_insane_to_me/">number 1 subscription service for gamers</a>.
-              A subscription that you can get for free by <a href="https://www.reddit.com/r/XboxGamePass/comments/kwhl03/protip_doing_bing_daily_searches_can_get_you_free/">doing Bing daily seaches</a>.
-              If you'd rather <a href="https://www.reddit.com/r/XboxGamePass/comments/kxhpc7/fyi_apparently_the_3_months_for_1_promotion_for/">pay 1$ for 3 months of Xbox Game Pass Ultimate</a>, you can do so until January 25th.
-            </p>
-            <p>
-              This week Bethesda, which is owned by Microsoft, announced a <a href="https://www.reddit.com/r/XboxGamePass/comments/kvvgmt/new_indy_game_likely_to_be_on_xbox_game_pass_day_1/">new Indiania Jones game</a>. So it's very likely that it's going to be available with Xbox Game Pass day 1.
-            </p>
-            <p>
-              Speaking of games, people have been praising <a href="https://www.reddit.com/r/XboxGamePass/comments/kudhbr/dont_miss_out_on_yakuza/">Yakuza</a>, <a href="https://www.reddit.com/r/XboxGamePass/comments/ku87xe/if_you_liked_gears_try_titanfall_2/">Titanfall 2</a> and made a few recommandations if <a href="https://www.reddit.com/r/XboxGamePass/comments/kv99hf/what_are_some_good_group_games_on_gamepass/">you are looking for group games</a>.
-            </P>
+            ${content}
           </mj-text>
         </mj-column>
       </mj-section>

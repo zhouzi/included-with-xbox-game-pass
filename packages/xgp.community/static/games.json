@@ -968,6 +968,28 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "dishonored-definitive-edition",
+    "name": "Dishonored® Definitive Edition",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dishonored-definitive-edition/C299QVC2BSJF",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "dishonored-definitive-edition-pc",
+    "name": "Dishonored® Definitive Edition (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/dishonored-definitive-edition-pc/9P1N07XDL1D4",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
     "slug": "disneyland-adventures",
     "name": "Disneyland Adventures",
     "availability": {
@@ -1001,6 +1023,39 @@
     "updatedAt": "2021-01-21T09:56:03.069Z"
   },
   {
+    "slug": "doom-1993",
+    "name": "DOOM (1993)",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/doom-1993/9PLZPHBNHTMF",
+      "pc": "https://www.microsoft.com/en-us/store/p/doom-1993/9PLZPHBNHTMF",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "doom-3",
+    "name": "DOOM 3",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/doom-3/9NSL68D814GC",
+      "pc": "https://www.microsoft.com/en-us/store/p/doom-3/9NSL68D814GC",
+      "steam": "https://store.steampowered.com/app/9050/"
+    },
+    "steam": 9050,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "doom-64",
+    "name": "DOOM 64",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/doom-64/9MXND4PQLK3W",
+      "pc": "https://www.microsoft.com/en-us/store/p/doom-64/9MXND4PQLK3W",
+      "steam": "https://store.steampowered.com/app/1148590/"
+    },
+    "steam": 1148590,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
     "slug": "doom-eternal-standard-edition",
     "name": "DOOM Eternal Standard Edition",
     "availability": {
@@ -1010,6 +1065,17 @@
     },
     "steam": 782330,
     "updatedAt": "2020-12-04T09:21:40.852Z"
+  },
+  {
+    "slug": "doom-ii-classic",
+    "name": "DOOM II (Classic)",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/doom-ii-classic/9PLT62LRF9V7",
+      "pc": "https://www.microsoft.com/en-us/store/p/doom-ii-classic/9PLT62LRF9V7",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
   },
   {
     "slug": "double-dragon-neon",
@@ -1329,6 +1395,28 @@
     },
     "steam": 105400,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "fallout-4",
+    "name": "Fallout 4",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/fallout-4/C3KLDKZBHNCZ",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/377160/"
+    },
+    "steam": 377160,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "fallout-4-pc",
+    "name": "Fallout 4 (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/fallout-4-pc/9P71MB9QCF77",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
   },
   {
     "slug": "fallout-76",
@@ -2871,6 +2959,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "oblivion",
+    "name": "Oblivion",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/oblivion/C5K89TFLSV19",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
     "slug": "observation",
     "name": "Observation",
     "availability": {
@@ -3144,6 +3243,17 @@
     },
     "steam": 1110100,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "prey",
+    "name": "Prey",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/prey/BQMVWCMB8P59",
+      "pc": "https://www.microsoft.com/en-us/store/p/prey/9PBC1QFBW563",
+      "steam": "https://store.steampowered.com/app/480490/"
+    },
+    "steam": 480490,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
   },
   {
     "slug": "prison-architect",
@@ -3729,6 +3839,39 @@
     "updatedAt": "2020-12-17T09:20:43.814Z"
   },
   {
+    "slug": "the-elder-scrolls-iii-morrowind",
+    "name": "The Elder Scrolls III: Morrowind",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iii-morrowind/BXVCFBJBNS17",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/22320/"
+    },
+    "steam": 22320,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "the-elder-scrolls-iii-morrowind-game-of-the-year-edition-pc",
+    "name": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-pc/9PP7XSG5LDH1",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "the-elder-scrolls-iv-oblivion-game-of-the-year-edition-pc",
+    "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-pc/9P2J5D12GJL5",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
     "slug": "the-elder-scrolls-v-skyrim-special-edition",
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "availability": {
@@ -3740,6 +3883,17 @@
     "updatedAt": "2020-12-15T09:20:24.679Z"
   },
   {
+    "slug": "the-elder-scrolls-v-skyrim-special-edition-pc",
+    "name": "The Elder Scrolls V: Skyrim Special Edition (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-v-skyrim-special-edition-pc/9P03JGQ4S1GC",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
     "slug": "the-elder-scrolls-online",
     "name": "The Elder Scrolls® Online",
     "availability": {
@@ -3749,6 +3903,28 @@
     },
     "steam": 306130,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-evil-within",
+    "name": "The Evil Within",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-evil-within/C2M8HBNVPT1T",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/268050/"
+    },
+    "steam": 268050,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "the-evil-within-pc",
+    "name": "The Evil Within (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-evil-within-pc/9MX8R81JW1B5",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
   },
   {
     "slug": "the-falconeer",
@@ -4321,6 +4497,50 @@
     },
     "steam": 445980,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "wolfenstein-the-new-order",
+    "name": "Wolfenstein: The New Order",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-new-order/BT9FFLG51VVG",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/201810/"
+    },
+    "steam": 201810,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "wolfenstein-the-new-order-pc",
+    "name": "Wolfenstein: The New Order (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-new-order-pc/9P75CBJ9WT9W",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "wolfenstein-the-old-blood",
+    "name": "Wolfenstein: The Old Blood",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-old-blood/BPV4GXTDCNSH",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/350080/"
+    },
+    "steam": 350080,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "wolfenstein-the-old-blood-pc",
+    "name": "Wolfenstein: The Old Blood (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-old-blood-pc/9PBB4QHMSDKR",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-12T09:25:27.022Z"
   },
   {
     "slug": "wolfenstein-youngblood",

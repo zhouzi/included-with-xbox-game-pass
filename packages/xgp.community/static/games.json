@@ -2937,17 +2937,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "oblivion",
-    "name": "Oblivion",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/oblivion/C5K89TFLSV19",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-12T09:25:27.022Z"
-  },
-  {
     "slug": "observation",
     "name": "Observation",
     "availability": {
@@ -3831,7 +3820,7 @@
     "slug": "the-elder-scrolls-iv-oblivion",
     "name": "The Elder Scrolls IV: Oblivion",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/oblivion/C5K89TFLSV19",
       "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-pc/9P2J5D12GJL5",
       "steam": "https://store.steampowered.com/app/22330/"
     },

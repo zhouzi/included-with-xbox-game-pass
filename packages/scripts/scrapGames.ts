@@ -108,6 +108,7 @@ const ALIASES = {
     "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
   ],
   "The Elder Scrolls IV: Oblivion": [
+    "Oblivion",
     "The Elder Scrolls IV: Oblivion Game of the Year Edition (PC)",
   ],
   "The Elder Scrolls V: Skyrim": [

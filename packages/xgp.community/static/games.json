@@ -99,17 +99,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "alvastia-chronicles",
-    "name": "Alvastia Chronicles",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/alvastia-chronicles/9MVJGBNNFPPS",
-      "pc": "https://www.microsoft.com/en-us/store/p/alvastia-chronicles/9MVJGBNNFPPS",
-      "steam": "https://store.steampowered.com/app/948660/"
-    },
-    "steam": 948660,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "among-us",
     "name": "Among Us",
     "availability": {
@@ -174,17 +163,6 @@
     },
     "steam": 244210,
     "updatedAt": "2020-12-10T09:19:57.314Z"
-  },
-  {
-    "slug": "astrologaster",
-    "name": "Astrologaster",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/astrologaster/9NFT0CMC62DX",
-      "steam": "https://store.steampowered.com/app/742520/"
-    },
-    "steam": 742520,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "astroneer",
@@ -448,17 +426,6 @@
       "steam": "https://store.steampowered.com/app/1189800/"
     },
     "steam": 1189800,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "bloodstained-ritual-of-the-night",
-    "name": "Bloodstained: Ritual of the Night",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9P9K78101LCW",
-      "pc": "https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9MWB2BFF0SPD",
-      "steam": "https://store.steampowered.com/app/692850/"
-    },
-    "steam": 692850,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2354,17 +2321,6 @@
     "updatedAt": "2020-11-05T09:20:53.821Z"
   },
   {
-    "slug": "kona",
-    "name": "Kona",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/kona/BXDSG249D6Q2",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/365160/"
-    },
-    "steam": 365160,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "levelhead",
     "name": "Levelhead",
     "availability": {
@@ -4048,17 +4004,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "the-witcher-3-wild-hunt",
-    "name": "The Witcher 3: Wild Hunt",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/the-witcher-3-wild-hunt/BR765873CQJD",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/292030/"
-    },
-    "steam": 292030,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "the-yakuza-remastered-collection",
     "name": "The Yakuza Remastered Collection",
     "availability": {
@@ -4233,6 +4178,17 @@
     },
     "steam": 656350,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "undertale",
+    "name": "Undertale",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/undertale/9PJGGX9XJXPB",
+      "pc": "https://www.microsoft.com/en-us/store/p/undertale/9N046HWGQ4J2",
+      "steam": "https://store.steampowered.com/app/391540/"
+    },
+    "steam": 391540,
+    "updatedAt": "2021-03-16T09:21:46.971Z"
   },
   {
     "slug": "unravel",

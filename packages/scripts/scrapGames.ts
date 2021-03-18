@@ -71,7 +71,10 @@ const ALIASES = {
     "eFootball PES 2021 SEASON UPDATE STANDARD EDITION",
   ],
   "Hollow Knight": ["Hollow Knight: Voidheart Edition"],
-  "NieR:Automata™": ["NieR:Automata™ BECOME AS GODS Edition"],
+  "NieR:Automata™": [
+    "NieR:Automata™ BECOME AS GODS Edition",
+    "NieR:Automata BECOME AS GODS Edition",
+  ],
   "PAYDAY 2": ["PAYDAY 2: CRIMEWAVE EDITION"],
   "Pillars of Eternity": [
     "Pillars of Eternity: Complete Edition",
@@ -118,6 +121,7 @@ const ALIASES = {
   "The Evil Within": ["The Evil Within (PC)"],
   "Wolfenstein: The New Order": ["Wolfenstein: The New Order (PC)"],
   "Wolfenstein: The Old Blood": ["Wolfenstein: The Old Blood (PC)"],
+  Undertale: ["Undertale (PC)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

@@ -2849,26 +2849,15 @@
     "updatedAt": "2020-12-04T09:21:40.852Z"
   },
   {
-    "slug": "nier-automata-become-as-gods-edition",
-    "name": "NieR:Automata BECOME AS GODS Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/nierautomata-become-as-gods-edition/9PM2P9HQD1ML",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-18T09:26:21.447Z"
-  },
-  {
     "slug": "nier-automata",
     "name": "NieR:Automata™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/nier-automata",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/nierautomata-become-as-gods-edition/9PM2P9HQD1ML",
       "steam": "https://store.steampowered.com/app/524220/"
     },
     "steam": 524220,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-03-18T09:26:21.447Z"
   },
   {
     "slug": "night-call",
@@ -4206,22 +4195,11 @@
     "name": "Undertale",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/undertale/9PJGGX9XJXPB",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/undertale-pc/9N046HWGQ4J2",
       "steam": "https://store.steampowered.com/app/391540/"
     },
     "steam": 391540,
     "updatedAt": "2021-03-16T09:21:46.971Z"
-  },
-  {
-    "slug": "undertale-pc",
-    "name": "Undertale (PC)",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/undertale-pc/9N046HWGQ4J2",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-18T09:26:21.447Z"
   },
   {
     "slug": "unravel",

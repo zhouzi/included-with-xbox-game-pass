@@ -1265,6 +1265,17 @@
     "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
+    "slug": "empire-of-sin",
+    "name": "Empire of Sin",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/empire-of-sin/9NN7NF8N5Q5C",
+      "pc": "https://www.microsoft.com/en-us/store/p/empire-of-sin/9PPSH9GQKLCB",
+      "steam": "https://store.steampowered.com/app/604540/"
+    },
+    "steam": 604540,
+    "updatedAt": "2021-03-18T09:26:21.447Z"
+  },
+  {
     "slug": "endless-legend",
     "name": "Endless Legend",
     "availability": {
@@ -2838,6 +2849,17 @@
     "updatedAt": "2020-12-04T09:21:40.852Z"
   },
   {
+    "slug": "nier-automata-become-as-gods-edition",
+    "name": "NieR:Automata BECOME AS GODS Edition",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/nierautomata-become-as-gods-edition/9PM2P9HQD1ML",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-18T09:26:21.447Z"
+  },
+  {
     "slug": "nier-automata",
     "name": "NieR:Automata™",
     "availability": {
@@ -4085,11 +4107,11 @@
     "name": "Torchlight III",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/torchlight-iii/9N944BP7SMCG",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/torchlight-iii/9N944BP7SMCG",
       "steam": "https://store.steampowered.com/app/1030210/"
     },
     "steam": 1030210,
-    "updatedAt": "2021-01-14T09:53:26.977Z"
+    "updatedAt": "2021-03-18T09:26:21.447Z"
   },
   {
     "slug": "torment-tides-of-numenera",
@@ -4184,11 +4206,22 @@
     "name": "Undertale",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/undertale/9PJGGX9XJXPB",
-      "pc": "https://www.microsoft.com/en-us/store/p/undertale/9N046HWGQ4J2",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/391540/"
     },
     "steam": 391540,
     "updatedAt": "2021-03-16T09:21:46.971Z"
+  },
+  {
+    "slug": "undertale-pc",
+    "name": "Undertale (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/undertale-pc/9N046HWGQ4J2",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-18T09:26:21.447Z"
   },
   {
     "slug": "unravel",

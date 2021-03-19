@@ -242,47 +242,25 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "battlefield-3-premium-edition",
-    "name": "Battlefield 3 Premium Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
     "slug": "battlefield-3",
     "name": "Battlefield 3™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-3/BRN6BHDHB58J",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238820/"
     },
     "steam": 1238820,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "battlefield-4",
     "name": "Battlefield 4",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-4/BP15SF17LH13",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238860/"
     },
     "steam": 1238860,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "battlefield-4-premium-edition",
-    "name": "Battlefield 4™ Premium Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -312,21 +290,10 @@
     "name": "Battlefield™ 1",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-1/BWTTW53M5B98",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238840/"
     },
     "steam": 1238840,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "battlefield-1-revolution",
-    "name": "Battlefield™ 1 Revolution",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -334,21 +301,10 @@
     "name": "Battlefield™ Hardline",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-hardline/BZKZFMQG2K2K",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238880/"
     },
     "steam": 1238880,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "battlefield-hardline-ultimate-edition",
-    "name": "Battlefield™ Hardline Ultimate Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -356,21 +312,10 @@
     "name": "Battlefield™ V",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-v/BZ2N7TQ0XCF2",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238810/"
     },
     "steam": 1238810,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "battlefield-v-year-2-edition",
-    "name": "Battlefield™ V Year 2 Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -741,17 +686,6 @@
     "name": "Crysis 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis-2/BQBTGDT4P54J",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/99830/"
-    },
-    "steam": 99830,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "crysis-2-maximum-edition",
-    "name": "Crysis® 2 Maximum Edition",
-    "availability": {
-      "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/108800/"
     },
@@ -1148,32 +1082,21 @@
     "name": "Dragon Age: Origins",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-origins/BS9SX4Q6XJRF",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/17450/"
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/47810/"
     },
-    "steam": 17450,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "steam": 47810,
+    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "dragon-age-2",
     "name": "Dragon Age™ 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-2/C4G76555T4QN",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238040/"
     },
     "steam": 1238040,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "dragon-age-ii",
-    "name": "Dragon Age™ II",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/99809/"
-    },
-    "steam": 99809,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -1181,32 +1104,10 @@
     "name": "Dragon Age™: Inquisition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-inquisition/C47GZZBMR5WG",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1222690/"
     },
     "steam": 1222690,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "dragon-age-inquisition-game-of-the-year-edition",
-    "name": "Dragon Age™: Inquisition - Game of the Year Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "dragon-age-origins-ultimate-edition",
-    "name": "Dragon Age™: Origins - Ultimate Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/47810/"
-    },
-    "steam": 47810,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -1280,17 +1181,6 @@
     "name": "EA SPORTS™ FIFA 17",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ea-sports-fifa-17/BTVFFDDZ0TL4",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "ea-sports-fifa-17-standard-edition",
-    "name": "EA SPORTS™ FIFA 17 Standard Edition",
-    "availability": {
-      "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": null
     },
@@ -2633,21 +2523,10 @@
     "name": "Mass Effect 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-2/C0Z1N477W100",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/24980/"
     },
     "steam": 24980,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "mass-effect-2-digital-deluxe-edition",
-    "name": "Mass Effect™ 2 Digital Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -2655,21 +2534,10 @@
     "name": "Mass Effect™ 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-3/C040H652PD98",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238020/"
     },
     "steam": 1238020,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "mass-effect-3-n7-digital-deluxe-edition",
-    "name": "Mass Effect™ 3 N7 Digital Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -2677,21 +2545,10 @@
     "name": "Mass Effect™: Andromeda",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-andromeda/BZPR04V49BMH",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1238000/"
     },
     "steam": 1238000,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "mass-effect-andromeda-deluxe-edition",
-    "name": "Mass Effect™: Andromeda Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -2952,32 +2809,21 @@
     "name": "Need for Speed Rivals",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-rivals/C3VM0TMWNZ5M",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1262600/"
     },
     "steam": 1262600,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "need-for-speed",
     "name": "Need for Speed™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed/BXWJNW4170RM",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1262540/"
     },
     "steam": 1262540,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "need-for-speed-deluxe-edition",
-    "name": "Need for Speed™ Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -2985,21 +2831,10 @@
     "name": "Need for Speed™ Heat",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-heat/BRZZLBF5T245",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1222680/"
     },
     "steam": 1222680,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "need-for-speed-heat-deluxe-edition",
-    "name": "Need for Speed™ Heat Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -3018,32 +2853,10 @@
     "name": "Need for Speed™ Payback",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-payback/C355T88BBX1S",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1262580/"
     },
     "steam": 1262580,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "need-for-speed-payback-deluxe-edition",
-    "name": "Need for Speed™ Payback - Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "need-for-speed-rivals-complete-edition",
-    "name": "Need for Speed™ Rivals: Complete Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -3359,11 +3172,11 @@
     "name": "Plants vs. Zombies",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies/BR1D9CR82ZM8",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/3599/"
     },
     "steam": 3599,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "plants-vs-zombies-garden-warfare",
@@ -3381,32 +3194,10 @@
     "name": "Plants vs. Zombies: Battle for Neighborville™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/plants-vs-zombies-battle-for-neighborville",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1262240/"
     },
     "steam": 1262240,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "plants-vs-zombies-battle-for-neighborville-deluxe-edition",
-    "name": "Plants vs. Zombies: Battle for Neighborville™ Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "plants-vs-zombies-game-of-the-year-edition",
-    "name": "Plants vs. Zombies™ Game of the Year Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -3414,17 +3205,6 @@
     "name": "Plants vs. Zombies™ Garden Warfare 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies-garden-warfare-2/BNRH7BRC1D02",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "plants-vs-zombies-garden-warfare-2-deluxe-edition",
-    "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
-    "availability": {
-      "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": null
     },
@@ -3854,43 +3634,21 @@
     "name": "STAR WARS™ Battlefront™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/star-wars-battlefront/BRXTM276DLPR",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1237980/"
     },
     "steam": 1237980,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "star-wars-battlefront-ii",
     "name": "STAR WARS™ Battlefront™ II",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/star-wars-battlefront-II",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1237950/"
     },
     "steam": 1237950,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "star-wars-battlefront-ii-celebration-edition",
-    "name": "STAR WARS™ Battlefront™ II: Celebration Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "star-wars-battlefront-ultimate-edition",
-    "name": "STAR WARS™ Battlefront™ Ultimate Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -4301,8 +4059,8 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "the-sims-3-starter-pack",
-    "name": "The Sims™ 3 Starter Pack",
+    "slug": "the-sims-3",
+    "name": "The Sims™ 3",
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
@@ -4316,21 +4074,10 @@
     "name": "The Sims™ 4",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-sims-4/C08JXNK0VG5L",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1222670/"
     },
     "steam": 1222670,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "the-sims-4-deluxe-party-edition",
-    "name": "The Sims™ 4 Deluxe Party Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -4481,21 +4228,10 @@
     "name": "Titanfall",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/titanfall/BPB9XVH92Z7T",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1454890/"
     },
     "steam": 1454890,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "titanfall-deluxe-edition",
-    "name": "TITANFALL DELUXE EDITION",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -4503,21 +4239,10 @@
     "name": "Titanfall® 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/titanfall-2/C0X2HNVH08FB",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1237970/"
     },
     "steam": 1237970,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "titanfall-2-ultimate-edition",
-    "name": "Titanfall® 2: Ultimate Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {

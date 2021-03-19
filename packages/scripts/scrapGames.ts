@@ -122,6 +122,40 @@ const ALIASES = {
   "Wolfenstein: The New Order": ["Wolfenstein: The New Order (PC)"],
   "Wolfenstein: The Old Blood": ["Wolfenstein: The Old Blood (PC)"],
   Undertale: ["Undertale (PC)"],
+  "Battlefield 3™": ["Battlefield 3 Premium Edition"],
+  "Battlefield 4": ["Battlefield 4™ Premium Edition"],
+  "Battlefield™ 1": ["Battlefield™ 1 Revolution"],
+  "Battlefield™ Hardline": ["Battlefield™ Hardline Ultimate Edition"],
+  "Battlefield™ V": ["Battlefield™ V Year 2 Edition"],
+  "Crysis 2": ["Crysis® 2 Maximum Edition"],
+  "Dragon Age™ 2": ["Dragon Age™ II"],
+  "Dragon Age™: Inquisition": [
+    "Dragon Age™: Inquisition - Game of the Year Edition",
+  ],
+  "Dragon Age: Origins": ["Dragon Age™: Origins - Ultimate Edition"],
+  "EA SPORTS™ FIFA 17": ["EA SPORTS™ FIFA 17 Standard Edition"],
+  "Mass Effect 2": ["Mass Effect™ 2 Digital Deluxe Edition"],
+  "Mass Effect™ 3": ["Mass Effect™ 3 N7 Digital Deluxe Edition"],
+  "Mass Effect™: Andromeda": ["Mass Effect™: Andromeda Deluxe Edition"],
+  "Need for Speed™": ["Need for Speed™ Deluxe Edition"],
+  "Need for Speed™ Heat": ["Need for Speed™ Heat Deluxe Edition"],
+  "Need for Speed™ Payback": ["Need for Speed™ Payback - Deluxe Edition"],
+  "Need for Speed Rivals": ["Need for Speed™ Rivals: Complete Edition"],
+  "Plants vs. Zombies: Battle for Neighborville™": [
+    "Plants vs. Zombies: Battle for Neighborville™ Deluxe Edition",
+  ],
+  "Plants vs. Zombies": ["Plants vs. Zombies™ Game of the Year Edition"],
+  "Plants vs. Zombies™ Garden Warfare 2": [
+    "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+  ],
+  "STAR WARS™ Battlefront™ II": [
+    "STAR WARS™ Battlefront™ II: Celebration Edition",
+  ],
+  "STAR WARS™ Battlefront™": ["STAR WARS™ Battlefront™ Ultimate Edition"],
+  "The Sims™ 3": ["The Sims™ 3 Starter Pack"],
+  "The Sims™ 4": ["The Sims™ 4 Deluxe Party Edition"],
+  Titanfall: ["TITANFALL DELUXE EDITION"],
+  "Titanfall® 2": ["Titanfall® 2: Ultimate Edition"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

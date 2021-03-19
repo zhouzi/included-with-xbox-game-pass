@@ -3503,9 +3503,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/24780/"
     },
-    "steam": null,
+    "steam": 24780,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -4064,9 +4064,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/47890/"
     },
-    "steam": null,
+    "steam": 47890,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {

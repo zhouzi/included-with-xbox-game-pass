@@ -1815,6 +1815,28 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "genesis-noir",
+    "name": "Genesis Noir",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/genesis-noir/9PHK9D8CLQCG",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/735290/"
+    },
+    "steam": 735290,
+    "updatedAt": "2021-03-25T09:28:17.216Z"
+  },
+  {
+    "slug": "genesis-noir-windows-edition",
+    "name": "Genesis Noir: Windows Edition",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/genesis-noir-windows-edition/9MWGGC7JH35B",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-25T09:28:17.216Z"
+  },
+  {
     "slug": "ghost-of-a-tale",
     "name": "Ghost of a Tale",
     "availability": {
@@ -2981,6 +3003,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "octopath-traveler",
+    "name": "OCTOPATH TRAVELER",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/octopath-traveler/9N9606CC950J",
+      "pc": "https://www.microsoft.com/en-us/store/p/octopath-traveler/9N9606CC950J",
+      "steam": "https://store.steampowered.com/app/921570/"
+    },
+    "steam": 921570,
+    "updatedAt": "2021-03-25T09:28:17.216Z"
+  },
+  {
     "slug": "ori-and-the-blind-forest-definitive-edition",
     "name": "Ori and the Blind Forest: Definitive Edition",
     "availability": {
@@ -3144,6 +3177,17 @@
     },
     "steam": 291650,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "pillars-of-eternity-2-deadfire-ultimate-edition-pc",
+    "name": "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-2-deadfire---ultimate-edition-pc/9N8N7NZSVTG3",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-25T09:28:17.216Z"
   },
   {
     "slug": "pillars-of-eternity-ii-deadfire-ultimate-edition",
@@ -3799,11 +3843,11 @@
     "name": "Supraland",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/supraland/9PN6MTJX8LZD",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/supraland/9P75CZFXMS7N",
       "steam": "https://store.steampowered.com/app/813630/"
     },
     "steam": 813630,
-    "updatedAt": "2020-10-22T14:19:36.679Z"
+    "updatedAt": "2021-03-25T09:28:17.216Z"
   },
   {
     "slug": "surviving-mars",
@@ -4684,6 +4728,28 @@
     },
     "steam": 1105510,
     "updatedAt": "2021-01-28T10:14:23.745Z"
+  },
+  {
+    "slug": "yakuza-6-the-song-of-life",
+    "name": "Yakuza 6: The Song of Life",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life/9NK3ZFC5R579",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-25T09:28:17.216Z"
+  },
+  {
+    "slug": "yakuza-6-the-song-of-life-for-windows-10",
+    "name": "Yakuza 6: The Song of Life for Windows 10",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life-for-windows-10/9N9WWM5JXCBZ",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-25T09:28:17.216Z"
   },
   {
     "slug": "yakuza-kiwami",

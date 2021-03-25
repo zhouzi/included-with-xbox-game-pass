@@ -156,6 +156,12 @@ const ALIASES = {
   "The Sims™ 4": ["The Sims™ 4 Deluxe Party Edition"],
   Titanfall: ["TITANFALL DELUXE EDITION"],
   "Titanfall® 2": ["Titanfall® 2: Ultimate Edition"],
+  "Genesis Noir": ["Genesis Noir: Windows Edition"],
+  "Pillars of Eternity II: Deadfire": [
+    "Pillars of Eternity II: Deadfire - Ultimate Edition",
+    "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
+  ],
+  "Yakuza 6: The Song of Life": ["Yakuza 6: The Song of Life for Windows 10"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

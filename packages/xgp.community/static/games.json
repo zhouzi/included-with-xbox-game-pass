@@ -4713,9 +4713,9 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life/9NK3ZFC5R579",
       "pc": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life-for-windows-10/9N9WWM5JXCBZ",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1388590/"
     },
-    "steam": null,
+    "steam": 1388590,
     "updatedAt": "2021-03-25T09:28:17.216Z"
   },
   {

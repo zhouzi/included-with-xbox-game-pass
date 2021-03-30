@@ -2783,6 +2783,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "narita-boy",
+    "name": "Narita Boy",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/narita-boy/9NBL782WBHK6",
+      "pc": "https://www.microsoft.com/en-us/store/p/narita-boy/9NT3FGQC1DFR",
+      "steam": "https://store.steampowered.com/app/1069530/"
+    },
+    "steam": 1069530,
+    "updatedAt": "2021-03-30T09:25:18.740Z"
+  },
+  {
     "slug": "nba-2k21",
     "name": "NBA 2K21",
     "availability": {

@@ -3030,9 +3030,9 @@
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/outriders/C083G6BGJ334",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/680420/"
     },
-    "steam": null,
+    "steam": 680420,
     "updatedAt": "2021-04-01T09:25:43.378Z"
   },
   {

@@ -694,14 +694,14 @@
   },
   {
     "slug": "crysis-3",
-    "name": "Crysis® 3",
+    "name": "Crysis 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis-3/BNKKJL1VRR5P",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": "https://store.steampowered.com/app/1282690/"
     },
     "steam": 1282690,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
+    "updatedAt": "2021-04-01T09:25:43.378Z"
   },
   {
     "slug": "cyber-shadow",
@@ -2167,17 +2167,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "hyperdot",
-    "name": "HyperDot",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/hyperdot/9NVVJ8TBD7KP",
-      "pc": "https://www.microsoft.com/en-us/store/p/hyperdot/9NVVJ8TBD7KP",
-      "steam": "https://store.steampowered.com/app/876500/"
-    },
-    "steam": 876500,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "hypnospace-outlaw",
     "name": "Hypnospace Outlaw",
     "availability": {
@@ -2252,17 +2241,6 @@
       "steam": null
     },
     "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "journey-to-the-savage-planet",
-    "name": "Journey to the Savage Planet",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/journey-to-the-savage-planet/BZ3CVPFPDSHK",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/973810/"
-    },
-    "steam": 973810,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2406,17 +2384,6 @@
       "steam": "https://store.steampowered.com/app/711540/"
     },
     "steam": 711540,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "machinarium",
-    "name": "Machinarium",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/machinarium/9N83GKZLC8BK",
-      "steam": "https://store.steampowered.com/app/40700/"
-    },
-    "steam": 40700,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3056,6 +3023,17 @@
     },
     "steam": 753640,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "outriders",
+    "name": "OUTRIDERS",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/outriders/C083G6BGJ334",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-04-01T09:25:43.378Z"
   },
   {
     "slug": "overcooked-2",

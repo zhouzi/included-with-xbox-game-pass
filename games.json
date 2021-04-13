@@ -2904,6 +2904,17 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "nhl-21",
+    "name": "NHL® 21",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/nhl-21/BWZ8BZ85X5HK",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-04-13T09:24:45.691Z"
+  },
+  {
     "slug": "nhl-94-rewind",
     "name": "NHL® 94 REWIND",
     "availability": {

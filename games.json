@@ -3080,6 +3080,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "pathway",
+    "name": "Pathway",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/pathway/9MW5141C2PRX",
+      "steam": "https://store.steampowered.com/app/546430/"
+    },
+    "steam": 546430,
+    "updatedAt": "2021-04-15T09:23:14.955Z"
+  },
+  {
     "slug": "payday-2",
     "name": "PAYDAY 2",
     "availability": {
@@ -3353,6 +3364,17 @@
     },
     "steam": 548570,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "rain-on-your-parade",
+    "name": "Rain on Your Parade",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/rain-on-your-parade/9NS66QNVR00N",
+      "pc": "https://www.microsoft.com/en-us/store/p/rain-on-your-parade/9NS66QNVR00N",
+      "steam": "https://store.steampowered.com/app/1213230/"
+    },
+    "steam": 1213230,
+    "updatedAt": "2021-04-15T09:23:14.955Z"
   },
   {
     "slug": "rare-replay",

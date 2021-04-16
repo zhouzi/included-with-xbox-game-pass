@@ -836,17 +836,6 @@
     "updatedAt": "2020-11-05T09:20:53.821Z"
   },
   {
-    "slug": "deliver-us-the-moon",
-    "name": "Deliver Us The Moon",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9NVVSHQ771WG",
-      "pc": "https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9PF6BS5DGNLX",
-      "steam": "https://store.steampowered.com/app/428660/"
-    },
-    "steam": 428660,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "descenders",
     "name": "Descenders",
     "availability": {
@@ -1702,17 +1691,6 @@
       "steam": null
     },
     "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "gato-roboto",
-    "name": "Gato Roboto",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/gato-roboto/9PF6XX9BSHF0",
-      "pc": "https://www.microsoft.com/en-us/store/p/gato-roboto/9PBJQ90CT236",
-      "steam": "https://store.steampowered.com/app/916730/"
-    },
-    "steam": 916730,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4507,17 +4485,6 @@
       "steam": "https://store.steampowered.com/app/857980/"
     },
     "steam": 857980,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "wargroove",
-    "name": "Wargroove",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/wargroove/9NRPTTJ94PCK",
-      "pc": "https://www.microsoft.com/en-us/store/p/wargroove/9NRPTTJ94PCK",
-      "steam": "https://store.steampowered.com/app/607050/"
-    },
-    "steam": 607050,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

@@ -1188,28 +1188,6 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "ea-sports-nhl-18",
-    "name": "EA SPORTS™ NHL® 18",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-nhl-18/C2BTFXNW3TTT",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "ea-sports-nhl-19",
-    "name": "EA SPORTS™ NHL® 19",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-nhl-19/C1C16ZZZ79VD",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
     "slug": "ea-sports-rory-mcilroy-pga-tour",
     "name": "EA SPORTS™ Rory McIlroy PGA TOUR®",
     "availability": {
@@ -2376,50 +2354,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "madden-nfl-15",
-    "name": "Madden NFL 15",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-15/BNFCRCSB95FT",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "madden-nfl-16",
-    "name": "Madden NFL 16",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-16/BXRMHT4MV6G3",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "madden-nfl-17",
-    "name": "Madden NFL 17",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-17/C2KV821GS8X5",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "madden-nfl-18",
-    "name": "Madden NFL 18",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-18/BS36XT3Z5ZKL",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
     "slug": "madden-nfl-19",
     "name": "Madden NFL 19",
     "availability": {
@@ -2451,17 +2385,6 @@
     },
     "steam": 1239520,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "madden-nfl-25",
-    "name": "Madden NFL 25",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-25/C3CF8LR1RFKH",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "slug": "marvel-vs-capcom-infinite",

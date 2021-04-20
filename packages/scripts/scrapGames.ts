@@ -162,6 +162,10 @@ const ALIASES = {
     "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
   ],
   "Yakuza 6: The Song of Life": ["Yakuza 6: The Song of Life for Windows 10"],
+  "MLB® The Show™ 21": [
+    "MLB® The Show™ 21 Xbox One",
+    "MLB® The Show™ 21 Xbox Series X | S",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

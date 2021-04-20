@@ -2563,6 +2563,28 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "mlb-the-show-21-xbox-one",
+    "name": "MLB® The Show™ 21 Xbox One",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/mlb-the-show-21-xbox-one/9P7WMQG42GRX",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-04-20T09:24:04.000Z"
+  },
+  {
+    "slug": "mlb-the-show-21-xbox-series-x-s",
+    "name": "MLB® The Show™ 21 Xbox Series X | S",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/mlb-the-show-21-xbox-series-x--s/9NSDL005MBTG",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-04-20T09:24:04.000Z"
+  },
+  {
     "slug": "monster-hunter-world",
     "name": "MONSTER HUNTER: WORLD™",
     "availability": {

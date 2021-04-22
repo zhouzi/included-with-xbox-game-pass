@@ -3073,11 +3073,11 @@
     "name": "PHOGS!",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/phogs/9P6X271HLG8Q",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/phogs/9P6X271HLG8Q",
       "steam": "https://store.steampowered.com/app/850320/"
     },
     "steam": 850320,
-    "updatedAt": "2020-12-03T09:17:39.020Z"
+    "updatedAt": "2021-04-22T09:24:33.753Z"
   },
   {
     "slug": "pikuniku",

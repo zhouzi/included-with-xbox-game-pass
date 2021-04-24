@@ -1939,12 +1939,12 @@
     "slug": "halo-wars-2",
     "name": "Halo Wars 2",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/halo-wars-2/C21TDXKRNMHZ",
       "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM",
       "steam": null
     },
     "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-04-24T09:24:10.042Z"
   },
   {
     "slug": "halo-wars-2-standard-edition",

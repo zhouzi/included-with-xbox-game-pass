@@ -166,6 +166,7 @@ const ALIASES = {
     "MLB® The Show™ 21 Xbox One",
     "MLB® The Show™ 21 Xbox Series X | S",
   ],
+  "Second Extinction™": ["Second Extinction™ (Game Preview)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

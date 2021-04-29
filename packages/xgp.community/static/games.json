@@ -902,6 +902,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "destroy-all-humans",
+    "name": "Destroy All Humans!",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/destroy-all-humans/C2GMBPMTHDDK",
+      "pc": "https://www.microsoft.com/en-us/store/p/destroy-all-humans/9N7L81J5XW7T",
+      "steam": "https://store.steampowered.com/app/803330/"
+    },
+    "steam": 803330,
+    "updatedAt": "2021-04-29T09:23:04.089Z"
+  },
+  {
     "slug": "dirt-5",
     "name": "DIRT 5",
     "availability": {
@@ -3430,6 +3441,17 @@
     },
     "steam": 1172620,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "second-extinction-game-preview",
+    "name": "Second Extinction™ (Game Preview)",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/second-extinction-game-preview/9P9JZLNFQ9PT",
+      "pc": "https://www.microsoft.com/en-us/store/p/second-extinction-game-preview/9P9JZLNFQ9PT",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-04-29T09:23:04.089Z"
   },
   {
     "slug": "secret-neighbor",

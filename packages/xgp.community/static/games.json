@@ -1287,17 +1287,6 @@
     "updatedAt": "2021-03-18T09:26:21.447Z"
   },
   {
-    "slug": "endless-legend",
-    "name": "Endless Legend",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/endless-legend/9NP09BFQNHCJ",
-      "steam": "https://store.steampowered.com/app/289130/"
-    },
-    "steam": 289130,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "endless-space-2-deluxe-edition",
     "name": "Endless Space 2: Deluxe Edition",
     "availability": {
@@ -1595,17 +1584,6 @@
     "updatedAt": "2021-03-04T09:26:29.349Z"
   },
   {
-    "slug": "for-the-king",
-    "name": "For The King",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/for-the-king/BP2BW45WZ45Z",
-      "pc": "https://www.microsoft.com/en-us/store/p/for-the-king/9NS1CD1V4BKW",
-      "steam": "https://store.steampowered.com/app/527230/"
-    },
-    "steam": 527230,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "forager",
     "name": "Forager",
     "availability": {
@@ -1636,17 +1614,6 @@
       "steam": null
     },
     "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "fractured-minds",
-    "name": "Fractured Minds",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fractured-minds/BXX0NHDR1FNZ",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/688740/"
-    },
-    "steam": 688740,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2343,17 +2310,6 @@
     "updatedAt": "2020-11-05T09:20:53.821Z"
   },
   {
-    "slug": "levelhead",
-    "name": "Levelhead",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/levelhead/9PJZBB8FWK8H",
-      "pc": "https://www.microsoft.com/en-us/store/p/levelhead/9PJZBB8FWK8H",
-      "steam": "https://store.steampowered.com/app/792710/"
-    },
-    "steam": 792710,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "lonely-mountains-downhill",
     "name": "Lonely Mountains: Downhill",
     "availability": {
@@ -2660,17 +2616,6 @@
     },
     "steam": 48700,
     "updatedAt": "2020-11-19T09:15:35.902Z"
-  },
-  {
-    "slug": "moving-out",
-    "name": "Moving Out",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/moving-out/9NXPBSMHPLTV",
-      "pc": "https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP",
-      "steam": "https://store.steampowered.com/app/996770/"
-    },
-    "steam": 996770,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "my-time-at-portia",
@@ -4199,17 +4144,6 @@
       "steam": "https://store.steampowered.com/app/973760/"
     },
     "steam": 973760,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "thumper",
-    "name": "Thumper",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/thumper/9PHV10KXLJZT",
-      "steam": "https://store.steampowered.com/app/356400/"
-    },
-    "steam": 356400,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

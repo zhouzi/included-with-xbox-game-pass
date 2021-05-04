@@ -1111,14 +1111,14 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "dragon-quest-builders2",
-    "name": "DRAGON QUEST BUILDERS2",
+    "slug": "dragon-quest-builders-2",
+    "name": "DRAGON QUEST BUILDERS™ 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders2/9PFD00CZJ35V",
       "pc": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders2/9PFD00CZJ35V",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1072420/"
     },
-    "steam": null,
+    "steam": 1072420,
     "updatedAt": "2021-05-04T09:22:31.269Z"
   },
   {

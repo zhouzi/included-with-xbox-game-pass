@@ -2926,6 +2926,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "outlast-2",
+    "name": "Outlast 2",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/outlast-2/BZVPNM21TCJC",
+      "pc": "https://www.microsoft.com/en-us/store/p/outlast-2/9N633BP2KCKD",
+      "steam": "https://store.steampowered.com/app/414700/"
+    },
+    "steam": 414700,
+    "updatedAt": "2021-05-06T09:21:49.899Z"
+  },
+  {
     "slug": "outriders",
     "name": "OUTRIDERS",
     "availability": {
@@ -3650,6 +3661,17 @@
     },
     "steam": 329380,
     "updatedAt": "2021-02-11T09:20:15.549Z"
+  },
+  {
+    "slug": "steep",
+    "name": "STEEP",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/steep/C350VBGGCL6P",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/460920/"
+    },
+    "steam": 460920,
+    "updatedAt": "2021-05-06T09:21:49.899Z"
   },
   {
     "slug": "stellaris",

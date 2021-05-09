@@ -1177,30 +1177,8 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "ea-sports-fifa-16",
-    "name": "EA SPORTS™ FIFA 16",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-fifa-16/C4LL0TDQRFLS",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "ea-sports-fifa-17",
-    "name": "EA SPORTS™ FIFA 17",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-fifa-17/BTVFFDDZ0TL4",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "ea-sports-fifa-20",
-    "name": "EA SPORTS™ FIFA 20",
+    "slug": "fifa-20",
+    "name": "FIFA 20",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/fifa-20",
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
@@ -1441,28 +1419,6 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "fifa-15",
-    "name": "FIFA 15",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fifa-15/BXSVW5X9S0G3",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "fifa-18",
-    "name": "FIFA 18",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fifa-18/BWPKGQV97N7N",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
     "slug": "fifa-19",
     "name": "FIFA 19",
     "availability": {
@@ -1472,6 +1428,17 @@
     },
     "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
+  },
+  {
+    "slug": "fifa-21",
+    "name": "FIFA 21",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/fifa-21-xbox-series-xs/9PLLM41KB8T2",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/1313860/"
+    },
+    "steam": 1313860,
+    "updatedAt": "2021-05-09T09:22:31.459Z"
   },
   {
     "slug": "fight-night-champion",
@@ -2660,17 +2627,6 @@
     },
     "steam": 1225330,
     "updatedAt": "2021-03-04T09:26:29.349Z"
-  },
-  {
-    "slug": "nba-live-18-the-one-edition",
-    "name": "NBA LIVE 18: The One Edition",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/nba-live-18-the-one-edition/C242DV9JQD3W",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
     "slug": "nba-live-19",

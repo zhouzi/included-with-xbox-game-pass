@@ -1177,8 +1177,8 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "ea-sports-fifa-20",
-    "name": "EA SPORTS™ FIFA 20",
+    "slug": "fifa-20",
+    "name": "FIFA 20",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/fifa-20",
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
@@ -1433,44 +1433,11 @@
     "slug": "fifa-21",
     "name": "FIFA 21",
     "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-05-09T09:22:31.459Z"
-  },
-  {
-    "slug": "fifa-21-standard-edition-xbox-one-and-xbox-series-x-s",
-    "name": "FIFA 21 Standard Edition Xbox One & Xbox Series X|S",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fifa-21-standard-edition-xbox-one--xbox-series-xs/9NN50LXZT18Z",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-05-09T09:22:31.459Z"
-  },
-  {
-    "slug": "fifa-21-xbox-one",
-    "name": "FIFA 21 Xbox One",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fifa-21-xbox-one/9N4DNRXMJ381",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-05-09T09:22:31.459Z"
-  },
-  {
-    "slug": "fifa-21-xbox-series-x-s",
-    "name": "FIFA 21 Xbox Series X|S",
-    "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fifa-21-xbox-series-xs/9PLLM41KB8T2",
-      "pc": null,
-      "steam": null
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/1313860/"
     },
-    "steam": null,
+    "steam": 1313860,
     "updatedAt": "2021-05-09T09:22:31.459Z"
   },
   {

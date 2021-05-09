@@ -168,6 +168,12 @@ const ALIASES = {
   ],
   "Second Extinction™": ["Second Extinction™ (Game Preview)"],
   "DRAGON QUEST BUILDERS™ 2": ["DRAGON QUEST BUILDERS2"],
+  "FIFA 20": ["EA SPORTS™ FIFA 20"],
+  "FIFA 21": [
+    "FIFA 21 Standard Edition Xbox One & Xbox Series X|S",
+    "FIFA 21 Xbox One",
+    "FIFA 21 Xbox Series X|S",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

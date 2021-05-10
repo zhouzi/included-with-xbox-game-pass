@@ -1112,10 +1112,10 @@
   },
   {
     "slug": "dragon-quest-builders-2",
-    "name": "DRAGON QUEST BUILDERS™ 2",
+    "name": "DRAGON QUEST BUILDERS 2",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders2/9PFD00CZJ35V",
-      "pc": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders2/9PFD00CZJ35V",
+      "console": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders-2/9PFD00CZJ35V",
+      "pc": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders-2/9PFD00CZJ35V",
       "steam": "https://store.steampowered.com/app/1072420/"
     },
     "steam": 1072420,
@@ -1175,17 +1175,6 @@
     },
     "steam": 249050,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "fifa-20",
-    "name": "FIFA 20",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/fifa-20",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "ea-sports-rory-mcilroy-pga-tour",
@@ -1423,6 +1412,17 @@
     "name": "FIFA 19",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/fifa-19",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-03-19T09:26:21.655Z"
+  },
+  {
+    "slug": "fifa-20",
+    "name": "FIFA 20",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/fifa-20",
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
       "steam": null
     },

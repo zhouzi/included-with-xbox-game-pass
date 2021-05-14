@@ -1485,6 +1485,17 @@
     "updatedAt": "2020-11-12T09:31:46.103Z"
   },
   {
+    "slug": "final-fantasy-x-x-2-hd-remaster",
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-xx-2-hd-remaster/C0KSN20BRP7Z",
+      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xx-2-hd-remaster/9NDNP3J6XWVH",
+      "steam": "https://store.steampowered.com/app/359870/"
+    },
+    "steam": 359870,
+    "updatedAt": "2021-05-14T09:24:52.511Z"
+  },
+  {
     "slug": "final-fantasy-xii-the-zodiac-age",
     "name": "FINAL FANTASY XII THE ZODIAC AGE",
     "availability": {
@@ -2187,6 +2198,17 @@
     },
     "steam": 648350,
     "updatedAt": "2021-02-11T09:20:15.549Z"
+  },
+  {
+    "slug": "just-cause-4-reloaded",
+    "name": "Just Cause 4: Reloaded",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/just-cause-4",
+      "pc": "https://www.xbox.com/en-us/games/just-cause-4",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-05-14T09:24:52.511Z"
   },
   {
     "slug": "kameo",
@@ -3190,6 +3212,28 @@
     "updatedAt": "2021-02-04T09:19:23.220Z"
   },
   {
+    "slug": "psychonauts",
+    "name": "Psychonauts",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/psychonauts/C5HHPG1TXDNG",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/3830/"
+    },
+    "steam": 3830,
+    "updatedAt": "2021-05-14T09:24:52.511Z"
+  },
+  {
+    "slug": "psychonauts-windows-10",
+    "name": "Psychonauts (Windows 10)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/psychonauts-windows-10/9NCT87FKQ4GM",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-05-14T09:24:52.511Z"
+  },
+  {
     "slug": "quantum-break",
     "name": "Quantum Break",
     "availability": {
@@ -3245,15 +3289,26 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "red-dead-online",
+    "name": "Red Dead Online",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/red-dead-online/9N3L5FF8M6SW",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1404210/"
+    },
+    "steam": 1404210,
+    "updatedAt": "2021-05-14T09:24:52.511Z"
+  },
+  {
     "slug": "remnant-from-the-ashes",
     "name": "Remnant: From the Ashes",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/remnant-from-the-ashes/9PBHXGWZTS2N",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/remnant-from-the-ashes/9PBHXGWZTS2N",
       "steam": "https://store.steampowered.com/app/617290/"
     },
     "steam": 617290,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-05-14T09:24:52.511Z"
   },
   {
     "slug": "resident-evil-7-biohazard",

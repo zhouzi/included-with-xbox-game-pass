@@ -174,6 +174,7 @@ const ALIASES = {
     "FIFA 21 Xbox One",
     "FIFA 21 Xbox Series X|S",
   ],
+  Psychonauts: ["Psychonauts (Windows 10)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

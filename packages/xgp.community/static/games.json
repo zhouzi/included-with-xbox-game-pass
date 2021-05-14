@@ -2205,9 +2205,9 @@
     "availability": {
       "console": "https://www.xbox.com/en-us/games/just-cause-4",
       "pc": "https://www.xbox.com/en-us/games/just-cause-4",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/517630/"
     },
-    "steam": null,
+    "steam": 517630,
     "updatedAt": "2021-05-14T09:24:52.511Z"
   },
   {
@@ -3216,21 +3216,10 @@
     "name": "Psychonauts",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/psychonauts/C5HHPG1TXDNG",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/psychonauts-windows-10/9NCT87FKQ4GM",
       "steam": "https://store.steampowered.com/app/3830/"
     },
     "steam": 3830,
-    "updatedAt": "2021-05-14T09:24:52.511Z"
-  },
-  {
-    "slug": "psychonauts-windows-10",
-    "name": "Psychonauts (Windows 10)",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/psychonauts-windows-10/9NCT87FKQ4GM",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-05-14T09:24:52.511Z"
   },
   {

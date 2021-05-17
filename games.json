@@ -66,17 +66,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "alan-wake",
-    "name": "Alan Wake",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/alan-wake/C493V31WXV80",
-      "pc": "https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68",
-      "steam": "https://store.steampowered.com/app/108710/"
-    },
-    "steam": 108710,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "alice-madness-returns",
     "name": "Alice: Madness Returns",
     "availability": {
@@ -317,17 +306,6 @@
     },
     "steam": 1238810,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "battlefleet-gothic-armada-2",
-    "name": "Battlefleet Gothic: Armada 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/battlefleet-gothic-armada-2---windows-10/9NGWKW55M85P",
-      "steam": "https://store.steampowered.com/app/573100/"
-    },
-    "steam": 573100,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "battletech",
@@ -1166,17 +1144,6 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "dungeon-of-the-endless",
-    "name": "Dungeon of the Endless",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/BT56B4R21179",
-      "pc": "https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/9N46K0X6TBZK",
-      "steam": "https://store.steampowered.com/app/249050/"
-    },
-    "steam": 249050,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "ea-sports-rory-mcilroy-pga-tour",
     "name": "EA SPORTS™ Rory McIlroy PGA TOUR®",
     "availability": {
@@ -1450,17 +1417,6 @@
     },
     "steam": null,
     "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "final-fantasy-ix",
-    "name": "FINAL FANTASY IX",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-ix/9NPGTNQFC8B5",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-ix/9NPGTNQFC8B5",
-      "steam": "https://store.steampowered.com/app/377840/"
-    },
-    "steam": 377840,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "final-fantasy-vii",
@@ -2065,17 +2021,6 @@
       "steam": "https://store.steampowered.com/app/367520/"
     },
     "steam": 367520,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "hotline-miami",
-    "name": "Hotline Miami",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/hotline-miami/9PPCS86WS28Z",
-      "steam": "https://store.steampowered.com/app/219150/"
-    },
-    "steam": 219150,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3132,17 +3077,6 @@
       "steam": "https://store.steampowered.com/app/578080/"
     },
     "steam": 578080,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "plebby-quest-the-crusades",
-    "name": "Plebby Quest: The Crusades",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/plebby-quest-the-crusades/9MWBPSQ5PKQR",
-      "steam": "https://store.steampowered.com/app/334310/"
-    },
-    "steam": 334310,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

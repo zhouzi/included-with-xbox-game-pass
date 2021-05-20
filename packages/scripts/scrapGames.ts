@@ -175,6 +175,8 @@ const ALIASES = {
     "FIFA 21 Xbox Series X|S",
   ],
   Psychonauts: ["Psychonauts (Windows 10)"],
+  "Ryse: Son of Rome": ["Ryse: Legendary Edition"],
+  SnowRunner: ["SnowRunner (Windows 10)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

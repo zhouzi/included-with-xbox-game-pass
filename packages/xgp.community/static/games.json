@@ -3289,15 +3289,15 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "ryse-son-of-rome",
-    "name": "Ryse: Son of Rome",
+    "slug": "ryse-legendary-edition",
+    "name": "Ryse: Legendary Edition",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ryse-son-of-rome/C10QTNC7JWNJ",
+      "console": "https://www.microsoft.com/en-us/store/p/ryse-legendary-edition/C4F7ZHLN6B2J",
       "pc": null,
-      "steam": "https://store.steampowered.com/app/302510/"
+      "steam": null
     },
-    "steam": 302510,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "steam": null,
+    "updatedAt": "2021-05-20T09:24:17.276Z"
   },
   {
     "slug": "scourgebringer",
@@ -3359,11 +3359,11 @@
     "name": "Secret Neighbor",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
       "steam": "https://store.steampowered.com/app/859570/"
     },
     "steam": 859570,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-05-20T09:24:17.276Z"
   },
   {
     "slug": "shadow-warrior-2",
@@ -3452,6 +3452,28 @@
     },
     "steam": 312660,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "snowrunner",
+    "name": "SnowRunner",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/snowrunner/9PNRSC0J6DT8",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1465360/"
+    },
+    "steam": 1465360,
+    "updatedAt": "2021-05-20T09:24:17.276Z"
+  },
+  {
+    "slug": "snowrunner-windows-10",
+    "name": "SnowRunner (Windows 10)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/snowrunner-windows-10/9NP6WL1XQDBW",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-05-20T09:24:17.276Z"
   },
   {
     "slug": "soulcalibur-vi",
@@ -3795,6 +3817,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "the-catch-carp-and-coarse-fishing",
+    "name": "The Catch: Carp & Coarse Fishing",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-catch-carp--coarse-fishing/9P7NH82HZCDF",
+      "pc": "https://www.microsoft.com/en-us/store/p/the-catch-carp--coarse-fishing/9P7NH82HZCDF",
+      "steam": "https://store.steampowered.com/app/1237610/"
+    },
+    "steam": 1237610,
+    "updatedAt": "2021-05-20T09:24:17.276Z"
+  },
+  {
     "slug": "the-dark-crystal-age-of-resistance-tactics",
     "name": "The Dark Crystal: Age of Resistance Tactics",
     "availability": {
@@ -4079,6 +4112,17 @@
     },
     "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-wild-at-heart",
+    "name": "The Wild at Heart",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-wild-at-heart/9NR8ZBSJQ4FD",
+      "pc": "https://www.microsoft.com/en-us/store/p/the-wild-at-heart/9NR8ZBSJQ4FD",
+      "steam": "https://store.steampowered.com/app/1093290/"
+    },
+    "steam": 1093290,
+    "updatedAt": "2021-05-20T09:24:17.276Z"
   },
   {
     "slug": "the-yakuza-remastered-collection",

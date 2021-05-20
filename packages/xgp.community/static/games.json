@@ -3289,15 +3289,15 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "ryse-legendary-edition",
-    "name": "Ryse: Legendary Edition",
+    "slug": "ryse-son-of-rome",
+    "name": "Ryse: Son of Rome",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ryse-legendary-edition/C4F7ZHLN6B2J",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/302510/"
     },
-    "steam": null,
-    "updatedAt": "2021-05-20T09:24:17.276Z"
+    "steam": 302510,
+    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "scourgebringer",
@@ -3458,21 +3458,10 @@
     "name": "SnowRunner",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/snowrunner/9PNRSC0J6DT8",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/snowrunner-windows-10/9NP6WL1XQDBW",
       "steam": "https://store.steampowered.com/app/1465360/"
     },
     "steam": 1465360,
-    "updatedAt": "2021-05-20T09:24:17.276Z"
-  },
-  {
-    "slug": "snowrunner-windows-10",
-    "name": "SnowRunner (Windows 10)",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/snowrunner-windows-10/9NP6WL1XQDBW",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-05-20T09:24:17.276Z"
   },
   {

@@ -2255,6 +2255,17 @@
     "updatedAt": "2020-11-05T09:20:53.821Z"
   },
   {
+    "slug": "knockout-city",
+    "name": "Knockout City™",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/knockout-city/9N05CV7HCQZ0",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/1301210/"
+    },
+    "steam": 1301210,
+    "updatedAt": "2021-05-22T09:24:19.180Z"
+  },
+  {
     "slug": "lonely-mountains-downhill",
     "name": "Lonely Mountains: Downhill",
     "availability": {

@@ -2310,6 +2310,17 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
+    "slug": "maneater",
+    "name": "Maneater",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/maneater/9P5B81KVDGP1",
+      "pc": "https://www.microsoft.com/en-us/store/p/maneater/9P5B81KVDGP1",
+      "steam": "https://store.steampowered.com/app/629820/"
+    },
+    "steam": 629820,
+    "updatedAt": "2021-05-25T09:29:55.554Z"
+  },
+  {
     "slug": "marvel-vs-capcom-infinite",
     "name": "MARVEL VS. CAPCOM: INFINITE",
     "availability": {

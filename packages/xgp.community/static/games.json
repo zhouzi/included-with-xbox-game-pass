@@ -3458,11 +3458,11 @@
     "name": "Slime Rancher",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/slime-rancher/C2NC88M7NWZ1",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/slime-rancher/C2NC88M7NWZ1",
       "steam": "https://store.steampowered.com/app/433340/"
     },
     "steam": 433340,
-    "updatedAt": "2020-12-03T09:17:39.020Z"
+    "updatedAt": "2021-05-26T09:34:40.600Z"
   },
   {
     "slug": "sniper-elite-4",

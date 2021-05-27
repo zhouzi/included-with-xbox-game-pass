@@ -572,6 +572,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "conan-exiles",
+    "name": "Conan Exiles",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/conan-exiles/C2X6ZCNKN2WR",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/440900/"
+    },
+    "steam": 440900,
+    "updatedAt": "2021-05-27T09:43:27.712Z"
+  },
+  {
     "slug": "control",
     "name": "Control",
     "availability": {
@@ -2039,7 +2050,7 @@
     "name": "Human Fall Flat",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
-      "pc": "https://www.microsoft.com/en-us/store/p/human-fall-flat/9MT4HS1CP72W",
+      "pc": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
       "steam": "https://store.steampowered.com/app/477160/"
     },
     "steam": 477160,
@@ -2390,12 +2401,12 @@
     "slug": "mechwarrior-5-mercenaries",
     "name": "MechWarrior 5: Mercenaries",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/mechwarrior-5-mercenaries/9PB86W3JK8Z5",
       "pc": "https://www.microsoft.com/en-us/store/p/mechwarrior-5-mercenaries/9PB86W3JK8Z5",
       "steam": "https://store.steampowered.com/app/784080/"
     },
     "steam": 784080,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-05-27T09:43:27.712Z"
   },
   {
     "slug": "medal-of-honor-airborne",
@@ -3496,6 +3507,17 @@
     },
     "steam": 544750,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "spellforce-3-soul-harvest",
+    "name": "SpellForce 3: Soul Harvest",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/spellforce-3-soul-harvest/9PC58LJXK3RM",
+      "steam": "https://store.steampowered.com/app/817540/"
+    },
+    "steam": 817540,
+    "updatedAt": "2021-05-27T09:43:27.712Z"
   },
   {
     "slug": "spiritfarer",

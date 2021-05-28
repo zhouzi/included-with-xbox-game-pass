@@ -751,7 +751,7 @@
     "slug": "dead-by-daylight",
     "name": "Dead by Daylight",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-special-edition/C0N22P73QZ60",
+      "console": "https://www.microsoft.com/en-us/store/p/dead-by-daylight/C0N22P73QZ60",
       "pc": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH",
       "steam": "https://store.steampowered.com/app/381210/"
     },
@@ -3496,6 +3496,17 @@
     },
     "steam": 1465360,
     "updatedAt": "2021-05-20T09:24:17.276Z"
+  },
+  {
+    "slug": "solasta-crown-of-the-magister",
+    "name": "Solasta: Crown of the Magister",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/solasta-crown-of-the-magister/9N1KQPLTR7S5",
+      "steam": "https://store.steampowered.com/app/1096530/"
+    },
+    "steam": 1096530,
+    "updatedAt": "2021-05-28T09:45:53.327Z"
   },
   {
     "slug": "soulcalibur-vi",

@@ -143,17 +143,6 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "assetto-corsa",
-    "name": "Assetto Corsa",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/assetto-corsa/C27H5T4HD4WW",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/244210/"
-    },
-    "steam": 244210,
-    "updatedAt": "2020-12-10T09:19:57.314Z"
-  },
-  {
     "slug": "astroneer",
     "name": "ASTRONEER",
     "availability": {
@@ -415,17 +404,6 @@
       "steam": "https://store.steampowered.com/app/684410/"
     },
     "steam": 684410,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "broforce",
-    "name": "Broforce",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/broforce/9P03ZQMBMV65",
-      "steam": "https://store.steampowered.com/app/274190/"
-    },
-    "steam": 274190,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2222,28 +2200,6 @@
     "updatedAt": "2021-02-23T09:20:23.619Z"
   },
   {
-    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
-    "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/kingdom-hearts---hd-1525-remix--/9NHDF1Q6HGMH",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-    "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/kingdom-hearts-hd-28-final-chapter-prologue/9NB80T1XC43B",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "kingdom-hearts",
     "name": "KINGDOM HEARTS Ⅲ",
     "availability": {
@@ -3773,17 +3729,6 @@
     "updatedAt": "2021-03-25T09:28:17.216Z"
   },
   {
-    "slug": "surviving-mars",
-    "name": "Surviving Mars",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/surviving-mars/BXC7CS90NX6S",
-      "pc": "https://www.microsoft.com/en-us/store/p/surviving-mars/9MXB71Q4VWGJ",
-      "steam": "https://store.steampowered.com/app/464920/"
-    },
-    "steam": 464920,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "tales-of-vesperia-definitive-edition",
     "name": "Tales of Vesperia™: Definitive Edition",
     "availability": {
@@ -4419,17 +4364,6 @@
       "steam": null
     },
     "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "void-bastards",
-    "name": "Void Bastards",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/void-bastards/9N584LPFG1GM",
-      "pc": "https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS",
-      "steam": "https://store.steampowered.com/app/857980/"
-    },
-    "steam": 857980,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

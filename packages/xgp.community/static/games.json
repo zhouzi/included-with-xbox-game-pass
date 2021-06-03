@@ -554,11 +554,11 @@
     "name": "Conan Exiles",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/conan-exiles/C2X6ZCNKN2WR",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/conan-exiles/C2X6ZCNKN2WR",
       "steam": "https://store.steampowered.com/app/440900/"
     },
     "steam": 440900,
-    "updatedAt": "2021-05-27T09:43:27.712Z"
+    "updatedAt": "2021-06-03T10:03:44.368Z"
   },
   {
     "slug": "control",
@@ -1516,6 +1516,17 @@
     },
     "steam": 1263850,
     "updatedAt": "2021-03-04T09:26:29.349Z"
+  },
+  {
+    "slug": "for-honor-standard-edition",
+    "name": "FOR HONOR™ Standard Edition",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/for-honor-standard-edition/C3HQKX3B35PD",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-06-03T10:03:44.368Z"
   },
   {
     "slug": "forager",

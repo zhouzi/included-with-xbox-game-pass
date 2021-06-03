@@ -177,6 +177,7 @@ const ALIASES = {
   Psychonauts: ["Psychonauts (Windows 10)"],
   "Ryse: Son of Rome": ["Ryse: Legendary Edition"],
   SnowRunner: ["SnowRunner (Windows 10)"],
+  "FOR HONOR™": ["FOR HONOR™ Standard Edition"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

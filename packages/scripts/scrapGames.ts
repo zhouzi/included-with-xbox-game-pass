@@ -178,6 +178,7 @@ const ALIASES = {
   "Ryse: Son of Rome": ["Ryse: Legendary Edition"],
   SnowRunner: ["SnowRunner (Windows 10)"],
   "FOR HONOR™": ["FOR HONOR™ Standard Edition"],
+  "Darkest Dungeon": ["Darkest Dungeon®", "Darkest Dungeon PC"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

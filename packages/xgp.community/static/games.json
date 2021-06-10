@@ -704,22 +704,11 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "darkest-dungeon-pc",
-    "name": "Darkest Dungeon PC",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/darkest-dungeon-pc/9PKXZHKXNH8C",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-06-10T09:20:38.163Z"
-  },
-  {
     "slug": "darkest-dungeon",
-    "name": "Darkest Dungeon®",
+    "name": "Darkest Dungeon",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/darkest-dungeon/BXKVN6G9C5WJ",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/darkest-dungeon-pc/9PKXZHKXNH8C",
       "steam": "https://store.steampowered.com/app/262060/"
     },
     "steam": 262060,

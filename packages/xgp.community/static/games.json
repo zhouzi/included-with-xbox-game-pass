@@ -4,7 +4,7 @@
     "name": "A Plague Tale: Innocence",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence/BQ2NNLQPS8RS",
-      "pc": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/752590/"
     },
     "steam": 752590,
@@ -15,55 +15,11 @@
     "name": "A Way Out",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/a-way-out/BWVBNCMF22ZK",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1222700/"
     },
     "steam": 1222700,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "ace-combat-7-skies-unknown",
-    "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/ace-combat-7-skies-unknown",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/502500/"
-    },
-    "steam": 502500,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "age-of-empires-definitive-edition",
-    "name": "Age of Empires Definitive Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-definitive-edition/9NJWTJSVGVLJ",
-      "steam": "https://store.steampowered.com/app/1017900/"
-    },
-    "steam": 1017900,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "age-of-empires-ii-definitive-edition",
-    "name": "Age of Empires II: Definitive Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q",
-      "steam": "https://store.steampowered.com/app/813780/"
-    },
-    "steam": 813780,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "age-of-empires-iii-definitive-edition",
-    "name": "Age of Empires III: Definitive Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-iii-definitive-edition/9N1HF804QXN4",
-      "steam": "https://store.steampowered.com/app/933110/"
-    },
-    "steam": 933110,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "alice-madness-returns",
@@ -81,51 +37,29 @@
     "name": "Alien: Isolation",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/alien-isolation/C1H9V6SLK2K5",
-      "pc": "https://www.microsoft.com/en-us/store/p/alien-isolation/9NSRJ872SGH7",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/214490/"
     },
     "steam": 214490,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "among-us",
-    "name": "Among Us",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/among-us/9NG07QJNK38J",
-      "steam": "https://store.steampowered.com/app/945360/"
-    },
-    "steam": 945360,
-    "updatedAt": "2020-12-17T09:20:43.814Z"
-  },
-  {
     "slug": "anthem",
     "name": "Anthem™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/anthem",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "ape-out",
-    "name": "Ape Out",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/ape-out/9NR6DZ9F76P8",
-      "steam": "https://store.steampowered.com/app/447150/"
-    },
-    "steam": 447150,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "ark-survival-evolved-explorer-s-edition",
     "name": "ARK: Survival Evolved Explorer's Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/BPP79RSDN892",
-      "pc": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/346110/"
     },
     "steam": 346110,
@@ -152,17 +86,6 @@
     },
     "steam": 361420,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "backbone",
-    "name": "Backbone",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/backbone/9NC9TNXS9C8G",
-      "steam": "https://store.steampowered.com/app/865610/"
-    },
-    "steam": 865610,
-    "updatedAt": "2021-06-08T09:23:25.473Z"
   },
   {
     "slug": "banjo-kazooie-n-n-b",
@@ -213,7 +136,7 @@
     "name": "Battle Chasers: Nightwar",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/BNVPW9NHWNM5",
-      "pc": "https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/9NT8XR7D5L00",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/451020/"
     },
     "steam": 451020,
@@ -235,7 +158,7 @@
     "name": "Battlefield 3™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-3/BRN6BHDHB58J",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238820/"
     },
     "steam": 1238820,
@@ -246,7 +169,7 @@
     "name": "Battlefield 4",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-4/BP15SF17LH13",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238860/"
     },
     "steam": 1238860,
@@ -279,7 +202,7 @@
     "name": "Battlefield™ 1",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/battlefield-1",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238840/"
     },
     "steam": 1238840,
@@ -290,7 +213,7 @@
     "name": "Battlefield™ Hardline",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-hardline/BZKZFMQG2K2K",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238880/"
     },
     "steam": 1238880,
@@ -301,22 +224,11 @@
     "name": "Battlefield™ V",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/battlefield-v/BZ2N7TQ0XCF2",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238810/"
     },
     "steam": 1238810,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "battletech",
-    "name": "BATTLETECH",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/battletech/9NQVDQS2BC10",
-      "steam": "https://store.steampowered.com/app/637090/"
-    },
-    "steam": 637090,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "battletoads",
@@ -411,7 +323,7 @@
     "name": "Bridge Constructor Portal",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/BNRX1DN6GXM6",
-      "pc": "https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/9PDXF172R7VJ",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/684410/"
     },
     "steam": 684410,
@@ -433,7 +345,7 @@
     "name": "Burnout™ Paradise Remastered",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/burnout-paradise-remastered/BQMQ3K1BLV1T",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238080/"
     },
     "steam": 1238080,
@@ -444,7 +356,7 @@
     "name": "Call of the Sea",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9P27ZMZ7FDPZ",
-      "pc": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9NNG78K7N91K",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1042490/"
     },
     "steam": 1042490,
@@ -455,7 +367,7 @@
     "name": "Carrion",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/carrion/9NPKKNBJ258V",
-      "pc": "https://www.microsoft.com/en-us/store/p/carrion/9MSMJH3C6TKR",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/953490/"
     },
     "steam": 953490,
@@ -466,7 +378,7 @@
     "name": "Carto",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/carto/9NJ2XXPJVDRD",
-      "pc": "https://www.microsoft.com/en-us/store/p/carto/9PFS8Q01C2C4",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1172450/"
     },
     "steam": 1172450,
@@ -499,7 +411,7 @@
     "name": "Cities: Skylines",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/cities-skylines---xbox-one-edition/C4GH8N6ZXG5L",
-      "pc": "https://www.microsoft.com/en-us/store/p/cities-skylines---windows-10-edition/9NWVC7XP3PFD",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/255710/"
     },
     "steam": 255710,
@@ -510,7 +422,7 @@
     "name": "ClusterTruck",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/clustertruck/BX4J85JZNGXQ",
-      "pc": "https://www.microsoft.com/en-us/store/p/clustertruck/9N8WVMD7J5GQ",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/397950/"
     },
     "steam": 397950,
@@ -521,44 +433,11 @@
     "name": "CODE VEIN",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/code-vein",
-      "pc": "https://www.microsoft.com/en-us/store/p/code-vein/9P59LFQSNB6R",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/678960/"
     },
     "steam": 678960,
     "updatedAt": "2021-02-18T09:55:01.478Z"
-  },
-  {
-    "slug": "comanche",
-    "name": "Comanche",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/comanche-game-preview/9N2H2GRB4D0K",
-      "steam": "https://store.steampowered.com/app/879000/"
-    },
-    "steam": 879000,
-    "updatedAt": "2020-11-05T09:20:53.821Z"
-  },
-  {
-    "slug": "command-and-conquer-remastered-collection",
-    "name": "Command & Conquer™ Remastered Collection",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/1213210/"
-    },
-    "steam": 1213210,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "company-of-heroes-2-complete-collection",
-    "name": "Company of Heroes 2: Complete Collection",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/company-of-heroes-2-complete-collection/9NX9WH5F0RZD",
-      "steam": "https://store.steampowered.com/app/231430/"
-    },
-    "steam": 231430,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "conan-exiles",
@@ -576,7 +455,7 @@
     "name": "Control",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/control/BZ6W9LRPC26W",
-      "pc": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/870780/"
     },
     "steam": 870780,
@@ -609,7 +488,7 @@
     "name": "Cricket 19",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/cricket-19/9NTT51922L20",
-      "pc": "https://www.microsoft.com/en-us/store/p/cricket-19-windows-10/9PHJZZHT860R",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1028630/"
     },
     "steam": 1028630,
@@ -620,32 +499,10 @@
     "name": "CrossCode",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crosscode/9N04RQQ64524",
-      "pc": "https://www.microsoft.com/en-us/store/p/crosscode/9NFDPQ0KZ6RN",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/368340/"
     },
     "steam": 368340,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "crossing-souls",
-    "name": "Crossing Souls",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/crossing-souls/9PD1Z95CNTW4",
-      "steam": "https://store.steampowered.com/app/331690/"
-    },
-    "steam": 331690,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "crusader-kings-iii",
-    "name": "Crusader Kings III",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/crusader-kings-iii/9N7GG222GTTH",
-      "steam": "https://store.steampowered.com/app/1158310/"
-    },
-    "steam": 1158310,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -653,7 +510,7 @@
     "name": "Crysis",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis/BNN7BPDZ6GQB",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/17300/"
     },
     "steam": 17300,
@@ -664,7 +521,7 @@
     "name": "Crysis 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis-2/BQBTGDT4P54J",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/108800/"
     },
     "steam": 108800,
@@ -672,10 +529,10 @@
   },
   {
     "slug": "crysis-3",
-    "name": "Crysis 3",
+    "name": "Crysis® 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/crysis-3/BNKKJL1VRR5P",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1282690/"
     },
     "steam": 1282690,
@@ -708,7 +565,7 @@
     "name": "Darkest Dungeon",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/darkest-dungeon/BXKVN6G9C5WJ",
-      "pc": "https://www.microsoft.com/en-us/store/p/darkest-dungeon-pc/9PKXZHKXNH8C",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/262060/"
     },
     "steam": 262060,
@@ -719,7 +576,7 @@
     "name": "Darksiders Genesis",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/BRZ9553VPPBD",
-      "pc": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/9NJ5X04M30HN",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/710920/"
     },
     "steam": 710920,
@@ -752,7 +609,7 @@
     "name": "Dead by Daylight",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-by-daylight/C0N22P73QZ60",
-      "pc": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/381210/"
     },
     "steam": 381210,
@@ -763,7 +620,7 @@
     "name": "Dead Cells",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-cells/BQSCNS1T8PHQ",
-      "pc": "https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/588650/"
     },
     "steam": 588650,
@@ -771,10 +628,10 @@
   },
   {
     "slug": "dead-space",
-    "name": "Dead Space",
+    "name": "Dead Space™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-space/BRJLJ6RPLQTJ",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/17470/"
     },
     "steam": 17470,
@@ -782,10 +639,10 @@
   },
   {
     "slug": "dead-space-2",
-    "name": "Dead Space 2",
+    "name": "Dead Space™ 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-space-2/C2PB7STLJGS0",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/47780/"
     },
     "steam": 47780,
@@ -793,10 +650,10 @@
   },
   {
     "slug": "dead-space-3",
-    "name": "Dead Space 3",
+    "name": "Dead Space™ 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dead-space-3/BP73LMGB1DFD",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238060/"
     },
     "steam": 1238060,
@@ -840,7 +697,7 @@
     "name": "Desperados III",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/desperados-iii/BRRC2X2GQGC7",
-      "pc": "https://www.microsoft.com/en-us/store/p/desperados-iii/9P1ZX74WPL68",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/610370/"
     },
     "steam": 610370,
@@ -895,7 +752,7 @@
     "name": "Destroy All Humans!",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/destroy-all-humans/C2GMBPMTHDDK",
-      "pc": "https://www.microsoft.com/en-us/store/p/destroy-all-humans/9N7L81J5XW7T",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/803330/"
     },
     "steam": 803330,
@@ -913,22 +770,11 @@
     "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
-    "slug": "disgaea-4-complete",
-    "name": "Disgaea 4 Complete+",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/disgaea-4-complete/9PFJDSL1CC7G",
-      "steam": "https://store.steampowered.com/app/1233880/"
-    },
-    "steam": 1233880,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "dishonored",
     "name": "Dishonored",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dishonored-definitive-edition/C299QVC2BSJF",
-      "pc": "https://www.microsoft.com/en-us/store/p/dishonored-definitive-edition-pc/9P1N07XDL1D4",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/205100/"
     },
     "steam": 205100,
@@ -939,11 +785,22 @@
     "name": "Dishonored 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dishonored-2/BSZM480TSWGP",
-      "pc": "https://www.microsoft.com/en-us/store/p/dishonored-2/9MW4RJDRSF78",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/403640/"
     },
     "steam": 403640,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "dishonored-death-of-the-outsider",
+    "name": "Dishonored®: Death of the Outsider™",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dishonored-death-of-the-outsider/C5F2XDQPPJKZ",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/614570/"
+    },
+    "steam": 614570,
+    "updatedAt": "2021-06-16T09:19:58.735Z"
   },
   {
     "slug": "disneyland-adventures",
@@ -1016,7 +873,7 @@
     "name": "DOOM Eternal Standard Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition/9P5S26314HWQ",
-      "pc": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/782330/"
     },
     "steam": 782330,
@@ -1056,22 +913,11 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "downwell",
-    "name": "Downwell",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/downwell/9P641Z19NT2S",
-      "steam": "https://store.steampowered.com/app/360740/"
-    },
-    "steam": 360740,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "dragon-age-origins",
     "name": "Dragon Age: Origins",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-origins/BS9SX4Q6XJRF",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/47810/"
     },
     "steam": 47810,
@@ -1082,7 +928,7 @@
     "name": "Dragon Age™ 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-2/C4G76555T4QN",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238040/"
     },
     "steam": 1238040,
@@ -1093,7 +939,7 @@
     "name": "Dragon Age™: Inquisition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dragon-age-inquisition/C47GZZBMR5WG",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1222690/"
     },
     "steam": 1222690,
@@ -1131,28 +977,6 @@
     },
     "steam": 739650,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "dungeon-keeper",
-    "name": "Dungeon Keeper™",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "dungeon-keeper-2",
-    "name": "Dungeon Keeper™ 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "ea-sports-rory-mcilroy-pga-tour",
@@ -1236,22 +1060,11 @@
     "name": "Empire of Sin",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/empire-of-sin/9NN7NF8N5Q5C",
-      "pc": "https://www.microsoft.com/en-us/store/p/empire-of-sin/9PPSH9GQKLCB",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/604540/"
     },
     "steam": 604540,
     "updatedAt": "2021-03-18T09:26:21.447Z"
-  },
-  {
-    "slug": "endless-space-2-deluxe-edition",
-    "name": "Endless Space 2: Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/endless-space-2-deluxe-edition/9NV3Q7WVN2RB",
-      "steam": "https://store.steampowered.com/app/392110/"
-    },
-    "steam": 392110,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "enter-the-gungeon",
@@ -1265,22 +1078,11 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "europa-universalis-iv",
-    "name": "Europa Universalis IV",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/europa-universalis-iv---microsoft-store-edition/9PHQJWGLTZM8",
-      "steam": "https://store.steampowered.com/app/236850/"
-    },
-    "steam": 236850,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "f1-2019",
     "name": "F1® 2019",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/f1-2019/BP4H9HD3FSWB",
-      "pc": "https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/928600/"
     },
     "steam": 928600,
@@ -1320,11 +1122,22 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "fallout-3",
+    "name": "Fallout 3",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/fallout-3/C29HQ887KH4B",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/22300/"
+    },
+    "steam": 22300,
+    "updatedAt": "2021-06-16T09:19:58.735Z"
+  },
+  {
     "slug": "fallout-4",
     "name": "Fallout 4",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fallout-4/C3KLDKZBHNCZ",
-      "pc": "https://www.microsoft.com/en-us/store/p/fallout-4-pc/9P71MB9QCF77",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/377160/"
     },
     "steam": 377160,
@@ -1335,7 +1148,7 @@
     "name": "Fallout 76",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fallout-76/BS6WJ2L56B10",
-      "pc": "https://www.microsoft.com/en-us/store/p/fallout-76---pc/9NKGNMNK3K3Z",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1151340/"
     },
     "steam": 1151340,
@@ -1357,7 +1170,7 @@
     "name": "Fe",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fe/BZW2R4STVDNK",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1225580/"
     },
     "steam": 1225580,
@@ -1390,7 +1203,7 @@
     "name": "FIFA 19",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/fifa-19",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -1401,7 +1214,7 @@
     "name": "FIFA 20",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/fifa-20",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -1412,7 +1225,7 @@
     "name": "FIFA 21",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fifa-21-xbox-series-xs/9PLLM41KB8T2",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1313860/"
     },
     "steam": 1313860,
@@ -1434,7 +1247,7 @@
     "name": "FINAL FANTASY VII",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii/BWKXQC5BL5R1",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/39140/"
     },
     "steam": 39140,
@@ -1445,7 +1258,7 @@
     "name": "FINAL FANTASY VIII Remastered",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered/9NNTSPSC35ZB",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1026680/"
     },
     "steam": 1026680,
@@ -1456,7 +1269,7 @@
     "name": "FINAL FANTASY X/X-2 HD Remaster",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-xx-2-hd-remaster/C0KSN20BRP7Z",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xx-2-hd-remaster/9NDNP3J6XWVH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/359870/"
     },
     "steam": 359870,
@@ -1467,7 +1280,7 @@
     "name": "FINAL FANTASY XII THE ZODIAC AGE",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-xii-the-zodiac-age/BXDH919M16G9",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xii-the-zodiac-age/9NM6NG7KNHWJ",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/595520/"
     },
     "steam": 595520,
@@ -1555,7 +1368,7 @@
     "name": "Forager",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/forager/9MV2S7Q5PHSW",
-      "pc": "https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/751780/"
     },
     "steam": 751780,
@@ -1588,7 +1401,7 @@
     "name": "Frostpunk",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/frostpunk-console-edition/9NP539LHJD8S",
-      "pc": "https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/323190/"
     },
     "steam": 323190,
@@ -1698,7 +1511,7 @@
     "name": "Gears of War: Ultimate Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition/BQT21VXFS52F",
-      "pc": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -1720,29 +1533,18 @@
     "name": "Genesis Noir",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/genesis-noir/9PHK9D8CLQCG",
-      "pc": "https://www.microsoft.com/en-us/store/p/genesis-noir-windows-edition/9MWGGC7JH35B",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/735290/"
     },
     "steam": 735290,
     "updatedAt": "2021-03-25T09:28:17.216Z"
   },
   {
-    "slug": "ghost-of-a-tale",
-    "name": "Ghost of a Tale",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/ghost-of-a-tale/9PJR5XZG5CNS",
-      "steam": "https://store.steampowered.com/app/417290/"
-    },
-    "steam": 417290,
-    "updatedAt": "2021-02-04T09:19:23.220Z"
-  },
-  {
     "slug": "goat-simulator",
     "name": "Goat Simulator",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL",
-      "pc": "https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/265930/"
     },
     "steam": 265930,
@@ -1753,7 +1555,7 @@
     "name": "Golf With Your Friends",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9N14G09PWG74",
-      "pc": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9MVK5W0HMRP7",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/431240/"
     },
     "steam": 431240,
@@ -1764,7 +1566,7 @@
     "name": "GONNER2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/gonner2/9NRZHK9QN558",
-      "pc": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1117670/"
     },
     "steam": 1117670,
@@ -1786,7 +1588,7 @@
     "name": "GreedFall",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/greedfall/BWMH4RQ4Q06F",
-      "pc": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/606880/"
     },
     "steam": 606880,
@@ -1826,50 +1628,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "halo-2-anniversary",
-    "name": "Halo 2: Anniversary",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-2-anniversary/9P5739G419LD",
-      "steam": "https://store.steampowered.com/app/1064270/"
-    },
-    "steam": 1064270,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "halo-3",
-    "name": "Halo 3",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-3/9PGL2Z1H9M4R",
-      "steam": "https://store.steampowered.com/app/1064271/"
-    },
-    "steam": 1064271,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "halo-3-odst",
-    "name": "Halo 3: ODST",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-3-odst/9P6VZCRGXFMX",
-      "steam": "https://store.steampowered.com/app/1064272/"
-    },
-    "steam": 1064272,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "halo-4",
-    "name": "Halo 4",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-4/9P8CFXZH93CK",
-      "steam": "https://store.steampowered.com/app/1064273/"
-    },
-    "steam": 1064273,
-    "updatedAt": "2020-11-17T09:14:56.670Z"
-  },
-  {
     "slug": "halo-5-guardians",
     "name": "Halo 5: Guardians",
     "availability": {
@@ -1885,7 +1643,7 @@
     "name": "Halo Wars 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/halo-wars-2/C21TDXKRNMHZ",
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -1896,7 +1654,7 @@
     "name": "Halo Wars 2: Standard Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/C42KCJCLX6MX",
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/9NBLGGH515BD",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -1907,32 +1665,10 @@
     "name": "Halo Wars: Definitive Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition/BPRPQSKXTD1L",
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition-pc/9NBLGGH5WLR0",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/459220/"
     },
     "steam": 459220,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "halo-combat-evolved-anniversary",
-    "name": "Halo: Combat Evolved Anniversary",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-combat-evolved-anniversary/9NWQMVSB63N4",
-      "steam": "https://store.steampowered.com/app/1064221/"
-    },
-    "steam": 1064221,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "halo-reach",
-    "name": "Halo: Reach",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-reach/9N9WZT3PJ27W",
-      "steam": "https://store.steampowered.com/app/1064220/"
-    },
-    "steam": 1064220,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1940,21 +1676,10 @@
     "name": "Halo: Spartan Assault",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/BV0K9LMLQ9W5",
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/9WZDNCRFHWFH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/277430/"
     },
     "steam": 277430,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "halo-spartan-strike",
-    "name": "Halo: Spartan Strike",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-spartan-strike/9WZDNCRFJBFJ",
-      "steam": "https://store.steampowered.com/app/324570/"
-    },
-    "steam": 324570,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -1962,7 +1687,7 @@
     "name": "Halo: The Master Chief Collection",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/halo",
-      "pc": "https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/976730/"
     },
     "steam": 976730,
@@ -1980,28 +1705,6 @@
     "updatedAt": "2020-12-04T09:21:40.852Z"
   },
   {
-    "slug": "hearts-of-iron-iv-cadet-edition",
-    "name": "Hearts of Iron IV: Cadet Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
-      "steam": "https://store.steampowered.com/app/394360/"
-    },
-    "steam": 394360,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "heave-ho",
-    "name": "Heave Ho",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/heave-ho/9P8JHRDVBLHB",
-      "steam": "https://store.steampowered.com/app/905340/"
-    },
-    "steam": 905340,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "heavy-weapon",
     "name": "Heavy Weapon",
     "availability": {
@@ -2017,7 +1720,7 @@
     "name": "Hellblade: Senua's Sacrifice",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/C4Z7QM8FSXM2",
-      "pc": "https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/9NCLP4LV5K7Z",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/414340/"
     },
     "steam": 414340,
@@ -2028,7 +1731,7 @@
     "name": "Hello Neighbor",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/hello-neighbor/C0G1L18DT97K",
-      "pc": "https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/521890/"
     },
     "steam": 521890,
@@ -2039,7 +1742,7 @@
     "name": "Hollow Knight",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/hollow-knight-voidheart-edition/9MW9469V91LM",
-      "pc": "https://www.microsoft.com/en-us/store/p/hollow-knight/9PKM22F7C9K5",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/367520/"
     },
     "steam": 367520,
@@ -2083,7 +1786,7 @@
     "name": "Ikenfell",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ikenfell/9P91S5ZL1P4D",
-      "pc": "https://www.microsoft.com/en-us/store/p/ikenfell/9N2X1J99S4M9",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/854940/"
     },
     "steam": 854940,
@@ -2101,17 +1804,6 @@
     "updatedAt": "2021-01-07T09:36:21.010Z"
   },
   {
-    "slug": "injustice-2-standard-edition",
-    "name": "Injustice™ 2 - Standard Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/injustice-2---standard-edition/9PHT4W7WBBDQ",
-      "steam": "https://store.steampowered.com/app/627270/"
-    },
-    "steam": 627270,
-    "updatedAt": "2021-01-07T09:36:21.010Z"
-  },
-  {
     "slug": "it-lurks-below",
     "name": "It Lurks Below",
     "availability": {
@@ -2121,17 +1813,6 @@
     },
     "steam": 697550,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "jade-empire-special-edition",
-    "name": "Jade Empire™: Special Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/7110/"
-    },
-    "steam": 7110,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "jetpac-refuelled",
@@ -2193,21 +1874,10 @@
     "name": "Katana Zero",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/katana-zero-xb1/9NXP19FZ7DZ4",
-      "pc": "https://www.microsoft.com/en-us/store/p/katana-zero/9P6CVNVMK56R",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/460950/"
     },
     "steam": 460950,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "kathy-rain",
-    "name": "Kathy Rain",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/kathy-rain/9P8HN2T2SZGB",
-      "steam": "https://store.steampowered.com/app/370910/"
-    },
-    "steam": 370910,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2215,7 +1885,7 @@
     "name": "Killer Instinct: Definitive Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/BVQ3FL3201P8",
-      "pc": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/9NBLGGH51BMC",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/577940/"
     },
     "steam": 577940,
@@ -2259,7 +1929,7 @@
     "name": "Knockout City™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/knockout-city/9N05CV7HCQZ0",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1301210/"
     },
     "steam": 1301210,
@@ -2281,7 +1951,7 @@
     "name": "Madden NFL 19",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/madden-19",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -2292,7 +1962,7 @@
     "name": "Madden NFL 20",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/madden-20",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -2303,7 +1973,7 @@
     "name": "Madden NFL 21",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-series-xs/9NW6RJDFKV5V",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1239520/"
     },
     "steam": 1239520,
@@ -2336,7 +2006,7 @@
     "name": "Mass Effect",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect/BV5N90RDT0SH",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/17460/"
     },
     "steam": 17460,
@@ -2347,7 +2017,7 @@
     "name": "Mass Effect 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-2/C0Z1N477W100",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/24980/"
     },
     "steam": 24980,
@@ -2358,7 +2028,7 @@
     "name": "Mass Effect™ 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-3/C040H652PD98",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238020/"
     },
     "steam": 1238020,
@@ -2369,7 +2039,7 @@
     "name": "Mass Effect™: Andromeda",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mass-effect-andromeda/BZPR04V49BMH",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1238000/"
     },
     "steam": 1238000,
@@ -2402,33 +2072,11 @@
     "name": "Medal of Honor Airborne",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/medal-of-honor-airborne/C43H00X6KZRJ",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/24840/"
     },
     "steam": 24840,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "medal-of-honor-allied-assault-war-chest",
-    "name": "Medal of Honor Allied Assault™ War Chest",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "microsoft-flight-simulator-standard",
-    "name": "Microsoft Flight Simulator: Standard",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard/9NXN8GF8N9HT",
-      "steam": "https://store.steampowered.com/app/1250410/"
-    },
-    "steam": 1250410,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "middle-earth-shadow-of-war",
@@ -2457,7 +2105,7 @@
     "name": "Minecraft Dungeons",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons/9N8NJ74FZTG9",
-      "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -2465,10 +2113,10 @@
   },
   {
     "slug": "mirror-s-edge",
-    "name": "Mirror's Edge",
+    "name": "Mirror's Edge™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mirrors-edge/BP96WRTVD7C1",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/17410/"
     },
     "steam": 17410,
@@ -2479,22 +2127,11 @@
     "name": "Mirror's Edge™ Catalyst",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mirrors-edge-catalyst/C48LBRJJCP2L",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1233570/"
     },
     "steam": 1233570,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "mistover",
-    "name": "MISTOVER",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/mistover/9P8K66J3CQ9S",
-      "steam": "https://store.steampowered.com/app/909510/"
-    },
-    "steam": 909510,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "mlb-the-show-21",
@@ -2523,7 +2160,7 @@
     "name": "Monster Sanctuary",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/monster-sanctuary/9MZNS9NZ97PF",
-      "pc": "https://www.microsoft.com/en-us/store/p/monster-sanctuary/9PBWWQGXVMKC",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/814370/"
     },
     "steam": 814370,
@@ -2567,7 +2204,7 @@
     "name": "MotoGP™20",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/motogp20/9PJGNFWR6MHL",
-      "pc": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1161490/"
     },
     "steam": 1161490,
@@ -2578,7 +2215,7 @@
     "name": "Mount & Blade: Warband",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/mount--blade-warband/BQXN1S3V3FN9",
-      "pc": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/48700/"
     },
     "steam": 48700,
@@ -2589,7 +2226,7 @@
     "name": "My Time At Portia",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/BX1FZX1X4132",
-      "pc": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/666140/"
     },
     "steam": 666140,
@@ -2600,7 +2237,7 @@
     "name": "Narita Boy",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/narita-boy/9NBL782WBHK6",
-      "pc": "https://www.microsoft.com/en-us/store/p/narita-boy/9NT3FGQC1DFR",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1069530/"
     },
     "steam": 1069530,
@@ -2633,7 +2270,7 @@
     "name": "Need for Speed Rivals",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-rivals/C3VM0TMWNZ5M",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1262600/"
     },
     "steam": 1262600,
@@ -2644,7 +2281,7 @@
     "name": "Need for Speed™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed/BXWJNW4170RM",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1262540/"
     },
     "steam": 1262540,
@@ -2655,21 +2292,10 @@
     "name": "Need for Speed™ Heat",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-heat/BRZZLBF5T245",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1222680/"
     },
     "steam": 1222680,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "need-for-speed-most-wanted",
-    "name": "Need for Speed™ Most Wanted",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/1262560/"
-    },
-    "steam": 1262560,
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
@@ -2677,7 +2303,7 @@
     "name": "Need for Speed™ Payback",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-payback/C355T88BBX1S",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1262580/"
     },
     "steam": 1262580,
@@ -2688,7 +2314,7 @@
     "name": "Neon Abyss",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN",
-      "pc": "https://www.microsoft.com/en-us/store/p/neon-abyss/9PLWSGHFQ4PS",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/788100/"
     },
     "steam": 788100,
@@ -2754,29 +2380,18 @@
     "name": "NieR:Automata™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/nier-automata",
-      "pc": "https://www.microsoft.com/en-us/store/p/nierautomata-become-as-gods-edition/9PM2P9HQD1ML",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/524220/"
     },
     "steam": 524220,
     "updatedAt": "2021-03-18T09:26:21.447Z"
   },
   {
-    "slug": "night-call",
-    "name": "Night Call",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/night-call/9NZKR4V4QGD4",
-      "pc": "https://www.microsoft.com/en-us/store/p/night-call/9N5KSQG0R9TB",
-      "steam": "https://store.steampowered.com/app/680380/"
-    },
-    "steam": 680380,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "night-in-the-woods",
     "name": "Night in the Woods",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/night-in-the-woods/C501VQFW8FQG",
-      "pc": "https://www.microsoft.com/en-us/store/p/night-in-the-woods-win10/9MV13BTTCKLL",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/481510/"
     },
     "steam": 481510,
@@ -2805,17 +2420,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "observation",
-    "name": "Observation",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/observation/9PBLH1322GX0",
-      "pc": "https://www.microsoft.com/en-us/store/p/observation/9PBLH1322GX0",
-      "steam": "https://store.steampowered.com/app/906100/"
-    },
-    "steam": 906100,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "octopath-traveler",
     "name": "OCTOPATH TRAVELER",
     "availability": {
@@ -2831,7 +2435,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/BW85KQB8Q31M",
-      "pc": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/9NBLGGH1Z6FB",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/387290/"
     },
     "steam": 387290,
@@ -2846,17 +2450,6 @@
       "steam": "https://store.steampowered.com/app/1057090/"
     },
     "steam": 1057090,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "out-of-the-park-baseball-21",
-    "name": "Out of the Park Baseball 21",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/out-of-the-park-baseball-21/9NNW9V8DVPG6",
-      "steam": "https://store.steampowered.com/app/1087280/"
-    },
-    "steam": 1087280,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2875,7 +2468,7 @@
     "name": "Outlast 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/outlast-2/BZVPNM21TCJC",
-      "pc": "https://www.microsoft.com/en-us/store/p/outlast-2/9N633BP2KCKD",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/414700/"
     },
     "steam": 414700,
@@ -2897,7 +2490,7 @@
     "name": "Overcooked! 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/overcooked-2/BVJLKDG2TX8H",
-      "pc": "https://www.microsoft.com/en-us/store/p/overcooked-2/9PGB72NFG5JN",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/728880/"
     },
     "steam": 728880,
@@ -2915,17 +2508,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "pathway",
-    "name": "Pathway",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/pathway/9MW5141C2PRX",
-      "steam": "https://store.steampowered.com/app/546430/"
-    },
-    "steam": 546430,
-    "updatedAt": "2021-04-15T09:23:14.955Z"
-  },
-  {
     "slug": "payday-2",
     "name": "PAYDAY 2",
     "availability": {
@@ -2941,7 +2523,7 @@
     "name": "Peggle",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/peggle/BSCCQL7DZ9KD",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/3480/"
     },
     "steam": 3480,
@@ -2981,17 +2563,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "phoenix-point",
-    "name": "Phoenix Point",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
-      "steam": "https://store.steampowered.com/app/839770/"
-    },
-    "steam": 839770,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "phogs",
     "name": "PHOGS!",
     "availability": {
@@ -3007,7 +2578,7 @@
     "name": "Pikuniku",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/pikuniku/9N8WRDC25K6J",
-      "pc": "https://www.microsoft.com/en-us/store/p/pikuniku-win10/9N8QNKN5ZKTH",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/572890/"
     },
     "steam": 572890,
@@ -3018,7 +2589,7 @@
     "name": "Pillars of Eternity",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-complete-edition/BS34VNW7H61F",
-      "pc": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-hero-edition/9P5LZC1KB48V",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/291650/"
     },
     "steam": 291650,
@@ -3029,7 +2600,7 @@
     "name": "Pillars of Eternity II: Deadfire",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-ii-deadfire---ultimate-edition/9PJD2KMX7TZ6",
-      "pc": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-2-deadfire---ultimate-edition-pc/9N8N7NZSVTG3",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/560130/"
     },
     "steam": 560130,
@@ -3051,7 +2622,7 @@
     "name": "Plants vs. Zombies",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies/BR1D9CR82ZM8",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/3599/"
     },
     "steam": 3599,
@@ -3062,7 +2633,7 @@
     "name": "Plants vs. Zombies Garden Warfare",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies-garden-warfare/BTJ0T8C04ZBV",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -3073,7 +2644,7 @@
     "name": "Plants vs. Zombies: Battle for Neighborville™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/plants-vs-zombies-battle-for-neighborville",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1262240/"
     },
     "steam": 1262240,
@@ -3084,7 +2655,7 @@
     "name": "Plants vs. Zombies™ Garden Warfare 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies-garden-warfare-2/BNRH7BRC1D02",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -3102,28 +2673,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "populous",
-    "name": "Populous™",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "populous-ii-trials-of-the-olympian-gods",
-    "name": "Populous™ II: Trials of the Olympian Gods",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
     "slug": "power-rangers-battle-for-the-grid",
     "name": "Power Rangers: Battle for the Grid",
     "availability": {
@@ -3139,22 +2688,11 @@
     "name": "Prey",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/prey/BQMVWCMB8P59",
-      "pc": "https://www.microsoft.com/en-us/store/p/prey/9PBC1QFBW563",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/480490/"
     },
     "steam": 480490,
     "updatedAt": "2021-03-12T09:25:27.022Z"
-  },
-  {
-    "slug": "prison-architect",
-    "name": "Prison Architect",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/prison-architect-pc/9P5S2J2VLLPR",
-      "steam": "https://store.steampowered.com/app/233450/"
-    },
-    "steam": 233450,
-    "updatedAt": "2021-01-28T10:14:23.745Z"
   },
   {
     "slug": "project-winter",
@@ -3172,7 +2710,7 @@
     "name": "Psychonauts",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/psychonauts/C5HHPG1TXDNG",
-      "pc": "https://www.microsoft.com/en-us/store/p/psychonauts-windows-10/9NCT87FKQ4GM",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/3830/"
     },
     "steam": 3830,
@@ -3190,11 +2728,22 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "rage",
+    "name": "RAGE",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/rage/BR27BSZ2M3SR",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/9200/"
+    },
+    "steam": 9200,
+    "updatedAt": "2021-06-16T09:19:58.735Z"
+  },
+  {
     "slug": "rage-2",
     "name": "RAGE 2",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/rage-2",
-      "pc": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/548570/"
     },
     "steam": 548570,
@@ -3260,21 +2809,10 @@
     "name": "RESIDENT EVIL 7 biohazard",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/resident-evil",
-      "pc": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/418370/"
     },
     "steam": 418370,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "rise-of-nations-extended-edition",
-    "name": "Rise of Nations: Extended Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/rise-of-nations-extended-edition/9NS84HCWZD8B",
-      "steam": "https://store.steampowered.com/app/287450/"
-    },
-    "steam": 287450,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -3282,7 +2820,7 @@
     "name": "River City Girls",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/river-city-girls/9NN69HFJ8SX1",
-      "pc": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1049320/"
     },
     "steam": 1049320,
@@ -3293,7 +2831,7 @@
     "name": "Rocket Arena",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/rocket-arena/9MX7Q207JGTW",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1233550/"
     },
     "steam": 1233550,
@@ -3348,7 +2886,7 @@
     "name": "Sea of Solitude",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/sea-of-solitude/C4060P46HH4D",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1225590/"
     },
     "steam": 1225590,
@@ -3392,44 +2930,11 @@
     "name": "Shadow Warrior 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/BP79KKVGDDH1",
-      "pc": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/324800/"
     },
     "steam": 324800,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "simcity-2000-special-edition",
-    "name": "SimCity 2000™ Special Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "simcity-4-deluxe-edition",
-    "name": "SimCity™ 4 Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/24780/"
-    },
-    "steam": 24780,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "simcity-complete-edition",
-    "name": "SimCity™: Complete Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "skate-3",
@@ -3447,7 +2952,7 @@
     "name": "Slay The Spire",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9P6W46XMDJM5",
-      "pc": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/646570/"
     },
     "steam": 646570,
@@ -3480,22 +2985,11 @@
     "name": "SnowRunner",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/snowrunner/9PNRSC0J6DT8",
-      "pc": "https://www.microsoft.com/en-us/store/p/snowrunner-windows-10/9NP6WL1XQDBW",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1465360/"
     },
     "steam": 1465360,
     "updatedAt": "2021-05-20T09:24:17.276Z"
-  },
-  {
-    "slug": "solasta-crown-of-the-magister",
-    "name": "Solasta: Crown of the Magister",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/solasta-crown-of-the-magister/9N1KQPLTR7S5",
-      "steam": "https://store.steampowered.com/app/1096530/"
-    },
-    "steam": 1096530,
-    "updatedAt": "2021-05-28T09:45:53.327Z"
   },
   {
     "slug": "soulcalibur-vi",
@@ -3509,17 +3003,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "spellforce-3-soul-harvest",
-    "name": "SpellForce 3: Soul Harvest",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/spellforce-3-soul-harvest/9PC58LJXK3RM",
-      "steam": "https://store.steampowered.com/app/817540/"
-    },
-    "steam": 817540,
-    "updatedAt": "2021-05-27T09:43:27.712Z"
-  },
-  {
     "slug": "spiritfarer",
     "name": "Spiritfarer®",
     "availability": {
@@ -3529,17 +3012,6 @@
     },
     "steam": 972660,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "spore",
-    "name": "SPORE™",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/17390/"
-    },
-    "steam": 17390,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
     "slug": "ssx",
@@ -3557,7 +3029,7 @@
     "name": "Star Renegades",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/star-renegades/9PHH0RQ51S5V",
-      "pc": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/651670/"
     },
     "steam": 651670,
@@ -3568,7 +3040,7 @@
     "name": "STAR WARS Jedi: Fallen Order™",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/star-wars-jedi-fallen-order",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1172380/"
     },
     "steam": 1172380,
@@ -3579,7 +3051,7 @@
     "name": "STAR WARS™ Battlefront™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/star-wars-battlefront/BRXTM276DLPR",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1237980/"
     },
     "steam": 1237980,
@@ -3590,7 +3062,7 @@
     "name": "STAR WARS™ Battlefront™ II",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/star-wars-battlefront-II",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1237950/"
     },
     "steam": 1237950,
@@ -3601,22 +3073,11 @@
     "name": "STAR WARS™: Squadrons",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/star-wars-squadrons/BV9CWVQWNS4P",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1222730/"
     },
     "steam": 1222730,
     "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "starbound",
-    "name": "Starbound",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/starbound/9MTSBWPWPQVQ",
-      "steam": "https://store.steampowered.com/app/211820/"
-    },
-    "steam": 211820,
-    "updatedAt": "2020-12-08T09:19:33.718Z"
   },
   {
     "slug": "state-of-decay-2-juggernaut-edition",
@@ -3667,7 +3128,7 @@
     "name": "Stellaris",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/stellaris-console-edition/BWL72GR7Z7GK",
-      "pc": "https://www.microsoft.com/en-us/store/p/stellaris/9NXQPGMR917R",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/281990/"
     },
     "steam": 281990,
@@ -3678,7 +3139,7 @@
     "name": "Stranger Things 3: The Game",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9NCT0QGGX6XD",
-      "pc": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9PMDDQ228FQD",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1097800/"
     },
     "steam": 1097800,
@@ -3700,7 +3161,7 @@
     "name": "Streets of Rogue",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9MZVTHHJKD3G",
-      "pc": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9NKRBSZXQ2HM",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/512900/"
     },
     "steam": 512900,
@@ -3722,7 +3183,7 @@
     "name": "Sunset Overdrive",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/BRZHFR5XBLQS",
-      "pc": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/9NNLBL0T2Z43",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/847370/"
     },
     "steam": 847370,
@@ -3755,7 +3216,7 @@
     "name": "Supraland",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/supraland/9PN6MTJX8LZD",
-      "pc": "https://www.microsoft.com/en-us/store/p/supraland/9P75CZFXMS7N",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/813630/"
     },
     "steam": 813630,
@@ -3766,7 +3227,7 @@
     "name": "Tales of Vesperia™: Definitive Edition",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/tales-of-vesperia",
-      "pc": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/738540/"
     },
     "steam": 738540,
@@ -3854,7 +3315,7 @@
     "name": "The Dark Crystal: Age of Resistance Tactics",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-dark-crystal-age-of-resistance-tactics/9NZWXT6VMGG8",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-dark-crystal-age-of-resistance-tactics/9NPWSCWJGHL1",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1097790/"
     },
     "steam": 1097790,
@@ -3865,7 +3326,7 @@
     "name": "The Dark Pictures Anthology: Man Of Medan",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/BZZ0Q9ZMM7GX",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/9N3TF0CG8NZB",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/939850/"
     },
     "steam": 939850,
@@ -3876,7 +3337,7 @@
     "name": "The Elder Scrolls III: Morrowind",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iii-morrowind/BXVCFBJBNS17",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-pc/9PP7XSG5LDH1",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/22320/"
     },
     "steam": 22320,
@@ -3887,7 +3348,7 @@
     "name": "The Elder Scrolls IV: Oblivion",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/oblivion/C5K89TFLSV19",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-pc/9P2J5D12GJL5",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/22330/"
     },
     "steam": 22330,
@@ -3898,7 +3359,7 @@
     "name": "The Elder Scrolls V: Skyrim",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-v-skyrim-special-edition/BQ1W1T1FC14W",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-v-skyrim-special-edition-pc/9P03JGQ4S1GC",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/489830/"
     },
     "steam": 489830,
@@ -3920,11 +3381,22 @@
     "name": "The Evil Within",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-evil-within/C2M8HBNVPT1T",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-evil-within-pc/9MX8R81JW1B5",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/268050/"
     },
     "steam": 268050,
     "updatedAt": "2021-03-12T09:25:27.022Z"
+  },
+  {
+    "slug": "the-evil-within-2",
+    "name": "The Evil Within® 2",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-evil-within-2/C40860J5R2MP",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/601430/"
+    },
+    "steam": 601430,
+    "updatedAt": "2021-06-16T09:19:58.735Z"
   },
   {
     "slug": "the-falconeer",
@@ -3964,7 +3436,7 @@
     "name": "The Long Dark",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-long-dark/C41ZDFQ82M1G",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/305620/"
     },
     "steam": 305620,
@@ -3986,7 +3458,7 @@
     "name": "The Messenger",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-messenger/9P5C81K094KW",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-messenger/9NNFBW3NGV9K",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/764790/"
     },
     "steam": 764790,
@@ -3997,40 +3469,18 @@
     "name": "The Outer Worlds",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/the-outer-worlds",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-outer-worlds/9MWD2Z8L1FBQ",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/578650/"
     },
     "steam": 578650,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "the-saboteur",
-    "name": "The Saboteur™",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
-    "slug": "the-sims-3",
-    "name": "The Sims™ 3",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/47890/"
-    },
-    "steam": 47890,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
     "slug": "the-sims-4",
     "name": "The Sims™ 4",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-sims-4/C08JXNK0VG5L",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1222670/"
     },
     "steam": 1222670,
@@ -4041,21 +3491,10 @@
     "name": "The Surge 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-surge-2/BSWTLFKMV96K",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/644830/"
     },
     "steam": 644830,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "the-swords-of-ditto-mormo-s-curse",
-    "name": "The Swords of Ditto: Mormo's Curse",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/the-swords-of-ditto-mormos-curse/9NF2DDV5RTH8",
-      "steam": "https://store.steampowered.com/app/619780/"
-    },
-    "steam": 619780,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4151,7 +3590,7 @@
     "name": "The Yakuza Remastered Collection",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-yakuza-remastered-collection/9N5JX0CG1SVC",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-yakuza-remastered-collection-for-windows-10/9NBTL551XL5N",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -4184,7 +3623,7 @@
     "name": "Titanfall",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/titanfall/BPB9XVH92Z7T",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1454890/"
     },
     "steam": 1454890,
@@ -4195,7 +3634,7 @@
     "name": "Titanfall® 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/titanfall-2/C0X2HNVH08FB",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1237970/"
     },
     "steam": 1237970,
@@ -4222,17 +3661,6 @@
     },
     "steam": 1030210,
     "updatedAt": "2021-03-18T09:26:21.447Z"
-  },
-  {
-    "slug": "torment-tides-of-numenera",
-    "name": "Torment: Tides of Numenera",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/torment-tides-of-numenera/9NC0071DJ6XC",
-      "steam": "https://store.steampowered.com/app/272270/"
-    },
-    "steam": 272270,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "totally-accurate-battle-simulator",
@@ -4283,7 +3711,7 @@
     "name": "Train Sim World® 2020",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9P32WWJ0PJJK",
-      "pc": "https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9PMT49X8ZGM2",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/530070/"
     },
     "steam": 530070,
@@ -4294,7 +3722,7 @@
     "name": "Two Point Hospital™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9PKM0HK8HKFL",
-      "pc": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9N08S5VPC4SX",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/535930/"
     },
     "steam": 535930,
@@ -4316,7 +3744,7 @@
     "name": "Undertale",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/undertale/9PJGGX9XJXPB",
-      "pc": "https://www.microsoft.com/en-us/store/p/undertale-pc/9N046HWGQ4J2",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/391540/"
     },
     "steam": 391540,
@@ -4327,7 +3755,7 @@
     "name": "Unravel",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/unravel/C11KKHB5H7QJ",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1225560/"
     },
     "steam": 1225560,
@@ -4338,7 +3766,7 @@
     "name": "Unravel Two",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/unravel-two/C4VKLMG1HLZW",
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1225570/"
     },
     "steam": 1225570,
@@ -4349,7 +3777,7 @@
     "name": "Unruly Heroes",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/unruly-heroes/9NBC54MT6KHX",
-      "pc": "https://www.microsoft.com/en-us/store/p/unruly-heroes-windows-10/9P3SS6K8ZQ57",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/780350/"
     },
     "steam": 780350,
@@ -4365,17 +3793,6 @@
     },
     "steam": 600080,
     "updatedAt": "2020-12-09T09:20:03.230Z"
-  },
-  {
-    "slug": "va-11-hall-a-cyberpunk-bartender-action",
-    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
-      "steam": "https://store.steampowered.com/app/447530/"
-    },
-    "steam": 447530,
-    "updatedAt": "2020-12-17T09:20:43.814Z"
   },
   {
     "slug": "viva-pinata",
@@ -4426,7 +3843,7 @@
     "name": "Wasteland 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wasteland-3/BQ9T0JF0D3L4",
-      "pc": "https://www.microsoft.com/en-us/store/p/wasteland-3-pc/9NLT5XR52ZS7",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/719040/"
     },
     "steam": 719040,
@@ -4448,21 +3865,10 @@
     "name": "We Happy Few",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/we-happy-few",
-      "pc": "https://www.microsoft.com/en-us/store/p/we-happy-few/9NBLGGH5342P",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/320240/"
     },
     "steam": 320240,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "west-of-dead",
-    "name": "West of Dead",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NTZCWK6P6GL",
-      "pc": "https://www.microsoft.com/en-us/store/p/west-of-dead/9NV0540N4JRN",
-      "steam": "https://store.steampowered.com/app/1016790/"
-    },
-    "steam": 1016790,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -4481,29 +3887,18 @@
     "name": "Wilmot's Warehouse",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse/9NLKJK4M1VQK",
-      "pc": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/839870/"
     },
     "steam": 839870,
     "updatedAt": "2020-12-17T09:20:43.814Z"
   },
   {
-    "slug": "wizard-of-legend",
-    "name": "Wizard of Legend",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/C40HL7DFHWCX",
-      "pc": "https://www.microsoft.com/en-us/store/p/wizard-of-legend/9MZH0GG41HL9",
-      "steam": "https://store.steampowered.com/app/445980/"
-    },
-    "steam": 445980,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "wolfenstein-the-new-order",
     "name": "Wolfenstein: The New Order",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-new-order/BT9FFLG51VVG",
-      "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-new-order-pc/9P75CBJ9WT9W",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/201810/"
     },
     "steam": 201810,
@@ -4514,7 +3909,7 @@
     "name": "Wolfenstein: The Old Blood",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-old-blood/BPV4GXTDCNSH",
-      "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-old-blood-pc/9PBB4QHMSDKR",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/350080/"
     },
     "steam": 350080,
@@ -4525,18 +3920,29 @@
     "name": "Wolfenstein: Youngblood",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood/C421ZX7RCG0W",
-      "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1056960/"
     },
     "steam": 1056960,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "wolfenstein-ii-the-new-colossus",
+    "name": "Wolfenstein® II: The New Colossus™",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/612880/"
+    },
+    "steam": 612880,
+    "updatedAt": "2021-06-16T09:19:58.735Z"
+  },
+  {
     "slug": "world-war-z",
     "name": "World War Z",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/world-war-z/BWQ5FC9WDJ6H",
-      "pc": "https://www.microsoft.com/en-us/store/p/world-war-z/9N015DFDMVK6",
+      "pc": null,
       "steam": null
     },
     "steam": null,
@@ -4547,7 +3953,7 @@
     "name": "Worms W.M.D",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/worms-wmd/C4BZ7X545J1T",
-      "pc": "https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/327030/"
     },
     "steam": 327030,
@@ -4558,7 +3964,7 @@
     "name": "Wreckfest",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/wreckfest/BRJNRZ9N734V",
-      "pc": "https://www.microsoft.com/en-us/store/p/wreckfest/9NG06CSMM97P",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/228380/"
     },
     "steam": 228380,
@@ -4580,7 +3986,7 @@
     "name": "Yakuza 0",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-0/9NPP17LHJ3MK",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/638970/"
     },
     "steam": 638970,
@@ -4591,7 +3997,7 @@
     "name": "Yakuza 3 Remastered",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-3-remastered/9N3460XCS8BC",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-3-remastered-for-windows-10/9NC4QMRHCNZK",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1088710/"
     },
     "steam": 1088710,
@@ -4602,7 +4008,7 @@
     "name": "Yakuza 4 Remastered",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-4-remastered/9NXFD44B98P4",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-4-remastered-for-windows-10/9NWZTB9JQG9S",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1105500/"
     },
     "steam": 1105500,
@@ -4613,7 +4019,7 @@
     "name": "Yakuza 5 Remastered",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-5-remastered/9NK23S9XBMZ6",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-5-remastered-for-windows-10/9MVX1V7W5SW8",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1105510/"
     },
     "steam": 1105510,
@@ -4624,7 +4030,7 @@
     "name": "Yakuza 6: The Song of Life",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life/9NK3ZFC5R579",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life-for-windows-10/9N9WWM5JXCBZ",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/1388590/"
     },
     "steam": 1388590,
@@ -4635,7 +4041,7 @@
     "name": "Yakuza Kiwami",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami/9NBJ51BD0LTH",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/834530/"
     },
     "steam": 834530,
@@ -4646,11 +4052,22 @@
     "name": "Yakuza Kiwami 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2/9PBJL0NLFMK9",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/927380/"
     },
     "steam": 927380,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "yakuza-like-a-dragon",
+    "name": "Yakuza: Like a Dragon",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/yakuza-like-a-dragon/9NXCSWCQTNFG",
+      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-like-a-dragon/9NXCSWCQTNFG",
+      "steam": "https://store.steampowered.com/app/1235140/"
+    },
+    "steam": 1235140,
+    "updatedAt": "2021-06-16T09:19:58.735Z"
   },
   {
     "slug": "yes-your-grace",
@@ -4664,22 +4081,11 @@
     "updatedAt": "2020-12-03T09:17:39.020Z"
   },
   {
-    "slug": "yiik-a-postmodern-rpg",
-    "name": "YIIK: A Postmodern RPG",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
-      "steam": "https://store.steampowered.com/app/459080/"
-    },
-    "steam": 459080,
-    "updatedAt": "2021-01-14T09:53:26.977Z"
-  },
-  {
     "slug": "yooka-laylee-and-the-impossible-lair",
     "name": "Yooka-Laylee and the Impossible Lair",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/yooka-laylee-and-the-impossible-lair/9PGPPZW59JB8",
-      "pc": "https://www.microsoft.com/en-us/store/p/yooka-laylee-and-the-impossible-lair/9NB1LCQDPPM1",
+      "pc": null,
       "steam": "https://store.steampowered.com/app/846870/"
     },
     "steam": 846870,

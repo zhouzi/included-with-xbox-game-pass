@@ -288,46 +288,57 @@ interface ScrappedGame {
 }
 
 async function scrapGames(): Promise<ScrappedGame[]> {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
   const scrappedGames: ScrappedGame[] = [];
 
-  await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games");
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
 
-  await (async function scrapCurrentPageAndGoNext(): Promise<void> {
-    await page.waitForSelector(
-      `.gameList [itemtype="http://schema.org/Product"]`
-    );
+  await page.goto("https://www.xbox.com/en-US/xbox-game-pass/games", {
+    waitUntil: "domcontentloaded",
+  });
 
-    scrappedGames.push(
-      ...(await page.$$eval(
-        `.gameList [itemtype="http://schema.org/Product"]`,
-        (elements) =>
-          elements.map(
-            (element): ScrappedGame => ({
-              name: element.querySelector("h3")!.textContent!,
-              url: element.querySelector("a")!.href,
-              availability: {
-                console: Boolean(
-                  element.querySelector(`[aria-label="Console"]`)
-                ),
-                pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
-              },
-            })
-          )
-      ))
-    );
+  await page.click(`[data-theplat="xbox"]`);
+  await scrapCurrentPageAndGoNext(page, scrappedGames);
 
-    try {
-      await page.waitForTimeout(random(500, 2000));
-      await page.click(".paginatenext:not(.pag-disabled) a");
-      return scrapCurrentPageAndGoNext();
-    } catch (err) {}
-  })();
+  await page.click(`[data-theplat="pc"]`);
+  await scrapCurrentPageAndGoNext(page, scrappedGames);
 
   browser.close();
 
   return scrappedGames;
+}
+
+async function scrapCurrentPageAndGoNext(
+  page: puppeteer.Page,
+  scrappedGames: ScrappedGame[]
+): Promise<void> {
+  await page.waitForSelector(
+    `.gameList [itemtype="http://schema.org/Product"]`
+  );
+
+  scrappedGames.push(
+    ...(await page.$$eval(
+      `.gameList [itemtype="http://schema.org/Product"]`,
+      (elements) =>
+        elements.map(
+          (element): ScrappedGame => ({
+            name: element.querySelector("h3")!.textContent!,
+            url: element.querySelector("a")!.href,
+            availability: {
+              console: Boolean(element.querySelector(`[aria-label="Console"]`)),
+              pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
+            },
+          })
+        )
+    ))
+  );
+
+  try {
+    await page.waitForTimeout(random(500, 2000));
+    await page.click(".paginatenext:not(.pag-disabled) a");
+
+    return scrapCurrentPageAndGoNext(page, scrappedGames);
+  } catch (err) {}
 }
 
 function sortGames<T extends Array<{ name: string }>>(games: T): T {

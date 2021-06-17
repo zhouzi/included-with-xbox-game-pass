@@ -185,7 +185,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
 const NOW = new Date().toISOString();
 
 (async function updateGamesList() {
-  const scrappedGames = await getScrappedGames();
+  const scrappedGames = await scrapGames();
 
   const games = sortGames(scrappedGames).reduce<Record<string, Game>>(
     (acc, scrappedGame) => {
@@ -238,7 +238,7 @@ const NOW = new Date().toISOString();
     }
   });
 
-  await updateSteamRelation(games);
+  await addSteamIdToGames(games);
 
   await fse.writeJSON(
     path.join(OUTPUT_DIR, "games.json"),
@@ -249,7 +249,7 @@ const NOW = new Date().toISOString();
   );
 })();
 
-async function updateSteamRelation(games: Record<string, Game>) {
+async function addSteamIdToGames(games: Record<string, Game>) {
   const {
     applist: { apps },
   } = await got("https://api.steampowered.com/ISteamApps/GetAppList/v2/").json<{
@@ -287,7 +287,7 @@ interface ScrappedGame {
   };
 }
 
-async function getScrappedGames(): Promise<ScrappedGame[]> {
+async function scrapGames(): Promise<ScrappedGame[]> {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   const scrappedGames: ScrappedGame[] = [];

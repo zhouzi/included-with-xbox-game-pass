@@ -179,6 +179,14 @@ const ALIASES = {
   SnowRunner: ["SnowRunner (Windows 10)"],
   "FOR HONOR™": ["FOR HONOR™ Standard Edition"],
   "Darkest Dungeon": ["Darkest Dungeon®", "Darkest Dungeon PC"],
+  "Dishonored®: Death of the Outsider™": [
+    "Dishonored®: Death of the Outsider™ (PC)",
+  ],
+  "Fallout 3": ["Fallout 3: Game of the Year Edition"],
+  "Fallout: New Vegas": ["Fallout: New Vegas Ultimate Edition"],
+  "Medieval Dynasty": ["Medieval Dynasty (Game Preview)"],
+  "The Evil Within® 2": ["The Evil Within® 2 (PC)"],
+  "Wolfenstein II": ["Wolfenstein II: Standard Edition"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

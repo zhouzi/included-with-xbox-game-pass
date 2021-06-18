@@ -939,21 +939,10 @@
     "name": "Dishonored®: Death of the Outsider™",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dishonored-death-of-the-outsider/C5F2XDQPPJKZ",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/dishonored-death-of-the-outsider-pc/9MVF0PGV94F7",
       "steam": "https://store.steampowered.com/app/614570/"
     },
     "steam": 614570,
-    "updatedAt": "2021-06-18T09:19:44.687Z"
-  },
-  {
-    "slug": "dishonored-death-of-the-outsider-pc",
-    "name": "Dishonored®: Death of the Outsider™ (PC)",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/dishonored-death-of-the-outsider-pc/9MVF0PGV94F7",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
@@ -1335,17 +1324,6 @@
     "name": "Fallout 3",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fallout-3/C29HQ887KH4B",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/22300/"
-    },
-    "steam": 22300,
-    "updatedAt": "2021-06-18T09:19:44.687Z"
-  },
-  {
-    "slug": "fallout-3-game-of-the-year-edition",
-    "name": "Fallout 3: Game of the Year Edition",
-    "availability": {
-      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/fallout-3-game-of-the-year-edition/9NBZ9JF6TFMD",
       "steam": "https://store.steampowered.com/app/22370/"
     },
@@ -1390,21 +1368,10 @@
     "name": "Fallout: New Vegas",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas/BX3JNK07Z6QK",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas-ultimate-edition/9MZR11JRF7BX",
       "steam": "https://store.steampowered.com/app/22380/"
     },
     "steam": 22380,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "fallout-new-vegas-ultimate-edition",
-    "name": "Fallout: New Vegas Ultimate Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas-ultimate-edition/9MZR11JRF7BX",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
@@ -2453,8 +2420,8 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "medieval-dynasty-game-preview",
-    "name": "Medieval Dynasty (Game Preview)",
+    "slug": "medieval-dynasty",
+    "name": "Medieval Dynasty",
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/medieval-dynasty-game-preview/9PDDP6ML6XHF",
@@ -3887,21 +3854,10 @@
     "name": "The Evil Within® 2",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/the-evil-within-2/C40860J5R2MP",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-evil-within-2-pc/9NT0NT8JQMQN",
       "steam": "https://store.steampowered.com/app/601430/"
     },
     "steam": 601430,
-    "updatedAt": "2021-06-18T09:19:44.687Z"
-  },
-  {
-    "slug": "the-evil-within-2-pc",
-    "name": "The Evil Within® 2 (PC)",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/the-evil-within-2-pc/9NT0NT8JQMQN",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
@@ -4433,14 +4389,14 @@
     "updatedAt": "2020-12-17T09:20:43.814Z"
   },
   {
-    "slug": "wolfenstein-ii-standard-edition",
-    "name": "Wolfenstein II: Standard Edition",
+    "slug": "wolfenstein-ii",
+    "name": "Wolfenstein II",
     "availability": {
-      "console": null,
+      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/612880/"
     },
-    "steam": null,
+    "steam": 612880,
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
@@ -4475,17 +4431,6 @@
     },
     "steam": 1056960,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "wolfenstein-ii-the-new-colossus",
-    "name": "Wolfenstein® II: The New Colossus™",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/612880/"
-    },
-    "steam": 612880,
-    "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
     "slug": "world-war-z",

@@ -186,7 +186,10 @@ const ALIASES = {
   "Fallout: New Vegas": ["Fallout: New Vegas Ultimate Edition"],
   "Medieval Dynasty": ["Medieval Dynasty (Game Preview)"],
   "The Evil Within® 2": ["The Evil Within® 2 (PC)"],
-  "Wolfenstein II": ["Wolfenstein II: Standard Edition"],
+  "Wolfenstein II": [
+    "Wolfenstein II: Standard Edition",
+    "Wolfenstein® II: The New Colossus™",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

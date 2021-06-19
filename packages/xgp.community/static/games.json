@@ -2425,9 +2425,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/medieval-dynasty-game-preview/9PDDP6ML6XHF",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1129580/"
     },
-    "steam": null,
+    "steam": 1129580,
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
@@ -4397,7 +4397,7 @@
       "steam": "https://store.steampowered.com/app/612880/"
     },
     "steam": 612880,
-    "updatedAt": "2021-06-18T09:19:44.687Z"
+    "updatedAt": "2021-06-19T09:19:24.527Z"
   },
   {
     "slug": "wolfenstein-the-new-order",

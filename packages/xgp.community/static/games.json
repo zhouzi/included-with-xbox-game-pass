@@ -4392,12 +4392,12 @@
     "slug": "wolfenstein-ii",
     "name": "Wolfenstein II",
     "availability": {
-      "console": null,
+      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
       "steam": "https://store.steampowered.com/app/612880/"
     },
     "steam": 612880,
-    "updatedAt": "2021-06-18T09:19:44.687Z"
+    "updatedAt": "2021-06-19T09:19:24.527Z"
   },
   {
     "slug": "wolfenstein-the-new-order",
@@ -4431,17 +4431,6 @@
     },
     "steam": 1056960,
     "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "wolfenstein-ii-the-new-colossus",
-    "name": "Wolfenstein® II: The New Colossus™",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/612880/"
-    },
-    "steam": 612880,
-    "updatedAt": "2021-06-19T09:19:24.527Z"
   },
   {
     "slug": "world-war-z",

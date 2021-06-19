@@ -2425,9 +2425,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/medieval-dynasty-game-preview/9PDDP6ML6XHF",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1129580/"
     },
-    "steam": null,
+    "steam": 1129580,
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
@@ -4392,7 +4392,7 @@
     "slug": "wolfenstein-ii",
     "name": "Wolfenstein II",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
+      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
       "steam": "https://store.steampowered.com/app/612880/"
     },
@@ -4431,6 +4431,17 @@
     },
     "steam": 1056960,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "wolfenstein-ii-the-new-colossus",
+    "name": "Wolfenstein® II: The New Colossus™",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/612880/"
+    },
+    "steam": 612880,
+    "updatedAt": "2021-06-19T09:19:24.527Z"
   },
   {
     "slug": "world-war-z",

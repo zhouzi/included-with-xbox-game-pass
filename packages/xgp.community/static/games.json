@@ -693,6 +693,17 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "dark-alliance",
+    "name": "Dark Alliance",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
+      "pc": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-06-22T09:19:53.698Z"
+  },
+  {
     "slug": "darkest-dungeon",
     "name": "Darkest Dungeon",
     "availability": {

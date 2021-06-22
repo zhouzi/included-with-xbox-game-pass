@@ -190,6 +190,7 @@ const ALIASES = {
     "Wolfenstein II: Standard Edition",
     "Wolfenstein® II: The New Colossus™",
   ],
+  "Dungeons & Dragons: Dark Alliance": ["Dark Alliance"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");

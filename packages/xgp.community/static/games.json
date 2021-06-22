@@ -693,14 +693,14 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "dark-alliance",
-    "name": "Dark Alliance",
+    "slug": "dungeons-dragons-dark-alliance",
+    "name": "Dungeons & Dragons: Dark Alliance",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
       "pc": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/623280/"
     },
-    "steam": null,
+    "steam": 623280,
     "updatedAt": "2021-06-22T09:19:53.698Z"
   },
   {

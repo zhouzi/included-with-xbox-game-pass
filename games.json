@@ -693,17 +693,6 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "dungeons-dragons-dark-alliance",
-    "name": "Dungeons & Dragons: Dark Alliance",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
-      "pc": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
-      "steam": "https://store.steampowered.com/app/623280/"
-    },
-    "steam": 623280,
-    "updatedAt": "2021-06-22T09:19:53.698Z"
-  },
-  {
     "slug": "darkest-dungeon",
     "name": "Darkest Dungeon",
     "availability": {
@@ -1142,6 +1131,17 @@
     },
     "steam": 739650,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "dungeons-and-dragons-dark-alliance",
+    "name": "Dungeons & Dragons: Dark Alliance",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
+      "pc": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
+      "steam": "https://store.steampowered.com/app/623280/"
+    },
+    "steam": 623280,
+    "updatedAt": "2021-06-23T09:18:11.002Z"
   },
   {
     "slug": "ea-sports-rory-mcilroy-pga-tour",
@@ -4453,6 +4453,17 @@
     },
     "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "worms-rumble",
+    "name": "Worms Rumble",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/worms-rumble/9PCPD8CGKR4L",
+      "pc": "https://www.microsoft.com/en-us/store/p/worms-rumble/9PCPD8CGKR4L",
+      "steam": "https://store.steampowered.com/app/1186040/"
+    },
+    "steam": 1186040,
+    "updatedAt": "2021-06-23T09:18:11.002Z"
   },
   {
     "slug": "worms-w-m-d",

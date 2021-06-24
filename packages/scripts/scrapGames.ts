@@ -191,6 +191,8 @@ const ALIASES = {
     "Wolfenstein® II: The New Colossus™",
   ],
   "Dungeons & Dragons: Dark Alliance": ["Dark Alliance"],
+  "Iron Harvest": ["Iron Harvest (Windows)"],
+  Prodeus: ["Prodeus (Game Preview)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "website", "static");

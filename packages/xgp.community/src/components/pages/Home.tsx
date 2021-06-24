@@ -69,23 +69,6 @@ export function Home() {
             </li>
           </ul>
         </section>
-        <section id="newsletter" className="Block Newsletter">
-          <div className="NewsletterContent">
-            <h3 className="Heading3">Weekly digest in your inbox</h3>
-            <p className="Paragraph">
-              Subscribe to the weekly newsletter to stay updated on new and
-              upcoming games.
-            </p>
-          </div>
-          <div className="NewsletterAction">
-            <a
-              href="https://de93a9ef.sibforms.com/serve/MUIEANlN866pLXN8kcim9KKMHty8jYmnSazB4v66hfzxvglWPGywDMW-4BHfiGdARFGgu4DI43uWInJkCWYtYXe-Y6DZnsblnnw5f9ah65wH1r2g9-HYqd_iNbY8TXjVS5eRM7uiC7VRAunj2_wnDaLZTKHE7tANJjUtGbivbYSxgQAToEAw8elGjlPCCGTkXLzZpBwpYeU8RgAW"
-              className="Button ButtonSecondary"
-            >
-              Subscribe
-            </a>
-          </div>
-        </section>
       </main>
       <Footer />
     </Layout>

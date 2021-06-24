@@ -1,4 +1,4 @@
-# [xgp.community](https://xgp.community)
+# [included-with-xbox-game-pass](https://included-with-xbox-game-pass.gabin.app)
 
 Browser extension bringing the Xbox Game Pass to Steam.
 
@@ -7,7 +7,7 @@ Browser extension bringing the Xbox Game Pass to Steam.
 
 ## Installation
 
-Here's how you can get a copy of xgp.community running on your machine:
+Here's how you can get a copy of this project running on your machine:
 
 1. Clone this repository
 2. Run `yarn` in its directory

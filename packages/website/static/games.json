@@ -2145,14 +2145,14 @@
     "updatedAt": "2021-01-07T09:36:21.010Z"
   },
   {
-    "slug": "iron-harvest-windows",
-    "name": "Iron Harvest (Windows)",
+    "slug": "iron-harvest",
+    "name": "Iron Harvest",
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/iron-harvest-windows/9NPHVDB4XFJP",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/826630/"
     },
-    "steam": null,
+    "steam": 826630,
     "updatedAt": "2021-06-24T09:11:25.249Z"
   },
   {
@@ -3135,14 +3135,14 @@
     "updatedAt": "2021-01-28T10:14:23.745Z"
   },
   {
-    "slug": "prodeus-game-preview",
-    "name": "Prodeus (Game Preview)",
+    "slug": "prodeus",
+    "name": "Prodeus",
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/prodeus-game-preview/9MZRSLLWKWDV",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/964800/"
     },
-    "steam": null,
+    "steam": 964800,
     "updatedAt": "2021-06-24T09:11:25.249Z"
   },
   {

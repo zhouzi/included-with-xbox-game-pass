@@ -5,14 +5,14 @@ import path from "path";
 import fse from "fs-extra";
 import { format } from "date-fns";
 import marked from "marked";
-import { Game } from "@xgp/types";
+import { Game } from "@included-with-xbox-game-pass/types";
 
-import games from "../xgp.community/static/games.json";
+import games from "../website/static/games.json";
 
 const OUTPUT_DIR = path.join(
   __dirname,
   "..",
-  "xgp.community",
+  "website",
   "static",
   "newsletter"
 );
@@ -101,7 +101,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
     <mj-body background-color="#0F1923">
       <mj-section padding="28px 14px 0 14px">
         <mj-column>
-          <mj-image href="https://xgp.community" src="https://xgp.community/images/logo.png" width="187px" padding="0" align="left" />
+          <mj-image href="https://included-with-xbox-game-pass.gabin.app" src="https://included-with-xbox-game-pass.gabin.app/images/logo.png" width="187px" padding="0" align="left" />
           <mj-text padding="6px 0 0 0">
             <p>Weekly digest of all things Xbox Game Pass.</p>
           </mj-text>
@@ -194,7 +194,7 @@ const IS_DEV = ["--dev", "-D"].includes(process.argv[2]);
         <mj-column>
           <mj-text padding="0">
             <p>
-              This newsletter is part of <a href="https://xgp.community">xgp.community</a>, a side
+              This newsletter is part of <a href="https://included-with-xbox-game-pass.gabin.app">included-with-xbox-game-pass</a>, a side
               project by <a href="https://gabinaureche.com">Gabin</a>. Do not hesitate to reply to this
               email if you have any feedback to share.
             </p>

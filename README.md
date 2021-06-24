@@ -24,10 +24,9 @@ This repository contains the source of the browser extension along with a few ot
 Here is an introduction to each of the packages:
 
 - `packages/extension`: code for the browser extension.
-- `packages/gh-pages`: the website used to be hosted on GitHub, before I bought the xgp.community domain. The `games.json` file is still served that way to not break the extension for previous users.
 - `packages/scripts`: contains scripts that are usually run through GitHub actions.
 - `packages/types`: contains types that are shared across the packages.
-- `packages/xgp.community`: contains the source of the website.
+- `packages/website`: contains the source of the website.
 
 ## License
 

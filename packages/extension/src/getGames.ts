@@ -1,9 +1,9 @@
 import storageCache from "webext-storage-cache";
-import { Game } from "@xgp/types";
+import { Game } from "@included-with-xbox-game-pass/types";
 
 const API_HOST =
   process.env.NODE_ENV === "production"
-    ? "https://xgp.community/"
+    ? "https://included-with-xbox-game-pass.gabin.app/"
     : "http://localhost:1234/";
 const API_ENDPOINT = new URL("./games.json", API_HOST).href;
 

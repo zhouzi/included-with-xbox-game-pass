@@ -203,9 +203,13 @@ export function Layout(props: LayoutProps) {
     <>
       <GlobalStyle />
       <Helmet
-        title="xgp.community"
+        title="included-with-xbox-game-pass"
         meta={[
-          { name: "title", property: "og:title", content: "xgp.community" },
+          {
+            name: "title",
+            property: "og:title",
+            content: "included-with-xbox-game-pass",
+          },
           {
             name: "description",
             property: "og:description",

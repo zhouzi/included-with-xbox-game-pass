@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer className="Container Block Footer">
       <p className="Paragraph">
-        xgp.community is an{" "}
+        included-with-xbox-game-pass is an{" "}
         <a
           href="https://github.com/zhouzi/included-with-xbox-game-pass"
           className="Link"
@@ -16,8 +16,8 @@ export function Footer() {
           Gabin
         </a>
         . Do not hesitate to get in touch by sending me at email at{" "}
-        <a href="mailto:gabin@xgp.community" className="Link">
-          gabin@xgp.community
+        <a href="mailto:hello@gabinaureche.com" className="Link">
+          hello@gabinaureche.com
         </a>
         .
       </p>

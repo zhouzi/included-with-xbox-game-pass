@@ -5,9 +5,9 @@ import alphaSort from "alpha-sort";
 import random from "random-int";
 import slugify from "@sindresorhus/slugify";
 import got from "got";
-import { Game } from "@xgp/types";
+import { Game } from "@included-with-xbox-game-pass/types";
 
-import currentGames from "../xgp.community/static/games.json";
+import currentGames from "../website/static/games.json";
 
 // games tend to have funky names on the xbox game pass store
 // so below is a mapping of the game's real name -> the names found on the xbox store
@@ -193,7 +193,7 @@ const ALIASES = {
   "Dungeons & Dragons: Dark Alliance": ["Dark Alliance"],
 };
 
-const OUTPUT_DIR = path.join(__dirname, "..", "xgp.community", "static");
+const OUTPUT_DIR = path.join(__dirname, "..", "website", "static");
 const NOW = new Date().toISOString();
 
 (async function updateGamesList() {

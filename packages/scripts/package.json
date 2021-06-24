@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@xgp/scripts",
+  "name": "@included-with-xbox-game-pass/scripts",
   "version": "0.1.0",
   "scripts": {
     "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scrapGames.ts",
@@ -13,7 +13,7 @@
     "@types/marked": "^2.0.0",
     "@types/mjml": "^4.7.0",
     "@types/puppeteer": "^5.4.2",
-    "@xgp/types": "0.1.0",
+    "@included-with-xbox-game-pass/types": "file:../types",
     "alpha-sort": "^4.0.0",
     "axios": "^0.21.1",
     "date-fns": "^2.16.1",

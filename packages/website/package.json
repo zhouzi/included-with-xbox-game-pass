@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@xgp/xgp.community",
+  "name": "@included-with-xbox-game-pass/website",
   "version": "0.1.0",
   "scripts": {
     "build": "gatsby build",
@@ -10,7 +10,7 @@
     "@types/react-helmet": "^6.1.0",
     "@types/react-table": "^7.0.26",
     "@types/styled-components": "^5.1.4",
-    "@xgp/types": "0.1.0",
+    "@included-with-xbox-game-pass/types": "file:../types",
     "babel-plugin-styled-components": "^1.11.1",
     "gatsby": "^2.26.1",
     "gatsby-plugin-react-helmet": "^3.4.0",

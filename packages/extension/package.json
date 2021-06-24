@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@xgp/extension",
+  "name": "@included-with-xbox-game-pass/extension",
   "version": "0.1.0",
   "scripts": {
     "prebuild": "rm -rf ./dist",
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/react": "^17.0.0",
-    "@xgp/types": "0.1.0",
+    "@included-with-xbox-game-pass/types": "file:../types",
     "bestzip": "^2.1.7",
     "dom-chef": "^4.2.2",
     "parcel-bundler": "^1.12.4",

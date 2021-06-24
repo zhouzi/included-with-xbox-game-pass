@@ -10,8 +10,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
       - run: yarn
-      - run: yarn --cwd ./packages/xgp.community build
+      - run: yarn --cwd ./packages/website build
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./packages/xgp.community/public
+          publish_dir: ./packages/website/public

@@ -2695,6 +2695,17 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
+    "slug": "need-for-speed-hot-pursuit-remastered",
+    "name": "Need for Speed™ Hot Pursuit Remastered",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/need-for-speed-hot-pursuit-remastered/9NMBJQ0265ZK",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1328660/"
+    },
+    "steam": 1328660,
+    "updatedAt": "2021-06-25T09:20:16.166Z"
+  },
+  {
     "slug": "need-for-speed-payback",
     "name": "Need for Speed™ Payback",
     "availability": {

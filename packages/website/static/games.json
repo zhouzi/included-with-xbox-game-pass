@@ -2149,11 +2149,11 @@
     "name": "Immortal Realms: Vampire Wars",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/immortal-realms-vampire-wars/9P4Q17HQ2WKW",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/immortal-realms-vampire-wars/9P2XMXXFQV5G",
       "steam": "https://store.steampowered.com/app/1024480/"
     },
     "steam": 1024480,
-    "updatedAt": "2021-07-01T09:20:39.607Z"
+    "updatedAt": "2021-07-04T15:52:53.181Z"
   },
   {
     "slug": "injustice-2",

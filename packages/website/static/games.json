@@ -4213,6 +4213,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "tropico-6",
+    "name": "Tropico 6",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/tropico-6/C4KBHNHRPLN6",
+      "pc": "https://www.microsoft.com/en-us/store/p/tropico-6/9N2VDJVMFKQ9",
+      "steam": "https://store.steampowered.com/app/492720/"
+    },
+    "steam": 492720,
+    "updatedAt": "2021-07-08T09:21:20.349Z"
+  },
+  {
     "slug": "two-point-hospital",
     "name": "Two Point Hospital™",
     "availability": {

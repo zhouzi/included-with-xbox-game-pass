@@ -4235,6 +4235,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "ufc-4",
+    "name": "UFC® 4",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/ufc-4/BPBV3PCB0X44",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-07-11T09:19:59.196Z"
+  },
+  {
     "slug": "undermine",
     "name": "UnderMine",
     "availability": {

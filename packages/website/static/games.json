@@ -267,7 +267,7 @@
     "slug": "battlefield-1",
     "name": "Battlefield™ 1",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/battlefield-1",
+      "console": "https://www.microsoft.com/en-us/store/p/battlefield-1-revolution/BPL68T0XK96W",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238840/"
     },
@@ -311,8 +311,8 @@
     "slug": "battletoads",
     "name": "Battletoads",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/battletoads/9N7GCF5SGCXC",
-      "pc": "https://www.microsoft.com/en-us/store/p/battletoads/9N7GCF5SGCXC",
+      "console": "https://www.xbox.com/en-us/games/battletoads",
+      "pc": "https://www.xbox.com/en-us/games/battletoads",
       "steam": "https://store.steampowered.com/app/1244950/"
     },
     "steam": 1244950,
@@ -443,7 +443,7 @@
     "slug": "call-of-the-sea",
     "name": "Call of the Sea",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9P27ZMZ7FDPZ",
+      "console": "https://www.xbox.com/en-us/games/call-of-the-sea",
       "pc": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9NNG78K7N91K",
       "steam": "https://store.steampowered.com/app/1042490/"
     },
@@ -454,7 +454,7 @@
     "slug": "carrion",
     "name": "Carrion",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/carrion/9NPKKNBJ258V",
+      "console": "https://www.xbox.com/en-us/games/carrion",
       "pc": "https://www.microsoft.com/en-us/store/p/carrion/9MSMJH3C6TKR",
       "steam": "https://store.steampowered.com/app/953490/"
     },
@@ -839,7 +839,7 @@
     "slug": "destiny-2",
     "name": "Destiny 2",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/destiny-2/BPQ955FQFPH6",
+      "console": "https://www.xbox.com/en-us/games/destiny-2",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1085660/"
     },
@@ -1114,8 +1114,8 @@
     "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
     "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK",
-      "pc": "https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK",
+      "console": "https://www.xbox.com/en-us/games/dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "pc": "https://www.xbox.com/en-us/games/dragon-quest-xi-s-echoes-of-an-elusive-age",
       "steam": "https://store.steampowered.com/app/1295510/"
     },
     "steam": 1295510,
@@ -1356,8 +1356,8 @@
     "slug": "fallout-76",
     "name": "Fallout 76",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fallout-76/BS6WJ2L56B10",
-      "pc": "https://www.microsoft.com/en-us/store/p/fallout-76---pc/9NKGNMNK3K3Z",
+      "console": "https://www.xbox.com/en-us/games/fallout-76",
+      "pc": "https://www.xbox.com/en-us/games/fallout-76",
       "steam": "https://store.steampowered.com/app/1151340/"
     },
     "steam": 1151340,
@@ -1422,7 +1422,7 @@
     "slug": "fifa-19",
     "name": "FIFA 19",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/fifa-19",
+      "console": "https://www.microsoft.com/en-us/store/p/fifa-19/C3C71TV51SQC",
       "pc": null,
       "steam": null
     },
@@ -1433,7 +1433,7 @@
     "slug": "fifa-20",
     "name": "FIFA 20",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/fifa-20",
+      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-fifa-20/BV433V4B23LM",
       "pc": null,
       "steam": null
     },
@@ -1752,8 +1752,8 @@
     "slug": "gears-tactics",
     "name": "Gears Tactics",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/gears-tactics/9NN3HCKW5TPC",
-      "pc": "https://www.microsoft.com/en-us/store/p/gears-tactics/9NN3HCKW5TPC",
+      "console": "https://www.xbox.com/en-us/games/gears-tactics",
+      "pc": "https://www.xbox.com/en-us/games/gears-tactics",
       "steam": "https://store.steampowered.com/app/1184050/"
     },
     "steam": 1184050,
@@ -1862,8 +1862,8 @@
     "slug": "grounded",
     "name": "Grounded",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/grounded---game-preview/9PJTHRNVH62H",
-      "pc": "https://www.microsoft.com/en-us/store/p/grounded---game-preview/9PJTHRNVH62H",
+      "console": "https://www.xbox.com/en-us/games/grounded",
+      "pc": "https://www.xbox.com/en-us/games/grounded",
       "steam": "https://store.steampowered.com/app/962130/"
     },
     "steam": 962130,
@@ -2016,7 +2016,7 @@
     "slug": "halo-the-master-chief-collection",
     "name": "Halo: The Master Chief Collection",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/halo",
+      "console": "https://www.xbox.com/en-us/games/halo-the-master-chief-collection",
       "pc": "https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX",
       "steam": "https://store.steampowered.com/app/976730/"
     },
@@ -2357,7 +2357,7 @@
     "slug": "madden-nfl-19",
     "name": "Madden NFL 19",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/madden-19",
+      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-19/BVF5ZGD9NM52",
       "pc": null,
       "steam": null
     },
@@ -2368,7 +2368,7 @@
     "slug": "madden-nfl-20",
     "name": "Madden NFL 20",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/madden-20",
+      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-20/BZ289TV4QVCK",
       "pc": null,
       "steam": null
     },
@@ -2490,7 +2490,7 @@
     "name": "Microsoft Flight Simulator: Standard",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard/9NXN8GF8N9HT",
+      "pc": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
       "steam": "https://store.steampowered.com/app/1250410/"
     },
     "steam": 1250410,
@@ -2500,8 +2500,8 @@
     "slug": "middle-earth-shadow-of-war",
     "name": "Middle-earth™: Shadow of War™",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/middle-earth-shadow-of-war",
-      "pc": "https://www.xbox.com/en-us/games/middle-earth-shadow-of-war",
+      "console": "https://www.microsoft.com/en-us/store/p/middle-earth-shadow-of-war/9PDV8FKWP3B4",
+      "pc": "https://www.microsoft.com/en-us/store/p/middle-earth-shadow-of-war/9PDV8FKWP3B4",
       "steam": "https://store.steampowered.com/app/356190/"
     },
     "steam": 356190,
@@ -2511,7 +2511,7 @@
     "slug": "minecraft",
     "name": "Minecraft",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/minecraft-xbox-one-edition",
+      "console": "https://www.xbox.com/en-us/games/minecraft",
       "pc": null,
       "steam": null
     },
@@ -2522,7 +2522,7 @@
     "slug": "minecraft-dungeons",
     "name": "Minecraft Dungeons",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons/9N8NJ74FZTG9",
+      "console": "https://www.xbox.com/en-us/games/minecraft-dungeons",
       "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
       "steam": null
     },
@@ -2654,7 +2654,7 @@
     "slug": "nba-2k21",
     "name": "NBA 2K21",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/nba-2k21/9P0Q1F7P0KR1",
+      "console": "https://www.xbox.com/en-us/games/nba-2k21",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1225330/"
     },
@@ -3072,7 +3072,7 @@
     "slug": "plants-vs-zombies-battle-for-neighborville",
     "name": "Plants vs. Zombies: Battle for Neighborville™",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/plants-vs-zombies-battle-for-neighborville",
+      "console": "https://www.microsoft.com/en-us/store/p/plants-vs-zombies-battle-for-neighborville/C4HZC7LJG6PX",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1262240/"
     },
@@ -3259,7 +3259,7 @@
     "slug": "resident-evil-7-biohazard",
     "name": "RESIDENT EVIL 7 biohazard",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/resident-evil",
+      "console": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/BVFDTJ1XF6CS",
       "pc": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
       "steam": "https://store.steampowered.com/app/418370/"
     },
@@ -3358,8 +3358,8 @@
     "slug": "sea-of-thieves",
     "name": "Sea of Thieves",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
-      "pc": "https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K",
+      "console": "https://www.xbox.com/en-us/games/sea-of-thieves",
+      "pc": "https://www.xbox.com/en-us/games/sea-of-thieves",
       "steam": "https://store.steampowered.com/app/1172620/"
     },
     "steam": 1172620,
@@ -3369,8 +3369,8 @@
     "slug": "second-extinction",
     "name": "Second Extinction™",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/second-extinction-game-preview/9P9JZLNFQ9PT",
-      "pc": "https://www.microsoft.com/en-us/store/p/second-extinction-game-preview/9P9JZLNFQ9PT",
+      "console": "https://www.xbox.com/en-us/games/second-extinction",
+      "pc": "https://www.xbox.com/en-us/games/second-extinction",
       "steam": "https://store.steampowered.com/app/1024380/"
     },
     "steam": 1024380,
@@ -3479,8 +3479,8 @@
     "slug": "spiritfarer",
     "name": "Spiritfarer®",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/spiritfarer/9NG5L58FD3X5",
-      "pc": "https://www.microsoft.com/en-us/store/p/spiritfarer/9NG5L58FD3X5",
+      "console": "https://www.xbox.com/en-us/games/spiritfarer",
+      "pc": "https://www.xbox.com/en-us/games/spiritfarer",
       "steam": "https://store.steampowered.com/app/972660/"
     },
     "steam": 972660,
@@ -3545,7 +3545,7 @@
     "slug": "star-wars-squadrons",
     "name": "STAR WARS™: Squadrons",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/star-wars-squadrons/BV9CWVQWNS4P",
+      "console": "https://www.xbox.com/en-us/games/star-wars-squadrons",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1222730/"
     },
@@ -3721,8 +3721,8 @@
     "slug": "tell-me-why-chapters-1-3",
     "name": "Tell Me Why: Chapters 1-3",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapters-1-3/9NF83PRZK6K3",
-      "pc": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapters-1-3/9NF83PRZK6K3",
+      "console": "https://www.xbox.com/en-us/games/tell-me-why",
+      "pc": "https://www.xbox.com/en-us/games/tell-me-why",
       "steam": "https://store.steampowered.com/app/1180660/"
     },
     "steam": 1180660,
@@ -3743,8 +3743,8 @@
     "slug": "tetris-effect-connected",
     "name": "Tetris® Effect: Connected",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/tetris-effect-connected/9PPBVK3TK83M",
-      "pc": "https://www.microsoft.com/en-us/store/p/tetris-effect-connected/9PPBVK3TK83M",
+      "console": "https://www.xbox.com/en-us/games/tetris-effect-connected",
+      "pc": "https://www.xbox.com/en-us/games/tetris-effect-connected",
       "steam": "https://store.steampowered.com/app/1003590/"
     },
     "steam": 1003590,
@@ -3886,8 +3886,8 @@
     "slug": "the-falconeer",
     "name": "The Falconeer",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/the-falconeer/9N8J0T5HCDB9",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-falconeer/9N8J0T5HCDB9",
+      "console": "https://www.xbox.com/en-us/games/the-falconeer",
+      "pc": "https://www.xbox.com/en-us/games/the-falconeer",
       "steam": "https://store.steampowered.com/app/1135260/"
     },
     "steam": 1135260,
@@ -4095,7 +4095,7 @@
     "slug": "thronebreaker-the-witcher-tales",
     "name": "Thronebreaker: The Witcher Tales",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/thronebreaker-the-witcher-tales",
+      "console": "https://www.microsoft.com/en-us/store/p/thronebreaker-the-witcher-tales/C09LFD39HKLW",
       "pc": null,
       "steam": "https://store.steampowered.com/app/973760/"
     },
@@ -4128,7 +4128,7 @@
     "slug": "tom-clancy-s-rainbow-six-siege",
     "name": "Tom Clancy's Rainbow Six® Siege",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/tom-clancys-rainbow-six-siege-deluxe-edition/9P30K2NXWH82",
+      "console": "https://www.xbox.com/en-us/games/rainbow-six-siege",
       "pc": null,
       "steam": "https://store.steampowered.com/app/359550/"
     },
@@ -4370,7 +4370,7 @@
     "slug": "wasteland-3",
     "name": "Wasteland 3",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/wasteland-3/BQ9T0JF0D3L4",
+      "console": "https://www.xbox.com/en-us/games/wasteland-3",
       "pc": "https://www.microsoft.com/en-us/store/p/wasteland-3-pc/9NLT5XR52ZS7",
       "steam": "https://store.steampowered.com/app/719040/"
     },
@@ -4381,8 +4381,8 @@
     "slug": "wasteland-remastered",
     "name": "Wasteland Remastered",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/wasteland-remastered/9NGH1FK0RJGL",
-      "pc": "https://www.microsoft.com/en-us/store/p/wasteland-remastered/9NGH1FK0RJGL",
+      "console": "https://www.xbox.com/en-us/games/wasteland-remastered",
+      "pc": "https://www.xbox.com/en-us/games/wasteland-remastered",
       "steam": "https://store.steampowered.com/app/875800/"
     },
     "steam": 875800,
@@ -4425,7 +4425,7 @@
     "slug": "wolfenstein-ii",
     "name": "Wolfenstein II",
     "availability": {
-      "console": "https://www.xbox.com/en-us/games/wolfenstein-II-new-colossus",
+      "console": "https://www.xbox.com/en-us/games/wolfenstein-ii-new-colossus",
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
       "steam": "https://store.steampowered.com/app/612880/"
     },
@@ -4601,8 +4601,8 @@
     "slug": "yakuza-like-a-dragon",
     "name": "Yakuza: Like a Dragon",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/yakuza-like-a-dragon/9NXCSWCQTNFG",
-      "pc": "https://www.microsoft.com/en-us/store/p/yakuza-like-a-dragon/9NXCSWCQTNFG",
+      "console": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
+      "pc": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
       "steam": "https://store.steampowered.com/app/1235140/"
     },
     "steam": 1235140,

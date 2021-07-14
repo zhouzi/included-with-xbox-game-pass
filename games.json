@@ -1155,28 +1155,6 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "ea-sports-ufc",
-    "name": "EA SPORTS™ UFC®",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-ufc/BXLW311NX101",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "ea-sports-ufc-2",
-    "name": "EA SPORTS™ UFC® 2",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-ufc-2/BPMMFJDVP9NF",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
     "slug": "ea-sports-ufc-3",
     "name": "EA SPORTS™ UFC® 3",
     "availability": {

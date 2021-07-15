@@ -396,6 +396,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "bloodroots",
+    "name": "Bloodroots",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/bloodroots/9MXPZ33Z9PWH",
+      "pc": "https://www.microsoft.com/en-us/store/p/bloodroots/9MXPZ33Z9PWH",
+      "steam": "https://store.steampowered.com/app/820540/"
+    },
+    "steam": 820540,
+    "updatedAt": "2021-07-15T09:20:27.630Z"
+  },
+  {
     "slug": "bridge-constructor-portal",
     "name": "Bridge Constructor Portal",
     "availability": {
@@ -1362,6 +1373,28 @@
     },
     "steam": 22380,
     "updatedAt": "2021-06-18T09:19:44.687Z"
+  },
+  {
+    "slug": "farming-simulator-19",
+    "name": "Farming Simulator 19",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/farming-simulator-19/BQW91W950J67",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/787860/"
+    },
+    "steam": 787860,
+    "updatedAt": "2021-07-15T09:20:27.630Z"
+  },
+  {
+    "slug": "farming-simulator-19-windows-10",
+    "name": "Farming Simulator 19 (Windows 10)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/farming-simulator-19-windows-10/9NC34KWSN4HW",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-07-15T09:20:27.630Z"
   },
   {
     "slug": "fe",
@@ -3069,17 +3102,6 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "playerunknown-s-battlegrounds",
-    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/playerunknowns-battlegrounds",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/578080/"
-    },
-    "steam": 578080,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "power-rangers-battle-for-the-grid",
     "name": "Power Rangers: Battle for the Grid",
     "availability": {
@@ -3144,6 +3166,17 @@
     },
     "steam": 3830,
     "updatedAt": "2021-05-14T09:24:52.511Z"
+  },
+  {
+    "slug": "pubg-battlegrounds",
+    "name": "PUBG: BATTLEGROUNDS",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/playerunknowns-battlegrounds",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-07-15T09:20:27.630Z"
   },
   {
     "slug": "quantum-break",

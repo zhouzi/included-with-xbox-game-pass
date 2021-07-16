@@ -616,17 +616,6 @@
     "updatedAt": "2021-02-25T09:30:20.736Z"
   },
   {
-    "slug": "crosscode",
-    "name": "CrossCode",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/crosscode/9N04RQQ64524",
-      "pc": "https://www.microsoft.com/en-us/store/p/crosscode/9NFDPQ0KZ6RN",
-      "steam": "https://store.steampowered.com/app/368340/"
-    },
-    "steam": 368340,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "crossing-souls",
     "name": "Crossing Souls",
     "availability": {
@@ -1067,17 +1056,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "downwell",
-    "name": "Downwell",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/downwell/9P641Z19NT2S",
-      "steam": "https://store.steampowered.com/app/360740/"
-    },
-    "steam": 360740,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "dragon-age-origins",
     "name": "Dragon Age: Origins",
     "availability": {
@@ -1219,17 +1197,6 @@
     },
     "steam": 604540,
     "updatedAt": "2021-03-18T09:26:21.447Z"
-  },
-  {
-    "slug": "endless-space-2-deluxe-edition",
-    "name": "Endless Space 2: Deluxe Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/endless-space-2-deluxe-edition/9NV3Q7WVN2RB",
-      "steam": "https://store.steampowered.com/app/392110/"
-    },
-    "steam": 392110,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "enter-the-gungeon",

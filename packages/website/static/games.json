@@ -154,6 +154,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "atomicrops",
+    "name": "Atomicrops",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/atomicrops/9PPR8SWR8SXK",
+      "pc": "https://www.microsoft.com/en-us/store/p/atomicrops/9N7P579VZC33",
+      "steam": "https://store.steampowered.com/app/757320/"
+    },
+    "steam": 757320,
+    "updatedAt": "2021-07-22T09:20:09.281Z"
+  },
+  {
     "slug": "backbone",
     "name": "Backbone",
     "availability": {
@@ -3199,6 +3210,17 @@
     },
     "steam": 1213230,
     "updatedAt": "2021-04-15T09:23:14.955Z"
+  },
+  {
+    "slug": "raji-an-ancient-epis",
+    "name": "Raji: An Ancient Epiс",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",
+      "pc": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-07-22T09:20:09.281Z"
   },
   {
     "slug": "rare-replay",

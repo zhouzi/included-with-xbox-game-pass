@@ -3223,15 +3223,15 @@
     "updatedAt": "2021-04-15T09:23:14.955Z"
   },
   {
-    "slug": "raji-an-ancient-epis",
-    "name": "Raji: An Ancient Epiс",
+    "slug": "raji-an-ancient-epic",
+    "name": "Raji: An Ancient Epic",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",
       "pc": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/730390/"
     },
-    "steam": null,
-    "updatedAt": "2021-07-23T09:20:23.382Z"
+    "steam": 730390,
+    "updatedAt": "2021-07-22T09:20:09.281Z"
   },
   {
     "slug": "rare-replay",

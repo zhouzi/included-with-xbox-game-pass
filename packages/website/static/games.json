@@ -2332,6 +2332,17 @@
     "updatedAt": "2021-05-22T09:24:19.180Z"
   },
   {
+    "slug": "last-stop",
+    "name": "Last Stop",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/last-stop/9NC6BX5R7JKC",
+      "pc": "https://www.microsoft.com/en-us/store/p/last-stop/9NC6BX5R7JKC",
+      "steam": "https://store.steampowered.com/app/1122690/"
+    },
+    "steam": 1122690,
+    "updatedAt": "2021-07-23T09:20:23.382Z"
+  },
+  {
     "slug": "limbo",
     "name": "LIMBO",
     "availability": {
@@ -3213,7 +3224,7 @@
   },
   {
     "slug": "raji-an-ancient-epic",
-    "name": "Raji: An Ancient Epiс",
+    "name": "Raji: An Ancient Epic",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",
       "pc": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",

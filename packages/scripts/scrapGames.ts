@@ -193,6 +193,11 @@ const ALIASES = {
   "Dungeons & Dragons: Dark Alliance": ["Dark Alliance"],
   "Iron Harvest": ["Iron Harvest (Windows)"],
   Prodeus: ["Prodeus (Game Preview)"],
+  "Raji: An Ancient Epic": [
+    // the letter "c" of "Epic" here is not a regular c
+    // but has the char code 1089
+    "Raji: An Ancient Epiс",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "website", "static");

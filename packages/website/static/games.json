@@ -407,6 +407,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "blinx-the-time-sweeper",
+    "name": "BLiNX: The Time Sweeper",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/blinx-the-time-sweeper/BRG51C5MWFSG",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-07-26T09:29:25.545Z"
+  },
+  {
     "slug": "bloodroots",
     "name": "Bloodroots",
     "availability": {
@@ -625,6 +636,17 @@
     },
     "steam": 1028630,
     "updatedAt": "2021-02-25T09:30:20.736Z"
+  },
+  {
+    "slug": "crimson-skies-high-road-to-revenge",
+    "name": "Crimson Skies®: High Road to Revenge™",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/crimson-skies-high-road-to-revenge/C4B8XR1LCXR5",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-07-26T09:29:25.545Z"
   },
   {
     "slug": "cris-tales",

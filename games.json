@@ -2519,15 +2519,15 @@
     "updatedAt": "2021-06-18T09:19:44.687Z"
   },
   {
-    "slug": "microsoft-flight-simulator-standard",
-    "name": "Microsoft Flight Simulator: Standard",
+    "slug": "microsoft-flight-simulator",
+    "name": "Microsoft Flight Simulator",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator/9NRRJLLXM68V",
       "pc": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
       "steam": "https://store.steampowered.com/app/1250410/"
     },
     "steam": 1250410,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-07-28T09:20:30.427Z"
   },
   {
     "slug": "middle-earth-shadow-of-war",

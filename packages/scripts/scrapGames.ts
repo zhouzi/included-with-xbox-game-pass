@@ -198,6 +198,9 @@ const ALIASES = {
     // but has the char code 1089
     "Raji: An Ancient Epiс",
   ],
+  "Microsoft Flight Simulator": [
+    "Microsoft Flight Simulator: Standard Edition",
+  ],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "website", "static");

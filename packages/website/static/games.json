@@ -2523,21 +2523,10 @@
     "name": "Microsoft Flight Simulator",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator/9NRRJLLXM68V",
-      "pc": null,
+      "pc": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
       "steam": "https://store.steampowered.com/app/1250410/"
     },
     "steam": 1250410,
-    "updatedAt": "2021-07-28T09:20:30.427Z"
-  },
-  {
-    "slug": "microsoft-flight-simulator-standard-edition",
-    "name": "Microsoft Flight Simulator: Standard Edition",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
-      "pc": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-07-28T09:20:30.427Z"
   },
   {

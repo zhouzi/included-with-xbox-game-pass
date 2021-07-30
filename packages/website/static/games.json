@@ -3828,6 +3828,17 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "the-ascent",
+    "name": "The Ascent",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/the-ascent",
+      "pc": "https://www.xbox.com/en-us/games/the-ascent",
+      "steam": "https://store.steampowered.com/app/979690/"
+    },
+    "steam": 979690,
+    "updatedAt": "2021-07-30T09:19:50.795Z"
+  },
+  {
     "slug": "the-bard-s-tale-arpg-remastered-and-resnarkled",
     "name": "The Bard's Tale ARPG : Remastered and Resnarkled",
     "availability": {

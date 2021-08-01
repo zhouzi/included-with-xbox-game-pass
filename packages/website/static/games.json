@@ -2211,17 +2211,6 @@
     "updatedAt": "2021-06-24T09:11:25.249Z"
   },
   {
-    "slug": "it-lurks-below",
-    "name": "It Lurks Below",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/it-lurks-below/9PFW68JLS81F",
-      "pc": "https://www.microsoft.com/en-us/store/p/it-lurks-below/9PFW68JLS81F",
-      "steam": "https://store.steampowered.com/app/697550/"
-    },
-    "steam": 697550,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "jetpac-refuelled",
     "name": "Jetpac Refuelled",
     "availability": {
@@ -4070,17 +4059,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "the-touryst",
-    "name": "The Touryst",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/the-touryst/9N9W1JK1X5QJ",
-      "pc": "https://www.microsoft.com/en-us/store/p/the-touryst/9N9W1JK1X5QJ",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "the-walking-dead-a-new-frontier-the-complete-season-episodes-1-5",
     "name": "The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5)",
     "availability": {
@@ -4332,17 +4310,6 @@
     },
     "steam": null,
     "updatedAt": "2021-07-11T09:19:59.196Z"
-  },
-  {
-    "slug": "undermine",
-    "name": "UnderMine",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/undermine/9N52CQMFH3BB",
-      "pc": "https://www.microsoft.com/en-us/store/p/undermine/9N52CQMFH3BB",
-      "steam": "https://store.steampowered.com/app/656350/"
-    },
-    "steam": 656350,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "undertale",

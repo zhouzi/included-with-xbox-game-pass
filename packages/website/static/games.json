@@ -719,21 +719,10 @@
     "name": "Curse of the Dead Gods",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/curse-of-the-dead-gods/9MX9K92M5CSN",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/curse-of-the-dead-gods-pc/9NLW8WFH4RQT",
       "steam": "https://store.steampowered.com/app/1123770/"
     },
     "steam": 1123770,
-    "updatedAt": "2021-08-05T09:19:29.305Z"
-  },
-  {
-    "slug": "curse-of-the-dead-gods-pc",
-    "name": "Curse of the Dead Gods (PC)",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/curse-of-the-dead-gods-pc/9NLW8WFH4RQT",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-08-05T09:19:29.305Z"
   },
   {
@@ -3674,14 +3663,14 @@
     "updatedAt": "2020-12-08T09:19:33.718Z"
   },
   {
-    "slug": "starmancer-game-preview",
-    "name": "Starmancer (Game Preview)",
+    "slug": "starmancer",
+    "name": "Starmancer",
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/starmancer-game-preview/9N0B7G9BHRK4",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1062000/"
     },
-    "steam": null,
+    "steam": 1062000,
     "updatedAt": "2021-08-05T09:19:29.305Z"
   },
   {

@@ -201,6 +201,8 @@ const ALIASES = {
   "Microsoft Flight Simulator": [
     "Microsoft Flight Simulator: Standard Edition",
   ],
+  "Curse of the Dead Gods": ["Curse of the Dead Gods (PC)"],
+  Starmancer: ["Starmancer (Game Preview)"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "website", "static");

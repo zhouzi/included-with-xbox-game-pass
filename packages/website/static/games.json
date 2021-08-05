@@ -715,6 +715,28 @@
     "updatedAt": "2021-04-01T09:25:43.378Z"
   },
   {
+    "slug": "curse-of-the-dead-gods",
+    "name": "Curse of the Dead Gods",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/curse-of-the-dead-gods/9MX9K92M5CSN",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1123770/"
+    },
+    "steam": 1123770,
+    "updatedAt": "2021-08-05T09:19:29.305Z"
+  },
+  {
+    "slug": "curse-of-the-dead-gods-pc",
+    "name": "Curse of the Dead Gods (PC)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/curse-of-the-dead-gods-pc/9NLW8WFH4RQT",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-08-05T09:19:29.305Z"
+  },
+  {
     "slug": "cyber-shadow",
     "name": "Cyber Shadow",
     "availability": {
@@ -2266,6 +2288,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "katamari-damacy-reroll",
+    "name": "Katamari Damacy REROLL",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/katamari-damacy-reroll/9PFWPNP19F1B",
+      "pc": "https://www.microsoft.com/en-us/store/p/katamari-damacy-reroll/9N8X6BC9P0CX",
+      "steam": "https://store.steampowered.com/app/848350/"
+    },
+    "steam": 848350,
+    "updatedAt": "2021-08-05T09:19:29.305Z"
+  },
+  {
     "slug": "katana-zero",
     "name": "Katana Zero",
     "availability": {
@@ -2385,6 +2418,17 @@
     },
     "steam": 711540,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "lumines-remastered",
+    "name": "LUMINES REMASTERED",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/lumines-remastered/BNVQ3TXZ3JH4",
+      "pc": "https://www.microsoft.com/en-us/store/p/lumines-remastered/BNVQ3TXZ3JH4",
+      "steam": "https://store.steampowered.com/app/851670/"
+    },
+    "steam": 851670,
+    "updatedAt": "2021-08-05T09:19:29.305Z"
   },
   {
     "slug": "madden-nfl-19",
@@ -3628,6 +3672,17 @@
     },
     "steam": 211820,
     "updatedAt": "2020-12-08T09:19:33.718Z"
+  },
+  {
+    "slug": "starmancer-game-preview",
+    "name": "Starmancer (Game Preview)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/starmancer-game-preview/9N0B7G9BHRK4",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-08-05T09:19:29.305Z"
   },
   {
     "slug": "state-of-decay-2-juggernaut-edition",

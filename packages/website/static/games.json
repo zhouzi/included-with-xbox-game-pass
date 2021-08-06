@@ -1012,6 +1012,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "dodgeball-academia",
+    "name": "Dodgeball Academia",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dodgeball-academia/9NBHQSQ3621M",
+      "pc": "https://www.microsoft.com/en-us/store/p/dodgeball-academia/9NBHQSQ3621M",
+      "steam": "https://store.steampowered.com/app/1422420/"
+    },
+    "steam": 1422420,
+    "updatedAt": "2021-08-06T09:19:10.654Z"
+  },
+  {
     "slug": "don-t-starve-giant-edition",
     "name": "Don't Starve: Giant Edition",
     "availability": {
@@ -3507,6 +3518,17 @@
     },
     "steam": null,
     "updatedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "slug": "skate",
+    "name": "skate.",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/skate/C3QWNCV55VLL",
+      "pc": null,
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-08-06T09:19:10.654Z"
   },
   {
     "slug": "slay-the-spire",

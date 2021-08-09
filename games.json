@@ -1870,17 +1870,6 @@
     "updatedAt": "2020-10-22T14:19:36.679Z"
   },
   {
-    "slug": "grand-theft-auto-v",
-    "name": "Grand Theft Auto V",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/gta-v",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/362003/"
-    },
-    "steam": 362003,
-    "updatedAt": "2021-04-09T09:34:42.839Z"
-  },
-  {
     "slug": "greedfall",
     "name": "GreedFall",
     "availability": {

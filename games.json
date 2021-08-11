@@ -946,6 +946,17 @@
     "updatedAt": "2021-04-29T09:23:04.089Z"
   },
   {
+    "slug": "dirt-4",
+    "name": "DiRT 4",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dirt-4/C2MBDNDS3H5W",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/421020/"
+    },
+    "steam": 421020,
+    "updatedAt": "2021-08-11T09:19:49.245Z"
+  },
+  {
     "slug": "dirt-5",
     "name": "DIRT 5",
     "availability": {
@@ -955,6 +966,28 @@
     },
     "steam": 1038250,
     "updatedAt": "2021-02-25T09:30:20.736Z"
+  },
+  {
+    "slug": "dirt-rally",
+    "name": "Dirt Rally",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dirt-rally/BZR9GX1MVHCG",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/310560/"
+    },
+    "steam": 310560,
+    "updatedAt": "2021-08-11T09:19:49.245Z"
+  },
+  {
+    "slug": "dirt-rally-2-0",
+    "name": "DiRT Rally 2.0",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/dirt-rally-20/BRPGP6H8P26F",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/690790/"
+    },
+    "steam": 690790,
+    "updatedAt": "2021-08-11T09:19:49.245Z"
   },
   {
     "slug": "disgaea-4-complete",
@@ -1285,6 +1318,17 @@
     },
     "steam": 236850,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "f1-2020",
+    "name": "F1 2020",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/f1-2020/9P5FRHDPNTC6",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/1080110/"
+    },
+    "steam": 1080110,
+    "updatedAt": "2021-08-11T09:19:49.245Z"
   },
   {
     "slug": "f1-2019",
@@ -1881,6 +1925,17 @@
     "updatedAt": "2020-12-10T09:19:57.314Z"
   },
   {
+    "slug": "grid",
+    "name": "GRID",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/grid/BS0PFBB91B3V",
+      "pc": null,
+      "steam": "https://store.steampowered.com/app/12750/"
+    },
+    "steam": 12750,
+    "updatedAt": "2021-08-11T09:19:49.245Z"
+  },
+  {
     "slug": "grim-fandango-remastered",
     "name": "Grim Fandango Remastered",
     "availability": {
@@ -2385,6 +2440,17 @@
     },
     "steam": 553310,
     "updatedAt": "2021-07-29T09:20:10.355Z"
+  },
+  {
+    "slug": "library-of-ruina",
+    "name": "Library Of Ruina",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/library-of-ruina/9PLD3NB588ZL",
+      "pc": "https://www.microsoft.com/en-us/store/p/library-of-ruina/9PLD3NB588ZL",
+      "steam": "https://store.steampowered.com/app/1256670/"
+    },
+    "steam": 1256670,
+    "updatedAt": "2021-08-11T09:19:49.245Z"
   },
   {
     "slug": "limbo",

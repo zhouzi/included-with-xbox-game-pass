@@ -132,6 +132,17 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
+    "slug": "art-of-rally",
+    "name": "art of rally",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/art-of-rally/9P6JQDDZ2MQB",
+      "pc": "https://www.microsoft.com/en-us/store/p/art-of-rally/9P6JQDDZ2MQB",
+      "steam": "https://store.steampowered.com/app/550320/"
+    },
+    "steam": 550320,
+    "updatedAt": "2021-08-12T09:19:33.234Z"
+  },
+  {
     "slug": "arx-fatalis",
     "name": "Arx Fatalis",
     "availability": {
@@ -427,6 +438,17 @@
     },
     "steam": 820540,
     "updatedAt": "2021-07-15T09:20:27.630Z"
+  },
+  {
+    "slug": "boyfriend-dungeon",
+    "name": "Boyfriend Dungeon",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/boyfriend-dungeon/9N5PHZ0D92LD",
+      "pc": "https://www.microsoft.com/en-us/store/p/boyfriend-dungeon/9N5PHZ0D92LD",
+      "steam": "https://store.steampowered.com/app/674930/"
+    },
+    "steam": 674930,
+    "updatedAt": "2021-08-12T09:19:33.234Z"
   },
   {
     "slug": "bridge-constructor-portal",

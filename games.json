@@ -1991,6 +1991,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "hades",
+    "name": "Hades",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/hades",
+      "pc": "https://www.xbox.com/en-us/games/hades",
+      "steam": "https://store.steampowered.com/app/1145360/"
+    },
+    "steam": 1145360,
+    "updatedAt": "2021-08-13T09:19:17.906Z"
+  },
+  {
     "slug": "halo-2-anniversary",
     "name": "Halo 2: Anniversary",
     "availability": {

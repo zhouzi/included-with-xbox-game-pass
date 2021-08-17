@@ -2189,6 +2189,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "humankind",
+    "name": "HUMANKIND™",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/humankind/9PM7HXJ92D6W",
+      "steam": "https://store.steampowered.com/app/1124300/"
+    },
+    "steam": 1124300,
+    "updatedAt": "2021-08-17T18:47:58.102Z"
+  },
+  {
     "slug": "hypnospace-outlaw",
     "name": "Hypnospace Outlaw",
     "availability": {
@@ -2615,7 +2626,7 @@
       "steam": null
     },
     "steam": null,
-    "updatedAt": "2021-08-17T09:19:37.153Z"
+    "updatedAt": "2021-08-17T18:47:58.102Z"
   },
   {
     "slug": "middle-earth-shadow-of-war",

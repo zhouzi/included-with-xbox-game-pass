@@ -99,17 +99,6 @@
     "updatedAt": "2021-03-19T09:26:21.655Z"
   },
   {
-    "slug": "ape-out",
-    "name": "Ape Out",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/ape-out/9NR6DZ9F76P8",
-      "steam": "https://store.steampowered.com/app/447150/"
-    },
-    "steam": 447150,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "ark-survival-evolved-explorer-s-edition",
     "name": "ARK: Survival Evolved Explorer's Edition",
     "availability": {
@@ -682,17 +671,6 @@
     "updatedAt": "2021-07-21T09:20:11.779Z"
   },
   {
-    "slug": "crossing-souls",
-    "name": "Crossing Souls",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/crossing-souls/9PD1Z95CNTW4",
-      "steam": "https://store.steampowered.com/app/331690/"
-    },
-    "steam": 331690,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "crusader-kings-iii",
     "name": "Crusader Kings III",
     "availability": {
@@ -779,17 +757,6 @@
     },
     "steam": 262060,
     "updatedAt": "2021-06-10T09:20:38.163Z"
-  },
-  {
-    "slug": "darksiders-genesis",
-    "name": "Darksiders Genesis",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/BRZ9553VPPBD",
-      "pc": "https://www.microsoft.com/en-us/store/p/darksiders-genesis/9NJ5X04M30HN",
-      "steam": "https://store.steampowered.com/app/710920/"
-    },
-    "steam": 710920,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "day-of-the-tentacle-remastered",
@@ -1076,17 +1043,6 @@
     },
     "steam": 1422420,
     "updatedAt": "2021-08-06T09:19:10.654Z"
-  },
-  {
-    "slug": "don-t-starve-giant-edition",
-    "name": "Don't Starve: Giant Edition",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dont-starve-giant-edition/C0XBNVR137DZ",
-      "pc": "https://www.microsoft.com/en-us/store/p/dont-starve-giant-edition/C0XBNVR137DZ",
-      "steam": "https://store.steampowered.com/app/219740/"
-    },
-    "steam": 219740,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "donut-county",
@@ -1571,17 +1527,6 @@
     },
     "steam": null,
     "updatedAt": "2020-11-10T09:12:53.627Z"
-  },
-  {
-    "slug": "final-fantasy-vii",
-    "name": "FINAL FANTASY VII",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii/BWKXQC5BL5R1",
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB",
-      "steam": "https://store.steampowered.com/app/39140/"
-    },
-    "steam": 39140,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
     "slug": "final-fantasy-viii-remastered",
@@ -2660,6 +2605,17 @@
     },
     "steam": 1250410,
     "updatedAt": "2021-07-28T09:20:30.427Z"
+  },
+  {
+    "slug": "microsoft-solitaire-collection",
+    "name": "Microsoft Solitaire Collection",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/microsoft-solitaire-collection/9WZDNCRFHWD2",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-08-17T09:19:37.153Z"
   },
   {
     "slug": "middle-earth-shadow-of-war",
@@ -4419,17 +4375,6 @@
       "steam": "https://store.steampowered.com/app/585420/"
     },
     "steam": 585420,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "train-sim-world-2020",
-    "name": "Train Sim World® 2020",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9P32WWJ0PJJK",
-      "pc": "https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9PMT49X8ZGM2",
-      "steam": "https://store.steampowered.com/app/530070/"
-    },
-    "steam": 530070,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

@@ -3322,6 +3322,39 @@
     "updatedAt": "2021-07-15T09:20:27.630Z"
   },
   {
+    "slug": "quake",
+    "name": "Quake",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/quake/9P1Z43KRNQD4",
+      "pc": "https://www.microsoft.com/en-us/store/p/quake/9P1Z43KRNQD4",
+      "steam": "https://store.steampowered.com/app/2310/"
+    },
+    "steam": 2310,
+    "updatedAt": "2021-08-20T09:19:09.190Z"
+  },
+  {
+    "slug": "quake-ii",
+    "name": "QUAKE® II",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/quake-ii/9MTXSN4FTFG3",
+      "steam": "https://store.steampowered.com/app/2320/"
+    },
+    "steam": 2320,
+    "updatedAt": "2021-08-20T09:19:09.190Z"
+  },
+  {
+    "slug": "quake-iii-arena",
+    "name": "QUAKE® III Arena",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/quake-iii-arena/9NWNLS28ZG37",
+      "steam": "https://store.steampowered.com/app/2200/"
+    },
+    "steam": 2200,
+    "updatedAt": "2021-08-20T09:19:09.190Z"
+  },
+  {
     "slug": "quantum-break",
     "name": "Quantum Break",
     "availability": {
@@ -3391,12 +3424,12 @@
     "slug": "recompile",
     "name": "Recompile",
     "availability": {
-      "console": null,
+      "console": "https://www.microsoft.com/en-us/store/p/recompile/9PDRJWHBSK88",
       "pc": "https://www.microsoft.com/en-us/store/p/recompile/9PDRJWHBSK88",
       "steam": "https://store.steampowered.com/app/986310/"
     },
     "steam": 986310,
-    "updatedAt": "2021-08-19T09:19:11.835Z"
+    "updatedAt": "2021-08-20T09:19:09.190Z"
   },
   {
     "slug": "recore",
@@ -4420,6 +4453,17 @@
     },
     "steam": 492720,
     "updatedAt": "2021-07-08T09:21:20.349Z"
+  },
+  {
+    "slug": "twelve-minutes",
+    "name": "Twelve Minutes",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/twelve-minutes/9P55TJKCL1BC",
+      "pc": "https://www.microsoft.com/en-us/store/p/twelve-minutes/9P55TJKCL1BC",
+      "steam": "https://store.steampowered.com/app/1097200/"
+    },
+    "steam": 1097200,
+    "updatedAt": "2021-08-20T09:19:09.190Z"
   },
   {
     "slug": "two-point-hospital",

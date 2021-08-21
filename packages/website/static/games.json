@@ -1510,7 +1510,7 @@
     "slug": "fifa-21",
     "name": "FIFA 21",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fifa-21-xbox-series-xs/9PLLM41KB8T2",
+      "console": "https://www.xbox.com/en-us/games/fifa-21",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1313860/"
     },
@@ -2475,17 +2475,6 @@
     "updatedAt": "2021-08-05T09:19:29.305Z"
   },
   {
-    "slug": "madden-nfl-19",
-    "name": "Madden NFL 19",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-19/BVF5ZGD9NM52",
-      "pc": null,
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-03-19T09:26:21.655Z"
-  },
-  {
     "slug": "madden-nfl-20",
     "name": "Madden NFL 20",
     "availability": {
@@ -2500,7 +2489,7 @@
     "slug": "madden-nfl-21",
     "name": "Madden NFL 21",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/madden-nfl-21-xbox-series-xs/9NW6RJDFKV5V",
+      "console": "https://www.xbox.com/en-us/games/madden-21",
       "pc": null,
       "steam": "https://store.steampowered.com/app/1239520/"
     },
@@ -2687,7 +2676,7 @@
     "slug": "mlb-the-show-21",
     "name": "MLB® The Show™ 21",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/mlb-the-show-21-xbox-series-x--s/9NSDL005MBTG",
+      "console": "https://www.microsoft.com/en-us/store/p/mlb-the-show-21-xbox-one/9P7WMQG42GRX",
       "pc": null,
       "steam": null
     },

@@ -3305,9 +3305,9 @@
     "availability": {
       "console": "https://www.xbox.com/en-us/games/playerunknowns-battlegrounds",
       "pc": null,
-      "steam": null
+      "steam": "https://store.steampowered.com/app/578080/"
     },
-    "steam": null,
+    "steam": 578080,
     "updatedAt": "2021-07-15T09:20:27.630Z"
   },
   {

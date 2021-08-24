@@ -2645,9 +2645,9 @@
     "availability": {
       "console": "https://www.xbox.com/en-us/games/minecraft-dungeons",
       "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1672970/"
     },
-    "steam": null,
+    "steam": 1672970,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

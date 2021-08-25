@@ -3300,6 +3300,17 @@
     "updatedAt": "2021-05-14T09:24:52.511Z"
   },
   {
+    "slug": "psychonauts-2",
+    "name": "Psychonauts 2",
+    "availability": {
+      "console": "https://www.xbox.com/en-us/games/psychonauts-2",
+      "pc": "https://www.xbox.com/en-us/games/psychonauts-2",
+      "steam": "https://store.steampowered.com/app/607080/"
+    },
+    "steam": 607080,
+    "updatedAt": "2021-08-25T09:18:28.393Z"
+  },
+  {
     "slug": "pubg-battlegrounds",
     "name": "PUBG: BATTLEGROUNDS",
     "availability": {

@@ -572,17 +572,6 @@
     "updatedAt": "2021-02-18T09:55:01.478Z"
   },
   {
-    "slug": "comanche",
-    "name": "Comanche",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/comanche-game-preview/9N2H2GRB4D0K",
-      "steam": "https://store.steampowered.com/app/879000/"
-    },
-    "steam": 879000,
-    "updatedAt": "2020-11-05T09:20:53.821Z"
-  },
-  {
     "slug": "company-of-heroes-2-complete-collection",
     "name": "Company of Heroes 2: Complete Collection",
     "availability": {
@@ -2759,6 +2748,17 @@
     },
     "steam": 666140,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "myst",
+    "name": "Myst",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/myst/9P6PQLFP9BN0",
+      "pc": "https://www.microsoft.com/en-us/store/p/myst/9P6PQLFP9BN0",
+      "steam": "https://store.steampowered.com/app/1255560/"
+    },
+    "steam": 1255560,
+    "updatedAt": "2021-08-27T09:18:16.051Z"
   },
   {
     "slug": "narita-boy",

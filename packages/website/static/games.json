@@ -385,17 +385,6 @@
     "updatedAt": "2020-11-10T09:12:53.627Z"
   },
   {
-    "slug": "blair-witch",
-    "name": "Blair Witch",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
-      "pc": "https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q",
-      "steam": "https://store.steampowered.com/app/1092660/"
-    },
-    "steam": 1092660,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
     "slug": "bleeding-edge",
     "name": "Bleeding Edge",
     "availability": {
@@ -1119,17 +1108,6 @@
       "steam": "https://store.steampowered.com/app/252350/"
     },
     "steam": 252350,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "double-kick-heroes",
-    "name": "Double Kick Heroes",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/double-kick-heroes/9NJPT63K27W8",
-      "pc": "https://www.microsoft.com/en-us/store/p/double-kick-heroes/9NJPT63K27W8",
-      "steam": "https://store.steampowered.com/app/589670/"
-    },
-    "steam": 589670,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
@@ -2783,17 +2761,6 @@
     "updatedAt": "2021-03-30T09:25:18.740Z"
   },
   {
-    "slug": "nba-2k21",
-    "name": "NBA 2K21",
-    "availability": {
-      "console": "https://www.xbox.com/en-us/games/nba-2k21",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/1225330/"
-    },
-    "steam": 1225330,
-    "updatedAt": "2021-03-04T09:26:29.349Z"
-  },
-  {
     "slug": "nba-live-19",
     "name": "NBA LIVE 19",
     "availability": {
@@ -3858,17 +3825,6 @@
       "steam": "https://store.steampowered.com/app/281990/"
     },
     "steam": 281990,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
-  },
-  {
-    "slug": "stranger-things-3-the-game",
-    "name": "Stranger Things 3: The Game",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9NCT0QGGX6XD",
-      "pc": "https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9PMDDQ228FQD",
-      "steam": "https://store.steampowered.com/app/1097800/"
-    },
-    "steam": 1097800,
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {

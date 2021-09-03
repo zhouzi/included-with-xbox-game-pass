@@ -102,7 +102,7 @@
     "slug": "ark-survival-evolved-explorer-s-edition",
     "name": "ARK: Survival Evolved Explorer's Edition",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/BPP79RSDN892",
+      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
       "steam": "https://store.steampowered.com/app/346110/"
     },
@@ -289,7 +289,7 @@
     "slug": "battlefield-hardline",
     "name": "Battlefield™ Hardline",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/battlefield-hardline/BZKZFMQG2K2K",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238880/"
     },
@@ -300,7 +300,7 @@
     "slug": "battlefield-v",
     "name": "Battlefield™ V",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/battlefield-v/BZ2N7TQ0XCF2",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238810/"
     },
@@ -366,7 +366,7 @@
     "slug": "black-desert",
     "name": "Black Desert",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/black-desert/BTPDCJXNFSZL",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/836620/"
     },
@@ -625,6 +625,17 @@
     },
     "steam": null,
     "updatedAt": "2020-08-01T00:00:00.000Z"
+  },
+  {
+    "slug": "craftopia",
+    "name": "Craftopia",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/craftopia/9NTM9G539XTT",
+      "pc": "https://www.microsoft.com/en-us/store/p/craftopia/9NTM9G539XTT",
+      "steam": "https://store.steampowered.com/app/1307550/"
+    },
+    "steam": 1307550,
+    "updatedAt": "2021-09-03T09:18:30.583Z"
   },
   {
     "slug": "cricket-19",
@@ -1136,7 +1147,7 @@
     "slug": "dragon-age-inquisition",
     "name": "Dragon Age™: Inquisition",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/dragon-age-inquisition/C47GZZBMR5WG",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/1222690/"
     },
@@ -1191,7 +1202,7 @@
     "slug": "ea-sports-rory-mcilroy-pga-tour",
     "name": "EA SPORTS™ Rory McIlroy PGA TOUR®",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-rory-mcilroy-pga-tour/C4PFWZ29P1T1",
+      "console": null,
       "pc": null,
       "steam": null
     },
@@ -1202,7 +1213,7 @@
     "slug": "ea-sports-ufc-3",
     "name": "EA SPORTS™ UFC® 3",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/ea-sports-ufc-3/C5DZH514BX37",
+      "console": null,
       "pc": null,
       "steam": null
     },
@@ -1466,7 +1477,7 @@
     "slug": "fifa-19",
     "name": "FIFA 19",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/fifa-19/C3C71TV51SQC",
+      "console": null,
       "pc": null,
       "steam": null
     },
@@ -1538,6 +1549,17 @@
     },
     "steam": 595520,
     "updatedAt": "2021-02-11T09:20:15.549Z"
+  },
+  {
+    "slug": "final-fantasy-xiii",
+    "name": "FINAL FANTASY XIII",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/final-fantasy-xiii/BSG43BDRN81R",
+      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-xiii/9MTV87HFMF43",
+      "steam": "https://store.steampowered.com/app/292120/"
+    },
+    "steam": 292120,
+    "updatedAt": "2021-09-03T09:18:30.583Z"
   },
   {
     "slug": "five-nights-at-freddy-s",
@@ -1774,7 +1796,7 @@
     "slug": "gears-of-war-ultimate-edition",
     "name": "Gears of War: Ultimate Edition",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition/BQT21VXFS52F",
+      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
       "steam": null
     },
@@ -1983,7 +2005,7 @@
     "slug": "halo-wars-2",
     "name": "Halo Wars 2",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/halo-wars-2/C21TDXKRNMHZ",
+      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM",
       "steam": null
     },
@@ -2522,7 +2544,7 @@
     "slug": "mass-effect-andromeda",
     "name": "Mass Effect™: Andromeda",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/mass-effect-andromeda/BZPR04V49BMH",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/1238000/"
     },
@@ -2654,7 +2676,7 @@
     "slug": "mlb-the-show-21",
     "name": "MLB® The Show™ 21",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/mlb-the-show-21-xbox-one/9P7WMQG42GRX",
+      "console": null,
       "pc": null,
       "steam": null
     },
@@ -2885,7 +2907,7 @@
     "slug": "nhl-94-rewind",
     "name": "NHL® 94 REWIND",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/nhl-94-rewind/9PDGC1Z6ZHTP",
+      "console": null,
       "pc": null,
       "steam": null
     },
@@ -3586,6 +3608,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "signs-of-the-sojourner",
+    "name": "Signs of the Sojourner",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/signs-of-the-sojourner/9ND3N9W1VRV1",
+      "pc": "https://www.microsoft.com/en-us/store/p/signs-of-the-sojourner/9ND3N9W1VRV1",
+      "steam": "https://store.steampowered.com/app/1058690/"
+    },
+    "steam": 1058690,
+    "updatedAt": "2021-09-03T09:18:30.583Z"
+  },
+  {
     "slug": "skate-3",
     "name": "Skate 3",
     "availability": {
@@ -3721,7 +3754,7 @@
     "slug": "star-wars-battlefront",
     "name": "STAR WARS™ Battlefront™",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/star-wars-battlefront/BRXTM276DLPR",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/1237980/"
     },
@@ -3787,7 +3820,7 @@
     "slug": "state-of-decay-year-one",
     "name": "State of Decay: Year-One",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/state-of-decay-year-one/C5JGRR1LFVW8",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/329430/"
     },
@@ -3903,6 +3936,17 @@
     },
     "steam": 813630,
     "updatedAt": "2021-03-25T09:28:17.216Z"
+  },
+  {
+    "slug": "surgeon-simulator-2",
+    "name": "Surgeon Simulator 2",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/surgeon-simulator-2/9P1ZVVW7NRR3",
+      "steam": "https://store.steampowered.com/app/774791/"
+    },
+    "steam": 774791,
+    "updatedAt": "2021-09-03T09:18:30.583Z"
   },
   {
     "slug": "tales-of-vesperia-definitive-edition",
@@ -4304,7 +4348,7 @@
     "slug": "titanfall",
     "name": "Titanfall",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/titanfall/BPB9XVH92Z7T",
+      "console": null,
       "pc": null,
       "steam": "https://store.steampowered.com/app/1454890/"
     },
@@ -4436,7 +4480,7 @@
     "slug": "two-point-hospital",
     "name": "Two Point Hospital™",
     "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9PKM0HK8HKFL",
+      "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9N08S5VPC4SX",
       "steam": "https://store.steampowered.com/app/535930/"
     },

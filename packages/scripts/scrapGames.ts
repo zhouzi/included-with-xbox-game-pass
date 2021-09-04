@@ -322,10 +322,14 @@ async function scrapGames(): Promise<ScrappedGame[]> {
   });
 
   await page.click(`[data-theplat="xbox"]`);
-  await scrapCurrentPageAndGoNext(page, scrappedGames);
+  await scrapCurrentPageAndGoNext(page, scrappedGames, {
+    console: true,
+  });
 
   await page.click(`[data-theplat="pc"]`);
-  await scrapCurrentPageAndGoNext(page, scrappedGames);
+  await scrapCurrentPageAndGoNext(page, scrappedGames, {
+    pc: true,
+  });
 
   browser.close();
 
@@ -334,7 +338,8 @@ async function scrapGames(): Promise<ScrappedGame[]> {
 
 async function scrapCurrentPageAndGoNext(
   page: puppeteer.Page,
-  scrappedGames: ScrappedGame[]
+  scrappedGames: ScrappedGame[],
+  availability: Partial<ScrappedGame["availability"]>
 ): Promise<void> {
   await page.waitForSelector(
     `.gameList [itemtype="http://schema.org/Product"]`
@@ -343,7 +348,7 @@ async function scrapCurrentPageAndGoNext(
   scrappedGames.push(
     ...(await page.$$eval(
       `.gameList [itemtype="http://schema.org/Product"]`,
-      (elements) =>
+      (elements, availability) =>
         elements.map(
           (element): ScrappedGame => ({
             name: element.querySelector("h3")!.textContent!,
@@ -351,9 +356,11 @@ async function scrapCurrentPageAndGoNext(
             availability: {
               console: Boolean(element.querySelector(`[aria-label="Console"]`)),
               pc: Boolean(element.querySelector(`[aria-label="PC"]`)),
+              ...availability,
             },
           })
-        )
+        ),
+      availability
     ))
   );
 
@@ -361,7 +368,7 @@ async function scrapCurrentPageAndGoNext(
     await page.waitForTimeout(random(500, 2000));
     await page.click(".paginatenext:not(.pag-disabled) a");
 
-    return scrapCurrentPageAndGoNext(page, scrappedGames);
+    return scrapCurrentPageAndGoNext(page, scrappedGames, availability);
   } catch (err) {}
 }
 

@@ -1,4 +1,4 @@
-name: Scrap data from various sources
+name: Scrap games list from xbox.com
 on:
   schedule:
     - cron: "0 9 * * *"

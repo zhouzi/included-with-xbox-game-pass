@@ -671,6 +671,17 @@
     "updatedAt": "2021-07-21T09:20:11.779Z"
   },
   {
+    "slug": "crown-trick",
+    "name": "Crown Trick",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/crown-trick/9NGCPXQG3NLZ",
+      "pc": "https://www.microsoft.com/en-us/store/p/crown-trick/9NGCPXQG3NLZ",
+      "steam": "https://store.steampowered.com/app/1000010/"
+    },
+    "steam": 1000010,
+    "updatedAt": "2021-09-07T09:18:18.971Z"
+  },
+  {
     "slug": "crusader-kings-iii",
     "name": "Crusader Kings III",
     "availability": {

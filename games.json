@@ -429,6 +429,17 @@
     "updatedAt": "2021-08-12T09:19:33.234Z"
   },
   {
+    "slug": "breathedge",
+    "name": "Breathedge",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/breathedge/9NR7LV9PB9SD",
+      "pc": "https://www.microsoft.com/en-us/store/p/breathedge/9PHJSGJNX37S",
+      "steam": "https://store.steampowered.com/app/738520/"
+    },
+    "steam": 738520,
+    "updatedAt": "2021-09-09T10:12:42.067Z"
+  },
+  {
     "slug": "bridge-constructor-portal",
     "name": "Bridge Constructor Portal",
     "availability": {
@@ -2970,6 +2981,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "nuclear-throne",
+    "name": "Nuclear Throne",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/nuclear-throne/9PCCFDH6LMQJ",
+      "pc": "https://www.microsoft.com/en-us/store/p/nuclear-throne/9N3K4M5K357L",
+      "steam": "https://store.steampowered.com/app/242680/"
+    },
+    "steam": 242680,
+    "updatedAt": "2021-09-09T10:12:42.067Z"
+  },
+  {
     "slug": "octopath-traveler",
     "name": "OCTOPATH TRAVELER",
     "availability": {
@@ -4002,6 +4024,17 @@
     },
     "steam": 1003590,
     "updatedAt": "2020-11-10T09:12:53.627Z"
+  },
+  {
+    "slug": "the-artful-escape",
+    "name": "The Artful Escape",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-artful-escape/9NGH2MTP0T44",
+      "pc": "https://www.microsoft.com/en-us/store/p/the-artful-escape/9NGH2MTP0T44",
+      "steam": "https://store.steampowered.com/app/1122680/"
+    },
+    "steam": 1122680,
+    "updatedAt": "2021-09-09T10:12:42.067Z"
   },
   {
     "slug": "the-ascent",

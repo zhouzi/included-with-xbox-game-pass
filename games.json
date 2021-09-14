@@ -3476,17 +3476,6 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
-    "slug": "red-dead-online",
-    "name": "Red Dead Online",
-    "availability": {
-      "console": "https://www.microsoft.com/en-us/store/p/red-dead-online/9N3L5FF8M6SW",
-      "pc": null,
-      "steam": "https://store.steampowered.com/app/1404210/"
-    },
-    "steam": 1404210,
-    "updatedAt": "2021-05-14T09:24:52.511Z"
-  },
-  {
     "slug": "remnant-from-the-ashes",
     "name": "Remnant: From the Ashes",
     "availability": {

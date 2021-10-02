@@ -3,8 +3,7 @@
   "name": "@included-with-xbox-game-pass/scripts",
   "version": "0.1.0",
   "scripts": {
-    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scrapGames.ts",
-    "generateNewsletterTemplate": "node --unhandled-rejections=strict -r ts-node/register ./generateNewsletterTemplate.ts"
+    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./scrapGames.ts"
   },
   "dependencies": {
     "@sindresorhus/slugify": "^1.1.0",

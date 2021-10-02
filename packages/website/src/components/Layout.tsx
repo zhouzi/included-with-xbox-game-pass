@@ -84,26 +84,6 @@ const GlobalStyle = createGlobalStyle`
     font-size: 1.2rem;
   }
 
-  .Newsletter {
-    padding: 1.5rem;
-    border-radius: 6px;
-    background-color: var(--color-background-light);
-  }
-  .NewsletterContent {
-    margin-bottom: 1rem;
-  }
-  .NewsletterAction {
-  }
-  @media (min-width: 46rem) {
-    .Newsletter {
-      display: flex;
-    }
-    .NewsletterContent {
-      padding-right: 1rem;
-      margin-bottom: 0;
-    }
-  }
-
   .Footer {
     font-size: 0.8rem;
   }

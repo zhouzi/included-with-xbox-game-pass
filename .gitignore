@@ -142,5 +142,3 @@ public
 # End of https://www.toptal.com/developers/gitignore/api/macos,node
 
 packages/extension/extension.zip
-packages/website/static/newsletter
-packages/scripts/newsletter.md

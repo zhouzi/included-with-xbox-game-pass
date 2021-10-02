@@ -2479,21 +2479,10 @@
     "name": "Lemnis Gate",
     "availability": {
       "console": "https://www.microsoft.com/en-us/store/p/lemnis-gate/9NJG48NJ480C",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/lemnis-gate-windows-edition/9NCVD24B83VS",
       "steam": "https://store.steampowered.com/app/950180/"
     },
     "steam": 950180,
-    "updatedAt": "2021-10-02T09:17:54.834Z"
-  },
-  {
-    "slug": "lemnis-gate-windows-edition",
-    "name": "Lemnis Gate: Windows Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/lemnis-gate-windows-edition/9NCVD24B83VS",
-      "steam": null
-    },
-    "steam": null,
     "updatedAt": "2021-10-02T09:17:54.834Z"
   },
   {
@@ -3800,9 +3789,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/24780/"
     },
-    "steam": null,
+    "steam": 24780,
     "updatedAt": "2021-10-02T09:17:54.834Z"
   },
   {
@@ -4196,9 +4185,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/tainted-grail-conquest/9MZGGWHPKQ4C",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/1199030/"
     },
-    "steam": null,
+    "steam": 1199030,
     "updatedAt": "2021-10-02T09:17:54.834Z"
   },
   {
@@ -4471,9 +4460,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/47890/"
     },
-    "steam": null,
+    "steam": 47890,
     "updatedAt": "2021-10-02T09:17:54.834Z"
   },
   {

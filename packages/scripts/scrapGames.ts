@@ -203,6 +203,7 @@ const ALIASES = {
   ],
   "Curse of the Dead Gods": ["Curse of the Dead Gods (PC)"],
   Starmancer: ["Starmancer (Game Preview)"],
+  "Lemnis Gate": ["Lemnis Gate: Windows Edition"],
 };
 
 const OUTPUT_DIR = path.join(__dirname, "..", "website", "static");

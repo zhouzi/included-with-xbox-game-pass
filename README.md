@@ -24,7 +24,7 @@ This repository contains the source of the browser extension along with a few ot
 Here is an introduction to each of the packages:
 
 - `packages/extension`: code for the browser extension.
-- `packages/scripts`: contains scripts that are usually run through GitHub actions.
+- `packages/scrapper`: code that runs daily to update the list of games.
 - `packages/types`: contains types that are shared across the packages.
 - `packages/website`: contains the source of the website.
 

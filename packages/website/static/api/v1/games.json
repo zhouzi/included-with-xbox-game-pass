@@ -1,0 +1,2228 @@
+[
+  {
+    "name": "A Plague Tale: Innocence",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
+    "slug": "a-plague-tale-innocence",
+    "steamId": 752590
+  },
+  {
+    "name": "A Way Out",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "a-way-out",
+    "steamId": 1222700
+  },
+  {
+    "name": "Age of Empires Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/age-of-empires-definitive-edition/9NJWTJSVGVLJ",
+    "slug": "age-of-empires-definitive-edition",
+    "steamId": 1017900
+  },
+  {
+    "name": "Age of Empires II: Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q",
+    "slug": "age-of-empires-ii-definitive-edition",
+    "steamId": 813780
+  },
+  {
+    "name": "Age of Empires III: Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/age-of-empires-iii-definitive-edition/9N1HF804QXN4",
+    "slug": "age-of-empires-iii-definitive-edition",
+    "steamId": 933110
+  },
+  {
+    "name": "AI: THE SOMNIUM FILES",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/ai-the-somnium-files/9P3RMG6MSCFB",
+    "slug": "ai-the-somnium-files",
+    "steamId": 948740
+  },
+  {
+    "name": "Alien: Isolation",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/alien-isolation/9NSRJ872SGH7",
+    "slug": "alien-isolation",
+    "steamId": 214490
+  },
+  {
+    "name": "Among Us",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/among-us/9NG07QJNK38J",
+    "slug": "among-us",
+    "steamId": 945360
+  },
+  {
+    "name": "Anthem™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "anthem",
+    "steamId": null
+  },
+  {
+    "name": "Aragami 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/aragami-2/9PN9WG83X4XF",
+    "slug": "aragami-2",
+    "steamId": 1158370
+  },
+  {
+    "name": "ARK: Survival Evolved Explorer's Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
+    "slug": "ark-survival-evolved-explorer-s-edition",
+    "steamId": null
+  },
+  {
+    "name": "art of rally",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/art-of-rally/9P6JQDDZ2MQB",
+    "slug": "art-of-rally",
+    "steamId": 550320
+  },
+  {
+    "name": "Arx Fatalis",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/arx-fatalis/9NXQKPGMHH9G",
+    "slug": "arx-fatalis",
+    "steamId": 1700
+  },
+  {
+    "name": "Astria Ascending",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/astria-ascending/9MW7H0DVS9T6",
+    "slug": "astria-ascending",
+    "steamId": 1121780
+  },
+  {
+    "name": "ASTRONEER",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/astroneer/9NBLGGH43KZB",
+    "slug": "astroneer",
+    "steamId": 361420
+  },
+  {
+    "name": "Atomicrops",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/atomicrops/9N7P579VZC33",
+    "slug": "atomicrops",
+    "steamId": 757320
+  },
+  {
+    "name": "Backbone",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/backbone/9NC9TNXS9C8G",
+    "slug": "backbone",
+    "steamId": 865610
+  },
+  {
+    "name": "Battlefield 3™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "battlefield-3",
+    "steamId": 1238820
+  },
+  {
+    "name": "Battlefield 4",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "battlefield-4",
+    "steamId": 1238860
+  },
+  {
+    "name": "Battlefield™ 1",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "battlefield-1",
+    "steamId": 1238840
+  },
+  {
+    "name": "Battlefield™ Hardline",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "battlefield-hardline",
+    "steamId": 1238880
+  },
+  {
+    "name": "Battlefield™ V",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "battlefield-v",
+    "steamId": 1238810
+  },
+  {
+    "name": "BATTLETECH",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/battletech/9NQVDQS2BC10",
+    "slug": "battletech",
+    "steamId": 637090
+  },
+  {
+    "name": "Battletoads",
+    "xboxUrl": "https://www.xbox.com/en-us/games/battletoads",
+    "slug": "battletoads",
+    "steamId": 1244950
+  },
+  {
+    "name": "Bleeding Edge",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/bleeding-edge/9NX6XGVJ0J3D",
+    "slug": "bleeding-edge",
+    "steamId": 1189800
+  },
+  {
+    "name": "Bloodroots",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/bloodroots/9MXPZ33Z9PWH",
+    "slug": "bloodroots",
+    "steamId": 820540
+  },
+  {
+    "name": "Boyfriend Dungeon",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/boyfriend-dungeon/9N5PHZ0D92LD",
+    "slug": "boyfriend-dungeon",
+    "steamId": 674930
+  },
+  {
+    "name": "Breathedge",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/breathedge/9PHJSGJNX37S",
+    "slug": "breathedge",
+    "steamId": 738520
+  },
+  {
+    "name": "Bridge Constructor Portal",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/9PDXF172R7VJ",
+    "slug": "bridge-constructor-portal",
+    "steamId": 684410
+  },
+  {
+    "name": "Bug Fables: The Everlasting Sapling",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/bug-fables-the-everlasting-sapling/9PNNV537W2SN",
+    "slug": "bug-fables-the-everlasting-sapling",
+    "steamId": 1082710
+  },
+  {
+    "name": "Burnout™ Paradise Remastered",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "burnout-paradise-remastered",
+    "steamId": 1238080
+  },
+  {
+    "name": "Call of the Sea",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/call-of-the-sea/9NNG78K7N91K",
+    "slug": "call-of-the-sea",
+    "steamId": 1042490
+  },
+  {
+    "name": "Carrion",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/carrion/9MSMJH3C6TKR",
+    "slug": "carrion",
+    "steamId": 953490
+  },
+  {
+    "name": "Carto",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/carto/9PFS8Q01C2C4",
+    "slug": "carto",
+    "steamId": 1172450
+  },
+  {
+    "name": "Celeste",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/celeste/BWMQL2RPWBHB",
+    "slug": "celeste",
+    "steamId": 504230
+  },
+  {
+    "name": "Children of Morta",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4",
+    "slug": "children-of-morta",
+    "steamId": 330020
+  },
+  {
+    "name": "Cities: Skylines",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/cities-skylines---windows-10-edition/9NWVC7XP3PFD",
+    "slug": "cities-skylines",
+    "steamId": 255710
+  },
+  {
+    "name": "Clustertruck",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/clustertruck/9N8WVMD7J5GQ",
+    "slug": "clustertruck",
+    "steamId": 397950
+  },
+  {
+    "name": "CODE VEIN",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/code-vein/9P59LFQSNB6R",
+    "slug": "code-vein",
+    "steamId": 678960
+  },
+  {
+    "name": "Comanche",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/comanche/9N2H2GRB4D0K",
+    "slug": "comanche",
+    "steamId": 879000
+  },
+  {
+    "name": "Command & Conquer™ Remastered Collection",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "command-and-conquer-remastered-collection",
+    "steamId": 1213210
+  },
+  {
+    "name": "Conan Exiles",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/conan-exiles/C2X6ZCNKN2WR",
+    "slug": "conan-exiles",
+    "steamId": 440900
+  },
+  {
+    "name": "Control",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
+    "slug": "control",
+    "steamId": null
+  },
+  {
+    "name": "Crackdown 3",
+    "xboxUrl": "https://www.xbox.com/en-us/games/crackdown-3",
+    "slug": "crackdown-3",
+    "steamId": null
+  },
+  {
+    "name": "Craftopia",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/craftopia/9NTM9G539XTT",
+    "slug": "craftopia",
+    "steamId": 1307550
+  },
+  {
+    "name": "Cricket 19",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/cricket-19-windows-10/9PHJZZHT860R",
+    "slug": "cricket-19",
+    "steamId": 1028630
+  },
+  {
+    "name": "Cris Tales",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/cris-tales/9N38MH44JD8P",
+    "slug": "cris-tales",
+    "steamId": 1079830
+  },
+  {
+    "name": "Crown Trick",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/crown-trick/9NGCPXQG3NLZ",
+    "slug": "crown-trick",
+    "steamId": 1000010
+  },
+  {
+    "name": "Crusader Kings III",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/crusader-kings-iii/9N7GG222GTTH",
+    "slug": "crusader-kings-iii",
+    "steamId": 1158310
+  },
+  {
+    "name": "Crysis 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "crysis-2",
+    "steamId": 99839
+  },
+  {
+    "name": "Crysis 3",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "crysis-3",
+    "steamId": 1282690
+  },
+  {
+    "name": "Crysis®",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "crysis",
+    "steamId": 17310
+  },
+  {
+    "name": "Curse of the Dead Gods",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/curse-of-the-dead-gods-pc/9NLW8WFH4RQT",
+    "slug": "curse-of-the-dead-gods",
+    "steamId": 1123770
+  },
+  {
+    "name": "Cyber Shadow",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/cyber-shadow/9NX9LJ5JSWH8",
+    "slug": "cyber-shadow",
+    "steamId": 861250
+  },
+  {
+    "name": "Dandy Ace",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dandy-ace/9NQLVQTLPRS1",
+    "slug": "dandy-ace",
+    "steamId": 1037130
+  },
+  {
+    "name": "Darkest Dungeon",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/darkest-dungeon-pc/9PKXZHKXNH8C",
+    "slug": "darkest-dungeon",
+    "steamId": 262060
+  },
+  {
+    "name": "Day of the Tentacle Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/day-of-the-tentacle-remastered/9NKK6CX54183",
+    "slug": "day-of-the-tentacle-remastered",
+    "steamId": 388210
+  },
+  {
+    "name": "Dead by Daylight",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH",
+    "slug": "dead-by-daylight",
+    "steamId": 381210
+  },
+  {
+    "name": "Dead Cells",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK",
+    "slug": "dead-cells",
+    "steamId": 588650
+  },
+  {
+    "name": "Dead Space",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dead-space",
+    "steamId": 17470
+  },
+  {
+    "name": "Dead Space 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dead-space-2",
+    "steamId": 47780
+  },
+  {
+    "name": "Dead Space 3",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dead-space-3",
+    "steamId": 1238060
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/deep-rock-galactic/9NHFVWX1V7QJ",
+    "slug": "deep-rock-galactic",
+    "steamId": 548430
+  },
+  {
+    "name": "Descenders",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/descenders/C37XBX7DCBZ0",
+    "slug": "descenders",
+    "steamId": 681280
+  },
+  {
+    "name": "Desperados III",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/desperados-iii/9P1ZX74WPL68",
+    "slug": "desperados-iii",
+    "steamId": 610370
+  },
+  {
+    "name": "Destroy All Humans!",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/destroy-all-humans/9N7L81J5XW7T",
+    "slug": "destroy-all-humans",
+    "steamId": 803330
+  },
+  {
+    "name": "DIRT 5",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dirt-5/9PJGM0T0827V",
+    "slug": "dirt-5",
+    "steamId": 1038250
+  },
+  {
+    "name": "Dishonored",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dishonored-definitive-edition-pc/9P1N07XDL1D4",
+    "slug": "dishonored",
+    "steamId": 205100
+  },
+  {
+    "name": "Dishonored 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dishonored-2/9MW4RJDRSF78",
+    "slug": "dishonored-2",
+    "steamId": 403640
+  },
+  {
+    "name": "Dishonored®: Death of the Outsider™",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dishonored-death-of-the-outsider-pc/9MVF0PGV94F7",
+    "slug": "dishonored-death-of-the-outsider",
+    "steamId": 614570
+  },
+  {
+    "name": "Disneyland Adventures",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/disneyland-adventures/9N6Z8DQXSQWH",
+    "slug": "disneyland-adventures",
+    "steamId": 630610
+  },
+  {
+    "name": "Dodgeball Academia",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dodgeball-academia/9NBHQSQ3621M",
+    "slug": "dodgeball-academia",
+    "steamId": 1422420
+  },
+  {
+    "name": "Donut County",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/donut-county/9N6V2181GHLM",
+    "slug": "donut-county",
+    "steamId": 702670
+  },
+  {
+    "name": "DOOM",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-1993/9PLZPHBNHTMF",
+    "slug": "doom",
+    "steamId": 379720
+  },
+  {
+    "name": "DOOM 3",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-3/9NSL68D814GC",
+    "slug": "doom-3",
+    "steamId": 9050
+  },
+  {
+    "name": "DOOM 64",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-64/9MXND4PQLK3W",
+    "slug": "doom-64",
+    "steamId": 1148590
+  },
+  {
+    "name": "DOOM Eternal Standard Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
+    "slug": "doom-eternal-standard-edition",
+    "steamId": null
+  },
+  {
+    "name": "DOOM II",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-ii-classic/9PLT62LRF9V7",
+    "slug": "doom-ii",
+    "steamId": null
+  },
+  {
+    "name": "Dragon Age: Origins",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dragon-age-origins",
+    "steamId": 17450
+  },
+  {
+    "name": "Dragon Age™ 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dragon-age-2",
+    "steamId": null
+  },
+  {
+    "name": "Dragon Age™: Inquisition",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dragon-age-inquisition",
+    "steamId": 1222690
+  },
+  {
+    "name": "DRAGON QUEST BUILDERS 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dragon-quest-builders-2/9PFD00CZJ35V",
+    "slug": "dragon-quest-builders-2",
+    "steamId": 1072420
+  },
+  {
+    "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
+    "xboxUrl": "https://www.xbox.com/en-us/games/dragon-quest-xi-s-echoes-of-an-elusive-age",
+    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+    "steamId": 1295510
+  },
+  {
+    "name": "Dungeon Keeper™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dungeon-keeper",
+    "steamId": null
+  },
+  {
+    "name": "Dungeon Keeper™ 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "dungeon-keeper-2",
+    "steamId": null
+  },
+  {
+    "name": "Dungeons & Dragons: Dark Alliance",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dark-alliance/9MZ55WCBW7TK",
+    "slug": "dungeons-and-dragons-dark-alliance",
+    "steamId": 623280
+  },
+  {
+    "name": "Eastshade",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/eastshade/9PLCR0FR564K",
+    "slug": "eastshade",
+    "steamId": 715560
+  },
+  {
+    "name": "Empire of Sin",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/empire-of-sin/9PPSH9GQKLCB",
+    "slug": "empire-of-sin",
+    "steamId": 604540
+  },
+  {
+    "name": "Enter The Gungeon",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/enter-the-gungeon/9NB65S6LFZRT",
+    "slug": "enter-the-gungeon",
+    "steamId": 311690
+  },
+  {
+    "name": "Europa Universalis IV",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/europa-universalis-iv---microsoft-store-edition/9PHQJWGLTZM8",
+    "slug": "europa-universalis-iv",
+    "steamId": 236850
+  },
+  {
+    "name": "F1® 2019",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL",
+    "slug": "f1-2019",
+    "steamId": 928600
+  },
+  {
+    "name": "Fallout",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout/9N42CT1J5WGW",
+    "slug": "fallout",
+    "steamId": 38400
+  },
+  {
+    "name": "Fallout 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-2/9P1JS86M9SXH",
+    "slug": "fallout-2",
+    "steamId": 38410
+  },
+  {
+    "name": "Fallout 3",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-3-game-of-the-year-edition/9NBZ9JF6TFMD",
+    "slug": "fallout-3",
+    "steamId": 22309
+  },
+  {
+    "name": "Fallout 4",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-4-pc/9P71MB9QCF77",
+    "slug": "fallout-4",
+    "steamId": 377160
+  },
+  {
+    "name": "Fallout 76",
+    "xboxUrl": "https://www.xbox.com/en-us/games/fallout-76",
+    "slug": "fallout-76",
+    "steamId": 1151340
+  },
+  {
+    "name": "Fallout Tactics",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-tactics/9NDV7FRVD7ML",
+    "slug": "fallout-tactics",
+    "steamId": 38420
+  },
+  {
+    "name": "Fallout: New Vegas",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas-ultimate-edition/9MZR11JRF7BX",
+    "slug": "fallout-new-vegas",
+    "steamId": 5711
+  },
+  {
+    "name": "Farming Simulator 19 (Windows 10)",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/farming-simulator-19-windows-10/9NC34KWSN4HW",
+    "slug": "farming-simulator-19-windows-10",
+    "steamId": null
+  },
+  {
+    "name": "Fe",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "fe",
+    "steamId": 1225580
+  },
+  {
+    "name": "FIFA 19",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "fifa-19",
+    "steamId": null
+  },
+  {
+    "name": "FIFA 20",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "fifa-20",
+    "steamId": null
+  },
+  {
+    "name": "FIFA 21",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "fifa-21",
+    "steamId": null
+  },
+  {
+    "name": "FINAL FANTASY VIII Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
+    "slug": "final-fantasy-viii-remastered",
+    "steamId": 1026680
+  },
+  {
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/final-fantasy-xx-2-hd-remaster/9NDNP3J6XWVH",
+    "slug": "final-fantasy-x-x-2-hd-remaster",
+    "steamId": 359870
+  },
+  {
+    "name": "FINAL FANTASY XII THE ZODIAC AGE",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/final-fantasy-xii-the-zodiac-age/9NM6NG7KNHWJ",
+    "slug": "final-fantasy-xii-the-zodiac-age",
+    "steamId": 595520
+  },
+  {
+    "name": "FINAL FANTASY XIII",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/final-fantasy-xiii/9MTV87HFMF43",
+    "slug": "final-fantasy-xiii",
+    "steamId": 292120
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys/9N5253J559LR",
+    "slug": "five-nights-at-freddy-s",
+    "steamId": 319510
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-2/9NBR2ZSD99FX",
+    "slug": "five-nights-at-freddy-s-2",
+    "steamId": 332800
+  },
+  {
+    "name": "Five Nights at Freddy's 3",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-3/9P6N7LQ4HZFD",
+    "slug": "five-nights-at-freddy-s-3",
+    "steamId": 354140
+  },
+  {
+    "name": "Five Nights at Freddy's 4",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-4/9PLDLMPLR7JV",
+    "slug": "five-nights-at-freddy-s-4",
+    "steamId": 388090
+  },
+  {
+    "name": "Five Nights at Freddy's: Original Series",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-original-series/9PJ2DSSXZR0P",
+    "slug": "five-nights-at-freddy-s-original-series",
+    "steamId": null
+  },
+  {
+    "name": "Flynn: Son of Crimson",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/flynn-son-of-crimson/9MZNFF29W9ZX",
+    "slug": "flynn-son-of-crimson",
+    "steamId": 737520
+  },
+  {
+    "name": "Football Manager 2021",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/football-manager-2021/9PPMVK9HRHWC",
+    "slug": "football-manager-2021",
+    "steamId": 1263850
+  },
+  {
+    "name": "Forager",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13",
+    "slug": "forager",
+    "steamId": 751780
+  },
+  {
+    "name": "Forza Horizon 4 Standard Edition",
+    "xboxUrl": "https://www.xbox.com/en-us/games/forza-horizon-4",
+    "slug": "forza-horizon-4-standard-edition",
+    "steamId": null
+  },
+  {
+    "name": "Frostpunk",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X",
+    "slug": "frostpunk",
+    "steamId": 323190
+  },
+  {
+    "name": "Full Throttle Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/full-throttle-remastered/9P3ZRGNQVC7D",
+    "slug": "full-throttle-remastered",
+    "steamId": 228360
+  },
+  {
+    "name": "Gang Beasts",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/gang-beasts/BPQZT43FWD49",
+    "slug": "gang-beasts",
+    "steamId": 285900
+  },
+  {
+    "name": "Gears 5",
+    "xboxUrl": "https://www.xbox.com/en-us/games/gears-5",
+    "slug": "gears-5",
+    "steamId": 1097840
+  },
+  {
+    "name": "Gears 5 Game of the Year Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/gears-5-game-of-the-year-edition/9P4KMR76PLLQ",
+    "slug": "gears-5-game-of-the-year-edition",
+    "steamId": null
+  },
+  {
+    "name": "Gears of War 4",
+    "xboxUrl": "https://www.xbox.com/en-us/games/gears-of-war-4",
+    "slug": "gears-of-war-4",
+    "steamId": null
+  },
+  {
+    "name": "Gears of War: Ultimate Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5",
+    "slug": "gears-of-war-ultimate-edition",
+    "steamId": null
+  },
+  {
+    "name": "Gears Tactics",
+    "xboxUrl": "https://www.xbox.com/en-us/games/gears-tactics",
+    "slug": "gears-tactics",
+    "steamId": 1184050
+  },
+  {
+    "name": "Genesis Noir",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/genesis-noir-windows-edition/9MWGGC7JH35B",
+    "slug": "genesis-noir",
+    "steamId": 735290
+  },
+  {
+    "name": "Ghost of a Tale",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/ghost-of-a-tale/9PJR5XZG5CNS",
+    "slug": "ghost-of-a-tale",
+    "steamId": 417290
+  },
+  {
+    "name": "Goat Simulator",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH",
+    "slug": "goat-simulator",
+    "steamId": 265930
+  },
+  {
+    "name": "Going Under",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/going-under/9NX3G3Z38CV2",
+    "slug": "going-under",
+    "steamId": 1154810
+  },
+  {
+    "name": "Golf With Your Friends",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9MVK5W0HMRP7",
+    "slug": "golf-with-your-friends",
+    "steamId": 431240
+  },
+  {
+    "name": "GONNER2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
+    "slug": "gonner2",
+    "steamId": 1117670
+  },
+  {
+    "name": "GreedFall",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
+    "slug": "greedfall",
+    "steamId": 606880
+  },
+  {
+    "name": "Grim Fandango Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/grim-fandango-remastered/9PC288TN7R8K",
+    "slug": "grim-fandango-remastered",
+    "steamId": 316790
+  },
+  {
+    "name": "Grounded",
+    "xboxUrl": "https://www.xbox.com/en-us/games/grounded",
+    "slug": "grounded",
+    "steamId": 962130
+  },
+  {
+    "name": "Guacamelee! 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/guacamelee-2/9NVK1W7L093S",
+    "slug": "guacamelee-2",
+    "steamId": 534550
+  },
+  {
+    "name": "Hades",
+    "xboxUrl": "https://www.xbox.com/en-us/games/hades",
+    "slug": "hades",
+    "steamId": 1145360
+  },
+  {
+    "name": "Halo 2: Anniversary",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-2-anniversary/9P5739G419LD",
+    "slug": "halo-2-anniversary",
+    "steamId": 1064270
+  },
+  {
+    "name": "Halo 3",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-3/9PGL2Z1H9M4R",
+    "slug": "halo-3",
+    "steamId": 1064271
+  },
+  {
+    "name": "Halo 3: ODST",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-3-odst/9P6VZCRGXFMX",
+    "slug": "halo-3-odst",
+    "steamId": 1064272
+  },
+  {
+    "name": "Halo 4",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-4/9P8CFXZH93CK",
+    "slug": "halo-4",
+    "steamId": 1064273
+  },
+  {
+    "name": "Halo Wars 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM",
+    "slug": "halo-wars-2",
+    "steamId": null
+  },
+  {
+    "name": "Halo Wars 2: Standard Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/9NBLGGH515BD",
+    "slug": "halo-wars-2-standard-edition",
+    "steamId": null
+  },
+  {
+    "name": "Halo Wars: Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition-pc/9NBLGGH5WLR0",
+    "slug": "halo-wars-definitive-edition",
+    "steamId": 459220
+  },
+  {
+    "name": "Halo: Combat Evolved Anniversary",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-combat-evolved-anniversary/9NWQMVSB63N4",
+    "slug": "halo-combat-evolved-anniversary",
+    "steamId": 1064221
+  },
+  {
+    "name": "Halo: Reach",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-reach/9N9WZT3PJ27W",
+    "slug": "halo-reach",
+    "steamId": 1064220
+  },
+  {
+    "name": "Halo: Spartan Assault",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-spartan-assault/9WZDNCRFHWFH",
+    "slug": "halo-spartan-assault",
+    "steamId": 277430
+  },
+  {
+    "name": "Halo: Spartan Strike",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-spartan-strike/9WZDNCRFJBFJ",
+    "slug": "halo-spartan-strike",
+    "steamId": 324570
+  },
+  {
+    "name": "Halo: The Master Chief Collection",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX",
+    "slug": "halo-the-master-chief-collection",
+    "steamId": 976730
+  },
+  {
+    "name": "Haven",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/haven/9NZL91Q08XRV",
+    "slug": "haven",
+    "steamId": 983970
+  },
+  {
+    "name": "Hearts of Iron IV: Cadet Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
+    "slug": "hearts-of-iron-iv-cadet-edition",
+    "steamId": null
+  },
+  {
+    "name": "Heave Ho",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/heave-ho/9P8JHRDVBLHB",
+    "slug": "heave-ho",
+    "steamId": 905340
+  },
+  {
+    "name": "Hellblade: Senua's Sacrifice",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/9NCLP4LV5K7Z",
+    "slug": "hellblade-senua-s-sacrifice",
+    "steamId": 414340
+  },
+  {
+    "name": "Hello Neighbor",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40",
+    "slug": "hello-neighbor",
+    "steamId": 521890
+  },
+  {
+    "name": "Hollow Knight",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/hollow-knight/9PKM22F7C9K5",
+    "slug": "hollow-knight",
+    "steamId": 367520
+  },
+  {
+    "name": "Human Fall Flat",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46",
+    "slug": "human-fall-flat",
+    "steamId": 477160
+  },
+  {
+    "name": "HUMANKIND™",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/humankind/9PM7HXJ92D6W",
+    "slug": "humankind",
+    "steamId": 1124300
+  },
+  {
+    "name": "Hypnospace Outlaw",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/hypnospace-outlaw/9PM3NVB3PXG0",
+    "slug": "hypnospace-outlaw",
+    "steamId": 844590
+  },
+  {
+    "name": "I Am Fish",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/i-am-fish/9MXGJ8JZL0LK",
+    "slug": "i-am-fish",
+    "steamId": 1472560
+  },
+  {
+    "name": "Immortal Realms: Vampire Wars",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/immortal-realms-vampire-wars/9P2XMXXFQV5G",
+    "slug": "immortal-realms-vampire-wars",
+    "steamId": 1024480
+  },
+  {
+    "name": "Injustice™ 2 - Standard Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/injustice-2---standard-edition/9PHT4W7WBBDQ",
+    "slug": "injustice-2-standard-edition",
+    "steamId": null
+  },
+  {
+    "name": "Iron Harvest",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/iron-harvest-windows/9NPHVDB4XFJP",
+    "slug": "iron-harvest",
+    "steamId": 826630
+  },
+  {
+    "name": "Jade Empire™: Special Edition",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "jade-empire-special-edition",
+    "steamId": 7110
+  },
+  {
+    "name": "Just Cause 4: Reloaded",
+    "xboxUrl": "https://www.xbox.com/en-us/games/just-cause-4",
+    "slug": "just-cause-4-reloaded",
+    "steamId": null
+  },
+  {
+    "name": "Katamari Damacy REROLL",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/katamari-damacy-reroll/9N8X6BC9P0CX",
+    "slug": "katamari-damacy-reroll",
+    "steamId": 848350
+  },
+  {
+    "name": "Katana Zero",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/katana-zero/9P6CVNVMK56R",
+    "slug": "katana-zero",
+    "steamId": 460950
+  },
+  {
+    "name": "Killer Instinct: Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/9NBLGGH51BMC",
+    "slug": "killer-instinct-definitive-edition",
+    "steamId": null
+  },
+  {
+    "name": "Knights and Bikes",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/knights-and-bikes/9P64KV1HQK07",
+    "slug": "knights-and-bikes",
+    "steamId": 592480
+  },
+  {
+    "name": "Knockout City™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "knockout-city",
+    "steamId": 1301210
+  },
+  {
+    "name": "Last Stop",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/last-stop/9NC6BX5R7JKC",
+    "slug": "last-stop",
+    "steamId": 1122690
+  },
+  {
+    "name": "Lemnis Gate",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/lemnis-gate-windows-edition/9NCVD24B83VS",
+    "slug": "lemnis-gate",
+    "steamId": 950180
+  },
+  {
+    "name": "Lethal League Blaze",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/lethal-league-blaze/9NHPR05080C6",
+    "slug": "lethal-league-blaze",
+    "steamId": 553310
+  },
+  {
+    "name": "Library Of Ruina",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/library-of-ruina/9PLD3NB588ZL",
+    "slug": "library-of-ruina",
+    "steamId": 1256670
+  },
+  {
+    "name": "LIMBO",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/limbo/9PNG83MDD6SH",
+    "slug": "limbo",
+    "steamId": 48000
+  },
+  {
+    "name": "Lonely Mountains: Downhill",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/lonely-mountains-downhill/9MV6MCVLT8GR",
+    "slug": "lonely-mountains-downhill",
+    "steamId": 711540
+  },
+  {
+    "name": "Lost Words: Beyond the Page",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/lost-words-beyond-the-page/9N14MFN0DV4K",
+    "slug": "lost-words-beyond-the-page",
+    "steamId": 599610
+  },
+  {
+    "name": "LUMINES REMASTERED",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/lumines-remastered/BNVQ3TXZ3JH4",
+    "slug": "lumines-remastered",
+    "steamId": 851670
+  },
+  {
+    "name": "Madden NFL 20",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "madden-nfl-20",
+    "steamId": null
+  },
+  {
+    "name": "Madden NFL 21",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "madden-nfl-21",
+    "steamId": 1239520
+  },
+  {
+    "name": "Maneater",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/maneater/9P5B81KVDGP1",
+    "slug": "maneater",
+    "steamId": 629820
+  },
+  {
+    "name": "Marvel's Avengers",
+    "xboxUrl": "https://www.xbox.com/en-us/games/marvels-avengers",
+    "slug": "marvel-s-avengers",
+    "steamId": 997070
+  },
+  {
+    "name": "Mass Effect 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mass-effect-2",
+    "steamId": 24999
+  },
+  {
+    "name": "Mass Effect™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mass-effect",
+    "steamId": null
+  },
+  {
+    "name": "Mass Effect™ 3",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mass-effect-3",
+    "steamId": null
+  },
+  {
+    "name": "Mass Effect™: Andromeda",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mass-effect-andromeda",
+    "steamId": 1238000
+  },
+  {
+    "name": "MechWarrior 5: Mercenaries",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/mechwarrior-5-mercenaries/9PB86W3JK8Z5",
+    "slug": "mechwarrior-5-mercenaries",
+    "steamId": 784080
+  },
+  {
+    "name": "Medal of Honor Airborne™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "medal-of-honor-airborne",
+    "steamId": 24840
+  },
+  {
+    "name": "Medal of Honor Allied Assault™ War Chest",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "medal-of-honor-allied-assault-war-chest",
+    "steamId": null
+  },
+  {
+    "name": "Medieval Dynasty",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/medieval-dynasty/9PDDP6ML6XHF",
+    "slug": "medieval-dynasty",
+    "steamId": 1129580
+  },
+  {
+    "name": "Microsoft Flight Simulator",
+    "xboxUrl": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
+    "slug": "microsoft-flight-simulator",
+    "steamId": 1250410
+  },
+  {
+    "name": "Microsoft Solitaire Collection",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/microsoft-solitaire-collection/9WZDNCRFHWD2",
+    "slug": "microsoft-solitaire-collection",
+    "steamId": null
+  },
+  {
+    "name": "Middle-earth™: Shadow of War™",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/middle-earth-shadow-of-war/9PDV8FKWP3B4",
+    "slug": "middle-earth-shadow-of-war",
+    "steamId": 356190
+  },
+  {
+    "name": "Mighty Goose",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/mighty-goose/9P3W7QMHR450",
+    "slug": "mighty-goose",
+    "steamId": 1299360
+  },
+  {
+    "name": "Minecraft Dungeons",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
+    "slug": "minecraft-dungeons",
+    "steamId": 1672970
+  },
+  {
+    "name": "Mirror's Edge",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mirror-s-edge",
+    "steamId": 17410
+  },
+  {
+    "name": "Mirror's Edge™ Catalyst",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mirror-s-edge-catalyst",
+    "steamId": 1233570
+  },
+  {
+    "name": "Monster Sanctuary",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/monster-sanctuary/9PBWWQGXVMKC",
+    "slug": "monster-sanctuary",
+    "steamId": 814370
+  },
+  {
+    "name": "Monster Train",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/monster-train/9NP4BGBLLLXM",
+    "slug": "monster-train",
+    "steamId": 1102190
+  },
+  {
+    "name": "Moonlighter",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/moonlighter/9P8XJRLCLH2P",
+    "slug": "moonlighter",
+    "steamId": 606150
+  },
+  {
+    "name": "Morkredd",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/morkredd/9PKD7RG0TQP4",
+    "slug": "morkredd",
+    "steamId": 1331910
+  },
+  {
+    "name": "MotoGP™20",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
+    "slug": "motogp-20",
+    "steamId": 1161490
+  },
+  {
+    "name": "Mount & Blade: Warband",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/mount--blade-warband-pc/9PFZC53PVTDB",
+    "slug": "mount-and-blade-warband",
+    "steamId": 48700
+  },
+  {
+    "name": "My Time At Portia",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH",
+    "slug": "my-time-at-portia",
+    "steamId": 666140
+  },
+  {
+    "name": "Myst",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/myst/9P6PQLFP9BN0",
+    "slug": "myst",
+    "steamId": 1255560
+  },
+  {
+    "name": "Narita Boy",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/narita-boy/9NT3FGQC1DFR",
+    "slug": "narita-boy",
+    "steamId": 1069530
+  },
+  {
+    "name": "Need for Speed Rivals",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "need-for-speed-rivals",
+    "steamId": 1262600
+  },
+  {
+    "name": "Need for Speed™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "need-for-speed",
+    "steamId": 1262540
+  },
+  {
+    "name": "Need for Speed™ Heat",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "need-for-speed-heat",
+    "steamId": 1222680
+  },
+  {
+    "name": "Need for Speed™ Hot Pursuit Remastered",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "need-for-speed-hot-pursuit-remastered",
+    "steamId": 1328660
+  },
+  {
+    "name": "Need for Speed™ Most Wanted",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "need-for-speed-most-wanted",
+    "steamId": 1262560
+  },
+  {
+    "name": "Need for Speed™ Payback",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "need-for-speed-payback",
+    "steamId": 1262580
+  },
+  {
+    "name": "Neon Abyss",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/neon-abyss/9PLWSGHFQ4PS",
+    "slug": "neon-abyss",
+    "steamId": 788100
+  },
+  {
+    "name": "Neoverse",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/neoverse/9NNSTP6KJTZ9",
+    "slug": "neoverse",
+    "steamId": 994220
+  },
+  {
+    "name": "New Super Lucky's Tale",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/new-super-luckys-tale/9MZN3SMXN824",
+    "slug": "new-super-lucky-s-tale",
+    "steamId": 1038300
+  },
+  {
+    "name": "NieR:Automata™",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/nierautomata-become-as-gods-edition/9PM2P9HQD1ML",
+    "slug": "nier-automata",
+    "steamId": 524220
+  },
+  {
+    "name": "No Man's Sky",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/no-mans-sky/BQVQTL3PCH05",
+    "slug": "no-man-s-sky",
+    "steamId": 275850
+  },
+  {
+    "name": "Nowhere Prophet",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/nowhere-prophet/9P01NRSZCVR6",
+    "slug": "nowhere-prophet",
+    "steamId": 681730
+  },
+  {
+    "name": "Nuclear Throne",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/nuclear-throne/9N3K4M5K357L",
+    "slug": "nuclear-throne",
+    "steamId": 242680
+  },
+  {
+    "name": "OCTOPATH TRAVELER",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/octopath-traveler/9N9606CC950J",
+    "slug": "octopath-traveler",
+    "steamId": 921570
+  },
+  {
+    "name": "Omno",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/omno/9PJ6C03ZLLQV",
+    "slug": "omno",
+    "steamId": 969760
+  },
+  {
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/9NBLGGH1Z6FB",
+    "slug": "ori-and-the-blind-forest-definitive-edition",
+    "steamId": 387290
+  },
+  {
+    "name": "Ori and the Will of the Wisps",
+    "xboxUrl": "https://www.xbox.com/en-us/games/ori-will-of-the-wisps",
+    "slug": "ori-and-the-will-of-the-wisps",
+    "steamId": 1057090
+  },
+  {
+    "name": "Outlast 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/outlast-2/9N633BP2KCKD",
+    "slug": "outlast-2",
+    "steamId": 414700
+  },
+  {
+    "name": "Overcooked! 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/overcooked-2/9PGB72NFG5JN",
+    "slug": "overcooked-2",
+    "steamId": 728880
+  },
+  {
+    "name": "Pandemic: The Board Game",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/pandemic-the-board-game/9P8Q4W21QQZ2",
+    "slug": "pandemic-the-board-game",
+    "steamId": 622440
+  },
+  {
+    "name": "Pathway",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/pathway/9MW5141C2PRX",
+    "slug": "pathway",
+    "steamId": 546430
+  },
+  {
+    "name": "Peggle®",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "peggle",
+    "steamId": null
+  },
+  {
+    "name": "Phoenix Point",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
+    "slug": "phoenix-point",
+    "steamId": null
+  },
+  {
+    "name": "PHOGS!",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/phogs/9P6X271HLG8Q",
+    "slug": "phogs",
+    "steamId": 850320
+  },
+  {
+    "name": "Pikuniku",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/pikuniku-win10/9N8QNKN5ZKTH",
+    "slug": "pikuniku",
+    "steamId": 572890
+  },
+  {
+    "name": "Pillars of Eternity",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-hero-edition/9P5LZC1KB48V",
+    "slug": "pillars-of-eternity",
+    "steamId": 291650
+  },
+  {
+    "name": "Pillars of Eternity II: Deadfire",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/pillars-of-eternity-2-deadfire---ultimate-edition-pc/9N8N7NZSVTG3",
+    "slug": "pillars-of-eternity-ii-deadfire",
+    "steamId": 560130
+  },
+  {
+    "name": "Plants vs. Zombies",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "plants-vs-zombies",
+    "steamId": 3599
+  },
+  {
+    "name": "Plants vs. Zombies Garden Warfare",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "plants-vs-zombies-garden-warfare",
+    "steamId": null
+  },
+  {
+    "name": "Plants vs. Zombies: Battle for Neighborville™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "plants-vs-zombies-battle-for-neighborville",
+    "steamId": 1262240
+  },
+  {
+    "name": "Plants vs. Zombies™ Garden Warfare 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "plants-vs-zombies-garden-warfare-2",
+    "steamId": null
+  },
+  {
+    "name": "Populous™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "populous",
+    "steamId": null
+  },
+  {
+    "name": "Populous™ II: Trials of the Olympian Gods",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "populous-ii-trials-of-the-olympian-gods",
+    "steamId": null
+  },
+  {
+    "name": "Power Rangers: Battle for the Grid",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/power-rangers-battle-for-the-grid/9P5VMG8D4P4B",
+    "slug": "power-rangers-battle-for-the-grid",
+    "steamId": 1110100
+  },
+  {
+    "name": "Prey",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/prey/9PBC1QFBW563",
+    "slug": "prey",
+    "steamId": 480490
+  },
+  {
+    "name": "Prison Architect",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/prison-architect-pc/9P5S2J2VLLPR",
+    "slug": "prison-architect",
+    "steamId": 233450
+  },
+  {
+    "name": "Prodeus",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/prodeus-game-preview/9MZRSLLWKWDV",
+    "slug": "prodeus",
+    "steamId": 964800
+  },
+  {
+    "name": "Project Wingman",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/project-wingman/9NQ73XB1Q5ZG",
+    "slug": "project-wingman",
+    "steamId": 895870
+  },
+  {
+    "name": "Project Winter",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/project-winter/9P3SX4G50LZ1",
+    "slug": "project-winter",
+    "steamId": 774861
+  },
+  {
+    "name": "Psychonauts",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/psychonauts-windows-10/9NCT87FKQ4GM",
+    "slug": "psychonauts",
+    "steamId": 3830
+  },
+  {
+    "name": "Psychonauts 2",
+    "xboxUrl": "https://www.xbox.com/en-us/games/psychonauts-2",
+    "slug": "psychonauts-2",
+    "steamId": 607080
+  },
+  {
+    "name": "Quake",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/quake/9P1Z43KRNQD4",
+    "slug": "quake",
+    "steamId": 2310
+  },
+  {
+    "name": "QUAKE® II",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/quake-ii/9MTXSN4FTFG3",
+    "slug": "quake-ii",
+    "steamId": 2320
+  },
+  {
+    "name": "QUAKE® III Arena",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/quake-iii-arena/9NWNLS28ZG37",
+    "slug": "quake-iii-arena",
+    "steamId": 2200
+  },
+  {
+    "name": "RAGE 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N",
+    "slug": "rage-2",
+    "steamId": 548570
+  },
+  {
+    "name": "Rain on Your Parade",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/rain-on-your-parade/9NS66QNVR00N",
+    "slug": "rain-on-your-parade",
+    "steamId": 1213230
+  },
+  {
+    "name": "Raji: An Ancient Epic",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/raji-an-ancient-epi/9NH2J7X3MPB0",
+    "slug": "raji-an-ancient-epic",
+    "steamId": 730390
+  },
+  {
+    "name": "Recompile",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/recompile/9PDRJWHBSK88",
+    "slug": "recompile",
+    "steamId": 986310
+  },
+  {
+    "name": "ReCore",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/recore/9NBLGGH1Z6FQ",
+    "slug": "recore",
+    "steamId": null
+  },
+  {
+    "name": "Remnant: From the Ashes",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/remnant-from-the-ashes/9PBHXGWZTS2N",
+    "slug": "remnant-from-the-ashes",
+    "steamId": 617290
+  },
+  {
+    "name": "RESIDENT EVIL 7 biohazard",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/resident-evil-7-biohazard/9NBLGGH4SPK6",
+    "slug": "resident-evil-7-biohazard",
+    "steamId": 418370
+  },
+  {
+    "name": "Rise of Nations: Extended Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/rise-of-nations-extended-edition/9NS84HCWZD8B",
+    "slug": "rise-of-nations-extended-edition",
+    "steamId": 287450
+  },
+  {
+    "name": "River City Girls",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
+    "slug": "river-city-girls",
+    "steamId": 1049320
+  },
+  {
+    "name": "Rocket Arena",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "rocket-arena",
+    "steamId": 1233550
+  },
+  {
+    "name": "Rush: A DisneyPixar Adventure",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ",
+    "slug": "rush-a-disneypixar-adventure",
+    "steamId": null
+  },
+  {
+    "name": "Sable",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/sable/9MZ4V4RG0W81",
+    "slug": "sable",
+    "steamId": 757310
+  },
+  {
+    "name": "SCARLET NEXUS",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/scarlet-nexus/9N9RMHTJX41P",
+    "slug": "scarlet-nexus",
+    "steamId": 775500
+  },
+  {
+    "name": "ScourgeBringer",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/scourgebringer/9NXPV1T3WS34",
+    "slug": "scourgebringer",
+    "steamId": 1037020
+  },
+  {
+    "name": "Sea of Solitude",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "sea-of-solitude",
+    "steamId": 1225590
+  },
+  {
+    "name": "Sea of Thieves",
+    "xboxUrl": "https://www.xbox.com/en-us/games/sea-of-thieves",
+    "slug": "sea-of-thieves",
+    "steamId": 1172620
+  },
+  {
+    "name": "Second Extinction™",
+    "xboxUrl": "https://www.xbox.com/en-us/games/second-extinction",
+    "slug": "second-extinction",
+    "steamId": 1024380
+  },
+  {
+    "name": "Secret Neighbor",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
+    "slug": "secret-neighbor",
+    "steamId": 859570
+  },
+  {
+    "name": "Shadow Warrior 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ",
+    "slug": "shadow-warrior-2",
+    "steamId": 324800
+  },
+  {
+    "name": "Signs of the Sojourner",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/signs-of-the-sojourner/9ND3N9W1VRV1",
+    "slug": "signs-of-the-sojourner",
+    "steamId": 1058690
+  },
+  {
+    "name": "SimCity 2000™ Special Edition",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "simcity-2000-special-edition",
+    "steamId": null
+  },
+  {
+    "name": "SimCity™ 4 Deluxe Edition",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "simcity-4-deluxe-edition",
+    "steamId": null
+  },
+  {
+    "name": "SimCity™: Complete Edition",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "simcity-complete-edition",
+    "steamId": null
+  },
+  {
+    "name": "SkateBIRD",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/skatebird/9PN7NK4D9VCH",
+    "slug": "skatebird",
+    "steamId": 971030
+  },
+  {
+    "name": "Slay The Spire",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B",
+    "slug": "slay-the-spire",
+    "steamId": 646570
+  },
+  {
+    "name": "Slime Rancher",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/slime-rancher/C2NC88M7NWZ1",
+    "slug": "slime-rancher",
+    "steamId": 433340
+  },
+  {
+    "name": "SnowRunner",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/snowrunner-windows-10/9NP6WL1XQDBW",
+    "slug": "snowrunner",
+    "steamId": 1465360
+  },
+  {
+    "name": "Solasta: Crown of the Magister",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/solasta-crown-of-the-magister/9N1KQPLTR7S5",
+    "slug": "solasta-crown-of-the-magister",
+    "steamId": 1096530
+  },
+  {
+    "name": "SpellForce 3: Soul Harvest",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/spellforce-3-soul-harvest/9PC58LJXK3RM",
+    "slug": "spellforce-3-soul-harvest",
+    "steamId": 817540
+  },
+  {
+    "name": "Spiritfarer®",
+    "xboxUrl": "https://www.xbox.com/en-us/games/spiritfarer",
+    "slug": "spiritfarer",
+    "steamId": 972660
+  },
+  {
+    "name": "SPORE™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "spore",
+    "steamId": 17390
+  },
+  {
+    "name": "Star Renegades",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
+    "slug": "star-renegades",
+    "steamId": 651670
+  },
+  {
+    "name": "STAR WARS Jedi: Fallen Order™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "star-wars-jedi-fallen-order",
+    "steamId": 1172380
+  },
+  {
+    "name": "STAR WARS™ Battlefront™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "star-wars-battlefront",
+    "steamId": 1237980
+  },
+  {
+    "name": "STAR WARS™ Battlefront™ II",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "star-wars-battlefront-ii",
+    "steamId": 1237950
+  },
+  {
+    "name": "STAR WARS™: Squadrons",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "star-wars-squadrons",
+    "steamId": 1222730
+  },
+  {
+    "name": "Starbound",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/starbound/9MTSBWPWPQVQ",
+    "slug": "starbound",
+    "steamId": 211820
+  },
+  {
+    "name": "Starmancer",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/starmancer-game-preview/9N0B7G9BHRK4",
+    "slug": "starmancer",
+    "steamId": 1062000
+  },
+  {
+    "name": "State of Decay 2: Juggernaut Edition",
+    "xboxUrl": "https://www.xbox.com/en-us/games/state-of-decay-2",
+    "slug": "state-of-decay-2-juggernaut-edition",
+    "steamId": null
+  },
+  {
+    "name": "Stellaris",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/stellaris/9NXQPGMR917R",
+    "slug": "stellaris",
+    "steamId": 281990
+  },
+  {
+    "name": "Streets of Rage 4",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/streets-of-rage-4/9N7H54KNCB9N",
+    "slug": "streets-of-rage-4",
+    "steamId": 985890
+  },
+  {
+    "name": "Streets of Rogue",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9NKRBSZXQ2HM",
+    "slug": "streets-of-rogue",
+    "steamId": 512900
+  },
+  {
+    "name": "Subnautica",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/subnautica/BX3S1Q5DVHRD",
+    "slug": "subnautica",
+    "steamId": 264710
+  },
+  {
+    "name": "Subnautica: Below Zero",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/subnautica-below-zero/9NDCJXL11096",
+    "slug": "subnautica-below-zero",
+    "steamId": 848450
+  },
+  {
+    "name": "Sunset Overdrive",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/sunset-overdrive/9NNLBL0T2Z43",
+    "slug": "sunset-overdrive",
+    "steamId": 847370
+  },
+  {
+    "name": "Super Lucky's Tale",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/super-luckys-tale/9PLMGFWCFZ9G",
+    "slug": "super-lucky-s-tale",
+    "steamId": 847360
+  },
+  {
+    "name": "SUPERHOT: MIND CONTROL DELETE",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/superhot-mind-control-delete/9NRH78B682L8",
+    "slug": "superhot-mind-control-delete",
+    "steamId": 690040
+  },
+  {
+    "name": "Superliminal",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/superliminal/9NVR4ZQKNBSB",
+    "slug": "superliminal",
+    "steamId": 1049410
+  },
+  {
+    "name": "Supraland",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/supraland/9P75CZFXMS7N",
+    "slug": "supraland",
+    "steamId": 813630
+  },
+  {
+    "name": "Surgeon Simulator 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/surgeon-simulator-2/9P1ZVVW7NRR3",
+    "slug": "surgeon-simulator-2",
+    "steamId": 774791
+  },
+  {
+    "name": "Tainted Grail: Conquest",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/tainted-grail-conquest/9MZGGWHPKQ4C",
+    "slug": "tainted-grail-conquest",
+    "steamId": null
+  },
+  {
+    "name": "Tales of Vesperia™: Definitive Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
+    "slug": "tales-of-vesperia-definitive-edition",
+    "steamId": 738540
+  },
+  {
+    "name": "Tell Me Why: Chapters 1-3",
+    "xboxUrl": "https://www.xbox.com/en-us/games/tell-me-why",
+    "slug": "tell-me-why-chapters-1-3",
+    "steamId": null
+  },
+  {
+    "name": "Tetris® Effect: Connected",
+    "xboxUrl": "https://www.xbox.com/en-us/games/tetris-effect-connected",
+    "slug": "tetris-effect-connected",
+    "steamId": 1003590
+  },
+  {
+    "name": "The Artful Escape",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-artful-escape/9NGH2MTP0T44",
+    "slug": "the-artful-escape",
+    "steamId": 1122680
+  },
+  {
+    "name": "The Ascent",
+    "xboxUrl": "https://www.xbox.com/en-us/games/the-ascent",
+    "slug": "the-ascent",
+    "steamId": 979690
+  },
+  {
+    "name": "The Bard's Tale ARPG : Remastered and Resnarkled",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-bards-tale-arpg--remastered-and-resnarkled/9PN3VDFTB5HZ",
+    "slug": "the-bard-s-tale-arpg-remastered-and-resnarkled",
+    "steamId": null
+  },
+  {
+    "name": "The Bard's Tale IV: Director's Cut",
+    "xboxUrl": "https://www.xbox.com/en-us/games/bards-tale-iv-directors-cut",
+    "slug": "the-bard-s-tale-iv-director-s-cut",
+    "steamId": 1091980
+  },
+  {
+    "name": "The Bard's Tale Trilogy",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-bards-tale-trilogy/9MVN4ND41DD3",
+    "slug": "the-bard-s-tale-trilogy",
+    "steamId": 843260
+  },
+  {
+    "name": "The Catch: Carp & Coarse Fishing",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-catch-carp--coarse-fishing/9P7NH82HZCDF",
+    "slug": "the-catch-carp-and-coarse-fishing",
+    "steamId": 1237610
+  },
+  {
+    "name": "The Dark Pictures Anthology: Man Of Medan",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/9N3TF0CG8NZB",
+    "slug": "the-dark-pictures-anthology-man-of-medan",
+    "steamId": 939850
+  },
+  {
+    "name": "The Elder Scrolls III: Morrowind",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-pc/9PP7XSG5LDH1",
+    "slug": "the-elder-scrolls-iii-morrowind",
+    "steamId": 22320
+  },
+  {
+    "name": "The Elder Scrolls IV: Oblivion",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-pc/9P2J5D12GJL5",
+    "slug": "the-elder-scrolls-iv-oblivion",
+    "steamId": 22330
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-elder-scrolls-v-skyrim-special-edition-pc/9P03JGQ4S1GC",
+    "slug": "the-elder-scrolls-v-skyrim",
+    "steamId": 72850
+  },
+  {
+    "name": "The Evil Within",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-evil-within-pc/9MX8R81JW1B5",
+    "slug": "the-evil-within",
+    "steamId": 268050
+  },
+  {
+    "name": "The Evil Within® 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-evil-within-2-pc/9NT0NT8JQMQN",
+    "slug": "the-evil-within-2",
+    "steamId": 601430
+  },
+  {
+    "name": "The Falconeer",
+    "xboxUrl": "https://www.xbox.com/en-us/games/the-falconeer",
+    "slug": "the-falconeer",
+    "steamId": 1135260
+  },
+  {
+    "name": "The Gardens Between",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
+    "slug": "the-gardens-between",
+    "steamId": 600990
+  },
+  {
+    "name": "The Long Dark",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0",
+    "slug": "the-long-dark",
+    "steamId": 305620
+  },
+  {
+    "name": "The Medium",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-medium/9NFSR96G6K4N",
+    "slug": "the-medium",
+    "steamId": 1293160
+  },
+  {
+    "name": "The Outer Worlds",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-outer-worlds/9MWD2Z8L1FBQ",
+    "slug": "the-outer-worlds",
+    "steamId": 578650
+  },
+  {
+    "name": "The Saboteur™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "the-saboteur",
+    "steamId": null
+  },
+  {
+    "name": "The Sims™ 3",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "the-sims-3",
+    "steamId": null
+  },
+  {
+    "name": "The Sims™ 4",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "the-sims-4",
+    "steamId": 1222670
+  },
+  {
+    "name": "The Surge 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G",
+    "slug": "the-surge-2",
+    "steamId": 644830
+  },
+  {
+    "name": "The Swords of Ditto: Mormo's Curse",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-swords-of-ditto-mormos-curse/9NF2DDV5RTH8",
+    "slug": "the-swords-of-ditto-mormo-s-curse",
+    "steamId": 619780
+  },
+  {
+    "name": "The Wild at Heart",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-wild-at-heart/9NR8ZBSJQ4FD",
+    "slug": "the-wild-at-heart",
+    "steamId": 1093290
+  },
+  {
+    "name": "The Yakuza Remastered Collection",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-yakuza-remastered-collection-for-windows-10/9NBTL551XL5N",
+    "slug": "the-yakuza-remastered-collection",
+    "steamId": null
+  },
+  {
+    "name": "Titanfall",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "titanfall",
+    "steamId": 1454890
+  },
+  {
+    "name": "Titanfall® 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "titanfall-2",
+    "steamId": 1237970
+  },
+  {
+    "name": "Torchlight III",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/torchlight-iii/9N944BP7SMCG",
+    "slug": "torchlight-iii",
+    "steamId": 1030210
+  },
+  {
+    "name": "Torment: Tides of Numenera",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/torment-tides-of-numenera/9NC0071DJ6XC",
+    "slug": "torment-tides-of-numenera",
+    "steamId": 272270
+  },
+  {
+    "name": "Totally Accurate Battle Simulator",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/totally-accurate-battle-simulator/9PC4RWP34M2D",
+    "slug": "totally-accurate-battle-simulator",
+    "steamId": 508440
+  },
+  {
+    "name": "Touhou Luna Nights",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/touhou-luna-nights/9NBLGJQQBHH4",
+    "slug": "touhou-luna-nights",
+    "steamId": 851100
+  },
+  {
+    "name": "Trailmakers",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/trailmakers/9NSFGM8J6MBJ",
+    "slug": "trailmakers",
+    "steamId": 585420
+  },
+  {
+    "name": "Train Sim World® 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/train-sim-world-2/9PBB13RDD77Z",
+    "slug": "train-sim-world-2",
+    "steamId": 1282590
+  },
+  {
+    "name": "Tropico 6",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/tropico-6/9N2VDJVMFKQ9",
+    "slug": "tropico-6",
+    "steamId": 492720
+  },
+  {
+    "name": "Twelve Minutes",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/twelve-minutes/9P55TJKCL1BC",
+    "slug": "twelve-minutes",
+    "steamId": 1097200
+  },
+  {
+    "name": "Two Point Hospital™",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/two-point-hospital/9N08S5VPC4SX",
+    "slug": "two-point-hospital",
+    "steamId": 535930
+  },
+  {
+    "name": "Undertale",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/undertale-pc/9N046HWGQ4J2",
+    "slug": "undertale",
+    "steamId": 391540
+  },
+  {
+    "name": "Unravel",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "unravel",
+    "steamId": 1225560
+  },
+  {
+    "name": "Unravel Two",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "unravel-two",
+    "steamId": 1225570
+  },
+  {
+    "name": "Unruly Heroes",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/unruly-heroes-windows-10/9P3SS6K8ZQ57",
+    "slug": "unruly-heroes",
+    "steamId": 780350
+  },
+  {
+    "name": "UNSIGHTED",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/unsighted/9P31WJ3N46KB",
+    "slug": "unsighted",
+    "steamId": 1062110
+  },
+  {
+    "name": "Unto The End",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/unto-the-end/9MVJ0W5N2L2Q",
+    "slug": "unto-the-end",
+    "steamId": 600080
+  },
+  {
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
+    "slug": "va-11-hall-a-cyberpunk-bartender-action",
+    "steamId": 447530
+  },
+  {
+    "name": "Wasteland 2: Director's Cut",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wasteland-2-directors-cut/C521HDXRTS7F",
+    "slug": "wasteland-2-director-s-cut",
+    "steamId": 404730
+  },
+  {
+    "name": "Wasteland 3",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wasteland-3-pc/9NLT5XR52ZS7",
+    "slug": "wasteland-3",
+    "steamId": 719040
+  },
+  {
+    "name": "Wasteland Remastered",
+    "xboxUrl": "https://www.xbox.com/en-us/games/wasteland-remastered",
+    "slug": "wasteland-remastered",
+    "steamId": 875800
+  },
+  {
+    "name": "We Happy Few",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/we-happy-few/9NBLGGH5342P",
+    "slug": "we-happy-few",
+    "steamId": 320240
+  },
+  {
+    "name": "What Remains of Edith Finch",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/what-remains-of-edith-finch/BSLGLG8P9T01",
+    "slug": "what-remains-of-edith-finch",
+    "steamId": 501300
+  },
+  {
+    "name": "Wilmot's Warehouse",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wilmots-warehouse-win10/9NCHVR5KH0RN",
+    "slug": "wilmot-s-warehouse",
+    "steamId": 839870
+  },
+  {
+    "name": "Wolfenstein II",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
+    "slug": "wolfenstein-ii",
+    "steamId": null
+  },
+  {
+    "name": "Wolfenstein: The New Order",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-new-order-pc/9P75CBJ9WT9W",
+    "slug": "wolfenstein-the-new-order",
+    "steamId": 201810
+  },
+  {
+    "name": "Wolfenstein: The Old Blood",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wolfenstein-the-old-blood-pc/9PBB4QHMSDKR",
+    "slug": "wolfenstein-the-old-blood",
+    "steamId": 350080
+  },
+  {
+    "name": "Wolfenstein: Youngblood",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K",
+    "slug": "wolfenstein-youngblood",
+    "steamId": 1056960
+  },
+  {
+    "name": "World War Z",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/world-war-z/9N015DFDMVK6",
+    "slug": "world-war-z",
+    "steamId": null
+  },
+  {
+    "name": "Worms Rumble",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/worms-rumble/9PCPD8CGKR4L",
+    "slug": "worms-rumble",
+    "steamId": 1186040
+  },
+  {
+    "name": "Worms W.M.D",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99",
+    "slug": "worms-w-m-d",
+    "steamId": 327030
+  },
+  {
+    "name": "Wreckfest",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/wreckfest/9NG06CSMM97P",
+    "slug": "wreckfest",
+    "steamId": 228380
+  },
+  {
+    "name": "Xeno Crisis",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/xeno-crisis/9PNBGZTL0Z1S",
+    "slug": "xeno-crisis",
+    "steamId": 464260
+  },
+  {
+    "name": "Yakuza 0",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM",
+    "slug": "yakuza-0",
+    "steamId": 638970
+  },
+  {
+    "name": "Yakuza 3 Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-3-remastered-for-windows-10/9NC4QMRHCNZK",
+    "slug": "yakuza-3-remastered",
+    "steamId": 1088710
+  },
+  {
+    "name": "Yakuza 4 Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-4-remastered-for-windows-10/9NWZTB9JQG9S",
+    "slug": "yakuza-4-remastered",
+    "steamId": 1105500
+  },
+  {
+    "name": "Yakuza 5 Remastered",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-5-remastered-for-windows-10/9MVX1V7W5SW8",
+    "slug": "yakuza-5-remastered",
+    "steamId": 1105510
+  },
+  {
+    "name": "Yakuza 6: The Song of Life",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-6-the-song-of-life-for-windows-10/9N9WWM5JXCBZ",
+    "slug": "yakuza-6-the-song-of-life",
+    "steamId": 1388590
+  },
+  {
+    "name": "Yakuza Kiwami",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
+    "slug": "yakuza-kiwami",
+    "steamId": 834530
+  },
+  {
+    "name": "Yakuza Kiwami 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
+    "slug": "yakuza-kiwami-2",
+    "steamId": 927380
+  },
+  {
+    "name": "Yakuza: Like a Dragon",
+    "xboxUrl": "https://www.xbox.com/en-us/games/yakuza-like-a-dragon",
+    "slug": "yakuza-like-a-dragon",
+    "steamId": 1235140
+  },
+  {
+    "name": "Yes, Your Grace",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yes-your-grace/9NX14Q0QZD1T",
+    "slug": "yes-your-grace",
+    "steamId": 1115690
+  },
+  {
+    "name": "YIIK: A Postmodern RPG",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
+    "slug": "yiik-a-postmodern-rpg",
+    "steamId": 459080
+  },
+  {
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/yooka-laylee-and-the-impossible-lair/9NB1LCQDPPM1",
+    "slug": "yooka-laylee-and-the-impossible-lair",
+    "steamId": 846870
+  },
+  {
+    "name": "Zombie Army 4: Dead War",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/zombie-army-4-dead-war/9PLSCHRN5715",
+    "slug": "zombie-army-4-dead-war",
+    "steamId": 694280
+  },
+  {
+    "name": "Zoo Tycoon: Ultimate Animal Collection",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/zoo-tycoon-ultimate-animal-collection/9PJ06TZX4NMH",
+    "slug": "zoo-tycoon-ultimate-animal-collection",
+    "steamId": null
+  }
+]

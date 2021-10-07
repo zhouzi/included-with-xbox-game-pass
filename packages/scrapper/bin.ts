@@ -137,7 +137,10 @@ function fixNames(games: Game[]): Game[] {
       "Dead by Daylight Windows",
       "Dead by Daylight: Special Edition",
     ],
-    "DOOM Eternal Standard Edition": ["DOOM Eternal Standard Edition (PC)"],
+    "DOOM Eternal": [
+      "DOOM Eternal Standard Edition",
+      "DOOM Eternal Standard Edition (PC)",
+    ],
     "Fallout 76": ["Fallout 76 - PC"],
     "FINAL FANTASY VII": ["FINAL FANTASY VII WINDOWS EDITION"],
     "FINAL FANTASY VIII Remastered": [
@@ -316,6 +319,14 @@ function fixNames(games: Game[]): Game[] {
     "Curse of the Dead Gods": ["Curse of the Dead Gods (PC)"],
     Starmancer: ["Starmancer (Game Preview)"],
     "Lemnis Gate": ["Lemnis Gate: Windows Edition"],
+    "ARK: Survival Evolved Explorer's Edition": ["ARK: Survival Evolved"],
+    "Farming Simulator 19": ["Farming Simulator 19 (Windows 10)"],
+    "Five Nights at Freddy's": ["Five Nights at Freddy's: Original Series"],
+    "Forza Horizon 4": ["Forza Horizon 4 Standard Edition"],
+    "Gears 5": ["Gears 5 Game of the Year Edition"],
+    "Hearts of Iron IV": ["Hearts of Iron IV: Cadet Edition"],
+    "Injustice™ 2": ["Injustice™ 2 - Standard Edition"],
+    "Killer Instinct": ["Killer Instinct: Definitive Edition"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

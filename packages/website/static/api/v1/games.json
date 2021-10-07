@@ -60,10 +60,10 @@
     "steamId": 1158370
   },
   {
-    "name": "ARK: Survival Evolved Explorer's Edition",
+    "name": "ARK: Survival Evolved",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
-    "slug": "ark-survival-evolved-explorer-s-edition",
-    "steamId": null
+    "slug": "ark-survival-evolved",
+    "steamId": 346110
   },
   {
     "name": "art of rally",
@@ -255,7 +255,7 @@
     "name": "Control",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
     "slug": "control",
-    "steamId": null
+    "steamId": 870780
   },
   {
     "name": "Crackdown 3",
@@ -456,16 +456,16 @@
     "steamId": 1148590
   },
   {
-    "name": "DOOM Eternal Standard Edition",
+    "name": "DOOM Eternal",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-eternal-standard-edition-pc/9PK09BL31FK1",
-    "slug": "doom-eternal-standard-edition",
-    "steamId": null
+    "slug": "doom-eternal",
+    "steamId": 782330
   },
   {
     "name": "DOOM II",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/doom-ii-classic/9PLT62LRF9V7",
     "slug": "doom-ii",
-    "steamId": null
+    "steamId": 2300
   },
   {
     "name": "Dragon Age: Origins",
@@ -477,7 +477,7 @@
     "name": "Dragon Age™ 2",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "dragon-age-2",
-    "steamId": null
+    "steamId": 1238040
   },
   {
     "name": "Dragon Age™: Inquisition",
@@ -588,10 +588,10 @@
     "steamId": 5711
   },
   {
-    "name": "Farming Simulator 19 (Windows 10)",
+    "name": "Farming Simulator 19",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/farming-simulator-19-windows-10/9NC34KWSN4HW",
-    "slug": "farming-simulator-19-windows-10",
-    "steamId": null
+    "slug": "farming-simulator-19",
+    "steamId": 787860
   },
   {
     "name": "Fe",
@@ -666,10 +666,10 @@
     "steamId": 388090
   },
   {
-    "name": "Five Nights at Freddy's: Original Series",
+    "name": "Five Nights at Freddy's",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-original-series/9PJ2DSSXZR0P",
-    "slug": "five-nights-at-freddy-s-original-series",
-    "steamId": null
+    "slug": "five-nights-at-freddy-s",
+    "steamId": 319510
   },
   {
     "name": "Flynn: Son of Crimson",
@@ -690,10 +690,10 @@
     "steamId": 751780
   },
   {
-    "name": "Forza Horizon 4 Standard Edition",
+    "name": "Forza Horizon 4",
     "xboxUrl": "https://www.xbox.com/en-us/games/forza-horizon-4",
-    "slug": "forza-horizon-4-standard-edition",
-    "steamId": null
+    "slug": "forza-horizon-4",
+    "steamId": 1293830
   },
   {
     "name": "Frostpunk",
@@ -720,10 +720,10 @@
     "steamId": 1097840
   },
   {
-    "name": "Gears 5 Game of the Year Edition",
+    "name": "Gears 5",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/gears-5-game-of-the-year-edition/9P4KMR76PLLQ",
-    "slug": "gears-5-game-of-the-year-edition",
-    "steamId": null
+    "slug": "gears-5",
+    "steamId": 1097840
   },
   {
     "name": "Gears of War 4",
@@ -888,10 +888,10 @@
     "steamId": 983970
   },
   {
-    "name": "Hearts of Iron IV: Cadet Edition",
+    "name": "Hearts of Iron IV",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
-    "slug": "hearts-of-iron-iv-cadet-edition",
-    "steamId": null
+    "slug": "hearts-of-iron-iv",
+    "steamId": 394360
   },
   {
     "name": "Heave Ho",
@@ -948,10 +948,10 @@
     "steamId": 1024480
   },
   {
-    "name": "Injustice™ 2 - Standard Edition",
+    "name": "Injustice™ 2",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/injustice-2---standard-edition/9PHT4W7WBBDQ",
-    "slug": "injustice-2-standard-edition",
-    "steamId": null
+    "slug": "injustice-2",
+    "steamId": 627270
   },
   {
     "name": "Iron Harvest",
@@ -969,7 +969,7 @@
     "name": "Just Cause 4: Reloaded",
     "xboxUrl": "https://www.xbox.com/en-us/games/just-cause-4",
     "slug": "just-cause-4-reloaded",
-    "steamId": null
+    "steamId": 517630
   },
   {
     "name": "Katamari Damacy REROLL",
@@ -984,10 +984,10 @@
     "steamId": 460950
   },
   {
-    "name": "Killer Instinct: Definitive Edition",
+    "name": "Killer Instinct",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/9NBLGGH51BMC",
-    "slug": "killer-instinct-definitive-edition",
-    "steamId": null
+    "slug": "killer-instinct",
+    "steamId": 577940
   },
   {
     "name": "Knights and Bikes",
@@ -1083,13 +1083,13 @@
     "name": "Mass Effect™",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "mass-effect",
-    "steamId": null
+    "steamId": 17460
   },
   {
     "name": "Mass Effect™ 3",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "mass-effect-3",
-    "steamId": null
+    "steamId": 1238020
   },
   {
     "name": "Mass Effect™: Andromeda",
@@ -1353,7 +1353,7 @@
     "name": "Phoenix Point",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
     "slug": "phoenix-point",
-    "steamId": null
+    "steamId": 839770
   },
   {
     "name": "PHOGS!",
@@ -1509,7 +1509,7 @@
     "name": "ReCore",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/recore/9NBLGGH1Z6FQ",
     "slug": "recore",
-    "steamId": null
+    "steamId": 537450
   },
   {
     "name": "Remnant: From the Ashes",
@@ -1545,7 +1545,7 @@
     "name": "Rush: A DisneyPixar Adventure",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ",
     "slug": "rush-a-disneypixar-adventure",
-    "steamId": null
+    "steamId": 579490
   },
   {
     "name": "Sable",
@@ -1611,7 +1611,7 @@
     "name": "SimCity™ 4 Deluxe Edition",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "simcity-4-deluxe-edition",
-    "steamId": null
+    "steamId": 24780
   },
   {
     "name": "SimCity™: Complete Edition",
@@ -1713,7 +1713,7 @@
     "name": "State of Decay 2: Juggernaut Edition",
     "xboxUrl": "https://www.xbox.com/en-us/games/state-of-decay-2",
     "slug": "state-of-decay-2-juggernaut-edition",
-    "steamId": null
+    "steamId": 495420
   },
   {
     "name": "Stellaris",
@@ -1785,7 +1785,7 @@
     "name": "Tainted Grail: Conquest",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/tainted-grail-conquest/9MZGGWHPKQ4C",
     "slug": "tainted-grail-conquest",
-    "steamId": null
+    "steamId": 1199030
   },
   {
     "name": "Tales of Vesperia™: Definitive Edition",
@@ -1797,7 +1797,7 @@
     "name": "Tell Me Why: Chapters 1-3",
     "xboxUrl": "https://www.xbox.com/en-us/games/tell-me-why",
     "slug": "tell-me-why-chapters-1-3",
-    "steamId": null
+    "steamId": 1238430
   },
   {
     "name": "Tetris® Effect: Connected",
@@ -1917,7 +1917,7 @@
     "name": "The Sims™ 3",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "the-sims-3",
-    "steamId": null
+    "steamId": 47890
   },
   {
     "name": "The Sims™ 4",
@@ -2097,7 +2097,7 @@
     "name": "Wolfenstein II",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
     "slug": "wolfenstein-ii",
-    "steamId": null
+    "steamId": 612880
   },
   {
     "name": "Wolfenstein: The New Order",
@@ -2223,6 +2223,6 @@
     "name": "Zoo Tycoon: Ultimate Animal Collection",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/zoo-tycoon-ultimate-animal-collection/9PJ06TZX4NMH",
     "slug": "zoo-tycoon-ultimate-animal-collection",
-    "steamId": null
+    "steamId": 613880
   }
 ]

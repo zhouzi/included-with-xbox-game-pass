@@ -96,6 +96,12 @@
     "steamId": 757320
   },
   {
+    "name": "Back 4 Blood",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/back-4-blood-standard-edition/BXLL06QN8HVP",
+    "slug": "back-4-blood",
+    "steamId": 924970
+  },
+  {
     "name": "Backbone",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/backbone/9NC9TNXS9C8G",
     "slug": "backbone",
@@ -309,7 +315,7 @@
     "name": "Crysis®",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "crysis",
-    "steamId": 17300
+    "steamId": 17310
   },
   {
     "name": "Curse of the Dead Gods",
@@ -388,6 +394,12 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/desperados-iii/9P1ZX74WPL68",
     "slug": "desperados-iii",
     "steamId": 610370
+  },
+  {
+    "name": "Destiny 2",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/destiny-2/9P9WJ5FW0GTD",
+    "slug": "destiny-2",
+    "steamId": 1085660
   },
   {
     "name": "Destroy All Humans!",

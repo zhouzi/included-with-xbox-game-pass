@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "@included-with-xbox-game-pass/scrapper",
+  "version": "0.1.0",
+  "scripts": {
+    "scrapGames": "node --unhandled-rejections=strict -r ts-node/register ./bin.ts",
+    "generateLegacyList": "node --unhandled-rejections=strict -r ts-node/register ./generateLegacyList.ts"
+  },
+  "dependencies": {
+    "@sindresorhus/slugify": "1.1.0",
+    "@types/fs-extra": "^9.0.13",
+    "alpha-sort": "4.0.0",
+    "fs-extra": "^10.0.0",
+    "got": "^11.8.2",
+    "puppeteer": "^10.4.0",
+    "random-int": "2.0.1",
+    "typescript": "^4.4.3"
+  }
+}

@@ -309,7 +309,7 @@
     "name": "Crysis®",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "crysis",
-    "steamId": 17310
+    "steamId": 17300
   },
   {
     "name": "Curse of the Dead Gods",
@@ -666,12 +666,6 @@
     "steamId": 388090
   },
   {
-    "name": "Five Nights at Freddy's",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-original-series/9PJ2DSSXZR0P",
-    "slug": "five-nights-at-freddy-s",
-    "steamId": 319510
-  },
-  {
     "name": "Flynn: Son of Crimson",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/flynn-son-of-crimson/9MZNFF29W9ZX",
     "slug": "flynn-son-of-crimson",
@@ -716,12 +710,6 @@
   {
     "name": "Gears 5",
     "xboxUrl": "https://www.xbox.com/en-us/games/gears-5",
-    "slug": "gears-5",
-    "steamId": 1097840
-  },
-  {
-    "name": "Gears 5",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/gears-5-game-of-the-year-edition/9P4KMR76PLLQ",
     "slug": "gears-5",
     "steamId": 1097840
   },
@@ -1908,6 +1896,12 @@
     "steamId": 578650
   },
   {
+    "name": "The Procession to Calvary",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-procession-to-calvary/9NW7S04QK7XV",
+    "slug": "the-procession-to-calvary",
+    "steamId": 1071130
+  },
+  {
     "name": "The Saboteur™",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "the-saboteur",
@@ -2056,6 +2050,12 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
     "slug": "va-11-hall-a-cyberpunk-bartender-action",
     "steamId": 447530
+  },
+  {
+    "name": "Visage",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/visage/9P9V698V6MVR",
+    "slug": "visage",
+    "steamId": 594330
   },
   {
     "name": "Wasteland 2: Director's Cut",

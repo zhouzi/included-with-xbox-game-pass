@@ -198,6 +198,17 @@
     "updatedAt": "2021-07-22T09:20:09.281Z"
   },
   {
+    "slug": "back-4-blood-standard-edition",
+    "name": "Back 4 Blood: Standard Edition",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/back-4-blood-standard-edition/BXLL06QN8HVP",
+      "pc": "https://www.microsoft.com/en-us/store/p/back-4-blood-standard-edition/BXLL06QN8HVP",
+      "steam": null
+    },
+    "steam": null,
+    "updatedAt": "2021-10-13T09:20:30.638Z"
+  },
+  {
     "slug": "backbone",
     "name": "Backbone",
     "availability": {
@@ -950,11 +961,11 @@
     "name": "Destiny 2",
     "availability": {
       "console": "https://www.xbox.com/en-us/games/destiny-2",
-      "pc": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/destiny-2/9P9WJ5FW0GTD",
       "steam": "https://store.steampowered.com/app/1085660/"
     },
     "steam": 1085660,
-    "updatedAt": "2020-08-01T00:00:00.000Z"
+    "updatedAt": "2021-10-13T09:20:30.638Z"
   },
   {
     "slug": "destiny-2-beyond-light",
@@ -4444,6 +4455,17 @@
     "updatedAt": "2020-08-01T00:00:00.000Z"
   },
   {
+    "slug": "the-procession-to-calvary",
+    "name": "The Procession to Calvary",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/the-procession-to-calvary/9NW7S04QK7XV",
+      "pc": "https://www.microsoft.com/en-us/store/p/the-procession-to-calvary/9NW7S04QK7XV",
+      "steam": "https://store.steampowered.com/app/1071130/"
+    },
+    "steam": 1071130,
+    "updatedAt": "2021-10-13T09:20:30.638Z"
+  },
+  {
     "slug": "the-saboteur",
     "name": "The Saboteur™",
     "availability": {
@@ -4827,6 +4849,17 @@
     },
     "steam": 447530,
     "updatedAt": "2020-12-17T09:20:43.814Z"
+  },
+  {
+    "slug": "visage",
+    "name": "Visage",
+    "availability": {
+      "console": "https://www.microsoft.com/en-us/store/p/visage/9P9V698V6MVR",
+      "pc": "https://www.microsoft.com/en-us/store/p/visage/9P9V698V6MVR",
+      "steam": "https://store.steampowered.com/app/594330/"
+    },
+    "steam": 594330,
+    "updatedAt": "2021-10-13T09:20:30.638Z"
   },
   {
     "slug": "viva-pinata",

@@ -1524,6 +1524,12 @@
     "steamId": 418370
   },
   {
+    "name": "Ring of Pain",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/ring-of-pain/9MZCCHNRK9R1",
+    "slug": "ring-of-pain",
+    "steamId": 998740
+  },
+  {
     "name": "Rise of Nations: Extended Edition",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/rise-of-nations-extended-edition/9NS84HCWZD8B",
     "slug": "rise-of-nations-extended-edition",
@@ -1912,6 +1918,12 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-procession-to-calvary/9NW7S04QK7XV",
     "slug": "the-procession-to-calvary",
     "steamId": 1071130
+  },
+  {
+    "name": "The Riftbreaker",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-riftbreaker-pc/9NN8PGK5JDN5",
+    "slug": "the-riftbreaker",
+    "steamId": 780310
   },
   {
     "name": "The Saboteur™",

@@ -2794,6 +2794,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "ring-of-pain",
+    "name": "Ring of Pain",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/ring-of-pain/9MZCCHNRK9R1",
+      "steam": "https://store.steampowered.com/app/998740/"
+    },
+    "steam": 998740,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "rise-of-nations-extended-edition",
     "name": "Rise of Nations: Extended Edition",
     "availability": {
@@ -3506,6 +3517,17 @@
       "steam": "https://store.steampowered.com/app/1071130/"
     },
     "steam": 1071130,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-riftbreaker",
+    "name": "The Riftbreaker",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-riftbreaker-pc/9NN8PGK5JDN5",
+      "steam": "https://store.steampowered.com/app/780310/"
+    },
+    "steam": 780310,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

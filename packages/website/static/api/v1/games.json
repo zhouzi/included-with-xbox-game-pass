@@ -1425,7 +1425,7 @@
     "name": "Prey",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/prey/9PBC1QFBW563",
     "slug": "prey",
-    "steamId": 480490
+    "steamId": 3970
   },
   {
     "name": "Prison Architect",
@@ -1894,6 +1894,12 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
     "slug": "the-gardens-between",
     "steamId": 600990
+  },
+  {
+    "name": "The Good Life",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-good-life/9MSP68027100",
+    "slug": "the-good-life",
+    "steamId": 293340
   },
   {
     "name": "The Long Dark",

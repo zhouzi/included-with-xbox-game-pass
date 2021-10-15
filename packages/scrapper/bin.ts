@@ -362,15 +362,19 @@ async function addSteamId(games: Game[]) {
   // It is huge and pretty expensive to iterate over so we need to do it as little as possible.
   // That's why we don't loop over the games and try to find a corresponding steam id but do the opposite.
   // We iterate over all steam games and try to match them with the list of Xbox Game Pass games.
-  apps.forEach((app) => {
-    const slug = slugifyName(app.name);
+  apps
+    // The list is ordered in ascending order, starting from the smallest appid to the greatest.
+    // A game might exist with several appids, the one with the greatest appid is usually the most up to date.
+    .reverse()
+    .forEach((app) => {
+      const slug = slugifyName(app.name);
 
-    games.forEach((game) => {
-      if (game.slug === slug) {
-        game.steamId = app.appid;
-      }
+      games.forEach((game) => {
+        if (game.slug === slug) {
+          game.steamId = app.appid;
+        }
+      });
     });
-  });
 
   return games;
 }

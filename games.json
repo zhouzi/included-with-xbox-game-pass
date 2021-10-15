@@ -3476,6 +3476,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "the-good-life",
+    "name": "The Good Life",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-good-life/9MSP68027100",
+      "steam": "https://store.steampowered.com/app/293340/"
+    },
+    "steam": 293340,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "the-long-dark",
     "name": "The Long Dark",
     "availability": {

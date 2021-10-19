@@ -303,7 +303,7 @@
     "name": "Crysis 2",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "crysis-2",
-    "steamId": 99839
+    "steamId": 99830
   },
   {
     "name": "Crysis 3",
@@ -573,7 +573,7 @@
     "name": "Fallout 3",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-3-game-of-the-year-edition/9NBZ9JF6TFMD",
     "slug": "fallout-3",
-    "steamId": 22309
+    "steamId": 22300
   },
   {
     "name": "Fallout 4",
@@ -597,7 +597,7 @@
     "name": "Fallout: New Vegas",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout-new-vegas-ultimate-edition/9MZR11JRF7BX",
     "slug": "fallout-new-vegas",
-    "steamId": 5711
+    "steamId": 22449
   },
   {
     "name": "Farming Simulator 19",
@@ -774,12 +774,6 @@
     "steamId": 431240
   },
   {
-    "name": "GONNER2",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
-    "slug": "gonner2",
-    "steamId": 1117670
-  },
-  {
     "name": "GreedFall",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/greedfall---windows-10/9PB79JST8PDH",
     "slug": "greedfall",
@@ -894,12 +888,6 @@
     "steamId": 394360
   },
   {
-    "name": "Heave Ho",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/heave-ho/9P8JHRDVBLHB",
-    "slug": "heave-ho",
-    "steamId": 905340
-  },
-  {
     "name": "Hellblade: Senua's Sacrifice",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/9NCLP4LV5K7Z",
     "slug": "hellblade-senua-s-sacrifice",
@@ -976,12 +964,6 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/katamari-damacy-reroll/9N8X6BC9P0CX",
     "slug": "katamari-damacy-reroll",
     "steamId": 848350
-  },
-  {
-    "name": "Katana Zero",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/katana-zero/9P6CVNVMK56R",
-    "slug": "katana-zero",
-    "steamId": 460950
   },
   {
     "name": "Killer Instinct",
@@ -1326,6 +1308,12 @@
     "steamId": 414700
   },
   {
+    "name": "OUTRIDERS",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/outriders/C083G6BGJ334",
+    "slug": "outriders",
+    "steamId": 680420
+  },
+  {
     "name": "Overcooked! 2",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/overcooked-2/9PGB72NFG5JN",
     "slug": "overcooked-2",
@@ -1425,7 +1413,7 @@
     "name": "Prey",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/prey/9PBC1QFBW563",
     "slug": "prey",
-    "steamId": 480490
+    "steamId": 3970
   },
   {
     "name": "Prison Architect",
@@ -1564,12 +1552,6 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/scarlet-nexus/9N9RMHTJX41P",
     "slug": "scarlet-nexus",
     "steamId": 775500
-  },
-  {
-    "name": "ScourgeBringer",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/scourgebringer/9NXPV1T3WS34",
-    "slug": "scourgebringer",
-    "steamId": 1037020
   },
   {
     "name": "Sea of Solitude",
@@ -1794,12 +1776,6 @@
     "steamId": 1199030
   },
   {
-    "name": "Tales of Vesperia™: Definitive Edition",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
-    "slug": "tales-of-vesperia-definitive-edition",
-    "steamId": 738540
-  },
-  {
     "name": "Tell Me Why: Chapters 1-3",
     "xboxUrl": "https://www.xbox.com/en-us/games/tell-me-why",
     "slug": "tell-me-why-chapters-1-3",
@@ -1954,12 +1930,6 @@
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G",
     "slug": "the-surge-2",
     "steamId": 644830
-  },
-  {
-    "name": "The Swords of Ditto: Mormo's Curse",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-swords-of-ditto-mormos-curse/9NF2DDV5RTH8",
-    "slug": "the-swords-of-ditto-mormo-s-curse",
-    "steamId": 619780
   },
   {
     "name": "The Wild at Heart",

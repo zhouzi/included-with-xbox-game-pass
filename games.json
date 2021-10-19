@@ -478,9 +478,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/control-standard-edition/9PL1J8PJKH29",
-      "steam": "https://store.steampowered.com/app/870780/"
+      "steam": null
     },
-    "steam": 870780,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -874,9 +874,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/doom-ii-classic/9PLT62LRF9V7",
-      "steam": "https://store.steampowered.com/app/2300/"
+      "steam": null
     },
-    "steam": 2300,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -896,9 +896,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/1238040/"
+      "steam": null
     },
-    "steam": 1238040,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -1419,17 +1419,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "gonner2",
-    "name": "GONNER2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/gonner2-win10/9P44W70MC99Z",
-      "steam": "https://store.steampowered.com/app/1117670/"
-    },
-    "steam": 1117670,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "greedfall",
     "name": "GreedFall",
     "availability": {
@@ -1639,17 +1628,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "heave-ho",
-    "name": "Heave Ho",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/heave-ho/9P8JHRDVBLHB",
-      "steam": "https://store.steampowered.com/app/905340/"
-    },
-    "steam": 905340,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "hellblade-senua-s-sacrifice",
     "name": "Hellblade: Senua's Sacrifice",
     "availability": {
@@ -1776,9 +1754,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-us/games/just-cause-4",
-      "steam": "https://store.steampowered.com/app/517630/"
+      "steam": null
     },
-    "steam": 517630,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -1790,17 +1768,6 @@
       "steam": "https://store.steampowered.com/app/848350/"
     },
     "steam": 848350,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "katana-zero",
-    "name": "Katana Zero",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/katana-zero/9P6CVNVMK56R",
-      "steam": "https://store.steampowered.com/app/460950/"
-    },
-    "steam": 460950,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -1985,9 +1952,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/17460/"
+      "steam": null
     },
-    "steam": 17460,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -1996,9 +1963,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/1238020/"
+      "steam": null
     },
-    "steam": 1238020,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2431,6 +2398,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "outriders",
+    "name": "OUTRIDERS",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/outriders/C083G6BGJ334",
+      "steam": "https://store.steampowered.com/app/680420/"
+    },
+    "steam": 680420,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "overcooked-2",
     "name": "Overcooked! 2",
     "availability": {
@@ -2480,9 +2458,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J",
-      "steam": "https://store.steampowered.com/app/839770/"
+      "steam": null
     },
-    "steam": 839770,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2766,9 +2744,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/recore/9NBLGGH1Z6FQ",
-      "steam": "https://store.steampowered.com/app/537450/"
+      "steam": null
     },
-    "steam": 537450,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2843,9 +2821,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ",
-      "steam": "https://store.steampowered.com/app/579490/"
+      "steam": null
     },
-    "steam": 579490,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2868,17 +2846,6 @@
       "steam": "https://store.steampowered.com/app/775500/"
     },
     "steam": 775500,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "scourgebringer",
-    "name": "ScourgeBringer",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/scourgebringer/9NXPV1T3WS34",
-      "steam": "https://store.steampowered.com/app/1037020/"
-    },
-    "steam": 1037020,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2964,9 +2931,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/24780/"
+      "steam": null
     },
-    "steam": 24780,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3151,9 +3118,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-us/games/state-of-decay-2",
-      "steam": "https://store.steampowered.com/app/495420/"
+      "steam": null
     },
-    "steam": 495420,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3283,20 +3250,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/tainted-grail-conquest/9MZGGWHPKQ4C",
-      "steam": "https://store.steampowered.com/app/1199030/"
+      "steam": null
     },
-    "steam": 1199030,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "tales-of-vesperia-definitive-edition",
-    "name": "Tales of Vesperia™: Definitive Edition",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/tales-of-vesperia-definitive-edition/9N5QWL08HRTR",
-      "steam": "https://store.steampowered.com/app/738540/"
-    },
-    "steam": 738540,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3305,9 +3261,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-us/games/tell-me-why",
-      "steam": "https://store.steampowered.com/app/1238430/"
+      "steam": null
     },
-    "steam": 1238430,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3481,9 +3437,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/the-good-life/9MSP68027100",
-      "steam": "https://store.steampowered.com/app/293340/"
+      "steam": "https://store.steampowered.com/app/1452500/"
     },
-    "steam": 293340,
+    "steam": 1452500,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3558,9 +3514,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/47890/"
+      "steam": null
     },
-    "steam": 47890,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3583,17 +3539,6 @@
       "steam": "https://store.steampowered.com/app/644830/"
     },
     "steam": 644830,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "the-swords-of-ditto-mormo-s-curse",
-    "name": "The Swords of Ditto: Mormo's Curse",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/the-swords-of-ditto-mormos-curse/9NF2DDV5RTH8",
-      "steam": "https://store.steampowered.com/app/619780/"
-    },
-    "steam": 619780,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3899,9 +3844,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/wolfenstein-ii-standard-edition/9NDBKK9G0FHL",
-      "steam": "https://store.steampowered.com/app/612880/"
+      "steam": null
     },
-    "steam": 612880,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4130,9 +4075,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.microsoft.com/en-us/store/p/zoo-tycoon-ultimate-animal-collection/9PJ06TZX4NMH",
-      "steam": "https://store.steampowered.com/app/613880/"
+      "steam": null
     },
-    "steam": 613880,
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   }
 ]

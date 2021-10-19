@@ -10,7 +10,7 @@ interface Game {
   slug: string;
   name: string;
   xboxUrl: string;
-  steamId: number | null;
+  steamIds: number[];
 }
 
 (async () => {
@@ -27,7 +27,7 @@ interface Game {
 
   const games = sortGames(
     await addSteamId(
-      addExistingSteamId(
+      addExistingSteamIds(
         dedupeGames(fixNames(sortGames(await scrapGames()))),
         existingGames
       )
@@ -86,7 +86,7 @@ async function extractGames(
     ).map((game) => ({
       ...game,
       slug: slugifyName(game.name),
-      steamId: null,
+      steamIds: [],
     }))
   );
 
@@ -334,7 +334,7 @@ function dedupeGames(games: Game[]) {
   );
 }
 
-function addExistingSteamId(games: Game[], existingGames: Game[]) {
+function addExistingSteamIds(games: Game[], existingGames: Game[]) {
   return games.map((game) => {
     const existingGame = existingGames.find(
       (otherExistingGame) => otherExistingGame.slug === game.slug
@@ -343,7 +343,7 @@ function addExistingSteamId(games: Game[], existingGames: Game[]) {
     if (existingGame) {
       return {
         ...game,
-        steamId: existingGame.steamId,
+        steamIds: existingGame.steamIds,
       };
     }
 
@@ -362,19 +362,19 @@ async function addSteamId(games: Game[]) {
   // It is huge and pretty expensive to iterate over so we need to do it as little as possible.
   // That's why we don't loop over the games and try to find a corresponding steam id but do the opposite.
   // We iterate over all steam games and try to match them with the list of Xbox Game Pass games.
-  apps
-    // The list is ordered in ascending order, starting from the smallest appid to the greatest.
-    // A game might exist with several appids, the one with the greatest appid is usually the most up to date.
-    .reverse()
-    .forEach((app) => {
-      const slug = slugifyName(app.name);
+  apps.forEach((app) => {
+    const slug = slugifyName(app.name);
 
-      games.forEach((game) => {
-        if (game.slug === slug) {
-          game.steamId = app.appid;
-        }
-      });
+    games.forEach((game) => {
+      if (game.slug === slug) {
+        game.steamIds = game.steamIds
+          .concat([app.appid])
+          .filter(
+            (steamId, index, steamIds) => steamIds.indexOf(steamId) === index
+          );
+      }
     });
+  });
 
   return games;
 }

@@ -180,7 +180,7 @@
     "name": "Back 4 Blood",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/back-4-blood-standard-edition/BXLL06QN8HVP",
+      "pc": "https://www.microsoft.com/en-us/store/p/back-4-blood/BXLL06QN8HVP",
       "steam": "https://store.steampowered.com/app/924970/"
     },
     "steam": 924970,
@@ -1724,6 +1724,17 @@
       "steam": "https://store.steampowered.com/app/627270/"
     },
     "steam": 627270,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "into-the-pit",
+    "name": "Into the Pit",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/into-the-pit/9NCFNFTSBM96",
+      "steam": "https://store.steampowered.com/app/1422410/"
+    },
+    "steam": 1422410,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

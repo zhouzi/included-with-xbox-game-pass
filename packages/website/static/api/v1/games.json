@@ -127,7 +127,7 @@
   },
   {
     "name": "Back 4 Blood",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/back-4-blood-standard-edition/BXLL06QN8HVP",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/back-4-blood/BXLL06QN8HVP",
     "slug": "back-4-blood",
     "steamIds": [
       924970
@@ -1230,6 +1230,14 @@
     "slug": "injustice-2",
     "steamIds": [
       627270
+    ]
+  },
+  {
+    "name": "Into the Pit",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/into-the-pit/9NCFNFTSBM96",
+    "slug": "into-the-pit",
+    "steamIds": [
+      1422410
     ]
   },
   {

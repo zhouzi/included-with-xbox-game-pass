@@ -1,10 +1,10 @@
+import { Game } from "@included-with-xbox-game-pass/types";
 import React from "dom-chef";
 import { RouteName } from "../routes";
-import { CachedGame } from "../getGames";
 import getGame from "../getGame";
 import { XboxLogo } from "./badge";
 
-function createPlayButton(game: CachedGame) {
+function createPlayButton(game: Game) {
   return (
     <div className="game_area_purchase_game_wrapper game_purchase_sub_dropdown">
       <div className="game_area_already_owned master_sub">
@@ -34,10 +34,7 @@ function createPlayButton(game: CachedGame) {
         <div className="game_area_purchase_game_dropdown_right_panel">
           <div className="game_purchase_action_bg">
             <div className="btn_addtocart">
-              <a
-                href={game.availability.pc}
-                className="btn_green_steamui btn_medium"
-              >
+              <a href={game.xboxUrl} className="btn_green_steamui btn_medium">
                 <span>Play</span>
               </a>
             </div>

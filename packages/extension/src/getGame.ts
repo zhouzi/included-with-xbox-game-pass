@@ -1,12 +1,12 @@
-import getGames, { CachedGame } from "./getGames";
+import { Game } from "@included-with-xbox-game-pass/types";
+import getGames from "./getGames";
 
-export default async function getGame(url: string): Promise<CachedGame | null> {
+export default async function getGame(url: string): Promise<Game | null> {
   const games = await getGames();
-  const game = games.find(
-    (game) =>
-      game.availability.pc &&
-      game.steam != null &&
-      url.startsWith(`https://store.steampowered.com/app/${game.steam}/`)
+  const game = games.find((game) =>
+    game.steamIds.some((steamId) =>
+      url.startsWith(`https://store.steampowered.com/app/${steamId}/`)
+    )
   );
 
   return game ?? null;

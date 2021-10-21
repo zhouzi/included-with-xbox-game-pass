@@ -7,6 +7,7 @@
     "generateLegacyList": "node --unhandled-rejections=strict -r ts-node/register ./generateLegacyList.ts"
   },
   "dependencies": {
+    "@included-with-xbox-game-pass/types": "file:../types",
     "@sindresorhus/slugify": "1.1.0",
     "@types/fs-extra": "^9.0.13",
     "alpha-sort": "4.0.0",

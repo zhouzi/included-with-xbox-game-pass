@@ -3,27 +3,11 @@ import { Game } from "@included-with-xbox-game-pass/types";
 
 const API_HOST =
   process.env.NODE_ENV === "production"
-    ? "https://included-with-xbox-game-pass.gabin.app/"
+    ? "https://included-with-xbox-game-pass.gabin.app/api/v1"
     : "http://localhost:1234/";
 const API_ENDPOINT = new URL("./games.json", API_HOST).href;
 
-// The response's API is cached so the cache might fall out of date at some point.
-// By copying Game, we are making sure Typescript will throw an error if we were
-// to use something that is available in the API but not in the cache.
-export interface CachedGame {
-  name: string;
-  availability: {
-    console: string;
-    pc: string;
-  };
-  steam: number | null;
-}
-
-export default storageCache.function<
-  CachedGame[],
-  () => Promise<CachedGame[]>,
-  never
->(
+export default storageCache.function<Game[], () => Promise<Game[]>, never>(
   async () => {
     const res = await fetch(API_ENDPOINT);
     const json: Game[] = await res.json();
@@ -34,6 +18,6 @@ export default storageCache.function<
     maxAge: {
       days: 1,
     },
-    cacheKey: () => "games",
+    cacheKey: () => API_HOST,
   }
 );

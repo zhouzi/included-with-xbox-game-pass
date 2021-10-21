@@ -5,13 +5,7 @@ import randomInt from "random-int";
 import slugify from "@sindresorhus/slugify";
 import got from "got";
 import alphaSort from "alpha-sort";
-
-interface Game {
-  slug: string;
-  name: string;
-  xboxUrl: string;
-  steamIds: number[];
-}
+import { Game } from "@included-with-xbox-game-pass/types";
 
 (async () => {
   const outputPath = path.join(

@@ -699,6 +699,14 @@
     ]
   },
   {
+    "name": "Echo Generation",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/echo-generation/9NN7M263513G",
+    "slug": "echo-generation",
+    "steamIds": [
+      1072300
+    ]
+  },
+  {
     "name": "Empire of Sin",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/empire-of-sin/9PPSH9GQKLCB",
     "slug": "empire-of-sin",

@@ -1023,6 +1023,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "everspace-2",
+    "name": "EVERSPACE™ 2",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/everspace-2-game-preview/9PFX7F33KVG8",
+      "steam": "https://store.steampowered.com/app/1128920/"
+    },
+    "steam": 1128920,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "f1-2019",
     "name": "F1® 2019",
     "availability": {

@@ -731,10 +731,12 @@
     ]
   },
   {
-    "name": "EVERSPACE™ 2 (Game Preview)",
+    "name": "EVERSPACE™ 2",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/everspace-2-game-preview/9PFX7F33KVG8",
-    "slug": "everspace-2-game-preview",
-    "steamIds": []
+    "slug": "everspace-2",
+    "steamIds": [
+      1128920
+    ]
   },
   {
     "name": "F1® 2019",

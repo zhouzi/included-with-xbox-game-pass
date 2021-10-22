@@ -305,6 +305,7 @@ function fixNames(games: Game[]): Game[] {
     "Killer Instinct": ["Killer Instinct: Definitive Edition"],
     "Back 4 Blood": ["Back 4 Blood: Standard Edition"],
     "The Riftbreaker": ["The Riftbreaker PC"],
+    "EVERSPACE™ 2": ["EVERSPACE™ 2 (Game Preview)"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

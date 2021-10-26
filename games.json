@@ -2156,6 +2156,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "moonglow-bay",
+    "name": "Moonglow Bay",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/moonglow-bay/9P7VCSGBP9KL",
+      "steam": "https://store.steampowered.com/app/1361400/"
+    },
+    "steam": 1361400,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "moonlighter",
     "name": "Moonlighter",
     "availability": {

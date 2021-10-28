@@ -198,6 +198,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "bassmaster-fishing-2022",
+    "name": "Bassmaster® Fishing 2022",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/bassmaster-fishing-2022/9MTTMQ6WSDP8",
+      "steam": "https://store.steampowered.com/app/1449500/"
+    },
+    "steam": 1449500,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "battlefield-3",
     "name": "Battlefield 3™",
     "availability": {
@@ -2365,6 +2376,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "nongunz-doppelganger-edition",
+    "name": "Nongunz: Doppelganger Edition",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/nongunz-doppelganger-edition/9NRDVCW02JD7",
+      "steam": "https://store.steampowered.com/app/1304780/"
+    },
+    "steam": 1304780,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "nowhere-prophet",
     "name": "Nowhere Prophet",
     "availability": {
@@ -3462,6 +3484,17 @@
       "steam": "https://store.steampowered.com/app/1135260/"
     },
     "steam": 1135260,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-forgotten-city",
+    "name": "The Forgotten City",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/the-forgotten-city/9NJ4R763M7TH",
+      "steam": "https://store.steampowered.com/app/874260/"
+    },
+    "steam": 874260,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

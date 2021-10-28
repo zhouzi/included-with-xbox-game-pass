@@ -142,6 +142,14 @@
     ]
   },
   {
+    "name": "Bassmaster® Fishing 2022",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/bassmaster-fishing-2022/9MTTMQ6WSDP8",
+    "slug": "bassmaster-fishing-2022",
+    "steamIds": [
+      1449500
+    ]
+  },
+  {
     "name": "Battlefield 3™",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "battlefield-3",
@@ -1685,6 +1693,14 @@
     ]
   },
   {
+    "name": "Nongunz: Doppelganger Edition",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/nongunz-doppelganger-edition/9NRDVCW02JD7",
+    "slug": "nongunz-doppelganger-edition",
+    "steamIds": [
+      1304780
+    ]
+  },
+  {
     "name": "Nowhere Prophet",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/nowhere-prophet/9P01NRSZCVR6",
     "slug": "nowhere-prophet",
@@ -2453,6 +2469,14 @@
     "slug": "the-falconeer",
     "steamIds": [
       1135260
+    ]
+  },
+  {
+    "name": "The Forgotten City",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-forgotten-city/9NJ4R763M7TH",
+    "slug": "the-forgotten-city",
+    "steamIds": [
+      874260
     ]
   },
   {

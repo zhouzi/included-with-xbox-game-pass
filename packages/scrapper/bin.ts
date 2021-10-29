@@ -130,7 +130,10 @@ function fixNames(games: Game[]): Game[] {
     Grounded: ["Grounded - Game Preview"],
     "Halo Wars: Definitive Edition": ["Halo Wars: Definitive Edition (PC)"],
     "Katana Zero": ["Katana Zero XB1"],
-    "Minecraft Dungeons": ["Minecraft Dungeons - Windows 10"],
+    "Minecraft Dungeons": [
+      "Minecraft Dungeons - Windows 10",
+      "Minecraft Dungeons for Windows",
+    ],
     "Night in the Woods": ["Night in the Woods Win10"],
     "RAGE 2": ["RAGE 2 (PC)"],
     "The Surge 2": ["The Surge 2 - Windows 10"],

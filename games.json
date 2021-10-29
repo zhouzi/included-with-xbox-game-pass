@@ -55,6 +55,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "age-of-empires-iv",
+    "name": "Age of Empires IV",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/age-of-empires-iv/9N94NCGM1Q2N",
+      "steam": "https://store.steampowered.com/app/1466860/"
+    },
+    "steam": 1466860,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "ai-the-somnium-files",
     "name": "AI: THE SOMNIUM FILES",
     "availability": {
@@ -63,6 +74,17 @@
       "steam": "https://store.steampowered.com/app/948740/"
     },
     "steam": 948740,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "alan-wake-s-american-nightmare",
+    "name": "Alan Wake's American Nightmare",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/alan-wakes-american-nightmare/9P6ZJT035WVV",
+      "steam": "https://store.steampowered.com/app/202750/"
+    },
+    "steam": 202750,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2116,7 +2138,7 @@
     "name": "Minecraft Dungeons",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
+      "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons-for-windows/9P8MK4NC0LJB",
       "steam": "https://store.steampowered.com/app/1672970/"
     },
     "steam": 1672970,

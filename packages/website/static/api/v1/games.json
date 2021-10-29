@@ -40,11 +40,27 @@
     ]
   },
   {
+    "name": "Age of Empires IV",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/age-of-empires-iv/9N94NCGM1Q2N",
+    "slug": "age-of-empires-iv",
+    "steamIds": [
+      1466860
+    ]
+  },
+  {
     "name": "AI: THE SOMNIUM FILES",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/ai-the-somnium-files/9P3RMG6MSCFB",
     "slug": "ai-the-somnium-files",
     "steamIds": [
       948740
+    ]
+  },
+  {
+    "name": "Alan Wake's American Nightmare",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/alan-wakes-american-nightmare/9P6ZJT035WVV",
+    "slug": "alan-wake-s-american-nightmare",
+    "steamIds": [
+      202750
     ]
   },
   {
@@ -1501,12 +1517,10 @@
     ]
   },
   {
-    "name": "Minecraft Dungeons",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB",
-    "slug": "minecraft-dungeons",
-    "steamIds": [
-      1672970
-    ]
+    "name": "Minecraft Dungeons for Windows",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons-for-windows/9P8MK4NC0LJB",
+    "slug": "minecraft-dungeons-for-windows",
+    "steamIds": []
   },
   {
     "name": "Mirror's Edge",

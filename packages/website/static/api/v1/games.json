@@ -1517,10 +1517,12 @@
     ]
   },
   {
-    "name": "Minecraft Dungeons for Windows",
+    "name": "Minecraft Dungeons",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons-for-windows/9P8MK4NC0LJB",
-    "slug": "minecraft-dungeons-for-windows",
-    "steamIds": []
+    "slug": "minecraft-dungeons",
+    "steamIds": [
+      1672970
+    ]
   },
   {
     "name": "Mirror's Edge",

@@ -294,22 +294,6 @@
     ]
   },
   {
-    "name": "Carto",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/carto/9PFS8Q01C2C4",
-    "slug": "carto",
-    "steamIds": [
-      1172450
-    ]
-  },
-  {
-    "name": "Celeste",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/celeste/BWMQL2RPWBHB",
-    "slug": "celeste",
-    "steamIds": [
-      504230
-    ]
-  },
-  {
     "name": "Children of Morta",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4",
     "slug": "children-of-morta",
@@ -339,14 +323,6 @@
     "slug": "code-vein",
     "steamIds": [
       678960
-    ]
-  },
-  {
-    "name": "Comanche",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/comanche/9N2H2GRB4D0K",
-    "slug": "comanche",
-    "steamIds": [
-      879000
     ]
   },
   {
@@ -715,14 +691,6 @@
     ]
   },
   {
-    "name": "Eastshade",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/eastshade/9PLCR0FR564K",
-    "slug": "eastshade",
-    "steamIds": [
-      715560
-    ]
-  },
-  {
     "name": "Echo Generation",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/echo-generation/9NN7M263513G",
     "slug": "echo-generation",
@@ -894,38 +862,6 @@
     "slug": "final-fantasy-xiii",
     "steamIds": [
       292120
-    ]
-  },
-  {
-    "name": "Five Nights at Freddy's",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys/9N5253J559LR",
-    "slug": "five-nights-at-freddy-s",
-    "steamIds": [
-      319510
-    ]
-  },
-  {
-    "name": "Five Nights at Freddy's 2",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-2/9NBR2ZSD99FX",
-    "slug": "five-nights-at-freddy-s-2",
-    "steamIds": [
-      332800
-    ]
-  },
-  {
-    "name": "Five Nights at Freddy's 3",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-3/9P6N7LQ4HZFD",
-    "slug": "five-nights-at-freddy-s-3",
-    "steamIds": [
-      354140
-    ]
-  },
-  {
-    "name": "Five Nights at Freddy's 4",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/five-nights-at-freddys-4/9PLDLMPLR7JV",
-    "slug": "five-nights-at-freddy-s-4",
-    "steamIds": [
-      388090
     ]
   },
   {
@@ -1316,14 +1252,6 @@
     "slug": "killer-instinct",
     "steamIds": [
       577940
-    ]
-  },
-  {
-    "name": "Knights and Bikes",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/knights-and-bikes/9P64KV1HQK07",
-    "slug": "knights-and-bikes",
-    "steamIds": [
-      592480
     ]
   },
   {
@@ -2102,14 +2030,6 @@
     ]
   },
   {
-    "name": "Second Extinction™",
-    "xboxUrl": "https://www.xbox.com/en-us/games/second-extinction",
-    "slug": "second-extinction",
-    "steamIds": [
-      1024380
-    ]
-  },
-  {
     "name": "Secret Neighbor",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3",
     "slug": "secret-neighbor",
@@ -2691,6 +2611,14 @@
     ]
   },
   {
+    "name": "Unpacking",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/unpacking/9NH5HN11FG4M",
+    "slug": "unpacking",
+    "steamIds": [
+      1135690
+    ]
+  },
+  {
     "name": "Unravel",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "unravel",
@@ -2704,14 +2632,6 @@
     "slug": "unravel-two",
     "steamIds": [
       1225570
-    ]
-  },
-  {
-    "name": "Unruly Heroes",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/unruly-heroes-windows-10/9P3SS6K8ZQ57",
-    "slug": "unruly-heroes",
-    "steamIds": [
-      780350
     ]
   },
   {

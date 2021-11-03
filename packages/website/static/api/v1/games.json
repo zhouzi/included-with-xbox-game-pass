@@ -523,10 +523,12 @@
     ]
   },
   {
-    "name": "Destiny 2 (PC)",
+    "name": "Destiny 2",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/destiny-2-pc/9P9WJ5FW0GTD",
-    "slug": "destiny-2-pc",
-    "steamIds": []
+    "slug": "destiny-2",
+    "steamIds": [
+      1085660
+    ]
   },
   {
     "name": "Destroy All Humans!",
@@ -1443,10 +1445,12 @@
     ]
   },
   {
-    "name": "Minecraft Dungeons for Windows + Launcher",
+    "name": "Minecraft Dungeons",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons-for-windows--launcher/9NB6BVL3MTG4",
-    "slug": "minecraft-dungeons-for-windows-launcher",
-    "steamIds": []
+    "slug": "minecraft-dungeons",
+    "steamIds": [
+      1672970
+    ]
   },
   {
     "name": "Minecraft PC Bundle",

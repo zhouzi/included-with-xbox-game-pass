@@ -133,6 +133,7 @@ function fixNames(games: Game[]): Game[] {
     "Minecraft Dungeons": [
       "Minecraft Dungeons - Windows 10",
       "Minecraft Dungeons for Windows",
+      "Minecraft Dungeons for Windows + Launcher",
     ],
     "Night in the Woods": ["Night in the Woods Win10"],
     "RAGE 2": ["RAGE 2 (PC)"],
@@ -309,6 +310,7 @@ function fixNames(games: Game[]): Game[] {
     "Back 4 Blood": ["Back 4 Blood: Standard Edition"],
     "The Riftbreaker": ["The Riftbreaker PC"],
     "EVERSPACE™ 2": ["EVERSPACE™ 2 (Game Preview)"],
+    "Destiny 2": ["Destiny 2 (PC)"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

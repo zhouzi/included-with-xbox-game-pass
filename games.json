@@ -730,7 +730,7 @@
     "name": "Destiny 2",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/destiny-2/9P9WJ5FW0GTD",
+      "pc": "https://www.microsoft.com/en-us/store/p/destiny-2-pc/9P9WJ5FW0GTD",
       "steam": "https://store.steampowered.com/app/1085660/"
     },
     "steam": 1085660,
@@ -2039,10 +2039,21 @@
     "name": "Minecraft Dungeons",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons-for-windows/9P8MK4NC0LJB",
+      "pc": "https://www.microsoft.com/en-us/store/p/minecraft-dungeons-for-windows--launcher/9NB6BVL3MTG4",
       "steam": "https://store.steampowered.com/app/1672970/"
     },
     "steam": 1672970,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "minecraft-pc-bundle",
+    "name": "Minecraft PC Bundle",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/minecraft-pc-bundle/9P1DP2NGFB93",
+      "steam": null
+    },
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

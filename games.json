@@ -1716,6 +1716,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "it-takes-two",
+    "name": "It Takes Two",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/1426210/"
+    },
+    "steam": 1426210,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "jade-empire-special-edition",
     "name": "Jade Empire™: Special Edition",
     "availability": {
@@ -1746,6 +1757,17 @@
       "steam": "https://store.steampowered.com/app/848350/"
     },
     "steam": 848350,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "kill-it-with-fire",
+    "name": "Kill It With Fire",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/kill-it-with-fire/9MZVSHQZ666K",
+      "steam": "https://store.steampowered.com/app/1179210/"
+    },
+    "steam": 1179210,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

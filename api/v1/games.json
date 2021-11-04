@@ -1225,6 +1225,14 @@
     ]
   },
   {
+    "name": "It Takes Two",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "it-takes-two",
+    "steamIds": [
+      1426210
+    ]
+  },
+  {
     "name": "Jade Empire™: Special Edition",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "jade-empire-special-edition",
@@ -1244,6 +1252,14 @@
     "slug": "katamari-damacy-reroll",
     "steamIds": [
       848350
+    ]
+  },
+  {
+    "name": "Kill It With Fire",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/kill-it-with-fire/9MZVSHQZ666K",
+    "slug": "kill-it-with-fire",
+    "steamIds": [
+      1179210
     ]
   },
   {

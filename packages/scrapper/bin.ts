@@ -311,6 +311,8 @@ function fixNames(games: Game[]): Game[] {
     "The Riftbreaker": ["The Riftbreaker PC"],
     "EVERSPACE™ 2": ["EVERSPACE™ 2 (Game Preview)"],
     "Destiny 2": ["Destiny 2 (PC)"],
+    "Football Manager 2022": ["Football Manager 2022 Xbox Edition"],
+    "Forza Horizon 5": ["Forza Horizon 5 Standard Edition"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

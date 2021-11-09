@@ -889,12 +889,6 @@
     ]
   },
   {
-    "name": "Football Manager 2022 Xbox Edition",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/football-manager-2022-xbox-edition/9P982VRDSV6G",
-    "slug": "football-manager-2022-xbox-edition",
-    "steamIds": []
-  },
-  {
     "name": "Forager",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13",
     "slug": "forager",
@@ -911,10 +905,12 @@
     ]
   },
   {
-    "name": "Forza Horizon 5 Standard Edition",
+    "name": "Forza Horizon",
     "xboxUrl": "https://www.xbox.com/en-us/games/forza-horizon-5",
-    "slug": "forza-horizon-5-standard-edition",
-    "steamIds": []
+    "slug": "forza-horizon-5",
+    "steamIds": [
+      1551360
+    ]
   },
   {
     "name": "Frostpunk",

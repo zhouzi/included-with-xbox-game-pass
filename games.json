@@ -1232,6 +1232,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "football-manager-2022",
+    "name": "Football Manager 2022",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/football-manager-2022/9MVJ0V2JHK28",
+      "steam": "https://store.steampowered.com/app/1569040/"
+    },
+    "steam": 1569040,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "forager",
     "name": "Forager",
     "availability": {
@@ -1251,6 +1262,17 @@
       "steam": "https://store.steampowered.com/app/1293830/"
     },
     "steam": 1293830,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "forza-horizon-5",
+    "name": "Forza Horizon 5",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/forza-horizon-5",
+      "steam": "https://store.steampowered.com/app/1551360/"
+    },
+    "steam": 1551360,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

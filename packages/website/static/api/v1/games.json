@@ -539,6 +539,14 @@
     ]
   },
   {
+    "name": "Dicey Dungeons",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/dicey-dungeons/9PC4C9NLP3ZD",
+    "slug": "dicey-dungeons",
+    "steamIds": [
+      861540
+    ]
+  },
+  {
     "name": "DIRT 5",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/dirt-5/9PJGM0T0827V",
     "slug": "dirt-5",
@@ -1712,6 +1720,14 @@
     "slug": "omno",
     "steamIds": [
       969760
+    ]
+  },
+  {
+    "name": "One Step From Eden",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/one-step-from-eden/9N4K8K2ZGF1L",
+    "slug": "one-step-from-eden",
+    "steamIds": [
+      960690
     ]
   },
   {

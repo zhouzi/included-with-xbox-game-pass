@@ -1177,17 +1177,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "final-fantasy-viii-remastered",
-    "name": "FINAL FANTASY VIII Remastered",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
-      "steam": "https://store.steampowered.com/app/1026680/"
-    },
-    "steam": 1026680,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "final-fantasy-x-x-2-hd-remaster",
     "name": "FINAL FANTASY X/X-2 HD Remaster",
     "availability": {
@@ -1515,6 +1504,17 @@
       "steam": "https://store.steampowered.com/app/1064273/"
     },
     "steam": 1064273,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "halo-infinite",
+    "name": "Halo Infinite",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/halo-infinite/9PP5G1F0C2B6",
+      "steam": "https://store.steampowered.com/app/1240440/"
+    },
+    "steam": 1240440,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2860,17 +2860,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "river-city-girls",
-    "name": "River City Girls",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
-      "steam": "https://store.steampowered.com/app/1049320/"
-    },
-    "steam": 1049320,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "rocket-arena",
     "name": "Rocket Arena",
     "availability": {
@@ -3091,17 +3080,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "star-renegades",
-    "name": "Star Renegades",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
-      "steam": "https://store.steampowered.com/app/651670/"
-    },
-    "steam": 651670,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "star-wars-jedi-fallen-order",
     "name": "STAR WARS Jedi: Fallen Order™",
     "availability": {
@@ -3198,17 +3176,6 @@
       "steam": "https://store.steampowered.com/app/985890/"
     },
     "steam": 985890,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "streets-of-rogue",
-    "name": "Streets of Rogue",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9NKRBSZXQ2HM",
-      "steam": "https://store.steampowered.com/app/512900/"
-    },
-    "steam": 512900,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3484,17 +3451,6 @@
       "steam": "https://store.steampowered.com/app/874260/"
     },
     "steam": 874260,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "the-gardens-between",
-    "name": "The Gardens Between",
-    "availability": {
-      "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
-      "steam": "https://store.steampowered.com/app/600990/"
-    },
-    "steam": 600990,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

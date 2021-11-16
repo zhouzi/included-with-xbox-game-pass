@@ -841,14 +841,6 @@
     "steamIds": []
   },
   {
-    "name": "FINAL FANTASY VIII Remastered",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/final-fantasy-viii-remastered-windows-edition/9P35DPLN1JCN",
-    "slug": "final-fantasy-viii-remastered",
-    "steamIds": [
-      1026680
-    ]
-  },
-  {
     "name": "FINAL FANTASY X/X-2 HD Remaster",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/final-fantasy-xx-2-hd-remaster/9NDNP3J6XWVH",
     "slug": "final-fantasy-x-x-2-hd-remaster",
@@ -1082,6 +1074,14 @@
     "slug": "halo-4",
     "steamIds": [
       1064273
+    ]
+  },
+  {
+    "name": "Halo Infinite",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/halo-infinite/9PP5G1F0C2B6",
+    "slug": "halo-infinite",
+    "steamIds": [
+      1240440
     ]
   },
   {
@@ -2030,14 +2030,6 @@
     ]
   },
   {
-    "name": "River City Girls",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/river-city-girls/9PGNT102001S",
-    "slug": "river-city-girls",
-    "steamIds": [
-      1049320
-    ]
-  },
-  {
     "name": "Rocket Arena",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "rocket-arena",
@@ -2190,14 +2182,6 @@
     ]
   },
   {
-    "name": "Star Renegades",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/star-renegades/9PK5S1QKV10D",
-    "slug": "star-renegades",
-    "steamIds": [
-      651670
-    ]
-  },
-  {
     "name": "STAR WARS Jedi: Fallen Order™",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "star-wars-jedi-fallen-order",
@@ -2265,14 +2249,6 @@
     "slug": "streets-of-rage-4",
     "steamIds": [
       985890
-    ]
-  },
-  {
-    "name": "Streets of Rogue",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/streets-of-rogue/9NKRBSZXQ2HM",
-    "slug": "streets-of-rogue",
-    "steamIds": [
-      512900
     ]
   },
   {
@@ -2467,14 +2443,6 @@
     "slug": "the-forgotten-city",
     "steamIds": [
       874260
-    ]
-  },
-  {
-    "name": "The Gardens Between",
-    "xboxUrl": "https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV",
-    "slug": "the-gardens-between",
-    "steamIds": [
-      600990
     ]
   },
   {

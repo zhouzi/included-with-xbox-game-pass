@@ -747,6 +747,14 @@
     ]
   },
   {
+    "name": "Fae Tactics",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/fae-tactics/9PL4HXW1H502",
+    "slug": "fae-tactics",
+    "steamIds": [
+      995980
+    ]
+  },
+  {
     "name": "Fallout",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/fallout/9N42CT1J5WGW",
     "slug": "fallout",
@@ -1571,6 +1579,12 @@
     ]
   },
   {
+    "name": "My Friend Pedro Win10",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
+    "slug": "my-friend-pedro-win10",
+    "steamIds": []
+  },
+  {
     "name": "My Time At Portia",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH",
     "slug": "my-time-at-portia",
@@ -1664,6 +1678,14 @@
     "slug": "new-super-lucky-s-tale",
     "steamIds": [
       1038300
+    ]
+  },
+  {
+    "name": "Next Space Rebels",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/next-space-rebels/9PBGCRBQKXTP",
+    "slug": "next-space-rebels",
+    "steamIds": [
+      1422430
     ]
   },
   {

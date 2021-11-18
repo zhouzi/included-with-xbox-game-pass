@@ -1045,6 +1045,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "fae-tactics",
+    "name": "Fae Tactics",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/fae-tactics/9PL4HXW1H502",
+      "steam": "https://store.steampowered.com/app/995980/"
+    },
+    "steam": 995980,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "fallout",
     "name": "Fallout",
     "availability": {
@@ -2211,6 +2222,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "my-friend-pedro",
+    "name": "My Friend Pedro",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
+      "steam": "https://store.steampowered.com/app/557340/"
+    },
+    "steam": 557340,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "my-time-at-portia",
     "name": "My Time At Portia",
     "availability": {
@@ -2340,6 +2362,17 @@
       "steam": "https://store.steampowered.com/app/1038300/"
     },
     "steam": 1038300,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "next-space-rebels",
+    "name": "Next Space Rebels",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/next-space-rebels/9PBGCRBQKXTP",
+      "steam": "https://store.steampowered.com/app/1422430/"
+    },
+    "steam": 1422430,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

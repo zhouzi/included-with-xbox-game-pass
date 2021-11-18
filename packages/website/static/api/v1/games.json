@@ -1579,10 +1579,12 @@
     ]
   },
   {
-    "name": "My Friend Pedro Win10",
+    "name": "My Friend Pedro",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ",
-    "slug": "my-friend-pedro-win10",
-    "steamIds": []
+    "slug": "my-friend-pedro",
+    "steamIds": [
+      557340
+    ]
   },
   {
     "name": "My Time At Portia",

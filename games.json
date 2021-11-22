@@ -312,7 +312,7 @@
     "name": "Bleeding Edge",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/bleeding-edge/9NX6XGVJ0J3D",
+      "pc": "https://www.xbox.com/en-us/games/bleeding-edge",
       "steam": "https://store.steampowered.com/app/1189800/"
     },
     "steam": 1189800,
@@ -763,7 +763,7 @@
     "name": "DIRT 5",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/dirt-5/9PJGM0T0827V",
+      "pc": "https://www.xbox.com/en-us/games/dirt-5",
       "steam": "https://store.steampowered.com/app/1038250/"
     },
     "steam": 1038250,
@@ -1031,6 +1031,17 @@
       "steam": "https://store.steampowered.com/app/1128920/"
     },
     "steam": 1128920,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "exo-one",
+    "name": "Exo One",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/exo-one/9NJG36MFVR1L",
+      "steam": "https://store.steampowered.com/app/773370/"
+    },
+    "steam": 773370,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2061,7 +2072,7 @@
     "name": "Microsoft Flight Simulator",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-us/games/microsoft-flight-simulator",
+      "pc": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard-game-of-the-year-edition/9MTJ74MKQM46",
       "steam": "https://store.steampowered.com/app/1250410/"
     },
     "steam": 1250410,
@@ -2919,7 +2930,7 @@
     "name": "Sable",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/sable/9MZ4V4RG0W81",
+      "pc": "https://www.xbox.com/en-us/games/sable",
       "steam": "https://store.steampowered.com/app/757310/"
     },
     "steam": 757310,
@@ -2930,7 +2941,7 @@
     "name": "SCARLET NEXUS",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/scarlet-nexus/9N9RMHTJX41P",
+      "pc": "https://www.xbox.com/en-us/games/scarlet-nexus",
       "steam": "https://store.steampowered.com/app/775500/"
     },
     "steam": 775500,
@@ -3227,7 +3238,7 @@
     "name": "Subnautica: Below Zero",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/subnautica-below-zero/9NDCJXL11096",
+      "pc": "https://www.xbox.com/en-us/games/subnautica-below-zero",
       "steam": "https://store.steampowered.com/app/848450/"
     },
     "steam": 848450,
@@ -3315,7 +3326,7 @@
     "name": "Tell Me Why: Chapters 1-3",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-us/games/tell-me-why",
+      "pc": "https://www.microsoft.com/en-us/store/p/tell-me-why-chapters-1-3/9NF83PRZK6K3",
       "steam": null
     },
     "steam": null,
@@ -3513,7 +3524,7 @@
     "name": "The Medium",
     "availability": {
       "console": null,
-      "pc": "https://www.microsoft.com/en-us/store/p/the-medium/9NFSR96G6K4N",
+      "pc": "https://www.xbox.com/en-us/games/the-medium",
       "steam": "https://store.steampowered.com/app/1293160/"
     },
     "steam": 1293160,
@@ -3748,6 +3759,17 @@
       "steam": "https://store.steampowered.com/app/391540/"
     },
     "steam": 391540,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "undungeon",
+    "name": "Undungeon",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/undungeon/9PJ517SDHQPF",
+      "steam": "https://store.steampowered.com/app/928990/"
+    },
+    "steam": 928990,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

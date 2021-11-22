@@ -1471,10 +1471,12 @@
     ]
   },
   {
-    "name": "Microsoft Flight Simulator: Standard Game of the Year Edition",
+    "name": "Microsoft Flight Simulator",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard-game-of-the-year-edition/9MTJ74MKQM46",
-    "slug": "microsoft-flight-simulator-standard-game-of-the-year-edition",
-    "steamIds": []
+    "slug": "microsoft-flight-simulator",
+    "steamIds": [
+      1250410
+    ]
   },
   {
     "name": "Microsoft Solitaire Collection",

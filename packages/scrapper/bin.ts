@@ -295,6 +295,7 @@ function fixNames(games: Game[]): Game[] {
     ],
     "Microsoft Flight Simulator": [
       "Microsoft Flight Simulator: Standard Edition",
+      "Microsoft Flight Simulator: Standard Game of the Year Edition",
     ],
     "Curse of the Dead Gods": ["Curse of the Dead Gods (PC)"],
     Starmancer: ["Starmancer (Game Preview)"],

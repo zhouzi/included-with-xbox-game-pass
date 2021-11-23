@@ -308,6 +308,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "before-we-leave",
+    "name": "Before We Leave",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/before-we-leave/9N360TZQZ0TR",
+      "steam": "https://store.steampowered.com/app/1073910/"
+    },
+    "steam": 1073910,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "bleeding-edge",
     "name": "Bleeding Edge",
     "availability": {
@@ -2211,6 +2222,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "mortal-shell",
+    "name": "Mortal Shell",
+    "availability": {
+      "console": null,
+      "pc": "https://www.microsoft.com/en-us/store/p/mortal-shell-enhanced-edition/9PC2BJDXR2LK",
+      "steam": "https://store.steampowered.com/app/1110910/"
+    },
+    "steam": 1110910,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "motogp-20",
     "name": "MotoGP™20",
     "availability": {
@@ -2967,6 +2989,17 @@
       "steam": "https://store.steampowered.com/app/1172620/"
     },
     "steam": 1172620,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "second-extinction",
+    "name": "Second Extinction™",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/second-extinction",
+      "steam": "https://store.steampowered.com/app/1024380/"
+    },
+    "steam": 1024380,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

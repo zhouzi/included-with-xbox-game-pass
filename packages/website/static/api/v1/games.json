@@ -222,6 +222,14 @@
     ]
   },
   {
+    "name": "Before We Leave",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/before-we-leave/9N360TZQZ0TR",
+    "slug": "before-we-leave",
+    "steamIds": [
+      1073910
+    ]
+  },
+  {
     "name": "Bleeding Edge",
     "xboxUrl": "https://www.xbox.com/en-us/games/bleeding-edge",
     "slug": "bleeding-edge",
@@ -1571,6 +1579,14 @@
     ]
   },
   {
+    "name": "Mortal Shell",
+    "xboxUrl": "https://www.microsoft.com/en-us/store/p/mortal-shell-enhanced-edition/9PC2BJDXR2LK",
+    "slug": "mortal-shell",
+    "steamIds": [
+      1110910
+    ]
+  },
+  {
     "name": "MotoGP™20",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/motogp20---windows-edition/9N88HSBP6RJ8",
     "slug": "motogp-20",
@@ -2105,6 +2121,14 @@
     "slug": "sea-of-thieves",
     "steamIds": [
       1172620
+    ]
+  },
+  {
+    "name": "Second Extinction™",
+    "xboxUrl": "https://www.xbox.com/en-us/games/second-extinction",
+    "slug": "second-extinction",
+    "steamIds": [
+      1024380
     ]
   },
   {

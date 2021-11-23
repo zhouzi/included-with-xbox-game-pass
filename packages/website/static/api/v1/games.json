@@ -1579,10 +1579,12 @@
     ]
   },
   {
-    "name": "Mortal Shell: Enhanced Edition",
+    "name": "Mortal Shell",
     "xboxUrl": "https://www.microsoft.com/en-us/store/p/mortal-shell-enhanced-edition/9PC2BJDXR2LK",
-    "slug": "mortal-shell-enhanced-edition",
-    "steamIds": []
+    "slug": "mortal-shell",
+    "steamIds": [
+      1110910
+    ]
   },
   {
     "name": "MotoGP™20",

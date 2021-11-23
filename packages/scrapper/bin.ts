@@ -315,6 +315,7 @@ function fixNames(games: Game[]): Game[] {
     "Football Manager 2022": ["Football Manager 2022 Xbox Edition"],
     "Forza Horizon 5": ["Forza Horizon 5 Standard Edition"],
     "My Friend Pedro": ["My Friend Pedro Win10"],
+    "Mortal Shell": ["Mortal Shell: Enhanced Edition"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

@@ -758,7 +758,9 @@
     "name": "Evil Genius 2: World Domination",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/evil-genius-2-world-domination/9NPC5398SCQ6",
     "slug": "evil-genius-2-world-domination",
-    "steamIds": []
+    "steamIds": [
+      700600
+    ]
   },
   {
     "name": "Exo One",

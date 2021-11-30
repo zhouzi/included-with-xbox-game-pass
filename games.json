@@ -1056,6 +1056,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "evil-genius-2-world-domination",
+    "name": "Evil Genius 2: World Domination",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/evil-genius-2-world-domination/9NPC5398SCQ6",
+      "steam": "https://store.steampowered.com/app/700600/"
+    },
+    "steam": 700600,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "exo-one",
     "name": "Exo One",
     "availability": {
@@ -1394,6 +1405,17 @@
       "steam": "https://store.steampowered.com/app/1184050/"
     },
     "steam": 1184050,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "generation-zero",
+    "name": "Generation Zero®",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/generation-zero/C20WW4W29FQ1",
+      "steam": "https://store.steampowered.com/app/704270/"
+    },
+    "steam": 704270,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2131,6 +2153,17 @@
       "steam": "https://store.steampowered.com/app/1299360/"
     },
     "steam": 1299360,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "mind-scanners",
+    "name": "Mind Scanners",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/mind-scanners/9MV8J6MFJNQV",
+      "steam": "https://store.steampowered.com/app/1389550/"
+    },
+    "steam": 1389550,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

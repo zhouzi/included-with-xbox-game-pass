@@ -755,6 +755,14 @@
     ]
   },
   {
+    "name": "Evil Genius 2: World Domination",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/evil-genius-2-world-domination/9NPC5398SCQ6",
+    "slug": "evil-genius-2-world-domination",
+    "steamIds": [
+      700600
+    ]
+  },
+  {
     "name": "Exo One",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/exo-one/9NJG36MFVR1L",
     "slug": "exo-one",
@@ -994,6 +1002,14 @@
     "slug": "gears-tactics",
     "steamIds": [
       1184050
+    ]
+  },
+  {
+    "name": "Generation Zero®",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/generation-zero/C20WW4W29FQ1",
+    "slug": "generation-zero",
+    "steamIds": [
+      704270
     ]
   },
   {
@@ -1514,6 +1530,14 @@
     "slug": "mighty-goose",
     "steamIds": [
       1299360
+    ]
+  },
+  {
+    "name": "Mind Scanners",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/mind-scanners/9MV8J6MFJNQV",
+    "slug": "mind-scanners",
+    "steamIds": [
+      1389550
     ]
   },
   {

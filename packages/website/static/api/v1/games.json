@@ -286,14 +286,6 @@
     ]
   },
   {
-    "name": "Call of the Sea",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/call-of-the-sea/9NNG78K7N91K",
-    "slug": "call-of-the-sea",
-    "steamIds": [
-      1042490
-    ]
-  },
-  {
     "name": "Carrion",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/carrion/9MSMJH3C6TKR",
     "slug": "carrion",
@@ -863,12 +855,6 @@
     ]
   },
   {
-    "name": "FIFA 19",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-    "slug": "fifa-19",
-    "steamIds": []
-  },
-  {
     "name": "FIFA 20",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "fifa-20",
@@ -910,14 +896,6 @@
     "slug": "flynn-son-of-crimson",
     "steamIds": [
       737520
-    ]
-  },
-  {
-    "name": "Football Manager 2021",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/football-manager-2021/9PPMVK9HRHWC",
-    "slug": "football-manager-2021",
-    "steamIds": [
-      1263850
     ]
   },
   {
@@ -1193,14 +1171,6 @@
     ]
   },
   {
-    "name": "Haven",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/haven/9NZL91Q08XRV",
-    "slug": "haven",
-    "steamIds": [
-      983970
-    ]
-  },
-  {
     "name": "Hearts of Iron IV",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73",
     "slug": "hearts-of-iron-iv",
@@ -1214,14 +1184,6 @@
     "slug": "hellblade-senua-s-sacrifice",
     "steamIds": [
       414340
-    ]
-  },
-  {
-    "name": "Hello Neighbor",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/hello-neighbor/9NDDH3R9DF40",
-    "slug": "hello-neighbor",
-    "steamIds": [
-      521890
     ]
   },
   {
@@ -1600,14 +1562,6 @@
     "slug": "moonlighter",
     "steamIds": [
       606150
-    ]
-  },
-  {
-    "name": "Morkredd",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/morkredd/9PKD7RG0TQP4",
-    "slug": "morkredd",
-    "steamIds": [
-      1331910
     ]
   },
   {
@@ -2625,6 +2579,14 @@
     "steamIds": []
   },
   {
+    "name": "theHunter: Call of the Wild™",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/thehunter-call-of-the-wild---windows-10/9NQV7C0G1040",
+    "slug": "thehunter-call-of-the-wild",
+    "steamIds": [
+      518790
+    ]
+  },
+  {
     "name": "Titanfall",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "titanfall",
@@ -2766,14 +2728,6 @@
     "slug": "unto-the-end",
     "steamIds": [
       600080
-    ]
-  },
-  {
-    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/va-11-hall-a-cyberpunk-bartender-action/9P9C1HB78K05",
-    "slug": "va-11-hall-a-cyberpunk-bartender-action",
-    "steamIds": [
-      447530
     ]
   },
   {

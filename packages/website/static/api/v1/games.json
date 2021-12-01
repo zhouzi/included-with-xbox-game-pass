@@ -2579,10 +2579,12 @@
     "steamIds": []
   },
   {
-    "name": "theHunter: Call of the Wild™ - Windows 10",
+    "name": "theHunter: Call of the Wild™",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/thehunter-call-of-the-wild---windows-10/9NQV7C0G1040",
-    "slug": "thehunter-call-of-the-wild-windows-10",
-    "steamIds": []
+    "slug": "thehunter-call-of-the-wild",
+    "steamIds": [
+      518790
+    ]
   },
   {
     "name": "Titanfall",

@@ -86,10 +86,12 @@
     "steamIds": []
   },
   {
-    "name": "ANVIL : Vault Breaker (Game Preview)",
+    "name": "ANVIL: Vault Breaker",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/anvil--vault-breaker-game-preview/9PJPV2PC3MWR",
-    "slug": "anvil-vault-breaker-game-preview",
-    "steamIds": []
+    "slug": "anvil-vault-breaker",
+    "steamIds": [
+      1487390
+    ]
   },
   {
     "name": "Aragami 2",

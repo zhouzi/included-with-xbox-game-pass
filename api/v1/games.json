@@ -86,6 +86,14 @@
     "steamIds": []
   },
   {
+    "name": "ANVIL: Vault Breaker",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/anvil--vault-breaker-game-preview/9PJPV2PC3MWR",
+    "slug": "anvil-vault-breaker",
+    "steamIds": [
+      1487390
+    ]
+  },
+  {
     "name": "Aragami 2",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/aragami-2/9PN9WG83X4XF",
     "slug": "aragami-2",
@@ -891,6 +899,14 @@
     ]
   },
   {
+    "name": "FINAL FANTASY XIII-2",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/final-fantasy-xiii-2/9MVJ3VL1V3VP",
+    "slug": "final-fantasy-xiii-2",
+    "steamIds": [
+      292140
+    ]
+  },
+  {
     "name": "Flynn: Son of Crimson",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/flynn-son-of-crimson/9MZNFF29W9ZX",
     "slug": "flynn-son-of-crimson",
@@ -1318,6 +1334,14 @@
     "slug": "last-stop",
     "steamIds": [
       1122690
+    ]
+  },
+  {
+    "name": "Lawn Mowing Simulator",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/lawn-mowing-simulator/9NPFJTM4HBH9",
+    "slug": "lawn-mowing-simulator",
+    "steamIds": [
+      1480560
     ]
   },
   {
@@ -2264,6 +2288,14 @@
     ]
   },
   {
+    "name": "Stardew Valley",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/stardew-valley/9MWR1NC6VQ6L",
+    "slug": "stardew-valley",
+    "steamIds": [
+      413150
+    ]
+  },
+  {
     "name": "Starmancer",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/starmancer-game-preview/9N0B7G9BHRK4",
     "slug": "starmancer",
@@ -2635,6 +2667,14 @@
     ]
   },
   {
+    "name": "Townscaper",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/townscaper/9NFM39PSFXJD",
+    "slug": "townscaper",
+    "steamIds": [
+      1291340
+    ]
+  },
+  {
     "name": "Trailmakers",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/trailmakers/9NSFGM8J6MBJ",
     "slug": "trailmakers",
@@ -2736,6 +2776,14 @@
     "slug": "visage",
     "steamIds": [
       594330
+    ]
+  },
+  {
+    "name": "Warhammer 40,000: Battlesector",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/warhammer-40000-battlesector/9PFLW6WZVJC7",
+    "slug": "warhammer-40-000-battlesector",
+    "steamIds": [
+      1295500
     ]
   },
   {

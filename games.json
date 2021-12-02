@@ -121,6 +121,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "anvil-vault-breaker",
+    "name": "ANVIL: Vault Breaker",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/anvil--vault-breaker-game-preview/9PJPV2PC3MWR",
+      "steam": "https://store.steampowered.com/app/1487390/"
+    },
+    "steam": 1487390,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "aragami-2",
     "name": "Aragami 2",
     "availability": {
@@ -1243,6 +1254,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "final-fantasy-xiii-2",
+    "name": "FINAL FANTASY XIII-2",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/final-fantasy-xiii-2/9MVJ3VL1V3VP",
+      "steam": "https://store.steampowered.com/app/292140/"
+    },
+    "steam": 292140,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "flynn-son-of-crimson",
     "name": "Flynn: Son of Crimson",
     "availability": {
@@ -1845,6 +1867,17 @@
       "steam": "https://store.steampowered.com/app/1122690/"
     },
     "steam": 1122690,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "lawn-mowing-simulator",
+    "name": "Lawn Mowing Simulator",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/lawn-mowing-simulator/9NPFJTM4HBH9",
+      "steam": "https://store.steampowered.com/app/1480560/"
+    },
+    "steam": 1480560,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3190,6 +3223,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "stardew-valley",
+    "name": "Stardew Valley",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/stardew-valley/9MWR1NC6VQ6L",
+      "steam": "https://store.steampowered.com/app/413150/"
+    },
+    "steam": 413150,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "starmancer",
     "name": "Starmancer",
     "availability": {
@@ -3718,6 +3762,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "townscaper",
+    "name": "Townscaper",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/townscaper/9NFM39PSFXJD",
+      "steam": "https://store.steampowered.com/app/1291340/"
+    },
+    "steam": 1291340,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "trailmakers",
     "name": "Trailmakers",
     "availability": {
@@ -3858,6 +3913,17 @@
       "steam": "https://store.steampowered.com/app/594330/"
     },
     "steam": 594330,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "warhammer-40-000-battlesector",
+    "name": "Warhammer 40,000: Battlesector",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/warhammer-40000-battlesector/9PFLW6WZVJC7",
+      "steam": "https://store.steampowered.com/app/1295500/"
+    },
+    "steam": 1295500,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

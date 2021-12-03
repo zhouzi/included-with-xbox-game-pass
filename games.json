@@ -143,6 +143,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "archvale",
+    "name": "Archvale",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/archvale/9P3MGM8ZCS5D",
+      "steam": "https://store.steampowered.com/app/1296360/"
+    },
+    "steam": 1296360,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "ark-survival-evolved",
     "name": "ARK: Survival Evolved",
     "availability": {
@@ -2945,6 +2956,17 @@
       "steam": "https://store.steampowered.com/app/1233550/"
     },
     "steam": 1233550,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "rubber-bandits",
+    "name": "Rubber Bandits",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/rubber-bandits/9PL36RW9ZTPW",
+      "steam": "https://store.steampowered.com/app/1206610/"
+    },
+    "steam": 1206610,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

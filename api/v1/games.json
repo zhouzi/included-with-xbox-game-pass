@@ -102,6 +102,14 @@
     ]
   },
   {
+    "name": "Archvale",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/archvale/9P3MGM8ZCS5D",
+    "slug": "archvale",
+    "steamIds": [
+      1296360
+    ]
+  },
+  {
     "name": "ARK: Survival Evolved",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
     "slug": "ark-survival-evolved",
@@ -2093,6 +2101,14 @@
     "slug": "rocket-arena",
     "steamIds": [
       1233550
+    ]
+  },
+  {
+    "name": "Rubber Bandits",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/rubber-bandits/9PL36RW9ZTPW",
+    "slug": "rubber-bandits",
+    "steamIds": [
+      1206610
     ]
   },
   {

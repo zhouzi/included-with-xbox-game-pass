@@ -3047,6 +3047,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "serious-sam-4",
+    "name": "Serious Sam 4",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/serious-sam-4/9PFT1PR924WB",
+      "steam": "https://store.steampowered.com/app/257420/"
+    },
+    "steam": 257420,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "shadow-warrior-2",
     "name": "Shadow Warrior 2",
     "availability": {

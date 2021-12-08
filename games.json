@@ -3168,6 +3168,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "space-warlord-organ-trading-simulator",
+    "name": "Space Warlord Organ Trading Simulator",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/space-warlord-organ-trading-simulator/9NVD5DB5T3HD",
+      "steam": "https://store.steampowered.com/app/1507780/"
+    },
+    "steam": 1507780,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "spellforce-3-soul-harvest",
     "name": "SpellForce 3: Soul Harvest",
     "availability": {

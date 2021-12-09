@@ -1135,6 +1135,14 @@
     ]
   },
   {
+    "name": "Halo Infinite (Campaign)",
+    "xboxUrl": "https://www.xbox.com/en-us/games/halo-infinite",
+    "slug": "halo-infinite-campaign",
+    "steamIds": [
+      1708091
+    ]
+  },
+  {
     "name": "Halo Wars 2",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/halo-wars-2/9NBLGGH5WMKM",
     "slug": "halo-wars-2",
@@ -1786,6 +1794,14 @@
     "slug": "omno",
     "steamIds": [
       969760
+    ]
+  },
+  {
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-windows/9NL1GX15SQJK",
+    "slug": "one-piece-pirate-warriors-4",
+    "steamIds": [
+      1089090
     ]
   },
   {

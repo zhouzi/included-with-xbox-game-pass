@@ -1584,6 +1584,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "halo-infinite-campaign",
+    "name": "Halo Infinite (Campaign)",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/halo-infinite",
+      "steam": "https://store.steampowered.com/app/1708091/"
+    },
+    "steam": 1708091,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "halo-wars-2",
     "name": "Halo Wars 2",
     "availability": {
@@ -2505,6 +2516,17 @@
       "steam": "https://store.steampowered.com/app/969760/"
     },
     "steam": 969760,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "one-piece-pirate-warriors-4",
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-windows/9NL1GX15SQJK",
+      "steam": "https://store.steampowered.com/app/1089090/"
+    },
+    "steam": 1089090,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

@@ -320,6 +320,7 @@ function fixNames(games: Game[]): Game[] {
       "theHunter: Call of the Wild™ - Windows 10",
     ],
     "ANVIL: Vault Breaker": ["ANVIL : Vault Breaker (Game Preview)"],
+    "ONE PIECE: PIRATE WARRIORS 4": ["ONE PIECE: PIRATE WARRIORS 4 (Windows)"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

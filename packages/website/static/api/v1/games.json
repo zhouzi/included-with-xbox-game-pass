@@ -1797,10 +1797,12 @@
     ]
   },
   {
-    "name": "ONE PIECE: PIRATE WARRIORS 4 (Windows)",
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/one-piece-pirate-warriors-4-windows/9NL1GX15SQJK",
-    "slug": "one-piece-pirate-warriors-4-windows",
-    "steamIds": []
+    "slug": "one-piece-pirate-warriors-4",
+    "steamIds": [
+      1089090
+    ]
   },
   {
     "name": "One Step From Eden",

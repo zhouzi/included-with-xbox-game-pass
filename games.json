@@ -99,6 +99,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "aliens-fireteam-elite",
+    "name": "Aliens: Fireteam Elite",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/aliens-fireteam-elite/9PG28RXDG9GQ",
+      "steam": "https://store.steampowered.com/app/1549970/"
+    },
+    "steam": 1549970,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "among-us",
     "name": "Among Us",
     "availability": {

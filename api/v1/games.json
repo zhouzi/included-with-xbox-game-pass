@@ -254,6 +254,14 @@
     ]
   },
   {
+    "name": "Ben 10: Power Trip",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/ben-10-power-trip/9NJWFF2KHL6H",
+    "slug": "ben-10-power-trip",
+    "steamIds": [
+      1063040
+    ]
+  },
+  {
     "name": "Bleeding Edge",
     "xboxUrl": "https://www.xbox.com/en-us/games/bleeding-edge",
     "slug": "bleeding-edge",
@@ -291,6 +299,14 @@
     "slug": "bridge-constructor-portal",
     "steamIds": [
       684410
+    ]
+  },
+  {
+    "name": "Broken Age",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/broken-age/9MZZNL8J2MSZ",
+    "slug": "broken-age",
+    "steamIds": [
+      232790
     ]
   },
   {
@@ -923,6 +939,14 @@
     ]
   },
   {
+    "name": "Firewatch",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/firewatch/BQQKG9H2STC0",
+    "slug": "firewatch",
+    "steamIds": [
+      383870
+    ]
+  },
+  {
     "name": "Flynn: Son of Crimson",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/flynn-son-of-crimson/9MZNFF29W9ZX",
     "slug": "flynn-son-of-crimson",
@@ -1353,6 +1377,14 @@
     ]
   },
   {
+    "name": "Lake",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/lake/9N5GLFTT40SN",
+    "slug": "lake",
+    "steamIds": [
+      1118240
+    ]
+  },
+  {
     "name": "Last Stop",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/last-stop/9NC6BX5R7JKC",
     "slug": "last-stop",
@@ -1610,6 +1642,14 @@
     "slug": "moonlighter",
     "steamIds": [
       606150
+    ]
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "xboxUrl": "https://www.xbox.com/en-us/games/mortal-kombat-11",
+    "slug": "mortal-kombat-11",
+    "steamIds": [
+      976310
     ]
   },
   {
@@ -1877,6 +1917,14 @@
     ]
   },
   {
+    "name": "PAW Patrol Mighty Pups Save Adventure Bay",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/paw-patrol-mighty-pups-save-adventure-bay/9N3TF03KNTBD",
+    "slug": "paw-patrol-mighty-pups-save-adventure-bay",
+    "steamIds": [
+      1374990
+    ]
+  },
+  {
     "name": "Peggle®",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "peggle",
@@ -2050,6 +2098,14 @@
     ]
   },
   {
+    "name": "Race with Ryan",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/race-with-ryan/9N1JLJR48FBG",
+    "slug": "race-with-ryan",
+    "steamIds": [
+      1054990
+    ]
+  },
+  {
     "name": "RAGE 2",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/rage-2-pc/9P2J7WHV0K4N",
     "slug": "rage-2",
@@ -2079,6 +2135,14 @@
     "slug": "recompile",
     "steamIds": [
       986310
+    ]
+  },
+  {
+    "name": "Record of Lodoss War-Deedlit in Wonder Labyrinth-",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/record-of-lodoss-war-deedlit-in-wonder-labyrinth-/9NRBH9HS807L",
+    "slug": "record-of-lodoss-war-deedlit-in-wonder-labyrinth",
+    "steamIds": [
+      1203630
     ]
   },
   {
@@ -2288,9 +2352,9 @@
     ]
   },
   {
-    "name": "Spiritfarer®",
+    "name": "Spiritfarer®: Farewell Edition",
     "xboxUrl": "https://www.xbox.com/en-us/games/spiritfarer",
-    "slug": "spiritfarer",
+    "slug": "spiritfarer-farewell-edition",
     "steamIds": [
       972660
     ]
@@ -2744,6 +2808,14 @@
     "slug": "train-sim-world-2",
     "steamIds": [
       1282590
+    ]
+  },
+  {
+    "name": "TRANSFORMERS: BATTLEGROUNDS",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/transformers-battlegrounds/9PCQRLT7C2BH",
+    "slug": "transformers-battlegrounds",
+    "steamIds": [
+      1177000
     ]
   },
   {

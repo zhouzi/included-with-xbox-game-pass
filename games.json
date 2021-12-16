@@ -352,6 +352,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "ben-10-power-trip",
+    "name": "Ben 10: Power Trip",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/ben-10-power-trip/9NJWFF2KHL6H",
+      "steam": "https://store.steampowered.com/app/1063040/"
+    },
+    "steam": 1063040,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "bleeding-edge",
     "name": "Bleeding Edge",
     "availability": {
@@ -404,6 +415,17 @@
       "steam": "https://store.steampowered.com/app/684410/"
     },
     "steam": 684410,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "broken-age",
+    "name": "Broken Age",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/broken-age/9MZZNL8J2MSZ",
+      "steam": "https://store.steampowered.com/app/232790/"
+    },
+    "steam": 232790,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -1287,6 +1309,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "firewatch",
+    "name": "Firewatch",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/firewatch/BQQKG9H2STC0",
+      "steam": "https://store.steampowered.com/app/383870/"
+    },
+    "steam": 383870,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "flynn-son-of-crimson",
     "name": "Flynn: Son of Crimson",
     "availability": {
@@ -1892,6 +1925,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "lake",
+    "name": "Lake",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/lake/9N5GLFTT40SN",
+      "steam": "https://store.steampowered.com/app/1118240/"
+    },
+    "steam": 1118240,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "last-stop",
     "name": "Last Stop",
     "availability": {
@@ -2266,6 +2310,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "mortal-kombat-11",
+    "name": "Mortal Kombat 11",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/mortal-kombat-11",
+      "steam": "https://store.steampowered.com/app/976310/"
+    },
+    "steam": 976310,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "mortal-shell",
     "name": "Mortal Shell",
     "availability": {
@@ -2629,6 +2684,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "paw-patrol-mighty-pups-save-adventure-bay",
+    "name": "PAW Patrol Mighty Pups Save Adventure Bay",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/paw-patrol-mighty-pups-save-adventure-bay/9N3TF03KNTBD",
+      "steam": "https://store.steampowered.com/app/1374990/"
+    },
+    "steam": 1374990,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "peggle",
     "name": "Peggle®",
     "availability": {
@@ -2882,6 +2948,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "race-with-ryan",
+    "name": "Race with Ryan",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/race-with-ryan/9N1JLJR48FBG",
+      "steam": "https://store.steampowered.com/app/1054990/"
+    },
+    "steam": 1054990,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "rage-2",
     "name": "RAGE 2",
     "availability": {
@@ -2923,6 +3000,17 @@
       "steam": "https://store.steampowered.com/app/986310/"
     },
     "steam": 986310,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "record-of-lodoss-war-deedlit-in-wonder-labyrinth",
+    "name": "Record of Lodoss War-Deedlit in Wonder Labyrinth-",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/record-of-lodoss-war-deedlit-in-wonder-labyrinth-/9NRBH9HS807L",
+      "steam": "https://store.steampowered.com/app/1203630/"
+    },
+    "steam": 1203630,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3223,8 +3311,8 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "spiritfarer",
-    "name": "Spiritfarer®",
+    "slug": "spiritfarer-farewell-edition",
+    "name": "Spiritfarer®: Farewell Edition",
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-us/games/spiritfarer",
@@ -3869,6 +3957,17 @@
       "steam": "https://store.steampowered.com/app/1282590/"
     },
     "steam": 1282590,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "transformers-battlegrounds",
+    "name": "TRANSFORMERS: BATTLEGROUNDS",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/transformers-battlegrounds/9PCQRLT7C2BH",
+      "steam": "https://store.steampowered.com/app/1177000/"
+    },
+    "steam": 1177000,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

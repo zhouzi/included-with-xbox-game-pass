@@ -1551,17 +1551,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "guacamelee-2",
-    "name": "Guacamelee! 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/guacamelee-2/9NVK1W7L093S",
-      "steam": "https://store.steampowered.com/app/534550/"
-    },
-    "steam": 534550,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "hades",
     "name": "Hades",
     "availability": {
@@ -3630,17 +3619,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "the-dark-pictures-anthology-man-of-medan",
-    "name": "The Dark Pictures Anthology: Man Of Medan",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/the-dark-pictures-anthology-man-of-medan/9N3TF0CG8NZB",
-      "steam": "https://store.steampowered.com/app/939850/"
-    },
-    "steam": 939850,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "the-elder-scrolls-iii-morrowind",
     "name": "The Elder Scrolls III: Morrowind",
     "availability": {
@@ -3726,6 +3704,17 @@
       "steam": "https://store.steampowered.com/app/1452500/"
     },
     "steam": 1452500,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-gunk",
+    "name": "The Gunk",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/the-gunk/9P008L2LS87F",
+      "steam": null
+    },
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4070,17 +4059,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "unto-the-end",
-    "name": "Unto The End",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/unto-the-end/9MVJ0W5N2L2Q",
-      "steam": "https://store.steampowered.com/app/600080/"
-    },
-    "steam": 600080,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "visage",
     "name": "Visage",
     "availability": {
@@ -4155,17 +4133,6 @@
       "steam": "https://store.steampowered.com/app/501300/"
     },
     "steam": 501300,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "wilmot-s-warehouse",
-    "name": "Wilmot's Warehouse",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/wilmots-warehouse-win10/9NCHVR5KH0RN",
-      "steam": "https://store.steampowered.com/app/839870/"
-    },
-    "steam": 839870,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4375,17 +4342,6 @@
       "steam": "https://store.steampowered.com/app/459080/"
     },
     "steam": 459080,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yooka-laylee-and-the-impossible-lair",
-    "name": "Yooka-Laylee and the Impossible Lair",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/yooka-laylee-and-the-impossible-lair/9NB1LCQDPPM1",
-      "steam": "https://store.steampowered.com/app/846870/"
-    },
-    "steam": 846870,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

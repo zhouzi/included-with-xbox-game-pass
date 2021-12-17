@@ -1111,14 +1111,6 @@
     ]
   },
   {
-    "name": "Guacamelee! 2",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/guacamelee-2/9NVK1W7L093S",
-    "slug": "guacamelee-2",
-    "steamIds": [
-      534550
-    ]
-  },
-  {
     "name": "Hades",
     "xboxUrl": "https://www.xbox.com/en-us/games/hades",
     "slug": "hades",
@@ -2576,14 +2568,6 @@
     ]
   },
   {
-    "name": "The Dark Pictures Anthology: Man Of Medan",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/the-dark-pictures-anthology-man-of-medan/9N3TF0CG8NZB",
-    "slug": "the-dark-pictures-anthology-man-of-medan",
-    "steamIds": [
-      939850
-    ]
-  },
-  {
     "name": "The Elder Scrolls III: Morrowind",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-iii-morrowind-game-of-the-year-edition-pc/9PP7XSG5LDH1",
     "slug": "the-elder-scrolls-iii-morrowind",
@@ -2647,6 +2631,12 @@
       293340,
       1452500
     ]
+  },
+  {
+    "name": "The Gunk",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/the-gunk/9P008L2LS87F",
+    "slug": "the-gunk",
+    "steamIds": []
   },
   {
     "name": "The Long Dark",
@@ -2891,14 +2881,6 @@
     ]
   },
   {
-    "name": "Unto The End",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/unto-the-end/9MVJ0W5N2L2Q",
-    "slug": "unto-the-end",
-    "steamIds": [
-      600080
-    ]
-  },
-  {
     "name": "Visage",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/visage/9P9V698V6MVR",
     "slug": "visage",
@@ -2952,14 +2934,6 @@
     "slug": "what-remains-of-edith-finch",
     "steamIds": [
       501300
-    ]
-  },
-  {
-    "name": "Wilmot's Warehouse",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/wilmots-warehouse-win10/9NCHVR5KH0RN",
-    "slug": "wilmot-s-warehouse",
-    "steamIds": [
-      839870
     ]
   },
   {
@@ -3108,14 +3082,6 @@
     "slug": "yiik-a-postmodern-rpg",
     "steamIds": [
       459080
-    ]
-  },
-  {
-    "name": "Yooka-Laylee and the Impossible Lair",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/yooka-laylee-and-the-impossible-lair/9NB1LCQDPPM1",
-    "slug": "yooka-laylee-and-the-impossible-lair",
-    "steamIds": [
-      846870
     ]
   },
   {

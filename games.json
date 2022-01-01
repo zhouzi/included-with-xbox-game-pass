@@ -4235,17 +4235,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "yakuza-0",
-    "name": "Yakuza 0",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/yakuza-0-for-windows-10/9PD0BJRBLRJM",
-      "steam": "https://store.steampowered.com/app/638970/"
-    },
-    "steam": 638970,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "yakuza-3-remastered",
     "name": "Yakuza 3 Remastered",
     "availability": {
@@ -4287,28 +4276,6 @@
       "steam": "https://store.steampowered.com/app/1388590/"
     },
     "steam": 1388590,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yakuza-kiwami",
-    "name": "Yakuza Kiwami",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
-      "steam": "https://store.steampowered.com/app/834530/"
-    },
-    "steam": 834530,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yakuza-kiwami-2",
-    "name": "Yakuza Kiwami 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
-      "steam": "https://store.steampowered.com/app/927380/"
-    },
-    "steam": 927380,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

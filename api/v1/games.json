@@ -3005,14 +3005,6 @@
     ]
   },
   {
-    "name": "Yakuza 0",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/yakuza-0-for-windows-10/9PD0BJRBLRJM",
-    "slug": "yakuza-0",
-    "steamIds": [
-      638970
-    ]
-  },
-  {
     "name": "Yakuza 3 Remastered",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/yakuza-3-remastered-for-windows-10/9NC4QMRHCNZK",
     "slug": "yakuza-3-remastered",
@@ -3042,22 +3034,6 @@
     "slug": "yakuza-6-the-song-of-life",
     "steamIds": [
       1388590
-    ]
-  },
-  {
-    "name": "Yakuza Kiwami",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0",
-    "slug": "yakuza-kiwami",
-    "steamIds": [
-      834530
-    ]
-  },
-  {
-    "name": "Yakuza Kiwami 2",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F",
-    "slug": "yakuza-kiwami-2",
-    "steamIds": [
-      927380
     ]
   },
   {

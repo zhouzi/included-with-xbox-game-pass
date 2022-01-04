@@ -1087,6 +1087,14 @@
     ]
   },
   {
+    "name": "Gorogoa",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/gorogoa/C41M2F4NWB2S",
+    "slug": "gorogoa",
+    "steamIds": [
+      557600
+    ]
+  },
+  {
     "name": "GreedFall",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/greedfall---windows-10/9PB79JST8PDH",
     "slug": "greedfall",
@@ -1826,6 +1834,14 @@
     "slug": "octopath-traveler",
     "steamIds": [
       921570
+    ]
+  },
+  {
+    "name": "Olija",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/olija/9N8LVGJ6RDBP",
+    "slug": "olija",
+    "steamIds": [
+      1297330
     ]
   },
   {
@@ -2660,6 +2676,14 @@
     "slug": "the-outer-worlds",
     "steamIds": [
       578650
+    ]
+  },
+  {
+    "name": "The Pedestrian",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/the-pedestrian/9NTX07HR22TG",
+    "slug": "the-pedestrian",
+    "steamIds": [
+      466630
     ]
   },
   {

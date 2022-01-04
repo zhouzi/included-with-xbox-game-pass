@@ -1518,6 +1518,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "gorogoa",
+    "name": "Gorogoa",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/gorogoa/C41M2F4NWB2S",
+      "steam": "https://store.steampowered.com/app/557600/"
+    },
+    "steam": 557600,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "greedfall",
     "name": "GreedFall",
     "availability": {
@@ -2560,6 +2571,17 @@
       "steam": "https://store.steampowered.com/app/921570/"
     },
     "steam": 921570,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "olija",
+    "name": "Olija",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/olija/9N8LVGJ6RDBP",
+      "steam": "https://store.steampowered.com/app/1297330/"
+    },
+    "steam": 1297330,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3748,6 +3770,17 @@
       "steam": "https://store.steampowered.com/app/578650/"
     },
     "steam": 578650,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-pedestrian",
+    "name": "The Pedestrian",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/the-pedestrian/9NTX07HR22TG",
+      "steam": "https://store.steampowered.com/app/466630/"
+    },
+    "steam": 466630,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

@@ -1056,6 +1056,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "embr",
+    "name": "Embr",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/embr/9P9XS9D0LBPV",
+      "steam": "https://store.steampowered.com/app/1062830/"
+    },
+    "steam": 1062830,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "empire-of-sin",
     "name": "Empire of Sin",
     "availability": {

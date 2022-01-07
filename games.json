@@ -2123,6 +2123,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "mass-effect-legendary-edition",
+    "name": "Mass Effect™ Legendary Edition",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/1328670/"
+    },
+    "steam": 1328670,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "mass-effect-andromeda",
     "name": "Mass Effect™: Andromeda",
     "availability": {
@@ -2648,6 +2659,17 @@
       "steam": "https://store.steampowered.com/app/1057090/"
     },
     "steam": 1057090,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "outer-wilds",
+    "name": "Outer Wilds",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/outer-wilds/C596FKDKMQN7",
+      "steam": "https://store.steampowered.com/app/753640/"
+    },
+    "steam": 753640,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

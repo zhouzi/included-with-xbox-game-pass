@@ -1515,6 +1515,14 @@
     "steamIds": []
   },
   {
+    "name": "Mass Effect™ Legendary Edition",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "mass-effect-legendary-edition",
+    "steamIds": [
+      1328670
+    ]
+  },
+  {
     "name": "Mass Effect™: Andromeda",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "mass-effect-andromeda",
@@ -1890,6 +1898,14 @@
     "slug": "ori-and-the-will-of-the-wisps",
     "steamIds": [
       1057090
+    ]
+  },
+  {
+    "name": "Outer Wilds",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/outer-wilds/C596FKDKMQN7",
+    "slug": "outer-wilds",
+    "steamIds": [
+      753640
     ]
   },
   {

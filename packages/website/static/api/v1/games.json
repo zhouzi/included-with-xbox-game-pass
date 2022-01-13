@@ -2384,6 +2384,14 @@
     ]
   },
   {
+    "name": "Spelunky 2",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/spelunky-2/9PM85QK6C13H",
+    "slug": "spelunky-2",
+    "steamIds": [
+      418530
+    ]
+  },
+  {
     "name": "Spiritfarer®: Farewell Edition",
     "xboxUrl": "https://www.xbox.com/en-us/games/spiritfarer",
     "slug": "spiritfarer-farewell-edition",

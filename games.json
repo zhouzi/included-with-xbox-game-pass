@@ -3355,6 +3355,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "spelunky-2",
+    "name": "Spelunky 2",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/spelunky-2/9PM85QK6C13H",
+      "steam": "https://store.steampowered.com/app/418530/"
+    },
+    "steam": 418530,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "spiritfarer-farewell-edition",
     "name": "Spiritfarer®: Farewell Edition",
     "availability": {

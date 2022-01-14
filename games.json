@@ -3619,6 +3619,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "the-anacrusis",
+    "name": "The Anacrusis",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/the-anacrusis-game-preview/9P9S593SLMV7",
+      "steam": "https://store.steampowered.com/app/1120480/"
+    },
+    "steam": 1120480,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "the-artful-escape",
     "name": "The Artful Escape",
     "availability": {

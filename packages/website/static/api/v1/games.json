@@ -2570,10 +2570,12 @@
     ]
   },
   {
-    "name": "The Anacrusis (Game Preview)",
+    "name": "The Anacrusis",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-anacrusis-game-preview/9P9S593SLMV7",
-    "slug": "the-anacrusis-game-preview",
-    "steamIds": []
+    "slug": "the-anacrusis",
+    "steamIds": [
+      1120480
+    ]
   },
   {
     "name": "The Artful Escape",

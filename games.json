@@ -781,17 +781,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "desperados-iii",
-    "name": "Desperados III",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/desperados-iii/9P1ZX74WPL68",
-      "steam": "https://store.steampowered.com/app/610370/"
-    },
-    "steam": 610370,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "destiny-2",
     "name": "Destiny 2",
     "availability": {
@@ -1482,17 +1471,6 @@
       "steam": "https://store.steampowered.com/app/735290/"
     },
     "steam": 735290,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "ghost-of-a-tale",
-    "name": "Ghost of a Tale",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/ghost-of-a-tale/9PJR5XZG5CNS",
-      "steam": "https://store.steampowered.com/app/417290/"
-    },
-    "steam": 417290,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2365,17 +2343,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "mount-and-blade-warband",
-    "name": "Mount & Blade: Warband",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/mount--blade-warband-pc/9PFZC53PVTDB",
-      "steam": "https://store.steampowered.com/app/48700/"
-    },
-    "steam": 48700,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "my-friend-pedro",
     "name": "My Friend Pedro",
     "availability": {
@@ -2703,17 +2670,6 @@
       "steam": "https://store.steampowered.com/app/728880/"
     },
     "steam": 728880,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "pandemic-the-board-game",
-    "name": "Pandemic: The Board Game",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/pandemic-the-board-game/9P8Q4W21QQZ2",
-      "steam": "https://store.steampowered.com/app/622440/"
-    },
-    "steam": 622440,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4386,17 +4342,6 @@
       "steam": "https://store.steampowered.com/app/1115690/"
     },
     "steam": 1115690,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "yiik-a-postmodern-rpg",
-    "name": "YIIK: A Postmodern RPG",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
-      "steam": "https://store.steampowered.com/app/459080/"
-    },
-    "steam": 459080,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

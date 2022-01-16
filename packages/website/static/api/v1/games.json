@@ -563,14 +563,6 @@
     ]
   },
   {
-    "name": "Desperados III",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/desperados-iii/9P1ZX74WPL68",
-    "slug": "desperados-iii",
-    "steamIds": [
-      610370
-    ]
-  },
-  {
     "name": "Destiny 2",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/destiny-2/9P9WJ5FW0GTD",
     "slug": "destiny-2",
@@ -1060,14 +1052,6 @@
     "slug": "genesis-noir",
     "steamIds": [
       735290
-    ]
-  },
-  {
-    "name": "Ghost of a Tale",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/ghost-of-a-tale/9PJR5XZG5CNS",
-    "slug": "ghost-of-a-tale",
-    "steamIds": [
-      417290
     ]
   },
   {
@@ -1685,14 +1669,6 @@
     ]
   },
   {
-    "name": "Mount & Blade: Warband",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/mount--blade-warband-pc/9PFZC53PVTDB",
-    "slug": "mount-and-blade-warband",
-    "steamIds": [
-      48700
-    ]
-  },
-  {
     "name": "My Friend Pedro",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/my-friend-pedro-win10/9NMH293554QQ",
     "slug": "my-friend-pedro",
@@ -1930,14 +1906,6 @@
     "slug": "overcooked-2",
     "steamIds": [
       728880
-    ]
-  },
-  {
-    "name": "Pandemic: The Board Game",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/pandemic-the-board-game/9P8Q4W21QQZ2",
-    "slug": "pandemic-the-board-game",
-    "steamIds": [
-      622440
     ]
   },
   {
@@ -3114,14 +3082,6 @@
     "slug": "yes-your-grace",
     "steamIds": [
       1115690
-    ]
-  },
-  {
-    "name": "YIIK: A Postmodern RPG",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/yiik-a-postmodern-rpg/9P3XR9QN0P4C",
-    "slug": "yiik-a-postmodern-rpg",
-    "steamIds": [
-      459080
     ]
   },
   {

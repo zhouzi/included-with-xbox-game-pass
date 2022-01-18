@@ -322,6 +322,9 @@ function fixNames(games: Game[]): Game[] {
     "ANVIL: Vault Breaker": ["ANVIL : Vault Breaker (Game Preview)"],
     "ONE PIECE: PIRATE WARRIORS 4": ["ONE PIECE: PIRATE WARRIORS 4 (Windows)"],
     "The Anacrusis": ["The Anacrusis (Game Preview)"],
+    "Danganronpa: Trigger Happy Havoc": [
+      "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+    ],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

@@ -483,10 +483,12 @@
     ]
   },
   {
-    "name": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+    "name": "Danganronpa: Trigger Happy Havoc",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/danganronpa-trigger-happy-havoc-anniversary-edition/9N07T7TGP6JG",
-    "slug": "danganronpa-trigger-happy-havoc-anniversary-edition",
-    "steamIds": []
+    "slug": "danganronpa-trigger-happy-havoc",
+    "steamIds": [
+      413410
+    ]
   },
   {
     "name": "Darkest Dungeon",

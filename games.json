@@ -671,6 +671,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "danganronpa-trigger-happy-havoc",
+    "name": "Danganronpa: Trigger Happy Havoc",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/danganronpa-trigger-happy-havoc-anniversary-edition/9N07T7TGP6JG",
+      "steam": "https://store.steampowered.com/app/413410/"
+    },
+    "steam": 413410,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "darkest-dungeon",
     "name": "Darkest Dungeon",
     "availability": {

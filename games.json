@@ -2530,6 +2530,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "nobody-saves-the-world",
+    "name": "Nobody Saves the World",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/nobody-saves-the-world/9NFZ65KKJ10X",
+      "steam": "https://store.steampowered.com/app/1432050/"
+    },
+    "steam": 1432050,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "nongunz-doppelganger-edition",
     "name": "Nongunz: Doppelganger Edition",
     "availability": {

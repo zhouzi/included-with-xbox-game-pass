@@ -547,10 +547,12 @@
     ]
   },
   {
-    "name": "Death's Door [Win10]",
+    "name": "Death's Door",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/deaths-door-win10/9MXKWW4K9LP2",
-    "slug": "death-s-door-win10",
-    "steamIds": []
+    "slug": "death-s-door",
+    "steamIds": [
+      894020
+    ]
   },
   {
     "name": "DEEEER Simulator: Your Average Everyday Deer Game",
@@ -1260,7 +1262,9 @@
     "name": "HITMAN Trilogy",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/hitman-trilogy/9PDRM8BFW1X1",
     "slug": "hitman-trilogy",
-    "steamIds": []
+    "steamIds": [
+      1659040
+    ]
   },
   {
     "name": "Hollow Knight",

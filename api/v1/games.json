@@ -547,6 +547,14 @@
     ]
   },
   {
+    "name": "Death's Door",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/deaths-door-win10/9MXKWW4K9LP2",
+    "slug": "death-s-door",
+    "steamIds": [
+      894020
+    ]
+  },
+  {
     "name": "DEEEER Simulator: Your Average Everyday Deer Game",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/deeeer-simulator-your-average-everyday-deer-game/9NNBPBM2F60W",
     "slug": "deeeer-simulator-your-average-everyday-deer-game",
@@ -1248,6 +1256,14 @@
     "slug": "hellblade-senua-s-sacrifice",
     "steamIds": [
       414340
+    ]
+  },
+  {
+    "name": "HITMAN Trilogy",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/hitman-trilogy/9PDRM8BFW1X1",
+    "slug": "hitman-trilogy",
+    "steamIds": [
+      1659040
     ]
   },
   {
@@ -2090,6 +2106,14 @@
     ]
   },
   {
+    "name": "Pupperazzi",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/pupperazzi/9P34LH5ZWBVG",
+    "slug": "pupperazzi",
+    "steamIds": [
+      1028350
+    ]
+  },
+  {
     "name": "Quake",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/quake/9P1Z43KRNQD4",
     "slug": "quake",
@@ -2736,7 +2760,9 @@
     "name": "The Sims™ 3",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "the-sims-3",
-    "steamIds": []
+    "steamIds": [
+      47890
+    ]
   },
   {
     "name": "The Sims™ 4",
@@ -2982,6 +3008,14 @@
     "slug": "what-remains-of-edith-finch",
     "steamIds": [
       501300
+    ]
+  },
+  {
+    "name": "Windjammers 2",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/windjammers-2/9N232RBCFR2G",
+    "slug": "windjammers-2",
+    "steamIds": [
+      1114290
     ]
   },
   {

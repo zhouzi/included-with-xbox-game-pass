@@ -759,6 +759,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "death-s-door",
+    "name": "Death's Door",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/deaths-door-win10/9MXKWW4K9LP2",
+      "steam": "https://store.steampowered.com/app/894020/"
+    },
+    "steam": 894020,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "deeeer-simulator-your-average-everyday-deer-game",
     "name": "DEEEER Simulator: Your Average Everyday Deer Game",
     "availability": {
@@ -1746,6 +1757,17 @@
       "steam": "https://store.steampowered.com/app/414340/"
     },
     "steam": 414340,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "hitman-trilogy",
+    "name": "HITMAN Trilogy",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/hitman-trilogy/9PDRM8BFW1X1",
+      "steam": "https://store.steampowered.com/app/1659040/"
+    },
+    "steam": 1659040,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2937,6 +2959,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "pupperazzi",
+    "name": "Pupperazzi",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/pupperazzi/9P34LH5ZWBVG",
+      "steam": "https://store.steampowered.com/app/1028350/"
+    },
+    "steam": 1028350,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "quake",
     "name": "Quake",
     "availability": {
@@ -3855,9 +3888,9 @@
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/47890/"
     },
-    "steam": null,
+    "steam": 47890,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4199,6 +4232,17 @@
       "steam": "https://store.steampowered.com/app/501300/"
     },
     "steam": 501300,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "windjammers-2",
+    "name": "Windjammers 2",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/windjammers-2/9N232RBCFR2G",
+      "steam": "https://store.steampowered.com/app/1114290/"
+    },
+    "steam": 1114290,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

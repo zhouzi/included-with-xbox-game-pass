@@ -3597,17 +3597,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "taiko-no-tatsujin-the-drum-master",
-    "name": "Taiko no Tatsujin: The Drum Master!",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/taiko-no-tatsujin-the-drum-master/9N4V8K7Z5RRG",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "tainted-grail-conquest",
     "name": "Tainted Grail: Conquest",
     "availability": {

@@ -649,17 +649,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "cyber-shadow",
-    "name": "Cyber Shadow",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/cyber-shadow/9NX9LJ5JSWH8",
-      "steam": "https://store.steampowered.com/app/861250/"
-    },
-    "steam": 861250,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "dandy-ace",
     "name": "Dandy Ace",
     "availability": {
@@ -2574,17 +2563,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "nowhere-prophet",
-    "name": "Nowhere Prophet",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/nowhere-prophet/9P01NRSZCVR6",
-      "steam": "https://store.steampowered.com/app/681730/"
-    },
-    "steam": 681730,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "nuclear-throne",
     "name": "Nuclear Throne",
     "availability": {
@@ -2890,17 +2868,6 @@
       "steam": "https://store.steampowered.com/app/480490/"
     },
     "steam": 480490,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "prison-architect",
-    "name": "Prison Architect",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/prison-architect-pc/9P5S2J2VLLPR",
-      "steam": "https://store.steampowered.com/app/233450/"
-    },
-    "steam": 233450,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3594,6 +3561,17 @@
       "steam": "https://store.steampowered.com/app/774791/"
     },
     "steam": 774791,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "taiko-no-tatsujin-the-drum-master",
+    "name": "Taiko no Tatsujin: The Drum Master!",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/taiko-no-tatsujin-the-drum-master/9N4V8K7Z5RRG",
+      "steam": null
+    },
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4331,17 +4309,6 @@
       "steam": "https://store.steampowered.com/app/228380/"
     },
     "steam": 228380,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "xeno-crisis",
-    "name": "Xeno Crisis",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/xeno-crisis/9PNBGZTL0Z1S",
-      "steam": "https://store.steampowered.com/app/464260/"
-    },
-    "steam": 464260,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

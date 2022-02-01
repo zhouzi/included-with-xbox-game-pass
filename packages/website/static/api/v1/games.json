@@ -467,14 +467,6 @@
     ]
   },
   {
-    "name": "Cyber Shadow",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/cyber-shadow/9NX9LJ5JSWH8",
-    "slug": "cyber-shadow",
-    "steamIds": [
-      861250
-    ]
-  },
-  {
     "name": "Dandy Ace",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/dandy-ace/9NQLVQTLPRS1",
     "slug": "dandy-ace",
@@ -1837,14 +1829,6 @@
     ]
   },
   {
-    "name": "Nowhere Prophet",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/nowhere-prophet/9P01NRSZCVR6",
-    "slug": "nowhere-prophet",
-    "steamIds": [
-      681730
-    ]
-  },
-  {
     "name": "Nuclear Throne",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/nuclear-throne/9N3K4M5K357L",
     "slug": "nuclear-throne",
@@ -2055,14 +2039,6 @@
     "steamIds": [
       3970,
       480490
-    ]
-  },
-  {
-    "name": "Prison Architect",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/prison-architect-pc/9P5S2J2VLLPR",
-    "slug": "prison-architect",
-    "steamIds": [
-      233450
     ]
   },
   {
@@ -2556,6 +2532,12 @@
     "steamIds": [
       774791
     ]
+  },
+  {
+    "name": "Taiko no Tatsujin: The Drum Master!",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/taiko-no-tatsujin-the-drum-master/9N4V8K7Z5RRG",
+    "slug": "taiko-no-tatsujin-the-drum-master",
+    "steamIds": []
   },
   {
     "name": "Tainted Grail: Conquest",
@@ -3076,14 +3058,6 @@
     "slug": "wreckfest",
     "steamIds": [
       228380
-    ]
-  },
-  {
-    "name": "Xeno Crisis",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/xeno-crisis/9PNBGZTL0Z1S",
-    "slug": "xeno-crisis",
-    "steamIds": [
-      464260
     ]
   },
   {

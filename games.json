@@ -1012,6 +1012,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "dreamscaper",
+    "name": "Dreamscaper",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/dreamscaper/9NB7FZ2GV5N1",
+      "steam": "https://store.steampowered.com/app/1040420/"
+    },
+    "steam": 1040420,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "dungeon-keeper",
     "name": "Dungeon Keeper™",
     "availability": {

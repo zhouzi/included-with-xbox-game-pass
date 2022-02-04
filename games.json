@@ -3608,6 +3608,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "telling-lies",
+    "name": "Telling Lies",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/telling-lies/9NLHWTCWLKGX",
+      "steam": "https://store.steampowered.com/app/762830/"
+    },
+    "steam": 762830,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "tetris-effect-connected",
     "name": "Tetris® Effect: Connected",
     "availability": {

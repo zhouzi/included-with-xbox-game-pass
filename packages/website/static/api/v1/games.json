@@ -206,6 +206,14 @@
     ]
   },
   {
+    "name": "Battlefield: Bad Company™ 2",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "battlefield-bad-company-2",
+    "steamIds": [
+      24960
+    ]
+  },
+  {
     "name": "Battlefield™ 1",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "battlefield-1",
@@ -1953,6 +1961,14 @@
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "peggle",
     "steamIds": []
+  },
+  {
+    "name": "Peggle® Nights",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "peggle-nights",
+    "steamIds": [
+      3540
+    ]
   },
   {
     "name": "Phoenix Point",

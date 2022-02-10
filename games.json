@@ -374,6 +374,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "besiege",
+    "name": "Besiege",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/besiege-game-preview/9NNFFCR5XGZ3",
+      "steam": "https://store.steampowered.com/app/346010/"
+    },
+    "steam": 346010,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "bleeding-edge",
     "name": "Bleeding Edge",
     "availability": {
@@ -3300,6 +3311,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "skul-the-hero-slayer",
+    "name": "Skul: The Hero Slayer",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/skul-the-hero-slayer/9NW4Z3HPJVKW",
+      "steam": "https://store.steampowered.com/app/1147560/"
+    },
+    "steam": 1147560,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "slay-the-spire",
     "name": "Slay The Spire",
     "availability": {
@@ -3825,6 +3847,17 @@
       "steam": null
     },
     "steam": null,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-last-kids-on-earth-and-the-staff-of-doom",
+    "name": "The Last Kids on Earth and the Staff of Doom",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/the-last-kids-on-earth-and-the-staff-of-doom/9NQTJK43NCQJ",
+      "steam": "https://store.steampowered.com/app/1263100/"
+    },
+    "steam": 1263100,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

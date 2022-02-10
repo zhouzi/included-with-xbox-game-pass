@@ -270,6 +270,14 @@
     ]
   },
   {
+    "name": "Besiege",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/besiege-game-preview/9NNFFCR5XGZ3",
+    "slug": "besiege",
+    "steamIds": [
+      346010
+    ]
+  },
+  {
     "name": "Bleeding Edge",
     "xboxUrl": "https://www.xbox.com/en-us/games/bleeding-edge",
     "slug": "bleeding-edge",
@@ -2344,6 +2352,14 @@
     ]
   },
   {
+    "name": "Skul: The Hero Slayer",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/skul-the-hero-slayer/9NW4Z3HPJVKW",
+    "slug": "skul-the-hero-slayer",
+    "steamIds": [
+      1147560
+    ]
+  },
+  {
     "name": "Slay The Spire",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/slay-the-spire/9MZQR8317S3B",
     "slug": "slay-the-spire",
@@ -2715,6 +2731,14 @@
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-gunk/9P008L2LS87F",
     "slug": "the-gunk",
     "steamIds": []
+  },
+  {
+    "name": "The Last Kids on Earth and the Staff of Doom",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/the-last-kids-on-earth-and-the-staff-of-doom/9NQTJK43NCQJ",
+    "slug": "the-last-kids-on-earth-and-the-staff-of-doom",
+    "steamIds": [
+      1263100
+    ]
   },
   {
     "name": "The Long Dark",

@@ -270,10 +270,12 @@
     ]
   },
   {
-    "name": "Besiege (Game Preview)",
+    "name": "Besiege",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/besiege-game-preview/9NNFFCR5XGZ3",
-    "slug": "besiege-game-preview",
-    "steamIds": []
+    "slug": "besiege",
+    "steamIds": [
+      346010
+    ]
   },
   {
     "name": "Bleeding Edge",

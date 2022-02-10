@@ -326,6 +326,7 @@ function fixNames(games: Game[]): Game[] {
       "Danganronpa: Trigger Happy Havoc Anniversary Edition",
     ],
     "Death's Door": ["Death's Door [Win10]"],
+    Besiege: ["Besiege (Game Preview)"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

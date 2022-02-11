@@ -1089,6 +1089,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "edge-of-eternity",
+    "name": "Edge of Eternity",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/edge-of-eternity/9P934697Z4W4",
+      "steam": "https://store.steampowered.com/app/269190/"
+    },
+    "steam": 269190,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "embr",
     "name": "Embr",
     "availability": {

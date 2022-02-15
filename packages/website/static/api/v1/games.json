@@ -118,12 +118,10 @@
     ]
   },
   {
-    "name": "ARK: Survival Evolved",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/ark-survival-evolved-explorers-edition/9MT8ND8BS6NB",
-    "slug": "ark-survival-evolved",
-    "steamIds": [
-      346110
-    ]
+    "name": "ARK: Ultimate Survivor Edition",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/ark-ultimate-survivor-edition/9P686C1GJ91L",
+    "slug": "ark-ultimate-survivor-edition",
+    "steamIds": []
   },
   {
     "name": "art of rally",
@@ -1336,6 +1334,14 @@
     "slug": "immortal-realms-vampire-wars",
     "steamIds": [
       1024480
+    ]
+  },
+  {
+    "name": "Infernax",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/infernax/9NK7HNCG0R8D",
+    "slug": "infernax",
+    "steamIds": [
+      374190
     ]
   },
   {
@@ -2738,7 +2744,9 @@
     "name": "The Gunk",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-gunk/9P008L2LS87F",
     "slug": "the-gunk",
-    "steamIds": []
+    "steamIds": [
+      1087760
+    ]
   },
   {
     "name": "The Last Kids on Earth and the Staff of Doom",

@@ -300,7 +300,10 @@ function fixNames(games: Game[]): Game[] {
     "Curse of the Dead Gods": ["Curse of the Dead Gods (PC)"],
     Starmancer: ["Starmancer (Game Preview)"],
     "Lemnis Gate": ["Lemnis Gate: Windows Edition"],
-    "ARK: Survival Evolved": ["ARK: Survival Evolved Explorer's Edition"],
+    "ARK: Survival Evolved": [
+      "ARK: Survival Evolved Explorer's Edition",
+      "ARK: Ultimate Survivor Edition",
+    ],
     "Farming Simulator 19": ["Farming Simulator 19 (Windows 10)"],
     "Five Nights at Freddy's": ["Five Nights at Freddy's: Original Series"],
     "Forza Horizon 4": ["Forza Horizon 4 Standard Edition"],

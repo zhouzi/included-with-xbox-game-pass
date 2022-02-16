@@ -118,6 +118,14 @@
     ]
   },
   {
+    "name": "ARK: Survival Evolved",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/ark-ultimate-survivor-edition/9P686C1GJ91L",
+    "slug": "ark-survival-evolved",
+    "steamIds": [
+      346110
+    ]
+  },
+  {
     "name": "art of rally",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/art-of-rally/9P6JQDDZ2MQB",
     "slug": "art-of-rally",
@@ -366,14 +374,6 @@
     ]
   },
   {
-    "name": "CODE VEIN",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/code-vein/9P59LFQSNB6R",
-    "slug": "code-vein",
-    "steamIds": [
-      678960
-    ]
-  },
-  {
     "name": "Command & Conquer™ Remastered Collection",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "command-and-conquer-remastered-collection",
@@ -388,12 +388,6 @@
     "steamIds": [
       440900
     ]
-  },
-  {
-    "name": "Control",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/control-standard-edition/9PL1J8PJKH29",
-    "slug": "control",
-    "steamIds": []
   },
   {
     "name": "Crackdown 3",
@@ -944,14 +938,6 @@
     "slug": "final-fantasy-x-x-2-hd-remaster",
     "steamIds": [
       359870
-    ]
-  },
-  {
-    "name": "FINAL FANTASY XII THE ZODIAC AGE",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/final-fantasy-xii-the-zodiac-age/9NM6NG7KNHWJ",
-    "slug": "final-fantasy-xii-the-zodiac-age",
-    "steamIds": [
-      595520
     ]
   },
   {
@@ -2098,14 +2084,6 @@
     ]
   },
   {
-    "name": "Project Winter",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/project-winter/9P3SX4G50LZ1",
-    "slug": "project-winter",
-    "steamIds": [
-      774861
-    ]
-  },
-  {
     "name": "Psychonauts",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/psychonauts-windows-10/9NCT87FKQ4GM",
     "slug": "psychonauts",
@@ -2710,14 +2688,6 @@
     ]
   },
   {
-    "name": "The Falconeer",
-    "xboxUrl": "https://www.xbox.com/en-us/games/the-falconeer",
-    "slug": "the-falconeer",
-    "steamIds": [
-      1135260
-    ]
-  },
-  {
     "name": "The Forgotten City",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-forgotten-city/9NJ4R763M7TH",
     "slug": "the-forgotten-city",
@@ -2756,14 +2726,6 @@
     "slug": "the-long-dark",
     "steamIds": [
       305620
-    ]
-  },
-  {
-    "name": "The Medium",
-    "xboxUrl": "https://www.xbox.com/en-us/games/the-medium",
-    "slug": "the-medium",
-    "steamIds": [
-      1293160
     ]
   },
   {

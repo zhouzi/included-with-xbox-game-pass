@@ -4004,6 +4004,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "total-war-warhammer-iii",
+    "name": "Total War: Warhammer III",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/total-war-warhammer-iii/9NGGB0GZPB9D",
+      "steam": "https://store.steampowered.com/app/1142710/"
+    },
+    "steam": 1142710,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "totally-accurate-battle-simulator",
     "name": "Totally Accurate Battle Simulator",
     "availability": {

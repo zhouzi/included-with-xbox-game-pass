@@ -1497,6 +1497,14 @@
     ]
   },
   {
+    "name": "Madden NFL 22",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "madden-nfl-22",
+    "steamIds": [
+      1519350
+    ]
+  },
+  {
     "name": "Maneater",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/maneater/9P5B81KVDGP1",
     "slug": "maneater",

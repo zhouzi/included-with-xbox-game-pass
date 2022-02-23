@@ -2226,6 +2226,14 @@
     ]
   },
   {
+    "name": "Roboquest",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/roboquest-game-preview/9P47S7NJGWZL",
+    "slug": "roboquest",
+    "steamIds": [
+      692890
+    ]
+  },
+  {
     "name": "Rocket Arena",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "rocket-arena",

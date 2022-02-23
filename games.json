@@ -3124,6 +3124,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "roboquest",
+    "name": "Roboquest",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/roboquest-game-preview/9P47S7NJGWZL",
+      "steam": "https://store.steampowered.com/app/692890/"
+    },
+    "steam": 692890,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "rocket-arena",
     "name": "Rocket Arena",
     "availability": {

@@ -2226,10 +2226,12 @@
     ]
   },
   {
-    "name": "Roboquest (Game Preview)",
+    "name": "Roboquest",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/roboquest-game-preview/9P47S7NJGWZL",
-    "slug": "roboquest-game-preview",
-    "steamIds": []
+    "slug": "roboquest",
+    "steamIds": [
+      692890
+    ]
   },
   {
     "name": "Rocket Arena",

@@ -1419,6 +1419,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "galactic-civilizations-iii",
+    "name": "Galactic Civilizations III",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/galactic-civilizations-iii/9NKBH79N7HVW",
+      "steam": "https://store.steampowered.com/app/226860/"
+    },
+    "steam": 226860,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "gang-beasts",
     "name": "Gang Beasts",
     "availability": {

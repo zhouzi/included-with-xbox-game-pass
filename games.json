@@ -990,6 +990,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "dragon-ball-fighterz",
+    "name": "DRAGON BALL FIGHTERZ",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/dragon-ball-fighterz-windows/9NZTSFKR9M94",
+      "steam": "https://store.steampowered.com/app/678950/"
+    },
+    "steam": 678950,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "dragon-quest-builders-2",
     "name": "DRAGON QUEST BUILDERS 2",
     "availability": {

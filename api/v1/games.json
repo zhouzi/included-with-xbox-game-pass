@@ -64,6 +64,14 @@
     ]
   },
   {
+    "name": "Alice: Madness Returns™",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "slug": "alice-madness-returns",
+    "steamIds": [
+      19680
+    ]
+  },
+  {
     "name": "Alien: Isolation",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/alien-isolation/9NSRJ872SGH7",
     "slug": "alien-isolation",
@@ -1306,14 +1314,6 @@
     "slug": "humankind",
     "steamIds": [
       1124300
-    ]
-  },
-  {
-    "name": "Hypnospace Outlaw",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/hypnospace-outlaw/9PM3NVB3PXG0",
-    "slug": "hypnospace-outlaw",
-    "steamIds": [
-      844590
     ]
   },
   {
@@ -2845,14 +2845,6 @@
     ]
   },
   {
-    "name": "Titanfall",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-    "slug": "titanfall",
-    "steamIds": [
-      1454890
-    ]
-  },
-  {
     "name": "Titanfall® 2",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "titanfall-2",
@@ -2890,14 +2882,6 @@
     "slug": "totally-accurate-battle-simulator",
     "steamIds": [
       508440
-    ]
-  },
-  {
-    "name": "Touhou Luna Nights",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/touhou-luna-nights/9NBLGJQQBHH4",
-    "slug": "touhou-luna-nights",
-    "steamIds": [
-      851100
     ]
   },
   {

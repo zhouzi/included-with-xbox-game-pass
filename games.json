@@ -88,6 +88,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "alice-madness-returns",
+    "name": "Alice: Madness Returns™",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/19680/"
+    },
+    "steam": 19680,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "alien-isolation",
     "name": "Alien: Isolation",
     "availability": {
@@ -1823,17 +1834,6 @@
       "steam": "https://store.steampowered.com/app/1124300/"
     },
     "steam": 1124300,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "hypnospace-outlaw",
-    "name": "Hypnospace Outlaw",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/hypnospace-outlaw/9PM3NVB3PXG0",
-      "steam": "https://store.steampowered.com/app/844590/"
-    },
-    "steam": 844590,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4004,17 +4004,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "titanfall",
-    "name": "Titanfall",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": "https://store.steampowered.com/app/1454890/"
-    },
-    "steam": 1454890,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "titanfall-2",
     "name": "Titanfall® 2",
     "availability": {
@@ -4067,17 +4056,6 @@
       "steam": "https://store.steampowered.com/app/508440/"
     },
     "steam": 508440,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "touhou-luna-nights",
-    "name": "Touhou Luna Nights",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/touhou-luna-nights/9NBLGJQQBHH4",
-      "steam": "https://store.steampowered.com/app/851100/"
-    },
-    "steam": 851100,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

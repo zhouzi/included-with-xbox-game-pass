@@ -331,6 +331,7 @@ function fixNames(games: Game[]): Game[] {
     "Death's Door": ["Death's Door [Win10]"],
     Besiege: ["Besiege (Game Preview)"],
     Roboquest: ["Roboquest (Game Preview)"],
+    "DRAGON BALL FIGHTERZ": ["DRAGON BALL FIGHTERZ (Windows)"],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

@@ -1276,6 +1276,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "far-changing-tides",
+    "name": "FAR: Changing Tides",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/far-changing-tides-windows-edition/9MT3D7Z4NWDV",
+      "steam": "https://store.steampowered.com/app/1570010/"
+    },
+    "steam": 1570010,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "farming-simulator-19",
     "name": "Farming Simulator 19",
     "availability": {

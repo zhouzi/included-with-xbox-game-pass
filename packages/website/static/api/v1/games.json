@@ -921,10 +921,12 @@
     ]
   },
   {
-    "name": "FAR: Changing Tides Windows Edition",
+    "name": "FAR: Changing Tides",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/far-changing-tides-windows-edition/9MT3D7Z4NWDV",
-    "slug": "far-changing-tides-windows-edition",
-    "steamIds": []
+    "slug": "far-changing-tides",
+    "steamIds": [
+      1570010
+    ]
   },
   {
     "name": "Farming Simulator 19",

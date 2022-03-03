@@ -2057,6 +2057,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "lightning-returns-final-fantasy-xiii",
+    "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/lightning-returns-final-fantasy-xiii/9PLF9MR720SJ",
+      "steam": "https://store.steampowered.com/app/345350/"
+    },
+    "steam": 345350,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "limbo",
     "name": "LIMBO",
     "availability": {

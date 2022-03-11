@@ -1406,7 +1406,9 @@
     "name": "Kentucky Route Zero: TV Edition",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/kentucky-route-zero-tv-edition/9P6FTM76L1S7",
     "slug": "kentucky-route-zero-tv-edition",
-    "steamIds": []
+    "steamIds": [
+      231200
+    ]
   },
   {
     "name": "Kill It With Fire",

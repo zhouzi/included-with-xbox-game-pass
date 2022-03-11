@@ -1403,9 +1403,9 @@
     ]
   },
   {
-    "name": "Kentucky Route Zero: TV Edition",
+    "name": "Kentucky Route Zero: PC Edition",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/kentucky-route-zero-tv-edition/9P6FTM76L1S7",
-    "slug": "kentucky-route-zero-tv-edition",
+    "slug": "kentucky-route-zero-pc-edition",
     "steamIds": [
       231200
     ]
@@ -3190,6 +3190,14 @@
     "slug": "yes-your-grace",
     "steamIds": [
       1115690
+    ]
+  },
+  {
+    "name": "Young Souls",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/young-souls/9PMM5T8C0CN6",
+    "slug": "young-souls",
+    "steamIds": [
+      985900
     ]
   },
   {

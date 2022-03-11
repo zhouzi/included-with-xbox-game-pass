@@ -1958,6 +1958,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "kentucky-route-zero-tv-edition",
+    "name": "Kentucky Route Zero: TV Edition",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/kentucky-route-zero-tv-edition/9P6FTM76L1S7",
+      "steam": "https://store.steampowered.com/app/231200/"
+    },
+    "steam": 231200,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "kill-it-with-fire",
     "name": "Kill It With Fire",
     "availability": {
@@ -2164,6 +2175,17 @@
       "steam": "https://store.steampowered.com/app/997070/"
     },
     "steam": 997070,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "marvel-s-guardians-of-the-galaxy",
+    "name": "Marvel's Guardians of the Galaxy",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/marvels-guardians-of-the-galaxy/9PGLL77C201J",
+      "steam": "https://store.steampowered.com/app/1088850/"
+    },
+    "steam": 1088850,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

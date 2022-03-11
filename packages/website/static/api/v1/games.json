@@ -1403,6 +1403,14 @@
     ]
   },
   {
+    "name": "Kentucky Route Zero: TV Edition",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/kentucky-route-zero-tv-edition/9P6FTM76L1S7",
+    "slug": "kentucky-route-zero-tv-edition",
+    "steamIds": [
+      231200
+    ]
+  },
+  {
     "name": "Kill It With Fire",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/kill-it-with-fire/9MZVSHQZ666K",
     "slug": "kill-it-with-fire",
@@ -1550,6 +1558,14 @@
     "slug": "marvel-s-avengers",
     "steamIds": [
       997070
+    ]
+  },
+  {
+    "name": "Marvel's Guardians of the Galaxy",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/marvels-guardians-of-the-galaxy/9PGLL77C201J",
+    "slug": "marvel-s-guardians-of-the-galaxy",
+    "steamIds": [
+      1088850
     ]
   },
   {

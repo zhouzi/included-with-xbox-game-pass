@@ -1958,8 +1958,8 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "kentucky-route-zero-tv-edition",
-    "name": "Kentucky Route Zero: TV Edition",
+    "slug": "kentucky-route-zero-pc-edition",
+    "name": "Kentucky Route Zero: PC Edition",
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-us/games/store/kentucky-route-zero-tv-edition/9P6FTM76L1S7",
@@ -4485,6 +4485,17 @@
       "steam": "https://store.steampowered.com/app/1115690/"
     },
     "steam": 1115690,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "young-souls",
+    "name": "Young Souls",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/young-souls/9PMM5T8C0CN6",
+      "steam": "https://store.steampowered.com/app/985900/"
+    },
+    "steam": 985900,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

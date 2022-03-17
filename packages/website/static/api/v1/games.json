@@ -1871,14 +1871,6 @@
     ]
   },
   {
-    "name": "NieR:Automata™",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/nierautomata-become-as-gods-edition/9PM2P9HQD1ML",
-    "slug": "nier-automata",
-    "steamIds": [
-      524220
-    ]
-  },
-  {
     "name": "No Man's Sky",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/no-mans-sky/BQVQTL3PCH05",
     "slug": "no-man-s-sky",
@@ -1999,6 +1991,14 @@
     ]
   },
   {
+    "name": "Paradise Killer",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/paradise-killer/9N673ZL1TCS7",
+    "slug": "paradise-killer",
+    "steamIds": [
+      1160220
+    ]
+  },
+  {
     "name": "Pathway",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/pathway/9MW5141C2PRX",
     "slug": "pathway",
@@ -2033,14 +2033,6 @@
     "xboxUrl": "https://www.xbox.com/en-us/games/store/phoenix-point/9P1P5Q3BNM7J",
     "slug": "phoenix-point",
     "steamIds": []
-  },
-  {
-    "name": "PHOGS!",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/phogs/9P6X271HLG8Q",
-    "slug": "phogs",
-    "steamIds": [
-      850320
-    ]
   },
   {
     "name": "Pikuniku",
@@ -2365,6 +2357,14 @@
     "slug": "shadow-warrior-2",
     "steamIds": [
       324800
+    ]
+  },
+  {
+    "name": "Shredders",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/shredders/9N4PGNQQ7ZFK",
+    "slug": "shredders",
+    "steamIds": [
+      1874170
     ]
   },
   {
@@ -2847,14 +2847,6 @@
     ]
   },
   {
-    "name": "The Surge 2",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/the-surge-2---windows-10/9NLDM4DGX41G",
-    "slug": "the-surge-2",
-    "steamIds": [
-      644830
-    ]
-  },
-  {
     "name": "The Wild at Heart",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-wild-at-heart/9NR8ZBSJQ4FD",
     "slug": "the-wild-at-heart",
@@ -2882,14 +2874,6 @@
     "slug": "titanfall-2",
     "steamIds": [
       1237970
-    ]
-  },
-  {
-    "name": "Torchlight III",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/torchlight-iii/9N944BP7SMCG",
-    "slug": "torchlight-iii",
-    "steamIds": [
-      1030210
     ]
   },
   {
@@ -2954,6 +2938,14 @@
     "slug": "tropico-6",
     "steamIds": [
       492720
+    ]
+  },
+  {
+    "name": "TUNIC",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/tunic/9NLRT31Z4RWM",
+    "slug": "tunic",
+    "steamIds": [
+      553420
     ]
   },
   {

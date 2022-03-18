@@ -2354,8 +2354,8 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "minecraft-pc-bundle",
-    "name": "Minecraft PC Bundle",
+    "slug": "minecraft",
+    "name": "Minecraft",
     "availability": {
       "console": null,
       "pc": "https://www.xbox.com/en-us/games/store/minecraft-pc-bundle/9P1DP2NGFB93",

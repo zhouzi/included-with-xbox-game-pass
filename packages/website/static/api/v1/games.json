@@ -1673,18 +1673,18 @@
     ]
   },
   {
+    "name": "Minecraft",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/minecraft-pc-bundle/9P1DP2NGFB93",
+    "slug": "minecraft",
+    "steamIds": []
+  },
+  {
     "name": "Minecraft Dungeons",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/minecraft-dungeons-for-windows--launcher/9NB6BVL3MTG4",
     "slug": "minecraft-dungeons",
     "steamIds": [
       1672970
     ]
-  },
-  {
-    "name": "Minecraft",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/minecraft-pc-bundle/9P1DP2NGFB93",
-    "slug": "minecraft",
-    "steamIds": []
   },
   {
     "name": "Mirror's Edge",

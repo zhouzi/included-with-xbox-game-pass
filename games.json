@@ -2343,17 +2343,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "minecraft-dungeons",
-    "name": "Minecraft Dungeons",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/minecraft-dungeons-for-windows--launcher/9NB6BVL3MTG4",
-      "steam": "https://store.steampowered.com/app/1672970/"
-    },
-    "steam": 1672970,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "minecraft",
     "name": "Minecraft",
     "availability": {
@@ -2362,6 +2351,17 @@
       "steam": null
     },
     "steam": null,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "minecraft-dungeons",
+    "name": "Minecraft Dungeons",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/minecraft-dungeons-for-windows--launcher/9NB6BVL3MTG4",
+      "steam": "https://store.steampowered.com/app/1672970/"
+    },
+    "steam": 1672970,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

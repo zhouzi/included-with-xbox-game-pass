@@ -2002,6 +2002,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "kraken-academy",
+    "name": "Kraken Academy!!",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/kraken-academy/9P87CGF1TCCX",
+      "steam": "https://store.steampowered.com/app/1158220/"
+    },
+    "steam": 1158220,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "lake",
     "name": "Lake",
     "availability": {
@@ -4485,6 +4496,17 @@
       "steam": "https://store.steampowered.com/app/985900/"
     },
     "steam": 985900,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "zero-escape-the-nonary-games",
+    "name": "Zero Escape: The Nonary Games",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/zero-escape-the-nonary-games/9P47H1RVDWWW",
+      "steam": "https://store.steampowered.com/app/477740/"
+    },
+    "steam": 477740,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

@@ -1435,6 +1435,14 @@
     ]
   },
   {
+    "name": "Kraken Academy!!",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/kraken-academy/9P87CGF1TCCX",
+    "slug": "kraken-academy",
+    "steamIds": [
+      1158220
+    ]
+  },
+  {
     "name": "Lake",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/lake/9N5GLFTT40SN",
     "slug": "lake",
@@ -3190,6 +3198,14 @@
     "slug": "young-souls",
     "steamIds": [
       985900
+    ]
+  },
+  {
+    "name": "Zero Escape: The Nonary Games",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/zero-escape-the-nonary-games/9P47H1RVDWWW",
+    "slug": "zero-escape-the-nonary-games",
+    "steamIds": [
+      477740
     ]
   },
   {

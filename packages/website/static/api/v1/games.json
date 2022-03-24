@@ -1903,6 +1903,14 @@
     ]
   },
   {
+    "name": "NORCO",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/norco/9NZFZXDRZQLR",
+    "slug": "norco",
+    "steamIds": [
+      1221250
+    ]
+  },
+  {
     "name": "Nuclear Throne",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/nuclear-throne/9N3K4M5K357L",
     "slug": "nuclear-throne",

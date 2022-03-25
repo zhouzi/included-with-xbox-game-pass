@@ -1,5 +1,16 @@
 [
   {
+    "slug": "a-memoir-blue",
+    "name": "A Memoir Blue",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/a-memoir-blue/9NL4KTK0N4CG",
+      "steam": "https://store.steampowered.com/app/1497450/"
+    },
+    "steam": 1497450,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "a-plague-tale-innocence",
     "name": "A Plague Tale: Innocence",
     "availability": {
@@ -4067,6 +4078,28 @@
       "steam": "https://store.steampowered.com/app/1237970/"
     },
     "steam": 1237970,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "tom-clancy-s-rainbow-six-siege",
+    "name": "Tom Clancy's Rainbow Six® Siege",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/tom-clancys-rainbow-six-siege/9MV3SSL8ZPB7",
+      "steam": "https://store.steampowered.com/app/359550/"
+    },
+    "steam": 359550,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "tom-clancy-s-rainbow-six-extraction",
+    "name": "Tom Clancy’s Rainbow Six® Extraction",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/tom-clancys-rainbow-six-extraction/9NK1FQJ1SMCB",
+      "steam": null
+    },
+    "steam": null,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

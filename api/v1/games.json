@@ -1,5 +1,13 @@
 [
   {
+    "name": "A Memoir Blue",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/a-memoir-blue/9NL4KTK0N4CG",
+    "slug": "a-memoir-blue",
+    "steamIds": [
+      1497450
+    ]
+  },
+  {
     "name": "A Plague Tale: Innocence",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/a-plague-tale-innocence---windows-10/9ND0CG3LM22K",
     "slug": "a-plague-tale-innocence",
@@ -2891,6 +2899,20 @@
     "steamIds": [
       1237970
     ]
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six® Siege",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/tom-clancys-rainbow-six-siege/9MV3SSL8ZPB7",
+    "slug": "tom-clancy-s-rainbow-six-siege",
+    "steamIds": [
+      359550
+    ]
+  },
+  {
+    "name": "Tom Clancy’s Rainbow Six® Extraction",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/tom-clancys-rainbow-six-extraction/9NK1FQJ1SMCB",
+    "slug": "tom-clancy-s-rainbow-six-extraction",
+    "steamIds": []
   },
   {
     "name": "Torment: Tides of Numenera",

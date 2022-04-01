@@ -1539,12 +1539,6 @@
     ]
   },
   {
-    "name": "Madden NFL 20",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-    "slug": "madden-nfl-20",
-    "steamIds": []
-  },
-  {
     "name": "Madden NFL 21",
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
     "slug": "madden-nfl-21",
@@ -1796,14 +1790,6 @@
     "slug": "myst",
     "steamIds": [
       1255560
-    ]
-  },
-  {
-    "name": "Narita Boy",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/narita-boy/9NT3FGQC1DFR",
-    "slug": "narita-boy",
-    "steamIds": [
-      1069530
     ]
   },
   {
@@ -2373,14 +2359,6 @@
     "slug": "serious-sam-4",
     "steamIds": [
       257420
-    ]
-  },
-  {
-    "name": "Shadow Warrior 2",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/shadow-warrior-2/9P6SFBR1TCWQ",
-    "slug": "shadow-warrior-2",
-    "steamIds": [
-      324800
     ]
   },
   {
@@ -3104,6 +3082,14 @@
     "slug": "we-happy-few",
     "steamIds": [
       320240
+    ]
+  },
+  {
+    "name": "Weird West",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/weird-west/9P8JGTJTQQF4",
+    "slug": "weird-west",
+    "steamIds": [
+      1097350
     ]
   },
   {

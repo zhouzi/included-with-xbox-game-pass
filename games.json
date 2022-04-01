@@ -2145,17 +2145,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "madden-nfl-20",
-    "name": "Madden NFL 20",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "madden-nfl-21",
     "name": "Madden NFL 21",
     "availability": {
@@ -2516,17 +2505,6 @@
       "steam": "https://store.steampowered.com/app/1255560/"
     },
     "steam": 1255560,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "narita-boy",
-    "name": "Narita Boy",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/narita-boy/9NT3FGQC1DFR",
-      "steam": "https://store.steampowered.com/app/1069530/"
-    },
-    "steam": 1069530,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -3330,17 +3308,6 @@
       "steam": "https://store.steampowered.com/app/257420/"
     },
     "steam": 257420,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "shadow-warrior-2",
-    "name": "Shadow Warrior 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/shadow-warrior-2/9P6SFBR1TCWQ",
-      "steam": "https://store.steampowered.com/app/324800/"
-    },
-    "steam": 324800,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -4364,6 +4331,17 @@
       "steam": "https://store.steampowered.com/app/320240/"
     },
     "steam": 320240,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "weird-west",
+    "name": "Weird West",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/weird-west/9P8JGTJTQQF4",
+      "steam": "https://store.steampowered.com/app/1097350/"
+    },
+    "steam": 1097350,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

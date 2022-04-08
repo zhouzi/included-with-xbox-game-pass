@@ -517,6 +517,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "chinatown-detective-agency",
+    "name": "Chinatown Detective Agency",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/chinatown-detective-agency/9NV2VTVG0L31",
+      "steam": "https://store.steampowered.com/app/1172190/"
+    },
+    "steam": 1172190,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "cities-skylines",
     "name": "Cities: Skylines",
     "availability": {

@@ -335,6 +335,9 @@ function fixNames(games: Game[]): Game[] {
     "FAR: Changing Tides": ["FAR: Changing Tides Windows Edition"],
     "Kentucky Route Zero: PC Edition": ["Kentucky Route Zero: TV Edition"],
     Minecraft: ["Minecraft PC Bundle", "Minecraft Preview for Windows"],
+    "The Dungeon Of Naheulbeuk: The Amulet Of Chaos": [
+      "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
+    ],
   }).map(([name, otherNames]) => ({ name, otherNames }));
   return games.map((game) => {
     const alias = aliases.find(({ otherNames }) =>

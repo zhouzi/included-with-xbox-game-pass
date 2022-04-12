@@ -2738,10 +2738,12 @@
     ]
   },
   {
-    "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
+    "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/the-dungeon-of-naheulbeuk-the-amulet-of-chaos---chicken-edition/9MT8HTJC4GSB",
-    "slug": "the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition",
-    "steamIds": []
+    "slug": "the-dungeon-of-naheulbeuk-the-amulet-of-chaos",
+    "steamIds": [
+      970830
+    ]
   },
   {
     "name": "The Elder Scrolls III: Morrowind",

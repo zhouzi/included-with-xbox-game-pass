@@ -33,7 +33,7 @@
   },
   {
     "name": "Age of Empires II: Definitive Edition",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q",
+    "xboxUrl": "https://www.xbox.com/en-us/games/age-of-empires-ii-definitive-edition",
     "slug": "age-of-empires-ii-definitive-edition",
     "steamIds": [
       813780
@@ -41,7 +41,7 @@
   },
   {
     "name": "Age of Empires III: Definitive Edition",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/age-of-empires-iii-definitive-edition/9N1HF804QXN4",
+    "xboxUrl": "https://www.xbox.com/en-us/games/age-of-empires-iii-definitive-edition",
     "slug": "age-of-empires-iii-definitive-edition",
     "steamIds": [
       933110
@@ -49,7 +49,7 @@
   },
   {
     "name": "Age of Empires IV",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/age-of-empires-iv/9N94NCGM1Q2N",
+    "xboxUrl": "https://www.xbox.com/en-us/games/age-of-empires-iv",
     "slug": "age-of-empires-iv",
     "steamIds": [
       1466860
@@ -594,14 +594,6 @@
     "slug": "descenders",
     "steamIds": [
       681280
-    ]
-  },
-  {
-    "name": "Destiny 2",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/destiny-2/9P9WJ5FW0GTD",
-    "slug": "destiny-2",
-    "steamIds": [
-      1085660
     ]
   },
   {
@@ -1507,6 +1499,14 @@
     ]
   },
   {
+    "name": "Life is Strange: True Colors",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/life-is-strange-true-colors/9NFWSNN4JWKB",
+    "slug": "life-is-strange-true-colors",
+    "steamIds": [
+      936790
+    ]
+  },
+  {
     "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/lightning-returns-final-fantasy-xiii/9PLF9MR720SJ",
     "slug": "lightning-returns-final-fantasy-xiii",
@@ -2009,6 +2009,14 @@
     ]
   },
   {
+    "name": "Panzer Corps 2",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/panzer-corps-2/9PLZ7HZR7JGT",
+    "slug": "panzer-corps-2",
+    "steamIds": [
+      1072040
+    ]
+  },
+  {
     "name": "Paradise Killer",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/paradise-killer/9N673ZL1TCS7",
     "slug": "paradise-killer",
@@ -2371,7 +2379,7 @@
   },
   {
     "name": "Shredders",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/shredders/9N4PGNQQ7ZFK",
+    "xboxUrl": "https://www.xbox.com/en-us/games/shredders",
     "slug": "shredders",
     "steamIds": [
       1874170
@@ -2727,6 +2735,14 @@
     "slug": "the-catch-carp-and-coarse-fishing",
     "steamIds": [
       1237610
+    ]
+  },
+  {
+    "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/the-dungeon-of-naheulbeuk-the-amulet-of-chaos---chicken-edition/9MT8HTJC4GSB",
+    "slug": "the-dungeon-of-naheulbeuk-the-amulet-of-chaos",
+    "steamIds": [
+      970830
     ]
   },
   {

@@ -48,7 +48,7 @@
     "name": "Age of Empires II: Definitive Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q",
+      "pc": "https://www.xbox.com/en-us/games/age-of-empires-ii-definitive-edition",
       "steam": "https://store.steampowered.com/app/813780/"
     },
     "steam": 813780,
@@ -59,7 +59,7 @@
     "name": "Age of Empires III: Definitive Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/age-of-empires-iii-definitive-edition/9N1HF804QXN4",
+      "pc": "https://www.xbox.com/en-us/games/age-of-empires-iii-definitive-edition",
       "steam": "https://store.steampowered.com/app/933110/"
     },
     "steam": 933110,
@@ -70,7 +70,7 @@
     "name": "Age of Empires IV",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/age-of-empires-iv/9N94NCGM1Q2N",
+      "pc": "https://www.xbox.com/en-us/games/age-of-empires-iv",
       "steam": "https://store.steampowered.com/app/1466860/"
     },
     "steam": 1466860,
@@ -822,17 +822,6 @@
       "steam": "https://store.steampowered.com/app/681280/"
     },
     "steam": 681280,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "destiny-2",
-    "name": "Destiny 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/destiny-2/9P9WJ5FW0GTD",
-      "steam": "https://store.steampowered.com/app/1085660/"
-    },
-    "steam": 1085660,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
@@ -2101,6 +2090,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "life-is-strange-true-colors",
+    "name": "Life is Strange: True Colors",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/life-is-strange-true-colors/9NFWSNN4JWKB",
+      "steam": "https://store.steampowered.com/app/936790/"
+    },
+    "steam": 936790,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "lightning-returns-final-fantasy-xiii",
     "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
     "availability": {
@@ -2805,6 +2805,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "panzer-corps-2",
+    "name": "Panzer Corps 2",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/panzer-corps-2/9PLZ7HZR7JGT",
+      "steam": "https://store.steampowered.com/app/1072040/"
+    },
+    "steam": 1072040,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "paradise-killer",
     "name": "Paradise Killer",
     "availability": {
@@ -3326,7 +3337,7 @@
     "name": "Shredders",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/shredders/9N4PGNQQ7ZFK",
+      "pc": "https://www.xbox.com/en-us/games/shredders",
       "steam": "https://store.steampowered.com/app/1874170/"
     },
     "steam": 1874170,
@@ -3836,6 +3847,17 @@
       "steam": "https://store.steampowered.com/app/1237610/"
     },
     "steam": 1237610,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "slug": "the-dungeon-of-naheulbeuk-the-amulet-of-chaos",
+    "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-us/games/store/the-dungeon-of-naheulbeuk-the-amulet-of-chaos---chicken-edition/9MT8HTJC4GSB",
+      "steam": "https://store.steampowered.com/app/970830/"
+    },
+    "steam": 970830,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

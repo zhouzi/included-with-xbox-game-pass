@@ -1705,17 +1705,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "halo-wars-2",
-    "name": "Halo Wars 2",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/halo-wars-2/9NBLGGH5WMKM",
-      "steam": null
-    },
-    "steam": null,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "halo-wars-2-standard-edition",
     "name": "Halo Wars 2: Standard Edition",
     "availability": {

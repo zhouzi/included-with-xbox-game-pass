@@ -2123,6 +2123,17 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
+    "slug": "lost-in-random",
+    "name": "Lost in Random™",
+    "availability": {
+      "console": null,
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "steam": "https://store.steampowered.com/app/1462570/"
+    },
+    "steam": 1462570,
+    "updatedAt": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "slug": "lost-words-beyond-the-page",
     "name": "Lost Words: Beyond the Page",
     "availability": {

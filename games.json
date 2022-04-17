@@ -2827,17 +2827,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "pathway",
-    "name": "Pathway",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/pathway/9MW5141C2PRX",
-      "steam": "https://store.steampowered.com/app/546430/"
-    },
-    "steam": 546430,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "paw-patrol-mighty-pups-save-adventure-bay",
     "name": "PAW Patrol Mighty Pups Save Adventure Bay",
     "availability": {
@@ -3110,17 +3099,6 @@
       "steam": "https://store.steampowered.com/app/548570/"
     },
     "steam": 548570,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
-    "slug": "rain-on-your-parade",
-    "name": "Rain on Your Parade",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/rain-on-your-parade/9NS66QNVR00N",
-      "steam": "https://store.steampowered.com/app/1213230/"
-    },
-    "steam": 1213230,
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {

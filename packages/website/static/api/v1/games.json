@@ -17,7 +17,7 @@
   },
   {
     "name": "A Way Out",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "a-way-out",
     "steamIds": [
       1222700
@@ -73,7 +73,7 @@
   },
   {
     "name": "Alice: Madness Returns™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "alice-madness-returns",
     "steamIds": [
       19680
@@ -105,7 +105,7 @@
   },
   {
     "name": "Anthem™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "anthem",
     "steamIds": []
   },
@@ -207,7 +207,7 @@
   },
   {
     "name": "Battlefield 3™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "battlefield-3",
     "steamIds": [
       1238820
@@ -215,7 +215,7 @@
   },
   {
     "name": "Battlefield 4",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "battlefield-4",
     "steamIds": [
       1238860
@@ -223,7 +223,7 @@
   },
   {
     "name": "Battlefield: Bad Company™ 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "battlefield-bad-company-2",
     "steamIds": [
       24960
@@ -231,7 +231,7 @@
   },
   {
     "name": "Battlefield™ 1",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "battlefield-1",
     "steamIds": [
       1238840
@@ -239,7 +239,7 @@
   },
   {
     "name": "Battlefield™ Hardline",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "battlefield-hardline",
     "steamIds": [
       1238880
@@ -247,7 +247,7 @@
   },
   {
     "name": "Battlefield™ V",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "battlefield-v",
     "steamIds": [
       1238810
@@ -351,7 +351,7 @@
   },
   {
     "name": "Burnout™ Paradise Remastered",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "burnout-paradise-remastered",
     "steamIds": [
       1238080
@@ -399,7 +399,7 @@
   },
   {
     "name": "Command & Conquer™ Remastered Collection",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "command-and-conquer-remastered-collection",
     "steamIds": [
       1213210
@@ -461,7 +461,7 @@
   },
   {
     "name": "Crysis 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "crysis-2",
     "steamIds": [
       99830,
@@ -470,7 +470,7 @@
   },
   {
     "name": "Crysis 3",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "crysis-3",
     "steamIds": [
       1282690
@@ -478,7 +478,7 @@
   },
   {
     "name": "Crysis®",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "crysis",
     "steamIds": [
       17310
@@ -542,7 +542,7 @@
   },
   {
     "name": "Dead Space",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dead-space",
     "steamIds": [
       17470
@@ -550,7 +550,7 @@
   },
   {
     "name": "Dead Space 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dead-space-2",
     "steamIds": [
       47780
@@ -558,7 +558,7 @@
   },
   {
     "name": "Dead Space 3",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dead-space-3",
     "steamIds": [
       1238060
@@ -708,7 +708,7 @@
   },
   {
     "name": "Dragon Age: Origins",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dragon-age-origins",
     "steamIds": [
       17450
@@ -716,13 +716,13 @@
   },
   {
     "name": "Dragon Age™ 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dragon-age-2",
     "steamIds": []
   },
   {
     "name": "Dragon Age™: Inquisition",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dragon-age-inquisition",
     "steamIds": [
       1222690
@@ -762,13 +762,13 @@
   },
   {
     "name": "Dungeon Keeper™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dungeon-keeper",
     "steamIds": []
   },
   {
     "name": "Dungeon Keeper™ 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "dungeon-keeper-2",
     "steamIds": []
   },
@@ -946,7 +946,7 @@
   },
   {
     "name": "Fe",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "fe",
     "steamIds": [
       1225580
@@ -954,13 +954,13 @@
   },
   {
     "name": "FIFA 20",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "fifa-20",
     "steamIds": []
   },
   {
     "name": "FIFA 21",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "fifa-21",
     "steamIds": []
   },
@@ -1376,7 +1376,7 @@
   },
   {
     "name": "It Takes Two",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "it-takes-two",
     "steamIds": [
       1426210
@@ -1384,7 +1384,7 @@
   },
   {
     "name": "Jade Empire™: Special Edition",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "jade-empire-special-edition",
     "steamIds": [
       7110
@@ -1430,7 +1430,7 @@
   },
   {
     "name": "Knockout City™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "knockout-city",
     "steamIds": [
       1301210
@@ -1526,7 +1526,7 @@
   },
   {
     "name": "Lost in Random™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "lost-in-random",
     "steamIds": [
       1462570
@@ -1550,7 +1550,7 @@
   },
   {
     "name": "Madden NFL 21",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "madden-nfl-21",
     "steamIds": [
       1239520
@@ -1558,7 +1558,7 @@
   },
   {
     "name": "Madden NFL 22",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "madden-nfl-22",
     "steamIds": [
       1519350
@@ -1590,7 +1590,7 @@
   },
   {
     "name": "Mass Effect 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mass-effect-2",
     "steamIds": [
       24999
@@ -1598,19 +1598,19 @@
   },
   {
     "name": "Mass Effect™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mass-effect",
     "steamIds": []
   },
   {
     "name": "Mass Effect™ 3",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mass-effect-3",
     "steamIds": []
   },
   {
     "name": "Mass Effect™ Legendary Edition",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mass-effect-legendary-edition",
     "steamIds": [
       1328670
@@ -1618,7 +1618,7 @@
   },
   {
     "name": "Mass Effect™: Andromeda",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mass-effect-andromeda",
     "steamIds": [
       1238000
@@ -1634,7 +1634,7 @@
   },
   {
     "name": "Medal of Honor Airborne™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "medal-of-honor-airborne",
     "steamIds": [
       24840
@@ -1642,7 +1642,7 @@
   },
   {
     "name": "Medal of Honor Allied Assault™ War Chest",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "medal-of-honor-allied-assault-war-chest",
     "steamIds": []
   },
@@ -1708,7 +1708,7 @@
   },
   {
     "name": "Mirror's Edge",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mirror-s-edge",
     "steamIds": [
       17410
@@ -1716,7 +1716,7 @@
   },
   {
     "name": "Mirror's Edge™ Catalyst",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "mirror-s-edge-catalyst",
     "steamIds": [
       1233570
@@ -1804,7 +1804,7 @@
   },
   {
     "name": "Need for Speed Rivals",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "need-for-speed-rivals",
     "steamIds": [
       1262600
@@ -1812,7 +1812,7 @@
   },
   {
     "name": "Need for Speed™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "need-for-speed",
     "steamIds": [
       1262540
@@ -1820,7 +1820,7 @@
   },
   {
     "name": "Need for Speed™ Heat",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "need-for-speed-heat",
     "steamIds": [
       1222680
@@ -1828,7 +1828,7 @@
   },
   {
     "name": "Need for Speed™ Hot Pursuit Remastered",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "need-for-speed-hot-pursuit-remastered",
     "steamIds": [
       1328660
@@ -1836,7 +1836,7 @@
   },
   {
     "name": "Need for Speed™ Most Wanted",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "need-for-speed-most-wanted",
     "steamIds": [
       1262560
@@ -1844,7 +1844,7 @@
   },
   {
     "name": "Need for Speed™ Payback",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "need-for-speed-payback",
     "steamIds": [
       1262580
@@ -2036,13 +2036,13 @@
   },
   {
     "name": "Peggle®",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "peggle",
     "steamIds": []
   },
   {
     "name": "Peggle® Nights",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "peggle-nights",
     "steamIds": [
       3540
@@ -2080,7 +2080,7 @@
   },
   {
     "name": "Plants vs. Zombies",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "plants-vs-zombies",
     "steamIds": [
       3599
@@ -2088,13 +2088,13 @@
   },
   {
     "name": "Plants vs. Zombies Garden Warfare",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "plants-vs-zombies-garden-warfare",
     "steamIds": []
   },
   {
     "name": "Plants vs. Zombies: Battle for Neighborville™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "plants-vs-zombies-battle-for-neighborville",
     "steamIds": [
       1262240
@@ -2102,19 +2102,19 @@
   },
   {
     "name": "Plants vs. Zombies™ Garden Warfare 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "plants-vs-zombies-garden-warfare-2",
     "steamIds": []
   },
   {
     "name": "Populous™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "populous",
     "steamIds": []
   },
   {
     "name": "Populous™ II: Trials of the Olympian Gods",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "populous-ii-trials-of-the-olympian-gods",
     "steamIds": []
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "name": "Rocket Arena",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "rocket-arena",
     "steamIds": [
       1233550
@@ -2325,7 +2325,7 @@
   },
   {
     "name": "Sea of Solitude",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "sea-of-solitude",
     "steamIds": [
       1225590
@@ -2381,19 +2381,19 @@
   },
   {
     "name": "SimCity 2000™ Special Edition",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "simcity-2000-special-edition",
     "steamIds": []
   },
   {
     "name": "SimCity™ 4 Deluxe Edition",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "simcity-4-deluxe-edition",
     "steamIds": []
   },
   {
     "name": "SimCity™: Complete Edition",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "simcity-complete-edition",
     "steamIds": []
   },
@@ -2479,7 +2479,7 @@
   },
   {
     "name": "SPORE™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "spore",
     "steamIds": [
       17390
@@ -2487,7 +2487,7 @@
   },
   {
     "name": "STAR WARS Jedi: Fallen Order™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "star-wars-jedi-fallen-order",
     "steamIds": [
       1172380
@@ -2495,7 +2495,7 @@
   },
   {
     "name": "STAR WARS™ Battlefront™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "star-wars-battlefront",
     "steamIds": [
       1237980
@@ -2503,7 +2503,7 @@
   },
   {
     "name": "STAR WARS™ Battlefront™ II",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "star-wars-battlefront-ii",
     "steamIds": [
       1237950
@@ -2511,7 +2511,7 @@
   },
   {
     "name": "STAR WARS™: Squadrons",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "star-wars-squadrons",
     "steamIds": [
       1222730
@@ -2597,7 +2597,7 @@
   },
   {
     "name": "Super Mega Baseball 3",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "super-mega-baseball-3",
     "steamIds": [
       988910
@@ -2846,13 +2846,13 @@
   },
   {
     "name": "The Saboteur™",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "the-saboteur",
     "steamIds": []
   },
   {
     "name": "The Sims™ 3",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "the-sims-3",
     "steamIds": [
       47890
@@ -2860,7 +2860,7 @@
   },
   {
     "name": "The Sims™ 4",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "the-sims-4",
     "steamIds": [
       1222670
@@ -2890,7 +2890,7 @@
   },
   {
     "name": "Titanfall® 2",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "titanfall-2",
     "steamIds": [
       1237970
@@ -3024,7 +3024,7 @@
   },
   {
     "name": "Unravel",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "unravel",
     "steamIds": [
       1225560
@@ -3032,7 +3032,7 @@
   },
   {
     "name": "Unravel Two",
-    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+    "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "unravel-two",
     "steamIds": [
       1225570

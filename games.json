@@ -26,7 +26,7 @@
     "name": "A Way Out",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1222700/"
     },
     "steam": 1222700,
@@ -103,7 +103,7 @@
     "name": "Alice: Madness Returns™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/19680/"
     },
     "steam": 19680,
@@ -147,7 +147,7 @@
     "name": "Anthem™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -290,7 +290,7 @@
     "name": "Battlefield 3™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238820/"
     },
     "steam": 1238820,
@@ -301,7 +301,7 @@
     "name": "Battlefield 4",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238860/"
     },
     "steam": 1238860,
@@ -312,7 +312,7 @@
     "name": "Battlefield: Bad Company™ 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/24960/"
     },
     "steam": 24960,
@@ -323,7 +323,7 @@
     "name": "Battlefield™ 1",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238840/"
     },
     "steam": 1238840,
@@ -334,7 +334,7 @@
     "name": "Battlefield™ Hardline",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238880/"
     },
     "steam": 1238880,
@@ -345,7 +345,7 @@
     "name": "Battlefield™ V",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238810/"
     },
     "steam": 1238810,
@@ -488,7 +488,7 @@
     "name": "Burnout™ Paradise Remastered",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238080/"
     },
     "steam": 1238080,
@@ -554,7 +554,7 @@
     "name": "Command & Conquer™ Remastered Collection",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1213210/"
     },
     "steam": 1213210,
@@ -642,7 +642,7 @@
     "name": "Crysis 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/99839/"
     },
     "steam": 99839,
@@ -653,7 +653,7 @@
     "name": "Crysis 3",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1282690/"
     },
     "steam": 1282690,
@@ -664,7 +664,7 @@
     "name": "Crysis®",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/17310/"
     },
     "steam": 17310,
@@ -752,7 +752,7 @@
     "name": "Dead Space",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/17470/"
     },
     "steam": 17470,
@@ -763,7 +763,7 @@
     "name": "Dead Space 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/47780/"
     },
     "steam": 47780,
@@ -774,7 +774,7 @@
     "name": "Dead Space 3",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238060/"
     },
     "steam": 1238060,
@@ -983,7 +983,7 @@
     "name": "Dragon Age: Origins",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/17450/"
     },
     "steam": 17450,
@@ -994,7 +994,7 @@
     "name": "Dragon Age™ 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -1005,7 +1005,7 @@
     "name": "Dragon Age™: Inquisition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1222690/"
     },
     "steam": 1222690,
@@ -1060,7 +1060,7 @@
     "name": "Dungeon Keeper™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -1071,7 +1071,7 @@
     "name": "Dungeon Keeper™ 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -1313,7 +1313,7 @@
     "name": "Fe",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1225580/"
     },
     "steam": 1225580,
@@ -1324,7 +1324,7 @@
     "name": "FIFA 20",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -1335,7 +1335,7 @@
     "name": "FIFA 21",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -1918,7 +1918,7 @@
     "name": "It Takes Two",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1426210/"
     },
     "steam": 1426210,
@@ -1929,7 +1929,7 @@
     "name": "Jade Empire™: Special Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/7110/"
     },
     "steam": 7110,
@@ -1995,7 +1995,7 @@
     "name": "Knockout City™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1301210/"
     },
     "steam": 1301210,
@@ -2127,7 +2127,7 @@
     "name": "Lost in Random™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1462570/"
     },
     "steam": 1462570,
@@ -2160,7 +2160,7 @@
     "name": "Madden NFL 21",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1239520/"
     },
     "steam": 1239520,
@@ -2171,7 +2171,7 @@
     "name": "Madden NFL 22",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1519350/"
     },
     "steam": 1519350,
@@ -2215,7 +2215,7 @@
     "name": "Mass Effect 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/24999/"
     },
     "steam": 24999,
@@ -2226,7 +2226,7 @@
     "name": "Mass Effect™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2237,7 +2237,7 @@
     "name": "Mass Effect™ 3",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2248,7 +2248,7 @@
     "name": "Mass Effect™ Legendary Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1328670/"
     },
     "steam": 1328670,
@@ -2259,7 +2259,7 @@
     "name": "Mass Effect™: Andromeda",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1238000/"
     },
     "steam": 1238000,
@@ -2281,7 +2281,7 @@
     "name": "Medal of Honor Airborne™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/24840/"
     },
     "steam": 24840,
@@ -2292,7 +2292,7 @@
     "name": "Medal of Honor Allied Assault™ War Chest",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2391,7 +2391,7 @@
     "name": "Mirror's Edge",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/17410/"
     },
     "steam": 17410,
@@ -2402,7 +2402,7 @@
     "name": "Mirror's Edge™ Catalyst",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1233570/"
     },
     "steam": 1233570,
@@ -2523,7 +2523,7 @@
     "name": "Need for Speed Rivals",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1262600/"
     },
     "steam": 1262600,
@@ -2534,7 +2534,7 @@
     "name": "Need for Speed™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1262540/"
     },
     "steam": 1262540,
@@ -2545,7 +2545,7 @@
     "name": "Need for Speed™ Heat",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1222680/"
     },
     "steam": 1222680,
@@ -2556,7 +2556,7 @@
     "name": "Need for Speed™ Hot Pursuit Remastered",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1328660/"
     },
     "steam": 1328660,
@@ -2567,7 +2567,7 @@
     "name": "Need for Speed™ Most Wanted",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1262560/"
     },
     "steam": 1262560,
@@ -2578,7 +2578,7 @@
     "name": "Need for Speed™ Payback",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1262580/"
     },
     "steam": 1262580,
@@ -2842,7 +2842,7 @@
     "name": "Peggle®",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2853,7 +2853,7 @@
     "name": "Peggle® Nights",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/3540/"
     },
     "steam": 3540,
@@ -2908,7 +2908,7 @@
     "name": "Plants vs. Zombies",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/3599/"
     },
     "steam": 3599,
@@ -2919,7 +2919,7 @@
     "name": "Plants vs. Zombies Garden Warfare",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2930,7 +2930,7 @@
     "name": "Plants vs. Zombies: Battle for Neighborville™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1262240/"
     },
     "steam": 1262240,
@@ -2941,7 +2941,7 @@
     "name": "Plants vs. Zombies™ Garden Warfare 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2952,7 +2952,7 @@
     "name": "Populous™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -2963,7 +2963,7 @@
     "name": "Populous™ II: Trials of the Olympian Gods",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -3205,7 +3205,7 @@
     "name": "Rocket Arena",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1233550/"
     },
     "steam": 1233550,
@@ -3260,7 +3260,7 @@
     "name": "Sea of Solitude",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1225590/"
     },
     "steam": 1225590,
@@ -3337,7 +3337,7 @@
     "name": "SimCity 2000™ Special Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -3348,7 +3348,7 @@
     "name": "SimCity™ 4 Deluxe Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -3359,7 +3359,7 @@
     "name": "SimCity™: Complete Edition",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -3480,7 +3480,7 @@
     "name": "SPORE™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/17390/"
     },
     "steam": 17390,
@@ -3491,7 +3491,7 @@
     "name": "STAR WARS Jedi: Fallen Order™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1172380/"
     },
     "steam": 1172380,
@@ -3502,7 +3502,7 @@
     "name": "STAR WARS™ Battlefront™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1237980/"
     },
     "steam": 1237980,
@@ -3513,7 +3513,7 @@
     "name": "STAR WARS™ Battlefront™ II",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1237950/"
     },
     "steam": 1237950,
@@ -3524,7 +3524,7 @@
     "name": "STAR WARS™: Squadrons",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1222730/"
     },
     "steam": 1222730,
@@ -3645,7 +3645,7 @@
     "name": "Super Mega Baseball 3",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/988910/"
     },
     "steam": 988910,
@@ -3997,7 +3997,7 @@
     "name": "The Saboteur™",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": null
     },
     "steam": null,
@@ -4008,7 +4008,7 @@
     "name": "The Sims™ 3",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/47890/"
     },
     "steam": 47890,
@@ -4019,7 +4019,7 @@
     "name": "The Sims™ 4",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1222670/"
     },
     "steam": 1222670,
@@ -4063,7 +4063,7 @@
     "name": "Titanfall® 2",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1237970/"
     },
     "steam": 1237970,
@@ -4250,7 +4250,7 @@
     "name": "Unravel",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1225560/"
     },
     "steam": 1225560,
@@ -4261,7 +4261,7 @@
     "name": "Unravel Two",
     "availability": {
       "console": null,
-      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games#",
+      "pc": "https://www.xbox.com/en-US/xbox-game-pass/games",
       "steam": "https://store.steampowered.com/app/1225570/"
     },
     "steam": 1225570,

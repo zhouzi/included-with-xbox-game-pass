@@ -1188,17 +1188,6 @@
     "updatedAt": "2021-01-01T00:00:00.000Z"
   },
   {
-    "slug": "f1-2019",
-    "name": "F1® 2019",
-    "availability": {
-      "console": null,
-      "pc": "https://www.xbox.com/en-us/games/store/f1-2019-pc/9NL9VGSH00LL",
-      "steam": "https://store.steampowered.com/app/928600/"
-    },
-    "steam": 928600,
-    "updatedAt": "2021-01-01T00:00:00.000Z"
-  },
-  {
     "slug": "fae-tactics",
     "name": "Fae Tactics",
     "availability": {

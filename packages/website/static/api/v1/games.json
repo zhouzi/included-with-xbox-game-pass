@@ -1,5 +1,11 @@
 [
   {
+    "name": "7 Days to Die (Game Preview)",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/7-days-to-die-game-preview/9P0617LN3SF9",
+    "slug": "7-days-to-die-game-preview",
+    "steamIds": []
+  },
+  {
     "name": "A Memoir Blue",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/a-memoir-blue/9NL4KTK0N4CG",
     "slug": "a-memoir-blue",
@@ -955,14 +961,6 @@
     "xboxUrl": "https://www.xbox.com/en-US/xbox-game-pass/games",
     "slug": "fifa-21",
     "steamIds": []
-  },
-  {
-    "name": "FINAL FANTASY X/X-2 HD Remaster",
-    "xboxUrl": "https://www.xbox.com/en-us/games/store/final-fantasy-xx-2-hd-remaster/9NDNP3J6XWVH",
-    "slug": "final-fantasy-x-x-2-hd-remaster",
-    "steamIds": [
-      359870
-    ]
   },
   {
     "name": "FINAL FANTASY XIII",
@@ -2246,6 +2244,14 @@
     ]
   },
   {
+    "name": "RESEARCH and DESTROY",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/research-and-destroy/9NNZJ389GSW2",
+    "slug": "research-and-destroy",
+    "steamIds": [
+      1279310
+    ]
+  },
+  {
     "name": "RESIDENT EVIL 7 biohazard",
     "xboxUrl": "https://www.xbox.com/en-us/games/store/resident-evil-7-biohazard/9NBLGGH4SPK6",
     "slug": "resident-evil-7-biohazard",
@@ -3045,6 +3051,12 @@
     "steamIds": [
       1062110
     ]
+  },
+  {
+    "name": "Unsouled (Game Preview)",
+    "xboxUrl": "https://www.xbox.com/en-us/games/store/unsouled-game-preview/9N7KBCL0NC5H",
+    "slug": "unsouled-game-preview",
+    "steamIds": []
   },
   {
     "name": "Visage",

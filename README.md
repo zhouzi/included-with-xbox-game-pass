@@ -1,5 +1,7 @@
 # [included-with-xbox-game-pass](https://included-with-xbox-game-pass.gabin.app)
 
+> ❗️ **This extension is unmaintained.** I am personnaly using [Alike03's extension](https://aligueler.com/SubscriptionInfo/) which does what this extension used to do and much more.
+
 Browser extension bringing the Xbox Game Pass to Steam.
 
 - [Add to Chrome](https://chrome.google.com/webstore/detail/included-with-xbox-game-p/acohddgjcjfelbhaodiebiabljoadldk)

@@ -27,6 +27,21 @@ export function Home() {
         </ul>
       </Header>
       <main className="Container Main">
+        <section>
+          <article className="Block">
+            <h2 className="Heading2">This extension is unmaintained</h2>
+            <p className="Paragraph">
+              I am personnaly using{" "}
+              <a
+                href="https://aligueler.com/SubscriptionInfo/"
+                className="Link"
+              >
+                Alike03's extension
+              </a>{" "}
+              which does what this extension used to do and much more.
+            </p>
+          </article>
+        </section>
         <section id="extension">
           <article className="Block">
             <img src={storepage} alt="" className="Image" />
